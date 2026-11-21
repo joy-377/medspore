@@ -1,0 +1,13 @@
+User-agent: *
+Allow: /
+Disallow: /profile/
+Disallow: /settings/
+Disallow: /exam/
+Disallow: /result/
+Disallow: /review/
+Disallow: /practice/
+Disallow: /saved/
+Disallow: /mistakes/
+Disallow: /history/
+Disallow: /question/
+Sitemap: https://medspore.pages.dev/sitemap.xml

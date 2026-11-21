@@ -1,0 +1,21 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+    function isOwner(uid) {
+      return request.auth != null && request.auth.uid == uid;
+    }
+    match /users/{userId}/private/{documentId} {
+      allow read, create, update, delete: if isOwner(userId);
+    }
+    match /users/{userId}/devices/{deviceId} {
+      allow read, create, update, delete: if isOwner(userId);
+    }
+    match /users/{userId}/inbox/{messageId} {
+      allow read: if isOwner(userId);
+      allow write: if false; // Trusted admin/server SDK writes only.
+    }
+    match /{document=**} {
+      allow read, write: if false;
+    }
+  }
+}

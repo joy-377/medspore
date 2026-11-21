@@ -1,0 +1,11 @@
+{
+  "name": "medspore",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "build": "node tools/build-content.mjs",
+    "test": "node tools/validate.mjs && node --no-warnings --experimental-loader ./tools/qa-loader.mjs tools/smoke.mjs",
+    "smoke": "node --no-warnings --experimental-loader ./tools/qa-loader.mjs tools/smoke.mjs"
+  }
+}
