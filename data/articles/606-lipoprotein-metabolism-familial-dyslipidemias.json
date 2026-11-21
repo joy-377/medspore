@@ -1,0 +1,12 @@
+{
+  "id": "ART-606",
+  "legacyId": 606,
+  "slug": "606-lipoprotein-metabolism-familial-dyslipidemias",
+  "category": "First Year MBBS",
+  "subject": "Biochemistry",
+  "title": "Lipoprotein Metabolism & Familial Dyslipidemias",
+  "preview": "Apo markers, Frederickson classification, and eruptive vs tendinous xanthomas...",
+  "body": "<p><b>Apoprotein Markers &amp; Functions:</b><br>• <b>Apo B-48:</b> Mediates chylomicron secretion from enterocytes into lymphatics.<br>• <b>Apo B-100:</b> Structural protein of VLDL, IDL, LDL; binds to LDL receptor (Apo B-48 and B-100 derived from same gene via RNA editing).<br>• <b>Apo E:</b> Mediates remnant uptake (chylomicron remnants &amp; IDL) by liver LDLR/LRP.<br>• <b>Apo C-II:</b> Essential cofactor that activates <b>Lipoprotein Lipase (LPL)</b>.<br>• <b>Apo A-I:</b> Structural protein of HDL; activates <b>LCAT</b> for cholesterol esterification.</p><p><b>Frederickson Familial Dyslipidemias (High-Yield Types):</b><br>• <b>Type I (Familial Hyperchylomicronemia):</b> LPL or Apo C-II deficiency. Massive increase in Chylomicrons &amp; Triglycerides (&gt;1000 mg/dL). Creamy supernatant layer; <b>Eruptive xanthomas</b>, acute recurrent pancreatitis. No increased risk of CAD.<br>• <b>Type IIa (Familial Hypercholesterolemia):</b> Absent/defective LDL receptors or Apo B-100. Severe elevation of LDL &amp; total cholesterol. Accelerated atherosclerosis, <b>Tendon xanthomas</b> (Achilles tendon), corneal arcus.<br>• <b>Type III (Familial Dysbetalipoproteinemia):</b> Apo E2 homozygosity (defective remnant uptake). Elevated Chylomicrons &amp; VLDL remnants. <b>Palmar xanthomas</b> and early coronary disease.</p>",
+  "readingMinutes": 2,
+  "reviewStatus": "editorially-reformatted-legacy-content"
+}

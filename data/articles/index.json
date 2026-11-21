@@ -1,0 +1,740 @@
+[
+  {
+    "id": "ART-101",
+    "slug": "101-the-don-t-miss-diagnoses-in-er-red-flags",
+    "category": "Clinical Tips",
+    "subject": "General Tips",
+    "title": "The 'Don't Miss' Diagnoses in ER (Red Flags)",
+    "preview": "Critical symptoms that mandate immediate action: Thunderclap headache, tearing chest pain...",
+    "readingMinutes": 2
+  },
+  {
+    "id": "ART-102",
+    "slug": "102-differentiating-the-types-of-shock-clinically",
+    "category": "Clinical Tips",
+    "subject": "General Tips",
+    "title": "Differentiating the Types of Shock Clinically",
+    "preview": "Hypovolemic vs Cardiogenic vs Distributive vs Obstructive shock parameters...",
+    "readingMinutes": 2
+  },
+  {
+    "id": "ART-103",
+    "slug": "103-syncope-cardiac-vs-neurological-vs-vasovagal",
+    "category": "Clinical Tips",
+    "subject": "General Tips",
+    "title": "Syncope: Cardiac vs Neurological vs Vasovagal",
+    "preview": "How to differentiate the cause of sudden loss of consciousness at the bedside...",
+    "readingMinutes": 2
+  },
+  {
+    "id": "ART-104",
+    "slug": "104-standard-post-op-fever-protocol-the-5-ws",
+    "category": "Clinical Tips",
+    "subject": "Ward Protocols",
+    "title": "Postoperative Fever: A Clinical Assessment Framework",
+    "preview": "Wind, Water, Walking, Wound, Wonder Drugs. The timeline of post-op fever...",
+    "readingMinutes": 2
+  },
+  {
+    "id": "ART-105",
+    "slug": "105-rapid-management-of-hyperkalemia",
+    "category": "Clinical Tips",
+    "subject": "Ward Protocols",
+    "title": "Rapid Management of Hyperkalemia",
+    "preview": "ECG changes and the stepwise protocol to stabilize, shift, and excrete Potassium...",
+    "readingMinutes": 2
+  },
+  {
+    "id": "ART-106",
+    "slug": "106-management-of-diabetic-ketoacidosis-dka",
+    "category": "Clinical Tips",
+    "subject": "Ward Protocols",
+    "title": "Management of Diabetic Ketoacidosis (DKA)",
+    "preview": "The IV fluids, Insulin infusion, and Potassium correction protocol...",
+    "readingMinutes": 2
+  },
+  {
+    "id": "ART-107",
+    "slug": "107-antibiotic-stewardship-empirical-choices",
+    "category": "Clinical Tips",
+    "subject": "Prescription Pearls",
+    "title": "Antibiotic Stewardship: Empirical Choices",
+    "preview": "What to prescribe for CAP, UTI, Meningitis, and Cellulitis before cultures arrive...",
+    "readingMinutes": 2
+  },
+  {
+    "id": "ART-108",
+    "slug": "108-safe-prescribing-in-pregnancy-fda-categories",
+    "category": "Clinical Tips",
+    "subject": "Prescription Pearls",
+    "title": "Prescribing in Pregnancy: Safety Principles",
+    "preview": "Which antihypertensives, antibiotics, and analgesics are safe for expecting mothers...",
+    "readingMinutes": 2
+  },
+  {
+    "id": "ART-109",
+    "slug": "109-top-5-dangerous-drug-drug-interactions",
+    "category": "Clinical Tips",
+    "subject": "Prescription Pearls",
+    "title": "Top 5 Dangerous Drug-Drug Interactions",
+    "preview": "Combinations that can trigger life-threatening crises in the ward...",
+    "readingMinutes": 2
+  },
+  {
+    "id": "ART-201",
+    "slug": "201-cardiovascular-neurological-triads",
+    "category": "Triads & Signs",
+    "subject": "Medical Triads",
+    "title": "Cardiovascular & Neurological Triads",
+    "preview": "Beck's, Cushing's, and Virchow's triad explained in high-yield detail...",
+    "readingMinutes": 2
+  },
+  {
+    "id": "ART-202",
+    "slug": "202-renal-endocrine-triads",
+    "category": "Triads & Signs",
+    "subject": "Medical Triads",
+    "title": "Renal & Endocrine Triads",
+    "preview": "HUS, Whipple's Triad, and the classic features of Pheochromocytoma...",
+    "readingMinutes": 2
+  },
+  {
+    "id": "ART-203",
+    "slug": "203-hepatobiliary-gi-triads",
+    "category": "Triads & Signs",
+    "subject": "Surgical Triads",
+    "title": "Hepatobiliary & GI Triads",
+    "preview": "Charcot's Triad, Reynold's Pentad, and Borchardt's Triad for Gastric Volvulus...",
+    "readingMinutes": 2
+  },
+  {
+    "id": "ART-204",
+    "slug": "204-trauma-orthopedic-triads",
+    "category": "Triads & Signs",
+    "subject": "Surgical Triads",
+    "title": "Trauma & Orthopedic Triads",
+    "preview": "Unhappy triad of the knee, Fat Embolism syndrome, and Lethal Triad of Trauma...",
+    "readingMinutes": 2
+  },
+  {
+    "id": "ART-205",
+    "slug": "205-classic-chest-x-ray-cxr-signs",
+    "category": "Triads & Signs",
+    "subject": "Radiological Signs",
+    "title": "Classic Chest X-Ray (CXR) Signs",
+    "preview": "Golden S, Deep Sulcus, and signs of Pulmonary Embolism on plain film...",
+    "readingMinutes": 2
+  },
+  {
+    "id": "ART-206",
+    "slug": "206-abdominal-neuro-radiology-pearls",
+    "category": "Triads & Signs",
+    "subject": "Radiological Signs",
+    "title": "Abdominal & Neuro Radiology Pearls",
+    "preview": "Coffee bean sign, String sign, Apple-core lesion, and neuro imaging signs...",
+    "readingMinutes": 2
+  },
+  {
+    "id": "ART-207",
+    "slug": "207-high-yield-eponymous-nodes-spots",
+    "category": "Triads & Signs",
+    "subject": "Eponyms",
+    "title": "High-Yield Eponymous Nodes & Spots",
+    "preview": "Roth spots, Osler nodes, Janeway lesions, and Koplik spots...",
+    "readingMinutes": 2
+  },
+  {
+    "id": "ART-301",
+    "slug": "301-arterial-blood-gas-abg-stepwise-evaluation",
+    "category": "Critical Lab Values",
+    "subject": "Hematology & ABG",
+    "title": "Arterial Blood Gas (ABG): Stepwise Evaluation",
+    "preview": "Winter's formula, Serum Anion Gap, and Delta Gap calculations explained...",
+    "readingMinutes": 2
+  },
+  {
+    "id": "ART-302",
+    "slug": "302-complete-blood-count-cbc-anemia-indices",
+    "category": "Critical Lab Values",
+    "subject": "Hematology & ABG",
+    "title": "Complete Blood Count (CBC) & Anemia Indices",
+    "preview": "MCV, RDW, Mentzer Index, and reticulocyte production index rules...",
+    "readingMinutes": 2
+  },
+  {
+    "id": "ART-303",
+    "slug": "303-hyponatremia-osmolality-volume-workup",
+    "category": "Critical Lab Values",
+    "subject": "Electrolytes",
+    "title": "Hyponatremia: Osmolality & Volume Workup",
+    "preview": "Differentiating Hypovolemic, Euvolemic (SIADH), and Hypervolemic hyponatremia...",
+    "readingMinutes": 2
+  },
+  {
+    "id": "ART-304",
+    "slug": "304-calcium-magnesium-diagnostic-pearls",
+    "category": "Critical Lab Values",
+    "subject": "Electrolytes",
+    "title": "Calcium & Magnesium Diagnostic Pearls",
+    "preview": "Corrected Calcium formula, ECG correlations, and refractory hypokalemia...",
+    "readingMinutes": 2
+  },
+  {
+    "id": "ART-305",
+    "slug": "305-cerebrospinal-fluid-csf-analysis-master-chart",
+    "category": "Critical Lab Values",
+    "subject": "CSF & Fluids",
+    "title": "Cerebrospinal Fluid (CSF) Analysis Master Chart",
+    "preview": "Differentiating Bacterial, Viral, TB, and Fungal meningitis at a glance...",
+    "readingMinutes": 2
+  },
+  {
+    "id": "ART-306",
+    "slug": "306-pleural-ascitic-fluid-light-s-criteria-saag",
+    "category": "Critical Lab Values",
+    "subject": "CSF & Fluids",
+    "title": "Pleural & Ascitic Fluid: Light's Criteria & SAAG",
+    "preview": "Exudate vs Transudate and Portal Hypertension evaluation rules...",
+    "readingMinutes": 2
+  },
+  {
+    "id": "ART-307",
+    "slug": "307-cardiac-biomarkers-kinetics-relapse-detection",
+    "category": "Critical Lab Values",
+    "subject": "Pathology Markers",
+    "title": "Cardiac Biomarkers: Kinetics & Relapse Detection",
+    "preview": "Troponin I vs CK-MB timelines and ruling out early re-infarction...",
+    "readingMinutes": 2
+  },
+  {
+    "id": "ART-308",
+    "slug": "308-renal-function-serum-creatinine-egfr-bun-cr-ratio",
+    "category": "Critical Lab Values",
+    "subject": "Pathology Markers",
+    "title": "Renal Function: Serum Creatinine, eGFR & BUN/Cr Ratio",
+    "preview": "Differentiating Prerenal, Intrinsic, and Postrenal Acute Kidney Injury (AKI)...",
+    "readingMinutes": 2
+  },
+  {
+    "id": "ART-401",
+    "slug": "401-the-3-pass-rule-for-200-question-grand-mocks",
+    "category": "Exam Strategy",
+    "subject": "NEET PG Strategy",
+    "title": "NEET PG 2026: Section-Wise Mock Strategy",
+    "preview": "Pacing, strike rate, and negative marking management in a 3.5-hour exam...",
+    "readingMinutes": 2
+  },
+  {
+    "id": "ART-402",
+    "slug": "402-weightage-subject-sequencing-strategy",
+    "category": "Exam Strategy",
+    "subject": "NEET PG Strategy",
+    "title": "Weightage & Subject Sequencing Strategy",
+    "preview": "High-yield vs short subjects: Allocating revision time for maximum ROI...",
+    "readingMinutes": 2
+  },
+  {
+    "id": "ART-403",
+    "slug": "403-cracking-ini-cet-question-patterns",
+    "category": "Exam Strategy",
+    "subject": "INI-CET Strategy",
+    "title": "Cracking INI-CET Question Patterns",
+    "preview": "Multiple True/False, Match the following, and Negative Marking caution...",
+    "readingMinutes": 2
+  },
+  {
+    "id": "ART-404",
+    "slug": "404-image-based-instrument-identification-tactics",
+    "category": "Exam Strategy",
+    "subject": "INI-CET Strategy",
+    "title": "Image-Based & Instrument Identification Tactics",
+    "preview": "Radiology slices, histopathology slides, and surgical instruments...",
+    "readingMinutes": 2
+  },
+  {
+    "id": "ART-405",
+    "slug": "405-pacing-fighting-decision-fatigue-during-mock-tests",
+    "category": "Exam Strategy",
+    "subject": "Time Management",
+    "title": "Pacing & Fighting Decision Fatigue During Mock Tests",
+    "preview": "The 45-second rule, cognitive reset drills, and mid-exam pacing...",
+    "readingMinutes": 2
+  },
+  {
+    "id": "ART-406",
+    "slug": "406-managing-the-final-30-days-before-the-exam",
+    "category": "Exam Strategy",
+    "subject": "Time Management",
+    "title": "Managing the Final 30 Days Before the Exam",
+    "preview": "The 20th notebook revision, avoiding new sources, and active testing...",
+    "readingMinutes": 2
+  },
+  {
+    "id": "ART-407",
+    "slug": "407-deconstructing-complex-clinical-stems",
+    "category": "Exam Strategy",
+    "subject": "MCQ Hacks",
+    "title": "Deconstructing Complex Clinical Stems",
+    "preview": "Reading the last line, identifying anchors, and spotting examiner traps...",
+    "readingMinutes": 2
+  },
+  {
+    "id": "ART-408",
+    "slug": "408-the-elimination-protocol-ruling-out-distractors",
+    "category": "Exam Strategy",
+    "subject": "MCQ Hacks",
+    "title": "The Elimination Protocol: Ruling Out Distractors",
+    "preview": "Absolute words, paired opposites, and outlier elimination rules...",
+    "readingMinutes": 2
+  },
+  {
+    "id": "ART-501",
+    "slug": "501-cardiovascular-endocrine-drug-of-choice-doc",
+    "category": "High-Yield Tables",
+    "subject": "Drug of Choice",
+    "title": "Cardiovascular & Endocrine Drug of Choice (DOC)",
+    "preview": "First-line agents for PSVT, AFib, Pheochromocytoma, and Thyroid storm...",
+    "readingMinutes": 2
+  },
+  {
+    "id": "ART-502",
+    "slug": "502-infectious-diseases-neurological-drug-of-choice",
+    "category": "High-Yield Tables",
+    "subject": "Drug of Choice",
+    "title": "Infectious Diseases & Neurological Drug of Choice",
+    "preview": "Definitive treatments for MRSA, VRE, Status Epilepticus, and Trigeminal Neuralgia...",
+    "readingMinutes": 2
+  },
+  {
+    "id": "ART-503",
+    "slug": "503-emergency-trauma-scores-gcs-wells-parkland",
+    "category": "High-Yield Tables",
+    "subject": "Clinical Scoring Systems",
+    "title": "Emergency & Trauma Scores: GCS, Wells & Parkland",
+    "preview": "Glasgow Coma Scale, Wells DVT/PE criteria, and Burn resuscitation...",
+    "readingMinutes": 2
+  },
+  {
+    "id": "ART-504",
+    "slug": "504-medical-surgical-stratification-curb-65-child-pugh",
+    "category": "High-Yield Tables",
+    "subject": "Clinical Scoring Systems",
+    "title": "Medical & Surgical Stratification: CURB-65 & Child-Pugh",
+    "preview": "Pneumonia mortality prediction, Cirrhosis grading, and APGAR parameters...",
+    "readingMinutes": 2
+  },
+  {
+    "id": "ART-505",
+    "slug": "505-gross-fine-motor-milestones-master-timeline",
+    "category": "High-Yield Tables",
+    "subject": "Developmental Milestones",
+    "title": "Gross & Fine Motor Milestones Master Timeline",
+    "preview": "Neck holding, sitting, mature pincer grasp, and shape copying timelines...",
+    "readingMinutes": 2
+  },
+  {
+    "id": "ART-506",
+    "slug": "506-social-language-primitive-reflex-timelines",
+    "category": "High-Yield Tables",
+    "subject": "Developmental Milestones",
+    "title": "Social, Language & Primitive Reflex Timelines",
+    "preview": "Social smile, stranger anxiety, Moro reflex, and Babinski disappearance...",
+    "readingMinutes": 2
+  },
+  {
+    "id": "ART-507",
+    "slug": "507-national-immunization-schedule-nis-birth-to-16-years",
+    "category": "High-Yield Tables",
+    "subject": "Immunization",
+    "title": "National Immunization Schedule (NIS): Birth to 16 Years",
+    "preview": "Doses, sites, routes, and vaccine storage temperatures under UIP...",
+    "readingMinutes": 2
+  },
+  {
+    "id": "ART-508",
+    "slug": "508-vaccine-types-cold-chain-contraindications",
+    "category": "High-Yield Tables",
+    "subject": "Immunization",
+    "title": "Vaccine Types, Cold Chain & Contraindications",
+    "preview": "Live vs Killed vaccines, ILR vs Deep Freezer temperatures, and VVM...",
+    "readingMinutes": 2
+  },
+  {
+    "id": "ART-601",
+    "slug": "601-brachial-plexus-injuries-clinical-deformities",
+    "category": "First Year MBBS",
+    "subject": "Anatomy",
+    "title": "Brachial Plexus Injuries & Clinical Deformities",
+    "preview": "Erb's Palsy vs Klumpke's Palsy, roots, clinical signs, and sensory loss...",
+    "readingMinutes": 2
+  },
+  {
+    "id": "ART-602",
+    "slug": "602-upper-limb-nerve-lesions-motor-sensory-deficits",
+    "category": "First Year MBBS",
+    "subject": "Anatomy",
+    "title": "Upper Limb Nerve Lesions: Motor & Sensory Deficits",
+    "preview": "Radial, Median, and Ulnar nerve compression sites and deformities...",
+    "readingMinutes": 2
+  },
+  {
+    "id": "ART-603",
+    "slug": "603-cardiac-action-potential-fast-vs-slow-response",
+    "category": "First Year MBBS",
+    "subject": "Physiology",
+    "title": "Cardiac Action Potential: Fast vs Slow Response",
+    "preview": "Ventricular myocyte phases vs SA nodal automaticity and ion channels...",
+    "readingMinutes": 2
+  },
+  {
+    "id": "ART-604",
+    "slug": "604-renal-physiology-countercurrent-mechanism-acid-base",
+    "category": "First Year MBBS",
+    "subject": "Physiology",
+    "title": "Renal Physiology: Countercurrent Mechanism & Acid-Base",
+    "preview": "Medullary hyperosmolarity, loop diuretics site, and bicarbonate reclamation...",
+    "readingMinutes": 2
+  },
+  {
+    "id": "ART-605",
+    "slug": "605-inborn-errors-of-metabolism-urea-cycle-amino-acids",
+    "category": "First Year MBBS",
+    "subject": "Biochemistry",
+    "title": "Inborn Errors of Metabolism: Urea Cycle & Amino Acids",
+    "preview": "OTC deficiency vs CPS-1, PKU, Alkaptonuria, and Maple Syrup Urine Disease...",
+    "readingMinutes": 2
+  },
+  {
+    "id": "ART-606",
+    "slug": "606-lipoprotein-metabolism-familial-dyslipidemias",
+    "category": "First Year MBBS",
+    "subject": "Biochemistry",
+    "title": "Lipoprotein Metabolism & Familial Dyslipidemias",
+    "preview": "Apo markers, Frederickson classification, and eruptive vs tendinous xanthomas...",
+    "readingMinutes": 2
+  },
+  {
+    "id": "ART-701",
+    "slug": "701-cell-injury-patterns-of-tissue-necrosis",
+    "category": "Second Year MBBS",
+    "subject": "Pathology",
+    "title": "Cell Injury & Patterns of Tissue Necrosis",
+    "preview": "Coagulative, Liquefactive, Caseous, and Fibrinoid necrosis hallmarks...",
+    "readingMinutes": 2
+  },
+  {
+    "id": "ART-702",
+    "slug": "702-glomerular-diseases-nephritic-vs-nephrotic-syndromes",
+    "category": "Second Year MBBS",
+    "subject": "Pathology",
+    "title": "Glomerular Diseases: Nephritic vs Nephrotic Syndromes",
+    "preview": "MCD, FSGS, Membranous, PSGN, and RPGN immunofluorescence patterns...",
+    "readingMinutes": 2
+  },
+  {
+    "id": "ART-703",
+    "slug": "703-autonomic-pharmacology-cholinergic-adrenergic-receptors",
+    "category": "Second Year MBBS",
+    "subject": "Pharmacology",
+    "title": "Autonomic Pharmacology: Cholinergic & Adrenergic Receptors",
+    "preview": "G-protein pathways, Bethanechol, Atropine, and Alpha/Beta blocker selectivities...",
+    "readingMinutes": 2
+  },
+  {
+    "id": "ART-704",
+    "slug": "704-antimicrobial-chemotherapy-targets-toxicities",
+    "category": "Second Year MBBS",
+    "subject": "Pharmacology",
+    "title": "Antimicrobial Chemotherapy: Targets & Toxicities",
+    "preview": "Cell wall inhibitors, ribosomal subunits (30S/50S), and adverse effect profiles...",
+    "readingMinutes": 2
+  },
+  {
+    "id": "ART-705",
+    "slug": "705-gram-positive-cocci-bacilli-identification-algorithm",
+    "category": "Second Year MBBS",
+    "subject": "Microbiology",
+    "title": "Gram-Positive Cocci & Bacilli Identification Algorithm",
+    "preview": "Staphylococcus vs Streptococcus, hemolysis, and spore-forming bacilli...",
+    "readingMinutes": 2
+  },
+  {
+    "id": "ART-706",
+    "slug": "706-clinical-virology-hepatitis-retroviruses",
+    "category": "Second Year MBBS",
+    "subject": "Microbiology",
+    "title": "Clinical Virology: Hepatitis & Retroviruses",
+    "preview": "Hepatitis B serology interpretation and HIV replication kinetics...",
+    "readingMinutes": 2
+  },
+  {
+    "id": "ART-801",
+    "slug": "801-post-mortem-changes-algor-livor-rigor-mortis",
+    "category": "Third Year (Part 1)",
+    "subject": "Forensic Medicine",
+    "title": "Post-Mortem Changes: Algor, Livor & Rigor Mortis",
+    "preview": "Estimating Post-Mortem Interval (PMI), Nysten's law, and fixation of hypostasis...",
+    "readingMinutes": 2
+  },
+  {
+    "id": "ART-802",
+    "slug": "802-firearm-wounds-mechanical-injuries",
+    "category": "Third Year (Part 1)",
+    "subject": "Forensic Medicine",
+    "title": "Firearm Wounds & Mechanical Injuries",
+    "preview": "Contact vs close range gunshot wounds, abraded collars, and lacerations vs incised wounds...",
+    "readingMinutes": 2
+  },
+  {
+    "id": "ART-803",
+    "slug": "803-epidemiological-study-designs-association-metrics",
+    "category": "Third Year (Part 1)",
+    "subject": "PSM",
+    "title": "Epidemiological Study Designs & Association Metrics",
+    "preview": "Case-Control vs Cohort, Odds Ratio, Relative Risk, and Attributable Risk calculations...",
+    "readingMinutes": 2
+  },
+  {
+    "id": "ART-804",
+    "slug": "804-screening-tests-sensitivity-specificity-ppv-npv",
+    "category": "Third Year (Part 1)",
+    "subject": "PSM",
+    "title": "Screening Tests: Sensitivity, Specificity, PPV & NPV",
+    "preview": "Evaluating 2x2 diagnostic tables, prevalence impact, and SnNOut vs SpPIn rules...",
+    "readingMinutes": 2
+  },
+  {
+    "id": "ART-805",
+    "slug": "805-tuning-fork-tests-pure-tone-audiometry-pta",
+    "category": "Third Year (Part 1)",
+    "subject": "ENT",
+    "title": "Tuning Fork Tests & Pure Tone Audiometry (PTA)",
+    "preview": "Rinne, Weber, ABC tests, Carhart's notch, and Stenger's malingering test...",
+    "readingMinutes": 2
+  },
+  {
+    "id": "ART-806",
+    "slug": "806-csom-mucosal-safe-vs-squamosal-unsafe-disease",
+    "category": "Third Year (Part 1)",
+    "subject": "ENT",
+    "title": "CSOM: Mucosal (Safe) vs Squamosal (Unsafe) Disease",
+    "preview": "Atticoantral disease, Cholesteatoma, complications, and surgical strategies...",
+    "readingMinutes": 2
+  },
+  {
+    "id": "ART-807",
+    "slug": "807-glaucoma-primary-open-angle-vs-acute-angle-closure",
+    "category": "Third Year (Part 1)",
+    "subject": "Ophthalmology",
+    "title": "Glaucoma: Primary Open-Angle vs Acute Angle-Closure",
+    "preview": "Optic disc cupping, gonioscopy, IOP spikes, and laser iridotomy management...",
+    "readingMinutes": 2
+  },
+  {
+    "id": "ART-808",
+    "slug": "808-retinopathy-retinal-detachment-diagnostic-pearls",
+    "category": "Third Year (Part 1)",
+    "subject": "Ophthalmology",
+    "title": "Retinopathy & Retinal Detachment Diagnostic Pearls",
+    "preview": "Diabetic retinopathy stages, hypertensive grades, and Rhegmatogenous RD signs...",
+    "readingMinutes": 2
+  },
+  {
+    "id": "ART-901",
+    "slug": "901-stemi-localization-culprit-coronary-arteries",
+    "category": "Final Year (Part 2)",
+    "subject": "Medicine",
+    "title": "STEMI Localization & Culprit Coronary Arteries",
+    "preview": "ECG lead vectors, reciprocal depressions, and RV infarction precautions...",
+    "readingMinutes": 2
+  },
+  {
+    "id": "ART-902",
+    "slug": "902-acute-stroke-management-window-timelines",
+    "category": "Final Year (Part 2)",
+    "subject": "Medicine",
+    "title": "Acute Stroke Management & Window Timelines",
+    "preview": "IV Thrombolysis (rtPA) criteria, mechanical thrombectomy, and BP targets...",
+    "readingMinutes": 2
+  },
+  {
+    "id": "ART-903",
+    "slug": "903-acute-appendicitis-alvarado-score-imaging",
+    "category": "Final Year (Part 2)",
+    "subject": "Surgery",
+    "title": "Acute Appendicitis: Alvarado Score & Imaging",
+    "preview": "Migratory pain, Rovsing/Psoas signs, and CT findings in pediatric vs adult cases...",
+    "readingMinutes": 2
+  },
+  {
+    "id": "ART-904",
+    "slug": "904-intestinal-obstruction-small-vs-large-bowel",
+    "category": "Final Year (Part 2)",
+    "subject": "Surgery",
+    "title": "Intestinal Obstruction: Small vs Large Bowel",
+    "preview": "Adhesions, Malignancy, Volvulus, and air-fluid level patterns on erect film...",
+    "readingMinutes": 2
+  },
+  {
+    "id": "ART-905",
+    "slug": "905-hypertensive-disorders-of-pregnancy-eclampsia",
+    "category": "Final Year (Part 2)",
+    "subject": "OBG",
+    "title": "Hypertensive Disorders of Pregnancy & Eclampsia",
+    "preview": "Preeclampsia diagnostic criteria, HELLP syndrome, and MgSO4 Pritchard regimen...",
+    "readingMinutes": 2
+  },
+  {
+    "id": "ART-906",
+    "slug": "906-antepartum-hemorrhage-placenta-previa-vs-abruptio",
+    "category": "Final Year (Part 2)",
+    "subject": "OBG",
+    "title": "Antepartum Hemorrhage: Placenta Previa vs Abruptio",
+    "preview": "Painless vs painful vaginal bleeding, Couvelaire uterus, and ultrasound rules...",
+    "readingMinutes": 2
+  },
+  {
+    "id": "ART-907",
+    "slug": "907-congenital-heart-diseases-acyanotic-vs-cyanotic",
+    "category": "Final Year (Part 2)",
+    "subject": "Pediatrics",
+    "title": "Congenital Heart Diseases: Acyanotic vs Cyanotic",
+    "preview": "VSD, ASD, Tetralogy of Fallot, TGA, and classic chest radiograph silhouettes...",
+    "readingMinutes": 2
+  },
+  {
+    "id": "ART-908",
+    "slug": "908-high-yield-fracture-eponyms-nerve-pairings",
+    "category": "Final Year (Part 2)",
+    "subject": "Orthopedics",
+    "title": "High-Yield Fracture Eponyms & Nerve Pairings",
+    "preview": "Colles, Smith, Monteggia, Galeazzi fractures and nerve vulnerability...",
+    "readingMinutes": 2
+  },
+  {
+    "id": "ART-909",
+    "slug": "909-schizophrenia-mood-disorders-antipsychotic-eps",
+    "category": "Final Year (Part 2)",
+    "subject": "Psychiatry",
+    "title": "Schizophrenia, Mood Disorders & Antipsychotic EPS",
+    "preview": "Schneiderian first-rank symptoms, Bipolar criteria, and managing acute dystonia...",
+    "readingMinutes": 2
+  },
+  {
+    "id": "ART-910",
+    "slug": "910-immunobullous-diseases-pemphigus-vs-pemphigoid",
+    "category": "Final Year (Part 2)",
+    "subject": "Dermatology",
+    "title": "Immunobullous Diseases: Pemphigus vs Pemphigoid",
+    "preview": "Desmoglein vs BP antigens, Nikolsky sign, and DIF patterns...",
+    "readingMinutes": 2
+  },
+  {
+    "id": "ART-911",
+    "slug": "911-trauma-radiology-fast-exam-head-ct-rules",
+    "category": "Final Year (Part 2)",
+    "subject": "Radiology",
+    "title": "Trauma Radiology: FAST Exam & Head CT Rules",
+    "preview": "Focused Assessment with Sonography in Trauma (FAST) 4 standard acoustic windows...",
+    "readingMinutes": 2
+  },
+  {
+    "id": "ART-912",
+    "slug": "912-malignant-hyperthermia-crisis-protocol-antidote",
+    "category": "Final Year (Part 2)",
+    "subject": "Anesthesia",
+    "title": "Malignant Hyperthermia: Crisis Protocol & Antidote",
+    "preview": "RYR1 gene mutation, Succinylcholine trigger, and IV Dantrolene reconstitution...",
+    "readingMinutes": 2
+  },
+  {
+    "id": "ART-913",
+    "slug": "913-management-of-acute-severe-asthma-copd-exacerbation",
+    "category": "Final Year (Part 2)",
+    "subject": "Medicine",
+    "title": "Management of Acute Severe Asthma & COPD Exacerbation",
+    "preview": "Nebulized bronchodilators, systemic steroids, IV magnesium sulfate, and NIV criteria...",
+    "readingMinutes": 2
+  },
+  {
+    "id": "ART-914",
+    "slug": "914-approach-to-upper-gastrointestinal-bleeding-ugib",
+    "category": "Final Year (Part 2)",
+    "subject": "Medicine",
+    "title": "Approach to Upper Gastrointestinal Bleeding (UGIB)",
+    "preview": "Glasgow-Blatchford score, IV Pantoprazole, variceal banding, and terlipressin...",
+    "readingMinutes": 2
+  },
+  {
+    "id": "ART-915",
+    "slug": "915-acute-pancreatitis-ranson-s-criteria-management",
+    "category": "Final Year (Part 2)",
+    "subject": "Surgery",
+    "title": "Acute Pancreatitis: Ranson's Criteria & Management",
+    "preview": "Gallstones vs Alcohol etiology, Cullen/Grey Turner signs, and fluid resuscitation...",
+    "readingMinutes": 2
+  },
+  {
+    "id": "ART-916",
+    "slug": "916-incisional-hernia-vs-intestinal-strangulation",
+    "category": "Final Year (Part 2)",
+    "subject": "Surgery",
+    "title": "Incisional Hernia vs Intestinal Strangulation",
+    "preview": "Risk factors, Richter's hernia, Littre's hernia, and surgical mesh repair...",
+    "readingMinutes": 2
+  },
+  {
+    "id": "ART-917",
+    "slug": "917-postpartum-hemorrhage-pph-management-protocol",
+    "category": "Final Year (Part 2)",
+    "subject": "OBG",
+    "title": "Postpartum Hemorrhage (PPH) Management Protocol",
+    "preview": "The 4 Ts (Tone, Tissue, Trauma, Thrombin), Bakri balloon, and B-Lynch suture...",
+    "readingMinutes": 2
+  },
+  {
+    "id": "ART-918",
+    "slug": "918-normal-labor-stages-partograph-interpretation",
+    "category": "Final Year (Part 2)",
+    "subject": "OBG",
+    "title": "Normal Labor Stages & Partograph Interpretation",
+    "preview": "Active phase, alert/action lines, cervical dilatation, and fetal descent...",
+    "readingMinutes": 2
+  },
+  {
+    "id": "ART-919",
+    "slug": "919-neonatal-resuscitation-program-nrp-guidelines",
+    "category": "Final Year (Part 2)",
+    "subject": "Pediatrics",
+    "title": "Neonatal Resuscitation Program (NRP) Guidelines",
+    "preview": "Initial steps, golden minute, heart rate evaluation, and positive pressure ventilation...",
+    "readingMinutes": 2
+  },
+  {
+    "id": "ART-920",
+    "slug": "920-compartment-syndrome-of-the-limbs",
+    "category": "Final Year (Part 2)",
+    "subject": "Orthopedics",
+    "title": "Compartment Syndrome of the Limbs",
+    "preview": "The 5 Ps, intracompartmental pressure monitoring, and emergency fasciotomy...",
+    "readingMinutes": 2
+  },
+  {
+    "id": "ART-921",
+    "slug": "921-major-depressive-disorder-bipolar-mood-disorders",
+    "category": "Final Year (Part 2)",
+    "subject": "Psychiatry",
+    "title": "Major Depressive Disorder & Bipolar Mood Disorders",
+    "preview": "DSM-5 criteria, melancholic features, lithium toxicity, and mood stabilizers...",
+    "readingMinutes": 2
+  },
+  {
+    "id": "ART-922",
+    "slug": "922-ct-head-pearls-subdural-vs-epidural-hematoma",
+    "category": "Final Year (Part 2)",
+    "subject": "Radiology",
+    "title": "CT Head Pearls: Subdural vs Epidural Hematoma",
+    "preview": "Middle meningeal artery vs bridging veins, midline shift, and herniation syndromes...",
+    "readingMinutes": 2
+  }
+]

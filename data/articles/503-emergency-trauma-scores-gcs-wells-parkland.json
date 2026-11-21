@@ -1,0 +1,12 @@
+{
+  "id": "ART-503",
+  "legacyId": 503,
+  "slug": "503-emergency-trauma-scores-gcs-wells-parkland",
+  "category": "High-Yield Tables",
+  "subject": "Clinical Scoring Systems",
+  "title": "Emergency & Trauma Scores: GCS, Wells & Parkland",
+  "preview": "Glasgow Coma Scale, Wells DVT/PE criteria, and Burn resuscitation...",
+  "body": "<p><strong>Learning note:</strong> Educational revision content; verify medication doses, protocols and reference ranges against current institutional guidelines before any patient-care use.</p><p><b>Glasgow Coma Scale (GCS - Range 3 to 15):</b><br>• <b>Eye Opening (E4):</b> 4-Spontaneous, 3-To voice, 2-To pain, 1-None.<br>• <b>Verbal Response (V5):</b> 5-Oriented, 4-Confused, 3-Inappropriate words, 2-Incomprehensible sounds, 1-None.<br>• <b>Motor Response (M6):</b> 6-Obeys commands, 5-Localizes pain, 4-Withdraws from pain, 3-Decorticate (flexion), 2-Decerebrate (extension), 1-None.<br><i>Rule:</i> GCS &le; 8 indicates intubation ('GCS less than 8, intubate').</p><p><b>Wells Criteria for Pulmonary Embolism:</b><br>• Clinical signs of DVT (+3), PE most likely (+3), HR &gt; 100 (+1.5), Immobilization/surgery in past 4 weeks (+1.5), Prior DVT/PE (+1.5), Hemoptysis (+1), Malignancy (+1).<br><i>Score &gt; 4:</i> PE Likely &rarr; CT Pulmonary Angiography (CTPA).<br><i>Score &le; 4:</i> PE Unlikely &rarr; High-sensitivity D-dimer.</p><p><b>Parkland Formula (Burn Resuscitation):</b><br>Fluid Volume (first 24h) = <b>4 mL &times; Weight (kg) &times; % Total Body Surface Area (TBSA)</b> burned.<br>• First 8 hours: Administer 50% of the calculated volume (starting from the time of burn).<br>• Next 16 hours: Administer the remaining 50%.<br>• Fluid of choice: Ringer's Lactate (RL).</p>",
+  "readingMinutes": 2,
+  "reviewStatus": "editorially-reformatted-legacy-content"
+}

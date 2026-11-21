@@ -1,0 +1,12 @@
+{
+  "id": "ART-306",
+  "legacyId": 306,
+  "slug": "306-pleural-ascitic-fluid-light-s-criteria-saag",
+  "category": "Critical Lab Values",
+  "subject": "CSF & Fluids",
+  "title": "Pleural & Ascitic Fluid: Light's Criteria & SAAG",
+  "preview": "Exudate vs Transudate and Portal Hypertension evaluation rules...",
+  "body": "<p><strong>Learning note:</strong> Educational revision content; verify medication doses, protocols and reference ranges against current institutional guidelines before any patient-care use.</p><p><b>Light's Criteria (Pleural Fluid):</b> Fluid is an <b>Exudate</b> if ANY ONE of the following is true:<br>1. Pleural fluid protein / Serum protein ratio &gt; 0.5<br>2. Pleural fluid LDH / Serum LDH ratio &gt; 0.6<br>3. Pleural fluid LDH &gt; 2/3 the upper limit of normal serum LDH.<br><i>Transudates:</i> Heart Failure, Cirrhosis, Nephrotic Syndrome.<br><i>Exudates:</i> Pneumonia (parapneumonic), Malignancy, Tuberculosis, Pulmonary Embolism.</p><p><b>Serum-Ascites Albumin Gradient (SAAG):</b><br>SAAG = Serum Albumin - Ascitic Fluid Albumin.<br>• <b>High SAAG (&ge; 1.1 g/dL) = Portal Hypertension present:</b> Cirrhosis, Budd-Chiari syndrome, Congestive Heart Failure.<br>• <b>Low SAAG (&lt; 1.1 g/dL) = Normal Portal Pressure:</b> Peritoneal Carcinomatosis, Peritoneal Tuberculosis, Pancreatitis, Nephrotic syndrome.</p>",
+  "readingMinutes": 2,
+  "reviewStatus": "editorially-reformatted-legacy-content"
+}

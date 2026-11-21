@@ -1,0 +1,12 @@
+{
+  "id": "ART-201",
+  "legacyId": 201,
+  "slug": "201-cardiovascular-neurological-triads",
+  "category": "Triads & Signs",
+  "subject": "Medical Triads",
+  "title": "Cardiovascular & Neurological Triads",
+  "preview": "Beck's, Cushing's, and Virchow's triad explained in high-yield detail...",
+  "body": "<ul><li><b>Beck's Triad (Cardiac Tamponade):</b> 1. Hypotension, 2. Muffled heart sounds, 3. Distended Jugular Vein (JVD). <i>Pathophysiology:</i> Fluid in pericardial sac restricts heart filling, dropping stroke volume.</li><li><b>Cushing's Triad (Raised Intracranial Pressure):</b> 1. Hypertension (with widened pulse pressure), 2. Bradycardia, 3. Irregular respiration (Cheyne-Stokes). <i>Clue:</i> It's a late, ominous sign of brain herniation.</li><li><b>Virchow's Triad (DVT / Pulmonary Embolism):</b> 1. Venous stasis (bedridden), 2. Endothelial injury (surgery/trauma), 3. Hypercoagulability (Factor V Leiden, OCPs, Cancer).</li><li><b>Wernicke's Triad (Thiamine Deficiency):</b> 1. Confusion (Encephalopathy), 2. Oculomotor dysfunction (Nystagmus/CN VI palsy), 3. Ataxia. <i>Treatment:</i> ALWAYS give IV Thiamine BEFORE Glucose.</li></ul>",
+  "readingMinutes": 2,
+  "reviewStatus": "editorially-reformatted-legacy-content"
+}

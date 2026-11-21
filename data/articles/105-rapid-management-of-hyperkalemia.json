@@ -1,0 +1,12 @@
+{
+  "id": "ART-105",
+  "legacyId": 105,
+  "slug": "105-rapid-management-of-hyperkalemia",
+  "category": "Clinical Tips",
+  "subject": "Ward Protocols",
+  "title": "Rapid Management of Hyperkalemia",
+  "preview": "ECG changes and the stepwise protocol to stabilize, shift, and excrete Potassium...",
+  "body": "<p><strong>Learning note:</strong> Educational revision content; verify medication doses, protocols and reference ranges against current institutional guidelines before any patient-care use.</p><p>Hyperkalemia (K+ &gt; 5.5 mEq/L) is a medical emergency that can lead to fatal arrhythmias. <b>ECG Changes:</b> Tall peaked T waves → Loss of P wave → Widened QRS → Sine wave pattern → Asystole.</p><p><b>Step 1: Stabilize the Myocardium (Most Urgent)</b><br>Administer <b>IV Calcium Gluconate</b> (or Calcium Chloride via central line). <i>Note:</i> Calcium does NOT lower serum potassium; it only protects the heart by raising the threshold potential.</p><p><b>Step 2: Shift Potassium Intracellularly</b><br>• IV Insulin (Regular) + 50% Dextrose (to prevent hypoglycemia).<br>• Salbutamol (Albuterol) nebulization (Beta-2 agonist).<br>• IV Sodium Bicarbonate (especially if the patient is acidotic).</p><p><b>Step 3: Excrete Potassium from the Body</b><br>• Loop diuretics (Furosemide).<br>• GI cation-exchange resins (Patiromer, Sodium Zirconium Cyclosilicate).<br>• Hemodialysis (the ultimate definitive treatment if refractory).</p>",
+  "readingMinutes": 2,
+  "reviewStatus": "editorially-reformatted-legacy-content"
+}

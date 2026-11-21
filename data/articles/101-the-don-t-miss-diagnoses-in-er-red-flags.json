@@ -1,0 +1,12 @@
+{
+  "id": "ART-101",
+  "legacyId": 101,
+  "slug": "101-the-don-t-miss-diagnoses-in-er-red-flags",
+  "category": "Clinical Tips",
+  "subject": "General Tips",
+  "title": "The 'Don't Miss' Diagnoses in ER (Red Flags)",
+  "preview": "Critical symptoms that mandate immediate action: Thunderclap headache, tearing chest pain...",
+  "body": "<p><strong>Learning note:</strong> Educational revision content; verify medication doses, protocols and reference ranges against current institutional guidelines before any patient-care use.</p><p>When a patient presents to the Emergency Room, ruling out life-threatening conditions is priority number one. Never ignore these classic red flags:</p><ul><li><b>Thunderclap Headache:</b> Reaches maximum intensity within one minute. <i>Diagnosis to rule out:</i> Subarachnoid Hemorrhage (SAH). <i>Next step:</i> Non-contrast CT Head. If CT is negative but suspicion remains high, perform a Lumbar Puncture to look for xanthochromia.</li><li><b>Tearing Chest Pain Radiating to the Back:</b> <i>Diagnosis to rule out:</i> Aortic Dissection. <i>Next step:</i> Check for asymmetric pulse and blood pressure between arms. Order CT Angiography or Transesophageal Echocardiography (TEE).</li><li><b>Pain Out of Proportion to Examination:</b> Classic for Acute Mesenteric Ischemia or Necrotizing Fasciitis.</li><li><b>Sudden Painless Vision Loss:</b> Think Central Retinal Artery Occlusion (CRAO). A true ophthalmologic emergency.</li></ul><p><b>Takeaway:</b> In emergency medicine, it is better to over-investigate a red flag than to miss a lethal diagnosis.</p>",
+  "readingMinutes": 2,
+  "reviewStatus": "editorially-reformatted-legacy-content"
+}

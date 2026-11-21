@@ -1,0 +1,12 @@
+{
+  "id": "ART-804",
+  "legacyId": 804,
+  "slug": "804-screening-tests-sensitivity-specificity-ppv-npv",
+  "category": "Third Year (Part 1)",
+  "subject": "PSM",
+  "title": "Screening Tests: Sensitivity, Specificity, PPV & NPV",
+  "preview": "Evaluating 2x2 diagnostic tables, prevalence impact, and SnNOut vs SpPIn rules...",
+  "body": "<p><b>The Standard 2&times;2 Contingency Table:</b><br>Rows = Test Positive (T+) / Test Negative (T-). Columns = Disease Present (D+) / Disease Absent (D-).<br>• Cell A = True Positive (TP); Cell B = False Positive (FP)<br>• Cell C = False Negative (FN); Cell D = True Negative (TN)</p><p><b>Key Validity Indices:</b><br>• <b>Sensitivity = TP / (TP + FN) &times; 100:</b> Ability of a test to correctly identify those with the disease. <i>High Sensitivity rules OUT disease when negative (<b>SnNOut</b>)</i>. Used for screening tests where missing a case carries high mortality (e.g., HIV, Blood donation screening).<br>• <b>Specificity = TN / (TN + FP) &times; 100:</b> Ability of a test to correctly identify those without the disease. <i>High Specificity rules IN disease when positive (<b>SpPIn</b>)</i>. Used for confirmatory tests (e.g., Western blot, Biopsy).</p><p><b>Predictive Values &amp; The Prevalence Effect:</b><br>• <b>Positive Predictive Value (PPV) = TP / (TP + FP) &times; 100:</b> Probability that a person with a positive test actually has the disease.<br>• <b>Negative Predictive Value (NPV) = TN / (TN + FN) &times; 100:</b> Probability that a person with a negative test is disease-free.<br>• <i>Crucial Rule:</i> <b>When disease prevalence increases &rarr; PPV increases significantly, while NPV decreases</b>. Sensitivity and Specificity remain completely unaffected by prevalence changes.</p>",
+  "readingMinutes": 2,
+  "reviewStatus": "editorially-reformatted-legacy-content"
+}

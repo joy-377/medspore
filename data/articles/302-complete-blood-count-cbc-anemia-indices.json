@@ -1,0 +1,12 @@
+{
+  "id": "ART-302",
+  "legacyId": 302,
+  "slug": "302-complete-blood-count-cbc-anemia-indices",
+  "category": "Critical Lab Values",
+  "subject": "Hematology & ABG",
+  "title": "Complete Blood Count (CBC) & Anemia Indices",
+  "preview": "MCV, RDW, Mentzer Index, and reticulocyte production index rules...",
+  "body": "<p><strong>Learning note:</strong> Educational revision content; verify medication doses, protocols and reference ranges against current institutional guidelines before any patient-care use.</p><p><b>Microcytic Anemia (MCV &lt; 80 fL):</b><br>• <i>Iron Deficiency Anemia (IDA):</i> Low serum Iron, Low Ferritin, High TIBC, High RDW.<br>• <i>Thalassemia Trait:</i> Normal/High Ferritin, Normal TIBC, Normal RDW.<br>• <b>Mentzer Index (MCV / RBC count):</b> &gt;13 suggests IDA; &lt;13 strongly points toward Beta-Thalassemia Trait.</p><p><b>Macrocytic Anemia (MCV &gt; 100 fL):</b><br>• <i>Megaloblastic:</i> Vit B12 or Folate deficiency (hypersegmented neutrophils &gt;5 lobes).<br>• <i>Non-megaloblastic:</i> Alcoholism, Hypothyroidism, Liver disease, Reticulocytosis.</p><p><b>Reticulocyte Production Index (RPI):</b><br>Corrected Retic Count = Retic % × (Patient Hct / 45). RPI = Corrected Retic / Maturation Correction Factor. RPI &gt; 2 indicates hyperproliferative (hemolysis/hemorrhage); RPI &lt; 2 indicates hypoproliferative (bone marrow failure/deficiency).</p>",
+  "readingMinutes": 2,
+  "reviewStatus": "editorially-reformatted-legacy-content"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "ART-603",
+  "legacyId": 603,
+  "slug": "603-cardiac-action-potential-fast-vs-slow-response",
+  "category": "First Year MBBS",
+  "subject": "Physiology",
+  "title": "Cardiac Action Potential: Fast vs Slow Response",
+  "preview": "Ventricular myocyte phases vs SA nodal automaticity and ion channels...",
+  "body": "<p><b>Ventricular Myocyte Action Potential (Fast Response - 5 Phases):</b><br>• <b>Phase 0 (Rapid Depolarization):</b> Rapid Na+ influx through voltage-gated fast Na+ channels (Inactivated by Tetrodotoxin).<br>• <b>Phase 1 (Early Partial Repolarization):</b> Inactivation of Na+ channels, transient outward K+ current (I<sub>to</sub>).<br>• <b>Phase 2 (Plateau):</b> Balance between inward Ca2+ current through <b>L-type Ca2+ channels</b> and outward delayed rectifier K+ current (I<sub>K</sub>). Crucial for excitation-contraction coupling and long refractory period.<br>• <b>Phase 3 (Rapid Repolarization):</b> Closure of Ca2+ channels, massive K+ efflux through delayed rectifier channels.<br>• <b>Phase 4 (Resting Membrane Potential):</b> Stable at around -90 mV maintained by inward rectifier K+ channels (I<sub>K1</sub>) and Na+/K+ ATPase.</p><p><b>SA Node Action Potential (Slow Response / Pacemaker - 3 Phases):</b><br>• <b>Phase 4 (Pacemaker Potential / Prepotential):</b> Spontaneous prepotential driven by <b>Funny current (I<sub>f</sub>)</b> — mixed Na+/K+ influx activated by hyperpolarization, followed by transient T-type Ca2+ channels.<br>• <b>Phase 0 (Depolarization):</b> Driven purely by <b>Ca2+ influx via L-type channels</b> (NO fast Na+ channels involved).<br>• <b>Phase 3 (Repolarization):</b> Ca2+ channel closure, K+ efflux. Resting potential unstable (-60 mV).</p>",
+  "readingMinutes": 2,
+  "reviewStatus": "editorially-reformatted-legacy-content"
+}

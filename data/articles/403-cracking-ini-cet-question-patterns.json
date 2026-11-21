@@ -1,0 +1,12 @@
+{
+  "id": "ART-403",
+  "legacyId": 403,
+  "slug": "403-cracking-ini-cet-question-patterns",
+  "category": "Exam Strategy",
+  "subject": "INI-CET Strategy",
+  "title": "Cracking INI-CET Question Patterns",
+  "preview": "Multiple True/False, Match the following, and Negative Marking caution...",
+  "body": "<p><b>The -0.33 Penalty (33% Negative Marking):</b><br>Unlike NEET PG (25% negative marking), INI-CET penalizes incorrect attempts more heavily. <i>Rule of thumb:</i> Attempt questions where you can confidently eliminate at least one distractor; avoid blind guesses when three or four options remain completely unfamiliar.</p><p><b>Multiple True-False &amp; Combined Options:</b><br>Treat each statement as an independent true/false query. Write 'T' or 'F' beside each sub-clause before looking at combinations (e.g., '1, 2, and 4 only').</p><p><b>Focus on Core First &amp; Second Year Basics:</b><br>AIIMS historically emphasizes basic sciences: Molecular biology, genetic mutations (e.g., RET, MEN syndromes), receptor pharmacology, and electron microscopy findings.</p>",
+  "readingMinutes": 2,
+  "reviewStatus": "editorially-reformatted-legacy-content"
+}

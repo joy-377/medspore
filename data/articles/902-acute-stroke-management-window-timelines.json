@@ -1,0 +1,12 @@
+{
+  "id": "ART-902",
+  "legacyId": 902,
+  "slug": "902-acute-stroke-management-window-timelines",
+  "category": "Final Year (Part 2)",
+  "subject": "Medicine",
+  "title": "Acute Stroke Management & Window Timelines",
+  "preview": "IV Thrombolysis (rtPA) criteria, mechanical thrombectomy, and BP targets...",
+  "body": "<p><b>Step 1: Emergency Triage &amp; Neuroimaging</b><br>Immediate non-contrast head CT (NCCT) or diffusion-weighted MRI to definitively differentiate Ischemic Stroke from Hemorrhagic Stroke.</p><p><b>Step 2: Intravenous Thrombolysis (IV Alteplase / Tenecteplase):</b><br>• <i>Therapeutic Time Window:</i> Within <b>4.5 hours</b> of symptom onset (or last known normal).<br>• <i>Blood Pressure Mandate:</i> BP must be <b>&lt; 185/110 mmHg</b> before administering rtPA (treat with IV Labetalol or Nicardipine). Maintain BP &lt; 180/105 mmHg for the next 24 hours.<br>• <i>Key Absolute Contraindications:</i> Prior ICH at any time, ischemic stroke or head trauma within past 3 months, active internal bleeding, platelet count &lt; 100,000 /µL, INR &gt; 1.7.</p><p><b>Step 3: Endovascular Mechanical Thrombectomy:</b><br>• Indicated for Large Vessel Occlusions (LVO) of the anterior circulation (Internal Carotid Artery or M1 segment of Middle Cerebral Artery).<br>• Can be performed up to <b>6 to 24 hours</b> from onset in selected patients meeting perfusion mismatch criteria (DAWN and DEFUSE-3 trials).</p>",
+  "readingMinutes": 2,
+  "reviewStatus": "editorially-reformatted-legacy-content"
+}

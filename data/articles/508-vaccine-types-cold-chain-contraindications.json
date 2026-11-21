@@ -1,0 +1,12 @@
+{
+  "id": "ART-508",
+  "legacyId": 508,
+  "slug": "508-vaccine-types-cold-chain-contraindications",
+  "category": "High-Yield Tables",
+  "subject": "Immunization",
+  "title": "Vaccine Types, Cold Chain & Contraindications",
+  "preview": "Live vs Killed vaccines, ILR vs Deep Freezer temperatures, and VVM...",
+  "body": "<p><strong>Learning note:</strong> Educational revision content; verify medication doses, protocols and reference ranges against current institutional guidelines before any patient-care use.</p><p><b>Classification:</b><br>• <i>Live Attenuated:</i> BCG, OPV, Measles, Rubella, Mumps, Yellow Fever, Rotavirus, Varicella, JE (Live SA-14-14-2).<br>• <i>Killed / Inactivated:</i> IPV (Salk), Rabies, Pertussis (whole cell), Hepatitis A, Cholera.<br>• <i>Toxoid:</i> Tetanus, Diphtheria.<br>• <i>Subunit / Recombinant:</i> Hepatitis B (HBsAg), HPV, acellular Pertussis (aP).</p><p><b>Cold Chain Equipment &amp; Storage:</b><br>• <i>Standard Temperature:</i> +2&deg;C to +8&deg;C for all vaccines at PHC/district level.<br>• <i>Deep Freezer (-15&deg;C to -25&deg;C):</i> Used exclusively for preparing ice packs and storing OPV/Measles at national/regional stores.<br>• <i>Ice-Lined Refrigerator (ILR):</i> Most vital equipment at PHC level. Bottom holds heat-sensitive vaccines (OPV, Measles); top holds freeze-sensitive vaccines (HepB, DPT, TT, Pentavalent).<br>• <b>Shake Test:</b> Done to identify if freeze-sensitive vaccines (DPT, Td, HepB) were damaged by sub-zero freezing.</p><p><b>Vaccine Vial Monitor (VVM):</b><br>• Usable: Inner square is lighter than outer circle.<br>• Discard: Inner square matches or is darker than outer circle, or past expiry date.</p>",
+  "readingMinutes": 2,
+  "reviewStatus": "editorially-reformatted-legacy-content"
+}

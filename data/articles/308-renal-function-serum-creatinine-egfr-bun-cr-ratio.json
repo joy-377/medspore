@@ -1,0 +1,12 @@
+{
+  "id": "ART-308",
+  "legacyId": 308,
+  "slug": "308-renal-function-serum-creatinine-egfr-bun-cr-ratio",
+  "category": "Critical Lab Values",
+  "subject": "Pathology Markers",
+  "title": "Renal Function: Serum Creatinine, eGFR & BUN/Cr Ratio",
+  "preview": "Differentiating Prerenal, Intrinsic, and Postrenal Acute Kidney Injury (AKI)...",
+  "body": "<p><strong>Learning note:</strong> Educational revision content; verify medication doses, protocols and reference ranges against current institutional guidelines before any patient-care use.</p><p><b>BUN to Serum Creatinine Ratio:</b><br>• <b>Ratio &gt; 20:1:</b> Points to <i>Prerenal Azotemia</i> (dehydration, volume depletion, heart failure). Increased urea reabsorption along with sodium/water in proximal tubules.<br>• <b>Ratio 10:1 to 15:1:</b> Normal or <i>Intrinsic Renal AKI</i> (Acute Tubular Necrosis - ATN). Damaged tubules fail to reabsorb urea.</p><p><b>Fractional Excretion of Sodium (FENa):</b><br>FENa = [(Urine Na × Serum Cr) / (Serum Na × Urine Cr)] × 100.<br>• <b>FENa &lt; 1%:</b> Prerenal Azotemia (kidneys actively conserving sodium). Urine osmolality &gt;500 mOsm/kg, Urine Na &lt; 20 mEq/L.<br>• <b>FENa &gt; 2%:</b> Intrinsic AKI / ATN (tubular resorption lost). Urine osmolality &lt;350 mOsm/kg, Urine Na &gt; 40 mEq/L, 'Muddy brown granular casts'.</p>",
+  "readingMinutes": 2,
+  "reviewStatus": "editorially-reformatted-legacy-content"
+}

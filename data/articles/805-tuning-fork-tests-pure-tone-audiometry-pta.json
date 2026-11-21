@@ -1,0 +1,12 @@
+{
+  "id": "ART-805",
+  "legacyId": 805,
+  "slug": "805-tuning-fork-tests-pure-tone-audiometry-pta",
+  "category": "Third Year (Part 1)",
+  "subject": "ENT",
+  "title": "Tuning Fork Tests & Pure Tone Audiometry (PTA)",
+  "preview": "Rinne, Weber, ABC tests, Carhart's notch, and Stenger's malingering test...",
+  "body": "<p><b>Tuning Fork Tests (512 Hz preferred to prevent tone decay/overtones):</b><br>• <b>Rinne Test:</b> Compares Air Conduction (AC) vs Bone Conduction (BC).<br>&nbsp;&nbsp;- <i>Positive (AC &gt; BC):</i> Normal ear or Sensorineural Hearing Loss (SNHL).<br>&nbsp;&nbsp;- <i>Negative (BC &gt; AC):</i> <b>Conductive Hearing Loss (CHL)</b> (Minimum 15–20 dB air-bone gap required).<br>&nbsp;&nbsp;- <i>False Negative Rinne:</i> Severe unilateral dead ear / profound SNHL; sound heard via bone conduction by the contralateral normal ear (masking required).<br>• <b>Weber Test:</b> Lateralization of sound via skull midline bone conduction.<br>&nbsp;&nbsp;- <i>Lateralizes to Affected (Poorer) Ear:</i> Conductive Hearing Loss (ambient noise attenuated in diseased ear).<br>&nbsp;&nbsp;- <i>Lateralizes to Better (Normal) Ear:</i> Sensorineural Hearing Loss.<br>• <b>Absolute Bone Conduction (ABC) Test:</b> Reduced in SNHL; normal in CHL.</p><p><b>High-Yield Audiometric Patterns:</b><br>• <b>Otosclerosis:</b> Bilateral progressive CHL, Paracusis of Willis (hears better in noisy surroundings), Schwartz sign (flamingo-pink promontory), <b>Carhart's Notch</b> (dip in bone conduction curve at <b>2000 Hz / 2 kHz</b>). Treatment: Stapedotomy with Teflon piston insertion.<br>• <b>Noise-Induced Hearing Loss (Acoustic Trauma):</b> Bilateral symmetrical SNHL with a distinct dip / acoustic notch at <b>4000 Hz (4 kHz)</b>.<br>• <b>Presbyacusis:</b> Age-related high-frequency symmetrical down-sloping SNHL.</p>",
+  "readingMinutes": 2,
+  "reviewStatus": "editorially-reformatted-legacy-content"
+}

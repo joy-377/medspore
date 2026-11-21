@@ -1,0 +1,12 @@
+{
+  "id": "ART-303",
+  "legacyId": 303,
+  "slug": "303-hyponatremia-osmolality-volume-workup",
+  "category": "Critical Lab Values",
+  "subject": "Electrolytes",
+  "title": "Hyponatremia: Osmolality & Volume Workup",
+  "preview": "Differentiating Hypovolemic, Euvolemic (SIADH), and Hypervolemic hyponatremia...",
+  "body": "<p><strong>Learning note:</strong> Educational revision content; verify medication doses, protocols and reference ranges against current institutional guidelines before any patient-care use.</p><p><b>Step 1: Confirm True Hyponatremia (Serum Osmolality):</b><br>• High Osmolality (&gt;295 mOsm/kg): Hyperglycemia (Corrected Na = Measured Na + 1.6 × [(Glucose - 100) / 100]).<br>• Normal Osmolality (280–295): Pseudohyponatremia (severe hyperlipidemia or hyperproteinemia).<br>• Low Osmolality (&lt;280): True Hypoosmolar Hyponatremia.</p><p><b>Step 2: Assess Volume Status:</b><br>• <i>Hypovolemic:</i> Dehydration, burns, diuretics. Urine Na &lt; 20 = Extra-renal loss; Urine Na &gt; 20 = Renal loss.<br>• <i>Euvolemic:</i> <b>SIADH</b> (Urine Osm &gt; 100, Urine Na &gt; 40), Hypothyroidism, Adrenal Insufficiency.<br>• <i>Hypervolemic:</i> Congestive Heart Failure, Cirrhosis, Nephrotic syndrome.</p><p><b>⚠️ Critical Pitfall (Correction Limit):</b> Do not correct chronic hyponatremia faster than <b>8–10 mEq/L in 24 hours</b> to avoid fatal <i>Osmotic Demyelination Syndrome (Central Pontine Myelinolysis)</i>.</p>",
+  "readingMinutes": 2,
+  "reviewStatus": "editorially-reformatted-legacy-content"
+}

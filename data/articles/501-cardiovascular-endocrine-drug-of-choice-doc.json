@@ -1,0 +1,12 @@
+{
+  "id": "ART-501",
+  "legacyId": 501,
+  "slug": "501-cardiovascular-endocrine-drug-of-choice-doc",
+  "category": "High-Yield Tables",
+  "subject": "Drug of Choice",
+  "title": "Cardiovascular & Endocrine Drug of Choice (DOC)",
+  "preview": "First-line agents for PSVT, AFib, Pheochromocytoma, and Thyroid storm...",
+  "body": "<p><strong>Learning note:</strong> Educational revision content; verify medication doses, protocols and reference ranges against current institutional guidelines before any patient-care use.</p><p><b>Cardiovascular Emergencies:</b><br>• <i>Paroxysmal Supraventricular Tachycardia (PSVT):</i> IV Adenosine (rapid bolus 6 mg → 12 mg).<br>• <i>Atrial Fibrillation with WPW Syndrome:</i> IV Procainamide or Ibutilide (AV-nodal blockers like Verapamil/Digoxin are contraindicated).<br>• <i>Torsades de Pointes:</i> IV Magnesium Sulfate (even if serum magnesium is normal).<br>• <i>Anaphylactic Shock:</i> IM Adrenaline (Epinephrine 1:1000, 0.5 mg in anterolateral thigh).</p><p><b>Endocrine Emergencies:</b><br>• <i>Pheochromocytoma (Pre-operative BP control):</i> Phenoxybenzamine (alpha-blocker first; beta-blocker added later to avoid hypertensive crisis).<br>• <i>Thyroid Storm:</i> Propylthiouracil (PTU - blocks synthesis &amp; peripheral T4 to T3 conversion) + Lugol's Iodine + Beta-blocker (Propranolol) + Hydrocortisone.<br>• <i>Myxedema Coma:</i> IV Levothyroxine (T4) + IV Hydrocortisone (to prevent acute adrenal insufficiency).<br>• <i>Central Diabetes Insipidus:</i> Desmopressin (DDAVP).</p>",
+  "readingMinutes": 2,
+  "reviewStatus": "editorially-reformatted-legacy-content"
+}

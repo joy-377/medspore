@@ -1,0 +1,12 @@
+{
+  "id": "ART-305",
+  "legacyId": 305,
+  "slug": "305-cerebrospinal-fluid-csf-analysis-master-chart",
+  "category": "Critical Lab Values",
+  "subject": "CSF & Fluids",
+  "title": "Cerebrospinal Fluid (CSF) Analysis Master Chart",
+  "preview": "Differentiating Bacterial, Viral, TB, and Fungal meningitis at a glance...",
+  "body": "<p><strong>Learning note:</strong> Educational revision content; verify medication doses, protocols and reference ranges against current institutional guidelines before any patient-care use.</p><ul><li><b>Normal CSF:</b> Opening pressure 50–200 mmH2O; Cells &lt;5 /µL (all lymphocytes); Protein 15–45 mg/dL; Glucose &gt;60% of blood glucose.</li><li><b>Acute Bacterial Meningitis:</b> Markedly elevated pressure (&gt;200); Cells 1,000–10,000 /µL (predominantly <b>Neutrophils</b>); Protein markedly elevated (&gt;100 mg/dL); Glucose markedly reduced (&lt;40% of serum).</li><li><b>Viral (Aseptic) Meningitis:</b> Normal or slightly elevated pressure; Cells 50–500 /µL (<b>Lymphocytes</b>); Protein normal or mildly elevated; Glucose completely <b>Normal</b>.</li><li><b>Tubercular (TB) Meningitis:</b> Elevated pressure; Cells 100–500 /µL (<b>Lymphocytes</b>); Protein very high (up to 500 mg/dL, forms <i>cobweb coagulum</i> on standing); Glucose very low (&lt;30% of serum).</li><li><b>Guillain-Barré Syndrome (GBS):</b> <i>Albuminocytological Dissociation</i> (very high protein with normal cell count).</li></ul>",
+  "readingMinutes": 2,
+  "reviewStatus": "editorially-reformatted-legacy-content"
+}

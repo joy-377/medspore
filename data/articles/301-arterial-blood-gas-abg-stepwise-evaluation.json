@@ -1,0 +1,12 @@
+{
+  "id": "ART-301",
+  "legacyId": 301,
+  "slug": "301-arterial-blood-gas-abg-stepwise-evaluation",
+  "category": "Critical Lab Values",
+  "subject": "Hematology & ABG",
+  "title": "Arterial Blood Gas (ABG): Stepwise Evaluation",
+  "preview": "Winter's formula, Serum Anion Gap, and Delta Gap calculations explained...",
+  "body": "<p><strong>Learning note:</strong> Educational revision content; verify medication doses, protocols and reference ranges against current institutional guidelines before any patient-care use.</p><p><b>Step 1: Check pH</b> (&lt;7.35 = Acidemia, &gt;7.45 = Alkalemia).<br><b>Step 2: Check Primary Driver</b> (pCO2 vs HCO3). If pH and pCO2 move in opposite directions, it is Respiratory; if same direction, Metabolic.</p><p><b>Step 3: Anion Gap (for Metabolic Acidosis):</b><br>Serum AG = Na - (Cl + HCO3). Normal = 12 ± 2 mEq/L.<br><i>High AG Acidosis Causes (GOLDMARK):</i> Glycols, Oxoproline, L-lactate, D-lactate, Methanol, Aspirin, Renal failure, Ketoacidosis.</p><p><b>Step 4: Compensation (Winter's Formula):</b><br>Expected pCO2 = (1.5 × HCO3) + 8 ± 2.<br>• Measured pCO2 &gt; Expected = Concurrent Respiratory Acidosis.<br>• Measured pCO2 &lt; Expected = Concurrent Respiratory Alkalosis.</p><p><b>Delta Ratio (ΔAG / ΔHCO3):</b><br>• &lt;0.4: Pure Normal AG Metabolic Acidosis.<br>• 0.4 - 0.8: Mixed High AG and Normal AG Acidosis.<br>• 1 - 2: Pure High AG Acidosis (classic DKA).<br>• &gt;2: High AG Acidosis + concurrent Metabolic Alkalosis.</p>",
+  "readingMinutes": 2,
+  "reviewStatus": "editorially-reformatted-legacy-content"
+}

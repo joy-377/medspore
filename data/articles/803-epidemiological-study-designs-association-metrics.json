@@ -1,0 +1,12 @@
+{
+  "id": "ART-803",
+  "legacyId": 803,
+  "slug": "803-epidemiological-study-designs-association-metrics",
+  "category": "Third Year (Part 1)",
+  "subject": "PSM",
+  "title": "Epidemiological Study Designs & Association Metrics",
+  "preview": "Case-Control vs Cohort, Odds Ratio, Relative Risk, and Attributable Risk calculations...",
+  "body": "<p><b>Case-Control Study (Retrospective):</b><br>• <i>Starting point:</i> Disease status (Cases with disease vs Controls without disease). Works backward to assess prior exposure.<br>• <i>Best for:</i> Rare diseases and long latency conditions.<br>• <i>Metric of Association:</i> <b>Odds Ratio (OR) = (a &times; d) / (b &times; c)</b> (cross-product ratio). Incidence cannot be calculated directly.<br>• <i>Major Bias:</i> <b>Recall Bias</b> and Selection Bias.</p><p><b>Cohort Study (Prospective / Follow-up):</b><br>• <i>Starting point:</i> Exposure status (Exposed group vs Non-exposed group). Followed forward over time to detect incidence of disease.<br>• <i>Best for:</i> Rare exposures and evaluating multiple disease outcomes from a single exposure.<br>• <i>Metric of Association:</i> <b>Relative Risk (RR) = Incidence in Exposed / Incidence in Non-exposed</b> [ (a/(a+b)) / (c/(c+d)) ].<br>• <i>Public Health Impact Metrics:</i><br>&nbsp;&nbsp;- <b>Attributable Risk (AR%):</b> [ (RR - 1) / RR ] &times; 100 (proportion of disease in exposed attributable to exposure).<br>&nbsp;&nbsp;- <b>Population Attributable Risk (PAR%):</b> Potential reduction in total disease incidence if the risk factor were completely eliminated from the population.<br>• <i>Major Bias:</i> <b>Loss to follow-up (Attrition bias)</b>.</p>",
+  "readingMinutes": 2,
+  "reviewStatus": "editorially-reformatted-legacy-content"
+}

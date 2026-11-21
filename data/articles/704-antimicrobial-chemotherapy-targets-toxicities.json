@@ -1,0 +1,12 @@
+{
+  "id": "ART-704",
+  "legacyId": 704,
+  "slug": "704-antimicrobial-chemotherapy-targets-toxicities",
+  "category": "Second Year MBBS",
+  "subject": "Pharmacology",
+  "title": "Antimicrobial Chemotherapy: Targets & Toxicities",
+  "preview": "Cell wall inhibitors, ribosomal subunits (30S/50S), and adverse effect profiles...",
+  "body": "<p><b>Mechanism of Action Targets:</b><br>• <b>Cell Wall Synthesis Inhibitors:</b> Beta-lactams (Penicillins, Cephalosporins, Carbapenems) bind PBPs and block peptidoglycan cross-linking; Vancomycin binds D-Ala-D-Ala terminus of cell wall precursors.<br>• <b>30S Ribosomal Inhibitors:</b> <i>Aminoglycosides</i> (Gentamicin, Amikacin - bactericidal, cause misreading of mRNA); <i>Tetracyclines</i> (Doxycycline - bacteriostatic, block tRNA attachment to A site).<br>• <b>50S Ribosomal Inhibitors:</b> <i>Macrolides</i> (Azithromycin), <i>Clindamycin</i>, <i>Chloramphenicol</i>, <i>Linezolid</i> (blocks initiation complex formation).<br>• <b>DNA Synthesis / Replication:</b> <i>Fluoroquinolones</i> (Ciprofloxacin - inhibits DNA Gyrase / Topoisomerase II and IV); <i>Metronidazole</i> (forms toxic free radicals in anaerobes).</p><p><b>High-Yield Drug Toxicities:</b><br>• <i>Vancomycin:</i> Red Man Syndrome (direct histamine release; prevent by slowing infusion rate), Nephrotoxicity, Ototoxicity.<br>• <i>Aminoglycosides:</i> Ototoxicity (vestibular and cochlear damage), Nephrotoxicity (ATN), Neuromuscular blockade (contraindicated in Myasthenia Gravis).<br>• <i>Chloramphenicol:</i> Aplastic Anemia, Gray Baby Syndrome (due to deficient UDP-glucuronyltransferase in neonates).</p>",
+  "readingMinutes": 2,
+  "reviewStatus": "editorially-reformatted-legacy-content"
+}

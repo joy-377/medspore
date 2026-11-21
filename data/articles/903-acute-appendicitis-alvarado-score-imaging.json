@@ -1,0 +1,12 @@
+{
+  "id": "ART-903",
+  "legacyId": 903,
+  "slug": "903-acute-appendicitis-alvarado-score-imaging",
+  "category": "Final Year (Part 2)",
+  "subject": "Surgery",
+  "title": "Acute Appendicitis: Alvarado Score & Imaging",
+  "preview": "Migratory pain, Rovsing/Psoas signs, and CT findings in pediatric vs adult cases...",
+  "body": "<p><b>The Modified Alvarado Score (MANTRELS - Total 10 Points):</b><br>• <b>M:</b> Migratory right iliac fossa pain (1)<br>• <b>A:</b> Anorexia (1)<br>• <b>N:</b> Nausea / vomiting (1)<br>• <b>T:</b> Tenderness in RIF (<b>2 points</b>)<br>• <b>R:</b> Rebound tenderness (1)<br>• <b>E:</b> Elevated temperature &gt;37.3&deg;C (1)<br>• <b>L:</b> Leukocytosis &gt;10,000 /µL (<b>2 points</b>)<br>• <b>S:</b> Shift to left of neutrophils (1)<br><i>Score &ge; 7:</i> Strongly predictive of acute appendicitis; warrants surgical consultation/appendectomy.</p><p><b>Classic Clinical Signs:</b><br>• <i>McBurney's Point:</i> Maximal tenderness at 1/3rd distance from ASIS to umbilicus.<br>• <i>Rovsing's Sign:</i> Palpation of Left Lower Quadrant causes pain in Right Lower Quadrant.<br>• <i>Psoas Sign:</i> Pain on passive extension of right hip (indicates retrocecal appendix).<br>• <i>Obturator Sign:</i> Pain on internal rotation of flexed right hip (indicates pelvic appendix).</p><p><b>Diagnostic Imaging Standards:</b><br>• <i>Adults &amp; Elderly:</i> Contrast-enhanced <b>CT Abdomen</b> (Gold Standard: Appendiceal diameter &gt;6 mm, appendicolith, fat stranding).<br>• <i>Children &amp; Pregnant Females:</i> <b>Graded Compression Ultrasound</b> (non-compressible blind-ended tubular structure &gt;6 mm) or MRI to prevent radiation exposure.</p>",
+  "readingMinutes": 2,
+  "reviewStatus": "editorially-reformatted-legacy-content"
+}

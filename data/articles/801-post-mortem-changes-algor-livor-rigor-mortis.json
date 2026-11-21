@@ -1,0 +1,12 @@
+{
+  "id": "ART-801",
+  "legacyId": 801,
+  "slug": "801-post-mortem-changes-algor-livor-rigor-mortis",
+  "category": "Third Year (Part 1)",
+  "subject": "Forensic Medicine",
+  "title": "Post-Mortem Changes: Algor, Livor & Rigor Mortis",
+  "preview": "Estimating Post-Mortem Interval (PMI), Nysten's law, and fixation of hypostasis...",
+  "body": "<p><b>Algor Mortis (Cooling of the Body):</b><br>• Rate of cooling: ~0.5&deg;C to 0.7&deg;C per hour in temperate conditions. Measured clinically via chemical/thermocouple thermometer inserted deep into the rectum or under the liver surface.</p><p><b>Post-Mortem Lividity / Hypostasis (Livor Mortis):</b><br>• Gravitational pooling of blood in dependent capillaries (sparing contact pressure points).<br>• <i>Timeline:</i> Begins within 30 min to 1 hour; becomes fully <b>fixed by 6–8 hours</b> (blanching disappears on finger pressure). Useful for determining body position change after death.<br>• <i>Diagnostic Stains:</i> Cherry-red (Carbon Monoxide), Bright pink (Cyanide), Chocolate/Brown (Methemoglobin, Nitrites), Dark red/blue (Asphyxia).</p><p><b>Rigor Mortis (Stiffening of Muscles):</b><br>• <i>Mechanism:</i> ATP depletion prevents actin-myosin cross-bridge dissociation.<br>• <i>Nysten's Law (Order of Appearance):</i> Involuntary muscles (heart) &rarr; Eyelids/Pupils &rarr; Face/Jaw &rarr; Neck &rarr; Thorax &rarr; Upper limbs &rarr; Abdomen &rarr; Lower limbs.<br>• <i>Timeline (Rule of 12s in temperate climates):</i> Starts at 1–2 hours, fully established across all joints in <b>12 hours</b>, persists for <b>12 hours</b>, disappears in the next <b>12 hours</b> (via autolysis/putrefaction).</p><p><b>Cadaveric Spasm (Instantaneous Rigor):</b> Sudden stiffening at the moment of death without preceding primary flaccidity. Involves voluntary muscle groups (e.g., grasping weapon in suicide or weeds in drowning). Pathognomonic for antemortem physical struggle or emotional tension.</p>",
+  "readingMinutes": 2,
+  "reviewStatus": "editorially-reformatted-legacy-content"
+}

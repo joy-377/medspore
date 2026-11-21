@@ -1,0 +1,12 @@
+{
+  "id": "ART-504",
+  "legacyId": 504,
+  "slug": "504-medical-surgical-stratification-curb-65-child-pugh",
+  "category": "High-Yield Tables",
+  "subject": "Clinical Scoring Systems",
+  "title": "Medical & Surgical Stratification: CURB-65 & Child-Pugh",
+  "preview": "Pneumonia mortality prediction, Cirrhosis grading, and APGAR parameters...",
+  "body": "<p><strong>Learning note:</strong> Educational revision content; verify medication doses, protocols and reference ranges against current institutional guidelines before any patient-care use.</p><p><b>CURB-65 Score (Pneumonia Severity):</b><br>• <b>C:</b> Confusion (AMTS &le; 8).<br>• <b>U:</b> Urea &gt; 7 mmol/L (BUN &gt; 19 mg/dL).<br>• <b>R:</b> Respiratory rate &ge; 30 /min.<br>• <b>B:</b> Blood pressure (SBP &lt; 90 or DBP &le; 60 mmHg).<br>• <b>65:</b> Age &ge; 65 years.<br><i>Score 0-1:</i> Outpatient; <i>Score 2:</i> Inpatient ward; <i>Score &ge; 3:</i> Intensive Care Unit (ICU).</p><p><b>Child-Pugh Score (Cirrhosis Severity - Parameters: 'Pour Another Beer At Eleven'):</b><br>• <b>P</b>T/INR, <b>A</b>scites, <b>B</b>ilirubin, <b>A</b>lbumin, <b>E</b>ncephalopathy.<br>• Class A (5-6 points): Well compensated.<br>• Class B (7-9 points): Significant functional compromise.<br>• Class C (10-15 points): Decompensated cirrhosis.</p><p><b>APGAR Score (1 and 5 minutes post-delivery - Max 10):</b><br>• <b>A</b>ppearance (Color: 0-Blue/pale, 1-Acrocyanotic, 2-Pink).<br>• <b>P</b>ulse (0-Absent, 1-&lt;100 bpm, 2-&gt;100 bpm).<br>• <b>G</b>rimace (0-No response, 1-Grimace, 2-Cough/sneeze/cry).<br>• <b>A</b>ctivity (0-Flaccid, 1-Some flexion, 2-Active motion).<br>• <b>R</b>espiration (0-Absent, 1-Slow/irregular, 2-Good vigorous cry).</p>",
+  "readingMinutes": 2,
+  "reviewStatus": "editorially-reformatted-legacy-content"
+}

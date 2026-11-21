@@ -1,0 +1,12 @@
+{
+  "id": "ART-107",
+  "legacyId": 107,
+  "slug": "107-antibiotic-stewardship-empirical-choices",
+  "category": "Clinical Tips",
+  "subject": "Prescription Pearls",
+  "title": "Antibiotic Stewardship: Empirical Choices",
+  "preview": "What to prescribe for CAP, UTI, Meningitis, and Cellulitis before cultures arrive...",
+  "body": "<p><strong>Learning note:</strong> Educational revision content; verify medication doses, protocols and reference ranges against current institutional guidelines before any patient-care use.</p><p>Choosing the right empirical antibiotic saves lives and prevents resistance. Here are the standard first-line empirical choices (always adjust based on local antibiogram and culture results later):</p><ul><li><b>Community-Acquired Pneumonia (CAP) - Outpatient:</b> Amoxicillin (high-dose) OR Macrolide (Azithromycin) if atypical coverage is needed.</li><li><b>CAP - Inpatient (Non-ICU):</b> Respiratory Fluoroquinolone (Levofloxacin) OR Beta-lactam (Ceftriaxone) + Macrolide.</li><li><b>Uncomplicated UTI (Cystitis):</b> Nitrofurantoin (for 5 days) OR Fosfomycin (single dose) OR TMP-SMX (if resistance is low). <i>Avoid Ciprofloxacin as first-line to save fluoroquinolones.</i></li><li><b>Acute Bacterial Meningitis (Adults):</b> Ceftriaxone (covers N. meningitidis and S. pneumoniae) + Vancomycin (covers resistant pneumococcus). <i>Add Ampicillin</i> if patient is &gt;50 years old or immunocompromised (to cover Listeria).</li><li><b>Purulent Cellulitis / Abscess:</b> Must cover MRSA. Prescribe Oral TMP-SMX, Doxycycline, or Clindamycin. (For non-purulent cellulitis, Cephalexin is preferred to cover Strep).</li></ul>",
+  "readingMinutes": 2,
+  "reviewStatus": "editorially-reformatted-legacy-content"
+}

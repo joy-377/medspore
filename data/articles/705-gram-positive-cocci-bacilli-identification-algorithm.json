@@ -1,0 +1,12 @@
+{
+  "id": "ART-705",
+  "legacyId": 705,
+  "slug": "705-gram-positive-cocci-bacilli-identification-algorithm",
+  "category": "Second Year MBBS",
+  "subject": "Microbiology",
+  "title": "Gram-Positive Cocci & Bacilli Identification Algorithm",
+  "preview": "Staphylococcus vs Streptococcus, hemolysis, and spore-forming bacilli...",
+  "body": "<p><b>Gram-Positive Cocci Algorithm:</b><br>• <b>Catalase Test:</b> Positive = <i>Staphylococcus</i>; Negative = <i>Streptococcus</i>.<br>• <b>Staphylococci (Coagulase Test):</b><br>&nbsp;&nbsp;- <i>Coagulase Positive:</i> <b>S. aureus</b> (Golden yellow colonies, Protein A virulence factor, causes abscesses, osteomyelitis, endocarditis in IV drug abusers).<br>&nbsp;&nbsp;- <i>Coagulase Negative, Novobiocin Sensitive:</i> <b>S. epidermidis</b> (Biofilm producer on prosthetic valves and IV catheters).<br>&nbsp;&nbsp;- <i>Coagulase Negative, Novobiocin Resistant:</i> <b>S. saprophyticus</b> (UTI in young sexually active females).<br>• <b>Streptococci (Hemolysis on Blood Agar):</b><br>&nbsp;&nbsp;- <i>Alpha-Hemolytic (Partial greening):</i> <b>S. pneumoniae</b> (Optochin sensitive, bile soluble, lancet-shaped diplococci, capsule quellung positive); <b>Viridans Streptococci</b> (Optochin resistant, dental caries, subacute bacterial endocarditis).<br>&nbsp;&nbsp;- <i>Beta-Hemolytic (Complete clearing):</i> <b>S. pyogenes (GAS)</b> (Bacitracin sensitive, PYR positive, causes rheumatic fever and PSGN); <b>S. agalactiae (GBS)</b> (Bacitracin resistant, CAMP test positive, neonatal sepsis/meningitis).</p><p><b>Gram-Positive Bacilli:</b><br>• <i>Spore-Forming:</i> <b>Bacillus anthracis</b> (Medusa head colonies, poly-D-glutamic acid capsule); <b>Clostridium</b> species (Obligate anaerobes — C. tetani, C. botulinum, C. perfringens, C. difficile).<br>• <i>Non-Spore Forming:</i> <b>Corynebacterium diphtheriae</b> (Chinese letter pattern on Gram stain, Albert stain reveals metachromatic volutin granules, black colonies on Tellurite agar); <b>Listeria monocytogenes</b> (Tumbling motility at 25&deg;C, causes meningitis in neonates and elderly).</p>",
+  "readingMinutes": 2,
+  "reviewStatus": "editorially-reformatted-legacy-content"
+}

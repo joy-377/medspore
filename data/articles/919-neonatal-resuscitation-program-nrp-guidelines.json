@@ -1,0 +1,12 @@
+{
+  "id": "ART-919",
+  "legacyId": 919,
+  "slug": "919-neonatal-resuscitation-program-nrp-guidelines",
+  "category": "Final Year (Part 2)",
+  "subject": "Pediatrics",
+  "title": "Neonatal Resuscitation Program (NRP) Guidelines",
+  "preview": "Initial steps, golden minute, heart rate evaluation, and positive pressure ventilation...",
+  "body": "<p><b>The 'Golden Minute' of Newborn Resuscitation:</b><br>Initial steps must be completed within the first 60 seconds of life: Provide warmth, position airway (sniffing position), clear secretions if needed, dry, stimulate, and assess.</p><p><b>Heart Rate (HR) Decisive Algorithm:</b><br>• <b>HR &gt; 100 bpm with labored breathing / cyanosis:</b> Clear airway, monitor SpO2, consider CPAP.<br>• <b>HR between 60 to 100 bpm (or gasping/apnea):</b> Initiate <b>Positive Pressure Ventilation (PPV)</b> immediately at 40-60 breaths/min. Monitor SpO2 on right hand (pre-ductal).<br>• <b>HR &lt; 60 bpm despite effective PPV for 30 seconds:</b><br>&nbsp;&nbsp;- 1. Intubate trachea (or laryngeal mask airway).<br>&nbsp;&nbsp;- 2. Initiate <b>Chest Compressions</b> coordinated with PPV at a 3:1 ratio (90 compressions + 30 breaths per minute).<br>&nbsp;&nbsp;- 3. Administer <b>IV Epinephrine</b> (0.01-0.03 mg/kg of 1:10,000 concentration via umbilical venous catheter) if HR remains &lt; 60 bpm despite chest compressions and effective ventilation.</p>",
+  "readingMinutes": 2,
+  "reviewStatus": "editorially-reformatted-legacy-content"
+}

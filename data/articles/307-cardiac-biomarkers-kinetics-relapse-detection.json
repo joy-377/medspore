@@ -1,0 +1,12 @@
+{
+  "id": "ART-307",
+  "legacyId": 307,
+  "slug": "307-cardiac-biomarkers-kinetics-relapse-detection",
+  "category": "Critical Lab Values",
+  "subject": "Pathology Markers",
+  "title": "Cardiac Biomarkers: Kinetics & Relapse Detection",
+  "preview": "Troponin I vs CK-MB timelines and ruling out early re-infarction...",
+  "body": "<p><strong>Learning note:</strong> Educational revision content; verify medication doses, protocols and reference ranges against current institutional guidelines before any patient-care use.</p><p><b>Cardiac Troponin I &amp; T (Gold Standard for Myocardial Infarction):</b><br>• <i>Initial rise:</i> 3–4 hours.<br>• <i>Peak:</i> 12–24 hours.<br>• <i>Duration:</i> Remains elevated for <b>7–14 days</b>.<br>• <i>Limitation:</i> Because it stays elevated for up to two weeks, it cannot reliably detect an early re-infarction occurring within a few days of the initial event.</p><p><b>CK-MB (Creatine Kinase-MB):</b><br>• <i>Initial rise:</i> 4–6 hours.<br>• <i>Peak:</i> 18–24 hours.<br>• <i>Duration:</i> Returns to baseline within <b>48–72 hours (2–3 days)</b>.<br>• <i>Clinical Utility:</i> The marker of choice to diagnose <b>Re-infarction</b> occurring after 3 days of index MI.</p><p><b>Myoglobin:</b> Rises earliest (1–2 hours), peaks at 6–8 hours, but lacks cardiac specificity.</p>",
+  "readingMinutes": 2,
+  "reviewStatus": "editorially-reformatted-legacy-content"
+}

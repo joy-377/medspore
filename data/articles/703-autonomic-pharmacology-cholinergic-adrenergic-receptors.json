@@ -1,0 +1,12 @@
+{
+  "id": "ART-703",
+  "legacyId": 703,
+  "slug": "703-autonomic-pharmacology-cholinergic-adrenergic-receptors",
+  "category": "Second Year MBBS",
+  "subject": "Pharmacology",
+  "title": "Autonomic Pharmacology: Cholinergic & Adrenergic Receptors",
+  "preview": "G-protein pathways, Bethanechol, Atropine, and Alpha/Beta blocker selectivities...",
+  "body": "<p><b>G-Protein Receptor Couplings (The 'QISS and QIQ' Rule):</b><br>• <b>Gq Coupled (IP3 / DAG pathway &rarr; activates PKC &amp; increases intracellular Ca2+):</b> Alpha-1, M1, M3, H1, V1.<br>• <b>Gi Coupled (Inhibits Adenylyl Cyclase &rarr; decreases cAMP):</b> Alpha-2, M2 (cardiac), D2.<br>• <b>Gs Coupled (Stimulates Adenylyl Cyclase &rarr; increases cAMP):</b> Beta-1 (cardiac), Beta-2 (smooth muscle relaxation), Beta-3, D1, H2, V2.</p><p><b>High-Yield Clinical Therapeutics:</b><br>• <i>Glaucoma:</i> Latanoprost (PGF2alpha analogue - increases uveoscleral outflow, first line); Timolol (decreases aqueous humor production); Pilocarpine (M3 agonist, contracts ciliary muscle &amp; opens trabecular meshwork).<br>• <i>Myasthenia Gravis:</i> Pyridostigmine (long-acting AChE inhibitor) for maintenance. Edrophonium historically used for Tensilon test.<br>• <i>Beta-Blocker Selectivity:</i> Cardioselective (Beta-1 specific): Metoprolol, Atenolol, Bisoprolol, Esmolol (ultra-short acting, half-life 9 min). Non-selective with alpha-1 blocking activity: Carvedilol, Labetalol.</p>",
+  "readingMinutes": 2,
+  "reviewStatus": "editorially-reformatted-legacy-content"
+}

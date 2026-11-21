@@ -1,0 +1,12 @@
+{
+  "id": "ART-407",
+  "legacyId": 407,
+  "slug": "407-deconstructing-complex-clinical-stems",
+  "category": "Exam Strategy",
+  "subject": "MCQ Hacks",
+  "title": "Deconstructing Complex Clinical Stems",
+  "preview": "Reading the last line, identifying anchors, and spotting examiner traps...",
+  "body": "<p><b>1. Read the Last Sentence First:</b><br>Read the final interrogation line before reading the 10-line patient history. This clarifies whether the question asks for a diagnosis, next best step, mechanism of action, or contraindication, preventing redundant re-reading.</p><p><b>2. Identify Age, Gender, and Chronology Anchors:</b><br>• Young female + joint pain + rash = Think SLE.<br>• Elderly male + weight loss + painless jaundice = Think Pancreatic Adenocarcinoma.<br>• Child + periorbital edema + cola-colored urine = Think Post-Streptococcal Glomerulonephritis (PSGN).</p><p><b>3. Avoid the 'Anchor Trap':</b><br>Do not lock into a diagnosis based on a single early symptom if later vital signs and physical findings clearly contradict it.</p>",
+  "readingMinutes": 2,
+  "reviewStatus": "editorially-reformatted-legacy-content"
+}

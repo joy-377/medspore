@@ -1,0 +1,12 @@
+{
+  "id": "ART-304",
+  "legacyId": 304,
+  "slug": "304-calcium-magnesium-diagnostic-pearls",
+  "category": "Critical Lab Values",
+  "subject": "Electrolytes",
+  "title": "Calcium & Magnesium Diagnostic Pearls",
+  "preview": "Corrected Calcium formula, ECG correlations, and refractory hypokalemia...",
+  "body": "<p><strong>Learning note:</strong> Educational revision content; verify medication doses, protocols and reference ranges against current institutional guidelines before any patient-care use.</p><p><b>Corrected Calcium Formula:</b><br>Corrected Ca (mg/dL) = Measured Total Ca + 0.8 × (4.0 - Serum Albumin). <i>Always calculate this in hypoalbuminemia before treating.</i></p><p><b>Hypocalcemia (Ca &lt; 8.5 mg/dL):</b><br>• <i>Signs:</i> Chvostek's sign (facial twitch on tapping CN VII), Trousseau's sign (carpal spasm with BP cuff).<br>• <i>ECG:</i> Prolonged QT interval (high risk for Torsades de Pointes). Treatment: IV 10% Calcium Gluconate.</p><p><b>Hypercalcemia (Ca &gt; 10.5 mg/dL):</b><br>• <i>Etiologies:</i> Primary Hyperparathyroidism (outpatient) vs Malignancy/PTHrP (inpatient).<br>• <i>ECG:</i> Shortened QT interval. Management: Vigorous IV Saline hydration + IV Bisphosphonates (Zoledronic acid) or Calcitonin.</p><p><b>The Magnesium Connection:</b> Hypomagnesemia impairs PTH release and induces renal potassium wasting. If hypokalemia or hypocalcemia is refractory to treatment, <i>always correct serum magnesium first</i>.</p>",
+  "readingMinutes": 2,
+  "reviewStatus": "editorially-reformatted-legacy-content"
+}

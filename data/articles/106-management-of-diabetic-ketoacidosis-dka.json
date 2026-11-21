@@ -1,0 +1,12 @@
+{
+  "id": "ART-106",
+  "legacyId": 106,
+  "slug": "106-management-of-diabetic-ketoacidosis-dka",
+  "category": "Clinical Tips",
+  "subject": "Ward Protocols",
+  "title": "Management of Diabetic Ketoacidosis (DKA)",
+  "preview": "The IV fluids, Insulin infusion, and Potassium correction protocol...",
+  "body": "<p><strong>Learning note:</strong> Educational revision content; verify medication doses, protocols and reference ranges against current institutional guidelines before any patient-care use.</p><p>DKA is characterized by Hyperglycemia, Ketosis, and Metabolic Acidosis. Management must follow a strict sequence to prevent cerebral edema and hypokalemia.</p><ul><li><b>1. IV Fluids (The most critical first step):</b> Start with 0.9% Normal Saline (NS) at 15-20 mL/kg/hr for the first hour to restore intravascular volume. Once blood glucose falls to 200 mg/dL, switch to 5% Dextrose with 0.45% NS.</li><li><b>2. Insulin Therapy:</b> Give a 0.1 U/kg IV bolus of Regular Insulin, followed by a continuous infusion of 0.1 U/kg/hr. <i>Never stop insulin until the anion gap closes</i> (acidosis resolves), even if glucose drops.</li><li><b>3. Potassium Correction:</b> Total body potassium is always depleted in DKA, even if serum levels appear falsely high initially. If serum K+ is &lt; 3.3 mEq/L, hold insulin and give IV KCl first. If K+ is between 3.3 and 5.2 mEq/L, add KCl to the IV fluids.</li><li><b>4. Bicarbonate:</b> Only indicated if the pH is severely low (&lt; 6.9).</li></ul>",
+  "readingMinutes": 2,
+  "reviewStatus": "editorially-reformatted-legacy-content"
+}
