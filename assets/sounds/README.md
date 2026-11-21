@@ -1,0 +1,1 @@
+MedSpore uses a tiny Web Audio synthesized sound palette in `js/services/sounds.js`. No proprietary licensed sound files are required. Separate sequences for correct, wrong, completion and badge events. Sounds are opt-in via settings and honor user preferences.
