@@ -1,0 +1,4 @@
+import {getState} from '../core/storage.js';
+let audio;
+const patterns={correct:[[523,.08],[659,.1],[784,.13]],wrong:[[392,.09],[294,.16]],finish:[[523,.1],[659,.1],[784,.12],[1047,.28]],badge:[[659,.08],[880,.09],[1175,.22]],click:[[610,.035]],soft:[[494,.05]]};
+export function sound(name){if(!getState().settings.sound)return;try{const A=window.AudioContext||window.webkitAudioContext;if(!A)return;audio||=new A();if(audio.state==='suspended')audio.resume();const arr=patterns[name]||patterns.click;let time=audio.currentTime;for(const [freq,dur] of arr){const o=audio.createOscillator(),g=audio.createGain();o.type=name==='wrong'?'sine':'triangle';o.frequency.setValueAtTime(freq,time);g.gain.setValueAtTime(.0001,time);g.gain.exponentialRampToValueAtTime(name==='wrong'?.023:.036,time+.015);g.gain.exponentialRampToValueAtTime(.0001,time+dur);o.connect(g).connect(audio.destination);o.start(time);o.stop(time+dur+.01);time+=dur*.88}}catch{}}
