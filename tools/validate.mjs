@@ -20,7 +20,7 @@ for(const s of subjects){
  check(has(`data/subjects/${s.id}.js`),`Missing subject file: ${s.id}`);
  if(!has(`data/subjects/${s.id}.js`))continue;
  const qs=(await import(`../data/subjects/${s.id}.js`)).default;
- check(Array.isArray(qs)&&qs.length===10,`${s.id} expected 10 sample MCQs, got ${qs?.length}`);
+ check(Array.isArray(qs)&&qs.length===(s.id==='microbiology'?1200:10),`${s.id} expected ${s.id==='microbiology'?1200:10} MCQs, got ${qs?.length}`);
  check(new Set(s.topics).size===s.topics.length,`${s.id} duplicates topic names`);
  for(const [i,q] of qs.entries()){
   mcqs++;
@@ -103,7 +103,7 @@ const lines=[
 '## Checks',
 '',
 `- Result: **${failures.length?'FAIL':'PASS'}** (${failures.length} errors, ${warnings.length} non-blocking warnings)`,
-`- 19 subject data files × 10 questions = **${mcqs}** starter questions, unique IDs verified`,
+`- 19 subject banks = **${mcqs}** MCQs (1,200 Microbiology + 18 starter sets), unique IDs verified`,
 `- ${articles.length} unique source articles with generated individual HTML pages`,
 `- ${metrics.flashcards||0} starter flashcards, ${metrics.notes||0} starter notes`,
 `- 2 separate, intentionally empty unverified PYQ collections`,
@@ -119,7 +119,7 @@ const lines=[
 '3. Verify the exact AdSense publisher verification code matches the account; no ad placements or Auto Ads script have been installed.',
 '4. Preserve the existing Google Search Console HTML verification file in your GitHub repository (not supplied in the old ZIP).',
 '5. Clinically fact-check the legacy sample MCQs and article content, especially changing treatment recommendations. Refactoring is not peer review.',
-'6. Full INI-CET mock requires at least 200 unique questions; this 190-question starter set cannot support it without repeats.',
+'6. Full INI-CET mock requires at least 200 unique questions; the expanded overall bank is sufficient in count, but specialty mix and medical review require assessment.',
 '7. Check exam patterns against the official bulletin for the actual future examination session.',
 '',
 '## Warnings',
