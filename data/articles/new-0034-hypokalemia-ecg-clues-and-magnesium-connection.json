@@ -1,0 +1,55 @@
+{
+  "id": "ART-NEW-0034",
+  "slug": "new-0034-hypokalemia-ecg-clues-and-magnesium-connection",
+  "title": "Hypokalemia: ECG Clues and Magnesium Connection",
+  "category": "Critical Lab Values",
+  "subject": "Electrolytes",
+  "preview": "Hypokalemia may cause weakness, cramps, arrhythmia and characteristic ECG changes such as flattened T waves or U waves.",
+  "quickRevision": [
+    "Hypokalemia may cause weakness, cramps, arrhythmia and characteristic ECG changes such as flattened T waves or U waves.",
+    "Assess vomiting, diarrhea, diuretics, renal losses and acid–base status.",
+    "Replacement route and monitoring depend on severity, symptoms, ECG findings and renal function."
+  ],
+  "sections": [
+    {
+      "title": "Interpret the result in context",
+      "type": "pearl",
+      "points": [
+        "Hypokalemia may cause weakness, cramps, arrhythmia and characteristic ECG changes such as flattened T waves or U waves.",
+        "Magnesium depletion can maintain potassium loss and make replacement more difficult."
+      ]
+    },
+    {
+      "title": "Clinical interpretation & next steps",
+      "type": "table",
+      "points": [
+        "Assess vomiting, diarrhea, diuretics, renal losses and acid–base status.",
+        "Replacement route and monitoring depend on severity, symptoms, ECG findings and renal function."
+      ]
+    },
+    {
+      "title": "Exam trap — avoid this mistake",
+      "type": "trap",
+      "points": [
+        "A normal ECG does not guarantee that clinically important hypokalemia is absent."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Which electrolyte deficiency can make hypokalemia refractory?",
+      "options": [
+        "Hyperphosphatemia alone",
+        "Magnesium deficiency",
+        "Excess chloride only",
+        "Low bicarbonate alone"
+      ],
+      "correct": 1,
+      "explanation": "Magnesium deficiency. Magnesium depletion can maintain potassium loss and make replacement more difficult.",
+      "type": "High-yield concept check"
+    }
+  ],
+  "images": [],
+  "medicalEditorialStatus": "author-drafted-not-clinician-peer-reviewed",
+  "inlineLinks": []
+}

@@ -1,0 +1,55 @@
+{
+  "id": "ART-NEW-0014",
+  "slug": "new-0014-high-risk-medicines-insulin-and-concentrated-electrolytes",
+  "title": "High-Risk Medicines: Insulin and Concentrated Electrolytes",
+  "category": "Clinical Tips",
+  "subject": "Prescription Pearls",
+  "preview": "Insulin and concentrated potassium are high-alert medicines because dosing or administration errors can cause rapid harm.",
+  "quickRevision": [
+    "Insulin and concentrated potassium are high-alert medicines because dosing or administration errors can cause rapid harm.",
+    "Separate concentrated electrolytes from routine ward stock or restrict access according to the safety system.",
+    "Monitor glucose and potassium after high-risk administration; investigate mismatches between prescription and administration records."
+  ],
+  "sections": [
+    {
+      "title": "Recognize the situation",
+      "type": "pearl",
+      "points": [
+        "Insulin and concentrated potassium are high-alert medicines because dosing or administration errors can cause rapid harm.",
+        "Use standardized concentrations, clear units, independent checks when policy requires and appropriate administration devices."
+      ]
+    },
+    {
+      "title": "Clinical decisions & differential",
+      "type": "table",
+      "points": [
+        "Separate concentrated electrolytes from routine ward stock or restrict access according to the safety system.",
+        "Monitor glucose and potassium after high-risk administration; investigate mismatches between prescription and administration records."
+      ]
+    },
+    {
+      "title": "Exam trap — avoid this mistake",
+      "type": "trap",
+      "points": [
+        "Insulin units are not milliliters; ambiguous abbreviations can lead to serious errors."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Which is a high-alert medication requiring additional safeguards?",
+      "options": [
+        "Normal saline flush alone",
+        "Oral vitamin C",
+        "Insulin",
+        "Standard emollient"
+      ],
+      "correct": 2,
+      "explanation": "Insulin and concentrated potassium are high-alert medicines because dosing or administration errors can cause rapid harm.",
+      "type": "High-yield concept check"
+    }
+  ],
+  "images": [],
+  "medicalEditorialStatus": "author-drafted-not-clinician-peer-reviewed",
+  "inlineLinks": []
+}

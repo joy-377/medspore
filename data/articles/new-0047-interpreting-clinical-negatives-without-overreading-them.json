@@ -1,0 +1,55 @@
+{
+  "id": "ART-NEW-0047",
+  "slug": "new-0047-interpreting-clinical-negatives-without-overreading-them",
+  "title": "Interpreting Clinical Negatives Without Overreading Them",
+  "category": "Exam Strategy",
+  "subject": "MCQ Hacks",
+  "preview": "A negative finding helps only if it meaningfully changes the differential in the relevant clinical context.",
+  "quickRevision": [
+    "A negative finding helps only if it meaningfully changes the differential in the relevant clinical context.",
+    "Absence of fever, rash or a classic triad does not exclude every serious disease.",
+    "Use positive discriminating findings, risk factors and the stem's actual question together."
+  ],
+  "sections": [
+    {
+      "title": "Recognize the question type",
+      "type": "pearl",
+      "points": [
+        "A negative finding helps only if it meaningfully changes the differential in the relevant clinical context.",
+        "Ask whether the test or examination sign is sensitive enough to rule out a condition."
+      ]
+    },
+    {
+      "title": "Use this in timed practice",
+      "type": "table",
+      "points": [
+        "Absence of fever, rash or a classic triad does not exclude every serious disease.",
+        "Use positive discriminating findings, risk factors and the stem's actual question together."
+      ]
+    },
+    {
+      "title": "Exam trap — avoid this mistake",
+      "type": "trap",
+      "points": [
+        "Do not overinterpret a single absent sign as proof that a diagnosis is impossible."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Which is a sound use of a negative clinical finding?",
+      "options": [
+        "Treat it as an absolute rule-out always",
+        "Assume absent fever excludes all infections",
+        "Assess its diagnostic sensitivity and context",
+        "Ignore pretest probability"
+      ],
+      "correct": 2,
+      "explanation": "Assess its diagnostic sensitivity and context. A negative finding helps only if it meaningfully changes the differential in the relevant clinical context.",
+      "type": "High-yield concept check"
+    }
+  ],
+  "images": [],
+  "medicalEditorialStatus": "author-drafted-not-clinician-peer-reviewed",
+  "inlineLinks": []
+}

@@ -1,0 +1,63 @@
+{
+  "id": "ART-NEW-0017",
+  "slug": "new-0017-reynolds-pentad-and-severe-cholangitis-why-it-matters",
+  "title": "Reynolds Pentad and Severe Cholangitis: Why It Matters",
+  "category": "Triads & Signs",
+  "subject": "Medical Triads",
+  "preview": "Reynolds pentad adds hypotension and altered mental status to Charcot triad of fever, jaundice and right upper quadrant pain.",
+  "quickRevision": [
+    "Reynolds pentad adds hypotension and altered mental status to Charcot triad of fever, jaundice and right upper quadrant pain.",
+    "Sepsis resuscitation, source control and urgent evaluation for biliary drainage are essential principles.",
+    "Elderly or immunocompromised patients may show nonspecific presentations rather than the complete eponym."
+  ],
+  "sections": [
+    {
+      "title": "Recognize the pattern",
+      "type": "pearl",
+      "points": [
+        "Reynolds pentad adds hypotension and altered mental status to Charcot triad of fever, jaundice and right upper quadrant pain.",
+        "The pentad suggests severe cholangitis with circulatory or neurologic involvement."
+      ]
+    },
+    {
+      "title": "What this finding does—and does not—mean",
+      "type": "table",
+      "points": [
+        "Sepsis resuscitation, source control and urgent evaluation for biliary drainage are essential principles.",
+        "Elderly or immunocompromised patients may show nonspecific presentations rather than the complete eponym."
+      ]
+    },
+    {
+      "title": "Memory aid",
+      "type": "mnemonic",
+      "points": [
+        "Reynolds pentad: Charcot triad plus hypotension and altered mental status.",
+        "It signals severe disease, but waiting for all five findings would be unsafe."
+      ]
+    },
+    {
+      "title": "Exam trap — avoid this mistake",
+      "type": "trap",
+      "points": [
+        "Do not wait for all five features before escalating a patient with suspected severe biliary sepsis."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Which two features are added in Reynolds pentad?",
+      "options": [
+        "Hematuria and edema",
+        "Hypotension and altered mental status",
+        "Clubbing and cyanosis",
+        "Tremor and exophthalmos"
+      ],
+      "correct": 1,
+      "explanation": "Reynolds pentad adds hypotension and altered mental status to Charcot triad of fever, jaundice and right upper quadrant pain.",
+      "type": "High-yield concept check"
+    }
+  ],
+  "images": [],
+  "medicalEditorialStatus": "author-drafted-not-clinician-peer-reviewed",
+  "inlineLinks": []
+}

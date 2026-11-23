@@ -1,0 +1,55 @@
+{
+  "id": "ART-NEW-0038",
+  "slug": "new-0038-pleural-fluid-interpretation-ph-glucose-and-clinical-meaning",
+  "title": "Pleural Fluid Interpretation: pH, Glucose and Clinical Meaning",
+  "category": "Critical Lab Values",
+  "subject": "CSF & Fluids",
+  "preview": "Pleural fluid tests are interpreted with history, imaging and whether the effusion is exudative or transudative.",
+  "quickRevision": [
+    "Pleural fluid tests are interpreted with history, imaging and whether the effusion is exudative or transudative.",
+    "A low pleural fluid pH in suspected parapneumonic effusion can suggest complicated infection requiring urgent specialist assessment.",
+    "Cytology, culture, glucose and other tests are selected according to the differential diagnosis."
+  ],
+  "sections": [
+    {
+      "title": "Interpret the result in context",
+      "type": "pearl",
+      "points": [
+        "Pleural fluid tests are interpreted with history, imaging and whether the effusion is exudative or transudative.",
+        "Light criteria are useful for classification; diuretic treatment can complicate interpretation in heart failure."
+      ]
+    },
+    {
+      "title": "Clinical interpretation & next steps",
+      "type": "table",
+      "points": [
+        "A low pleural fluid pH in suspected parapneumonic effusion can suggest complicated infection requiring urgent specialist assessment.",
+        "Cytology, culture, glucose and other tests are selected according to the differential diagnosis."
+      ]
+    },
+    {
+      "title": "Exam trap — avoid this mistake",
+      "type": "trap",
+      "points": [
+        "Pleural fluid pH is sensitive to collection and handling; preanalytical errors can distort the result."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Which classification system is used to distinguish pleural exudates from transudates?",
+      "options": [
+        "Light criteria",
+        "APGAR score",
+        "Glasgow Coma Scale",
+        "Child–Pugh score"
+      ],
+      "correct": 0,
+      "explanation": "Light criteria are useful for classification; diuretic treatment can complicate interpretation in heart failure.",
+      "type": "High-yield concept check"
+    }
+  ],
+  "images": [],
+  "medicalEditorialStatus": "author-drafted-not-clinician-peer-reviewed",
+  "inlineLinks": []
+}

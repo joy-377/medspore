@@ -5,8 +5,63 @@
   "category": "High-Yield Tables",
   "subject": "Immunization",
   "title": "Vaccine Types, Cold Chain & Contraindications",
-  "preview": "Live vs Killed vaccines, ILR vs Deep Freezer temperatures, and VVM...",
-  "body": "<p><strong>Learning note:</strong> Educational revision content; verify medication doses, protocols and reference ranges against current institutional guidelines before any patient-care use.</p><p><b>Classification:</b><br>• <i>Live Attenuated:</i> BCG, OPV, Measles, Rubella, Mumps, Yellow Fever, Rotavirus, Varicella, JE (Live SA-14-14-2).<br>• <i>Killed / Inactivated:</i> IPV (Salk), Rabies, Pertussis (whole cell), Hepatitis A, Cholera.<br>• <i>Toxoid:</i> Tetanus, Diphtheria.<br>• <i>Subunit / Recombinant:</i> Hepatitis B (HBsAg), HPV, acellular Pertussis (aP).</p><p><b>Cold Chain Equipment &amp; Storage:</b><br>• <i>Standard Temperature:</i> +2&deg;C to +8&deg;C for all vaccines at PHC/district level.<br>• <i>Deep Freezer (-15&deg;C to -25&deg;C):</i> Used exclusively for preparing ice packs and storing OPV/Measles at national/regional stores.<br>• <i>Ice-Lined Refrigerator (ILR):</i> Most vital equipment at PHC level. Bottom holds heat-sensitive vaccines (OPV, Measles); top holds freeze-sensitive vaccines (HepB, DPT, TT, Pentavalent).<br>• <b>Shake Test:</b> Done to identify if freeze-sensitive vaccines (DPT, Td, HepB) were damaged by sub-zero freezing.</p><p><b>Vaccine Vial Monitor (VVM):</b><br>• Usable: Inner square is lighter than outer circle.<br>• Discard: Inner square matches or is darker than outer circle, or past expiry date.</p>",
+  "preview": "Vaccine effectiveness depends on product-specific storage, correct handling and age-appropriate administration.",
+  "body": "",
   "readingMinutes": 2,
-  "reviewStatus": "editorially-reformatted-legacy-content"
+  "reviewStatus": "legacy-medical-fact-check-required",
+  "sections": [
+    {
+      "title": "Recognize vaccine platforms",
+      "type": "table",
+      "points": [
+        "Live attenuated vaccines contain weakened organisms; inactivated and recombinant platforms do not contain replication-competent live pathogens.",
+        "Conjugation enhances immune responses to selected polysaccharide antigens, especially in young children."
+      ]
+    },
+    {
+      "title": "Practical storage principles",
+      "type": "pearl",
+      "points": [
+        "Many refrigerator-stored vaccines require a controlled 2–8°C range, but product labeling and national guidance determine exact conditions.",
+        "Freeze-sensitive products should not be stored where accidental freezing can occur; temperature monitoring and documented handling are essential."
+      ]
+    },
+    {
+      "title": "Exam trap",
+      "type": "trap",
+      "points": [
+        "“Refrigerated” does not mean every vaccine has identical storage requirements.",
+        "Do not assume an accidental temperature excursion is harmless or automatically discard stock before contacting responsible authorities."
+      ]
+    }
+  ],
+  "images": [],
+  "quickRevision": [
+    "Vaccines include live attenuated, inactivated, toxoid, recombinant and conjugate formulations.",
+    "Cold-chain requirements are specific to the product; freezing can permanently damage certain vaccines.",
+    "If a temperature excursion occurs, quarantine affected doses and follow program/manufacturer advice before use or disposal."
+  ],
+  "medicalEditorialStatus": "cautiously-revised-clinician-review-still-recommended",
+  "quiz": [
+    {
+      "question": "What is a principle of vaccine cold-chain management?",
+      "options": [
+        "Ignore temperature excursions",
+        "Continuous product-appropriate temperature control",
+        "Use any storage refrigerator without monitoring",
+        "Freeze all vaccines indiscriminately"
+      ],
+      "correct": 1,
+      "explanation": "Continuous product-appropriate temperature control. Many refrigerator-stored vaccines require a controlled 2–8°C range, but product labeling and national guidance determine exact conditions.",
+      "type": "High-yield recall"
+    }
+  ],
+  "valueSources": [
+    {
+      "label": "Refrigerated vaccine storage range and excursion management",
+      "source": "CDC Vaccine Storage and Handling Toolkit, July 2026",
+      "url": "https://www.cdc.gov/vaccines/hcp/storage-handling/index.html",
+      "note": "Product-specific labeling takes precedence."
+    }
+  ]
 }

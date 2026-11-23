@@ -1,0 +1,63 @@
+{
+  "id": "ART-NEW-0001",
+  "slug": "new-0001-chest-pain-in-the-ed-six-immediately-dangerous-diagnoses",
+  "title": "Chest Pain in the ED: Six Immediately Dangerous Diagnoses",
+  "category": "Clinical Tips",
+  "subject": "Emergency Triage",
+  "preview": "Sudden chest pain with instability requires immediate assessment for acute coronary syndrome, aortic dissection, pulmonary embolism, tension pneumothorax, tamponade and esophageal rupture.",
+  "quickRevision": [
+    "Sudden chest pain with instability requires immediate assessment for acute coronary syndrome, aortic dissection, pulmonary embolism, tension pneumothorax, tamponade and esophageal rupture.",
+    "Aortic dissection may feature abrupt maximal pain and pulse or blood pressure asymmetry; embolism may present with tachycardia, dyspnea and pleuritic pain.",
+    "Use pretest probability and focused examination to choose imaging; urgent threats take priority over labeling pain musculoskeletal."
+  ],
+  "sections": [
+    {
+      "title": "Recognize the situation",
+      "type": "pearl",
+      "points": [
+        "Sudden chest pain with instability requires immediate assessment for acute coronary syndrome, aortic dissection, pulmonary embolism, tension pneumothorax, tamponade and esophageal rupture.",
+        "History, vital signs and a 12-lead ECG guide early triage, but a single normal ECG cannot exclude acute coronary syndrome."
+      ]
+    },
+    {
+      "title": "Clinical decisions & differential",
+      "type": "table",
+      "points": [
+        "Aortic dissection may feature abrupt maximal pain and pulse or blood pressure asymmetry; embolism may present with tachycardia, dyspnea and pleuritic pain.",
+        "Use pretest probability and focused examination to choose imaging; urgent threats take priority over labeling pain musculoskeletal."
+      ]
+    },
+    {
+      "title": "Memory aid",
+      "type": "mnemonic",
+      "points": [
+        "For unstable chest pain, systematically consider six threats: acute coronary syndrome, aortic dissection, pulmonary embolism, tension pneumothorax, tamponade and esophageal rupture.",
+        "This is a red-flag checklist, not a diagnosis from symptoms alone."
+      ]
+    },
+    {
+      "title": "Exam trap — avoid this mistake",
+      "type": "trap",
+      "points": [
+        "Do not discharge a high-risk patient solely because the first troponin or ECG is normal."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Which condition belongs among immediately life-threatening chest-pain causes?",
+      "options": [
+        "Costochondritis",
+        "Stable exertional angina",
+        "Acute aortic dissection",
+        "Uncomplicated reflux"
+      ],
+      "correct": 2,
+      "explanation": "Acute aortic dissection. Sudden chest pain with instability requires immediate assessment for acute coronary syndrome, aortic dissection, pulmonary embolism, tension pneumothorax, tamponade and esophageal rupture.",
+      "type": "High-yield concept check"
+    }
+  ],
+  "images": [],
+  "medicalEditorialStatus": "author-drafted-not-clinician-peer-reviewed",
+  "inlineLinks": []
+}

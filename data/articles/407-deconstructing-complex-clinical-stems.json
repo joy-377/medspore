@@ -8,5 +8,43 @@
   "preview": "Reading the last line, identifying anchors, and spotting examiner traps...",
   "body": "<p><b>1. Read the Last Sentence First:</b><br>Read the final interrogation line before reading the 10-line patient history. This clarifies whether the question asks for a diagnosis, next best step, mechanism of action, or contraindication, preventing redundant re-reading.</p><p><b>2. Identify Age, Gender, and Chronology Anchors:</b><br>• Young female + joint pain + rash = Think SLE.<br>• Elderly male + weight loss + painless jaundice = Think Pancreatic Adenocarcinoma.<br>• Child + periorbital edema + cola-colored urine = Think Post-Streptococcal Glomerulonephritis (PSGN).</p><p><b>3. Avoid the 'Anchor Trap':</b><br>Do not lock into a diagnosis based on a single early symptom if later vital signs and physical findings clearly contradict it.</p>",
   "readingMinutes": 2,
-  "reviewStatus": "editorially-reformatted-legacy-content"
+  "reviewStatus": "legacy-medical-fact-check-required",
+  "sections": [
+    {
+      "title": "1. Read the Last Sentence First",
+      "html": "<p><b>1. Read the Last Sentence First:</b><br/>Read the final interrogation line before reading the 10-line patient history. This clarifies whether the question asks for a diagnosis, next best step, mechanism of action, or contraindication, preventing redundant re-reading.</p>",
+      "type": ""
+    },
+    {
+      "title": "2. Identify Age, Gender, and Chronology Anchors",
+      "html": "<p><b>2. Identify Age, Gender, and Chronology Anchors:</b><br/>• Young female + joint pain + rash = Think SLE.<br/>• Elderly male + weight loss + painless jaundice = Think Pancreatic Adenocarcinoma.<br/>• Child + periorbital edema + cola-colored urine = Think Post-Streptococcal Glomerulonephritis (PSGN).</p>",
+      "type": ""
+    },
+    {
+      "title": "3. Avoid the 'Anchor Trap'",
+      "html": "<p><b>3. Avoid the 'Anchor Trap':</b><br/>Do not lock into a diagnosis based on a single early symptom if later vital signs and physical findings clearly contradict it.</p>",
+      "type": "trap"
+    }
+  ],
+  "images": [],
+  "quickRevision": [
+    "1.; Read the Last Sentence First: Read the final interrogation line before reading the 10-line patient history.",
+    "2.; Identify Age, Gender, and Chronology Anchors; Young female + joint pain + rash = Think SLE.",
+    "3. Avoid the 'Anchor Trap': Do not lock into a diagnosis based on a single early symptom if later vital signs and physical findings clearly contradict it."
+  ],
+  "medicalEditorialStatus": "legacy-requires-clinician-review",
+  "quiz": [
+    {
+      "question": "Which clue often clarifies the actual task of a long clinical stem?",
+      "options": [
+        "The patient's name alone",
+        "The final question line",
+        "Font size",
+        "Option sequence"
+      ],
+      "correct": 1,
+      "explanation": "The final question line. Read the Last Sentence First: Read the final interrogation line before reading the 10-line patient history.",
+      "type": "High-yield recall"
+    }
+  ]
 }

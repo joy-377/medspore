@@ -8,5 +8,37 @@
   "preview": "VSD, ASD, Tetralogy of Fallot, TGA, and classic chest radiograph silhouettes...",
   "body": "<p><b>Acyanotic Congenital Heart Diseases (Left-to-Right Shunts):</b><br>• <b>Ventricular Septal Defect (VSD):</b> Most common congenital heart disease overall. Presents with a loud, harsh <b>Holosystolic murmur</b> at the left lower sternal border. Small defects (Maladie de Roger) produce louder murmurs than large defects.<br>• <b>Atrial Septal Defect (ASD - Ostium Secundum most common):</b> Wide, <b>Fixed split S2</b>; ejection systolic murmur at pulmonary area (due to increased flow, not the defect itself).<br>• <b>Patent Ductus Arteriosus (PDA):</b> Continuous 'machinery murmur' loudest at left infraclavicular area, bounding pulses with wide pulse pressure. Treated with IV Indomethacin / Ibuprofen in preterms.</p><p><b>Cyanotic Congenital Heart Diseases (Right-to-Left Shunts):</b><br>• <b>Tetralogy of Fallot (TOF - Most common cyanotic heart disease after infancy):</b><br>&nbsp;&nbsp;- <i>Components:</i> 1. VSD, 2. Pulmonary Stenosis (infundibular - determines severity), 3. Overriding of Aorta, 4. Right Ventricular Hypertrophy.<br>&nbsp;&nbsp;- <i>Chest X-Ray:</i> <b>'Boot-shaped heart' (Coeur en sabot)</b> with oligemic lung fields.<br>&nbsp;&nbsp;- <i>Hypercyanotic / 'Tet' Spells:</i> Sudden infundibular spasm. Managed by <b>Knee-chest position</b> (increases SVR, decreases R-to-L shunt) + Oxygen + Morphine + IV Propranolol.<br>• <b>Transposition of the Great Arteries (TGA - Most common cyanotic in neonates):</b> Aorta arises from RV, Pulmonary artery from LV. CXR shows <b>'Egg-on-a-string' appearance</b>. Life-saving emergency: Prostaglandin E1 (Alprostadil) infusion to keep PDA open until Rashkind balloon atrial septostomy.</p>",
   "readingMinutes": 2,
-  "reviewStatus": "editorially-reformatted-legacy-content"
+  "reviewStatus": "legacy-medical-fact-check-required",
+  "sections": [
+    {
+      "title": "Acyanotic Congenital Heart Diseases (Left-to-Right Shunts)",
+      "html": "<p><b>Acyanotic Congenital Heart Diseases (Left-to-Right Shunts):</b><br/>• <b>Ventricular Septal Defect (VSD):</b> Most common congenital heart disease overall. Presents with a loud, harsh <b>Holosystolic murmur</b> at the left lower sternal border. Small defects (Maladie de Roger) produce louder murmurs than large defects.<br/>• <b>Atrial Septal Defect (ASD - Ostium Secundum most common):</b> Wide, <b>Fixed split S2</b>; ejection systolic murmur at pulmonary area (due to increased flow, not the defect itself).<br/>• <b>Patent Ductus Arteriosus (PDA):</b> Continuous 'machinery murmur' loudest at left infraclavicular area, bounding pulses with wide pulse pressure. Treated with IV Indomethacin / Ibuprofen in preterms.</p>",
+      "type": ""
+    },
+    {
+      "title": "Cyanotic Congenital Heart Diseases (Right-to-Left Shunts)",
+      "html": "<p><b>Cyanotic Congenital Heart Diseases (Right-to-Left Shunts):</b><br/>• <b>Tetralogy of Fallot (TOF - Most common cyanotic heart disease after infancy):</b><br/>  - <i>Components:</i> 1. VSD, 2. Pulmonary Stenosis (infundibular - determines severity), 3. Overriding of Aorta, 4. Right Ventricular Hypertrophy.<br/>  - <i>Chest X-Ray:</i> <b>'Boot-shaped heart' (Coeur en sabot)</b> with oligemic lung fields.<br/>  - <i>Hypercyanotic / 'Tet' Spells:</i> Sudden infundibular spasm. Managed by <b>Knee-chest position</b> (increases SVR, decreases R-to-L shunt) + Oxygen + Morphine + IV Propranolol.<br/>• <b>Transposition of the Great Arteries (TGA - Most common cyanotic in neonates):</b> Aorta arises from RV, Pulmonary artery from LV. CXR shows <b>'Egg-on-a-string' appearance</b>. Life-saving emergency: Prostaglandin E1 (Alprostadil) infusion to keep PDA open until Rashkind balloon atrial septostomy.</p>",
+      "type": ""
+    }
+  ],
+  "images": [],
+  "quickRevision": [
+    "Acyanotic Congenital Heart Diseases (Left-to-Right Shunts); Ventricular Septal Defect (VSD): Most common congenital heart disease overall.",
+    "Cyanotic Congenital Heart Diseases (Right-to-Left Shunts); Tetralogy of Fallot (TOF - Most common cyanotic heart disease after infancy): - Components: 1."
+  ],
+  "medicalEditorialStatus": "legacy-requires-clinician-review",
+  "quiz": [
+    {
+      "question": "Which condition classically causes cyanotic congenital heart disease?",
+      "options": [
+        "Tetralogy of Fallot",
+        "Uncomplicated patent ductus arteriosus",
+        "Simple isolated ventricular septal defect",
+        "Small isolated atrial septal defect"
+      ],
+      "correct": 0,
+      "explanation": "Cyanotic Congenital Heart Diseases (Right-to-Left Shunts): • Tetralogy of Fallot (TOF - Most common cyanotic heart disease after infancy): - Components: 1.",
+      "type": "High-yield recall"
+    }
+  ]
 }

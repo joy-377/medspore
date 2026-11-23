@@ -1,0 +1,55 @@
+{
+  "id": "ART-NEW-0087",
+  "slug": "new-0087-malaria-smear-findings-falciparum-and-vivax-clues",
+  "title": "Malaria Smear Findings: Falciparum and Vivax Clues",
+  "category": "Second Year MBBS",
+  "subject": "Microbiology",
+  "preview": "Thick blood films improve sensitivity for malaria parasite detection; thin films help species identification and parasitemia assessment.",
+  "quickRevision": [
+    "Thick blood films improve sensitivity for malaria parasite detection; thin films help species identification and parasitemia assessment.",
+    "Repeat sampling may be needed when initial microscopy is negative but clinical suspicion remains high.",
+    "Severity assessment and local drug-resistance guidance determine management."
+  ],
+  "sections": [
+    {
+      "title": "Pathophysiology & identification",
+      "type": "pearl",
+      "points": [
+        "Thick blood films improve sensitivity for malaria parasite detection; thin films help species identification and parasitemia assessment.",
+        "P. falciparum may show multiple delicate rings in one red cell and appliqué forms; P. vivax often enlarges infected red cells."
+      ]
+    },
+    {
+      "title": "Diagnostic and treatment connections",
+      "type": "table",
+      "points": [
+        "Repeat sampling may be needed when initial microscopy is negative but clinical suspicion remains high.",
+        "Severity assessment and local drug-resistance guidance determine management."
+      ]
+    },
+    {
+      "title": "Exam trap — avoid this mistake",
+      "type": "trap",
+      "points": [
+        "Morphology has overlap; do not rely on one smear feature without laboratory quality control."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Which smear is particularly helpful for malaria species identification?",
+      "options": [
+        "Urine sediment alone",
+        "KOH mount",
+        "Routine sputum Gram stain",
+        "Thin film"
+      ],
+      "correct": 3,
+      "explanation": "Thick blood films improve sensitivity for malaria parasite detection; thin films help species identification and parasitemia assessment.",
+      "type": "High-yield concept check"
+    }
+  ],
+  "images": [],
+  "medicalEditorialStatus": "author-drafted-not-clinician-peer-reviewed",
+  "inlineLinks": []
+}

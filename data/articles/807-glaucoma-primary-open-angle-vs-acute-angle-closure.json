@@ -5,8 +5,56 @@
   "category": "Third Year (Part 1)",
   "subject": "Ophthalmology",
   "title": "Glaucoma: Primary Open-Angle vs Acute Angle-Closure",
-  "preview": "Optic disc cupping, gonioscopy, IOP spikes, and laser iridotomy management...",
-  "body": "<p><b>Primary Open-Angle Glaucoma (POAG):</b><br>• <i>Presentation:</i> Asymptomatic, insidious, painless bilateral visual field loss (tunnel vision). IOP often chronically elevated (&gt;21 mmHg). Angle open on Gonioscopy (all 4 structures visible: Schwalbe's line, TM, Scleral spur, Ciliary body band).<br>• <i>Optic Disc Changes:</i> <b>Vertical cup-to-disc ratio &gt; 0.6</b>, asymmetry between eyes &gt; 0.2, bayoneting of vessels, disc hemorrhages.<br>• <i>Visual Field Defects:</i> Isopter contraction &rarr; Seidel scotoma &rarr; Bjerrum arcuate scotoma &rarr; Roenne nasal step &rarr; Tubular vision.<br>• <i>First-Line Medical Therapy:</i> <b>Prostaglandin Analogues</b> (Latanoprost, Bimatoprost - increases uveoscleral outflow).</p><p><b>Acute Angle-Closure Glaucoma (AACG):</b><br>• <i>Presentation:</i> Sudden excruciating eye pain, headache, nausea/vomiting, colored halos around lights (corneal epithelial edema). Rapid vision drop. Precipitated by mydriasis (dark room, anticholinergics).<br>• <i>Examination:</i> Stony hard eyeball, IOP markedly elevated (50–70 mmHg), steamy/hazy cornea, shallow anterior chamber, <b>mid-dilated, vertically oval, non-reactive pupil</b>.<br>• <i>Acute Medical Management:</i> IV Mannitol (osmotic agent) + Topical Timolol + Topical Apraclonidine + Oral Acetazolamide. <i>Pilocarpine (2%)</i> instilled once IOP drops below 30 mmHg (relieves pupillary block).<br>• <i>Definitive Management:</i> <b>Nd:YAG Laser Peripheral Iridotomy (LPI)</b> in the affected eye AND prophylactic LPI in the contralateral fellow eye.</p>",
+  "preview": "Distinguish slowly progressive open-angle glaucoma from acute symptomatic angle closure, an ocular emergency.",
+  "body": "",
   "readingMinutes": 2,
-  "reviewStatus": "editorially-reformatted-legacy-content"
+  "reviewStatus": "legacy-medical-fact-check-required",
+  "sections": [
+    {
+      "title": "Recognize the two major presentations",
+      "type": "table",
+      "points": [
+        "Open-angle glaucoma can produce optic disc cupping and characteristic visual-field defects.",
+        "Acute angle closure may produce corneal haze, a mid-dilated pupil and markedly elevated intraocular pressure, warranting emergency ophthalmic assessment."
+      ]
+    },
+    {
+      "title": "Assessment and treatment principles",
+      "type": "flow",
+      "points": [
+        "Evaluate intraocular pressure, optic nerve, visual field and angle anatomy as indicated.",
+        "Angle closure requires urgent eye-pressure reduction and definitive angle management by an ophthalmologist."
+      ]
+    },
+    {
+      "title": "Exam trap",
+      "type": "trap",
+      "points": [
+        "Normal-range measured pressure does not rule out every form of glaucoma.",
+        "Do not delay treatment of acute painful vision loss while waiting for outpatient investigations."
+      ]
+    }
+  ],
+  "images": [],
+  "quickRevision": [
+    "Glaucoma causes progressive optic nerve damage; intraocular pressure is an important risk factor but a single pressure value is not the diagnosis.",
+    "Open-angle disease often progresses without pain or obvious early vision symptoms.",
+    "Acute angle closure may present with severe ocular pain, red eye, halos, nausea and rapid visual deterioration."
+  ],
+  "medicalEditorialStatus": "cautiously-revised-clinician-review-still-recommended",
+  "quiz": [
+    {
+      "question": "Which glaucoma subtype may present with sudden severe pain and halos?",
+      "options": [
+        "Isolated dry eye",
+        "Stable open-angle glaucoma without acute event",
+        "Acute angle-closure glaucoma",
+        "Presbyopia"
+      ],
+      "correct": 2,
+      "explanation": "Acute angle-closure glaucoma. Acute angle closure may produce corneal haze, a mid-dilated pupil and markedly elevated intraocular pressure, warranting emergency ophthalmic assessment.",
+      "type": "High-yield recall"
+    }
+  ],
+  "valueSources": []
 }

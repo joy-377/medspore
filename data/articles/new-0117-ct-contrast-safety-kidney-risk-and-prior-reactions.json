@@ -1,0 +1,55 @@
+{
+  "id": "ART-NEW-0117",
+  "slug": "new-0117-ct-contrast-safety-kidney-risk-and-prior-reactions",
+  "title": "CT Contrast Safety: Kidney Risk and Prior Reactions",
+  "category": "Final Year (Part 2)",
+  "subject": "Radiology",
+  "preview": "Contrast-related kidney risk depends on baseline kidney function, acute kidney injury, volume status and the specific imaging context.",
+  "quickRevision": [
+    "Contrast-related kidney risk depends on baseline kidney function, acute kidney injury, volume status and the specific imaging context.",
+    "Modern iodinated contrast decisions should balance diagnostic benefit with individual risk; avoid reflexive withholding in emergencies.",
+    "Consider alternatives, hydration when indicated and appropriate documentation under radiology policy."
+  ],
+  "sections": [
+    {
+      "title": "Clinical syndrome and red flags",
+      "type": "pearl",
+      "points": [
+        "Contrast-related kidney risk depends on baseline kidney function, acute kidney injury, volume status and the specific imaging context.",
+        "Prior allergic-like contrast reactions require a separate risk assessment from kidney-related concerns."
+      ]
+    },
+    {
+      "title": "Differentiate and manage",
+      "type": "table",
+      "points": [
+        "Modern iodinated contrast decisions should balance diagnostic benefit with individual risk; avoid reflexive withholding in emergencies.",
+        "Consider alternatives, hydration when indicated and appropriate documentation under radiology policy."
+      ]
+    },
+    {
+      "title": "Exam trap — avoid this mistake",
+      "type": "trap",
+      "points": [
+        "Contrast allergy and contrast-associated kidney injury are different safety issues."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Which history most directly predicts risk of another allergic-like contrast reaction?",
+      "options": [
+        "Chronic myopia",
+        "Seasonal pollen allergy alone",
+        "A prior allergic-like reaction to iodinated contrast",
+        "Old ankle sprain"
+      ],
+      "correct": 2,
+      "explanation": "A prior allergic-like reaction to iodinated contrast. Prior allergic-like contrast reactions require a separate risk assessment from kidney-related concerns.",
+      "type": "High-yield concept check"
+    }
+  ],
+  "images": [],
+  "medicalEditorialStatus": "author-drafted-not-clinician-peer-reviewed",
+  "inlineLinks": []
+}

@@ -5,8 +5,64 @@
   "category": "Critical Lab Values",
   "subject": "Electrolytes",
   "title": "Calcium & Magnesium Diagnostic Pearls",
-  "preview": "Corrected Calcium formula, ECG correlations, and refractory hypokalemia...",
-  "body": "<p><strong>Learning note:</strong> Educational revision content; verify medication doses, protocols and reference ranges against current institutional guidelines before any patient-care use.</p><p><b>Corrected Calcium Formula:</b><br>Corrected Ca (mg/dL) = Measured Total Ca + 0.8 × (4.0 - Serum Albumin). <i>Always calculate this in hypoalbuminemia before treating.</i></p><p><b>Hypocalcemia (Ca &lt; 8.5 mg/dL):</b><br>• <i>Signs:</i> Chvostek's sign (facial twitch on tapping CN VII), Trousseau's sign (carpal spasm with BP cuff).<br>• <i>ECG:</i> Prolonged QT interval (high risk for Torsades de Pointes). Treatment: IV 10% Calcium Gluconate.</p><p><b>Hypercalcemia (Ca &gt; 10.5 mg/dL):</b><br>• <i>Etiologies:</i> Primary Hyperparathyroidism (outpatient) vs Malignancy/PTHrP (inpatient).<br>• <i>ECG:</i> Shortened QT interval. Management: Vigorous IV Saline hydration + IV Bisphosphonates (Zoledronic acid) or Calcitonin.</p><p><b>The Magnesium Connection:</b> Hypomagnesemia impairs PTH release and induces renal potassium wasting. If hypokalemia or hypocalcemia is refractory to treatment, <i>always correct serum magnesium first</i>.</p>",
+  "preview": "Interpret calcium and magnesium disorders using symptoms, ionized calcium and a careful review of albumin and medications.",
+  "body": "",
   "readingMinutes": 2,
-  "reviewStatus": "editorially-reformatted-legacy-content"
+  "reviewStatus": "legacy-medical-fact-check-required",
+  "sections": [
+    {
+      "title": "Check what the calcium test actually measures",
+      "type": "pearl",
+      "points": [
+        "Total calcium is affected by albumin, while ionized calcium reflects the biologically active fraction.",
+        "Albumin-corrected calcium formulas are imperfect, particularly in critical illness, and should not replace ionized measurement when decisions are consequential."
+      ]
+    },
+    {
+      "title": "Recognize the clinical contrasts",
+      "type": "table",
+      "points": [
+        "Hypocalcemia can cause neuromuscular excitability, muscle spasms and prolonged QT interval.",
+        "Hypercalcemia can cause polyuria, thirst, constipation, confusion and a shortened QT interval."
+      ]
+    },
+    {
+      "title": "Choose cause-directed assessment",
+      "type": "flow",
+      "points": [
+        "Review renal function, phosphate, magnesium, parathyroid hormone and vitamin D in the appropriate clinical context.",
+        "Severe symptomatic abnormalities require an urgent, monitored treatment pathway."
+      ]
+    },
+    {
+      "title": "Exam trap: magnesium can be the missing link",
+      "type": "trap",
+      "points": [
+        "Persistent hypocalcemia or hypokalemia despite replacement may reflect hypomagnesemia.",
+        "A single total calcium number without albumin and ionized context can be misleading."
+      ]
+    }
+  ],
+  "images": [],
+  "quickRevision": [
+    "When calcium results conflict with the clinical picture, check ionized calcium rather than relying only on albumin-adjusted totals.",
+    "Symptomatic hypocalcemia may cause perioral tingling, tetany, seizures and QT prolongation; hypercalcemia may cause dehydration and altered cognition.",
+    "Hypomagnesemia can impair parathyroid hormone action and make associated potassium or calcium abnormalities refractory."
+  ],
+  "medicalEditorialStatus": "cautiously-revised-clinician-review-still-recommended",
+  "quiz": [
+    {
+      "question": "Which electrolyte disturbance may occur with hypomagnesemia?",
+      "options": [
+        "Only isolated hyperchloremia",
+        "Refractory hypokalemia",
+        "Universal hypernatremia",
+        "Obligatory hyperphosphatemia"
+      ],
+      "correct": 1,
+      "explanation": "Refractory hypokalemia. Persistent hypocalcemia or hypokalemia despite replacement may reflect hypomagnesemia.",
+      "type": "High-yield recall"
+    }
+  ],
+  "valueSources": []
 }

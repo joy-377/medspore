@@ -1,0 +1,55 @@
+{
+  "id": "ART-NEW-0084",
+  "slug": "new-0084-adverse-drug-reactions-type-a-and-type-b-patterns",
+  "title": "Adverse Drug Reactions: Type A and Type B Patterns",
+  "category": "Second Year MBBS",
+  "subject": "Pharmacology",
+  "preview": "Type A adverse drug reactions are predictable from known pharmacology and often dose-related.",
+  "quickRevision": [
+    "Type A adverse drug reactions are predictable from known pharmacology and often dose-related.",
+    "Examples of Type A patterns include anticoagulant-related bleeding; severe hypersensitivity illustrates an important Type B pattern.",
+    "Detailed timing, concomitant medication and dechallenge information help assess causality."
+  ],
+  "sections": [
+    {
+      "title": "Pathophysiology & identification",
+      "type": "pearl",
+      "points": [
+        "Type A adverse drug reactions are predictable from known pharmacology and often dose-related.",
+        "Type B reactions are usually less predictable and not simply explained by the usual dose-dependent mechanism."
+      ]
+    },
+    {
+      "title": "Diagnostic and treatment connections",
+      "type": "table",
+      "points": [
+        "Examples of Type A patterns include anticoagulant-related bleeding; severe hypersensitivity illustrates an important Type B pattern.",
+        "Detailed timing, concomitant medication and dechallenge information help assess causality."
+      ]
+    },
+    {
+      "title": "Exam trap — avoid this mistake",
+      "type": "trap",
+      "points": [
+        "Do not label every adverse event as an allergy; mechanism matters for future prescribing."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Which ADR class is commonly dose-related and pharmacologically predictable?",
+      "options": [
+        "Type A",
+        "Type B by definition",
+        "All are identical",
+        "Type E only"
+      ],
+      "correct": 0,
+      "explanation": "Type A adverse drug reactions are predictable from known pharmacology and often dose-related.",
+      "type": "High-yield concept check"
+    }
+  ],
+  "images": [],
+  "medicalEditorialStatus": "author-drafted-not-clinician-peer-reviewed",
+  "inlineLinks": []
+}

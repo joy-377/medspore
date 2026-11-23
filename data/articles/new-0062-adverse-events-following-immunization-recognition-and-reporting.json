@@ -1,0 +1,52 @@
+{
+  "id": "ART-NEW-0062",
+  "slug": "new-0062-adverse-events-following-immunization-recognition-and-reporting",
+  "title": "Adverse Events Following Immunization: Recognition and Reporting",
+  "category": "High-Yield Tables",
+  "subject": "Immunization",
+  "preview": "Adverse events following immunization include coincidental events and programmatic errors as well as vaccine-related reactions.",
+  "quickRevision": [
+    "Adverse events following immunization include coincidental events and programmatic errors as well as vaccine-related reactions.",
+    "Report serious or unusual events through the applicable national surveillance system.",
+    "Causality assessment considers timing, clinical findings, background rates and alternative causes."
+  ],
+  "sections": [
+    {
+      "title": "Essential distinctions",
+      "type": "pearl",
+      "points": [
+        "Adverse events following immunization include coincidental events and programmatic errors as well as vaccine-related reactions.",
+        "Anaphylaxis is rare but requires prompt recognition and emergency treatment."
+      ]
+    },
+    {
+      "title": "High-yield comparison table",
+      "type": "table",
+      "html": "<div class=\"ms-table-scroll\"><table class=\"ms-fact-table\"><thead><tr><th scope=\"col\">Review focus</th><th scope=\"col\">High-yield fact</th></tr></thead><tbody><tr><th scope=\"row\">Distinguishing clue</th><td>Report serious or unusual events through the applicable national surveillance system.</td></tr><tr><th scope=\"row\">Clinical implication</th><td>Causality assessment considers timing, clinical findings, background rates and alternative causes.</td></tr></tbody></table></div>"
+    },
+    {
+      "title": "Exam trap — avoid this mistake",
+      "type": "trap",
+      "points": [
+        "A temporal association does not by itself establish that a vaccine caused the event."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Does occurrence after vaccination alone prove causation?",
+      "options": [
+        "Yes, always",
+        "Only if no rash occurs",
+        "Only if the recipient is an adult",
+        "No, alternative causes and causality assessment matter"
+      ],
+      "correct": 3,
+      "explanation": "No, alternative causes and causality assessment matter. Causality assessment considers timing, clinical findings, background rates and alternative causes.",
+      "type": "High-yield concept check"
+    }
+  ],
+  "images": [],
+  "medicalEditorialStatus": "author-drafted-not-clinician-peer-reviewed",
+  "inlineLinks": []
+}

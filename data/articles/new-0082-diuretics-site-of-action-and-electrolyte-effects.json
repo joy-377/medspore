@@ -1,0 +1,55 @@
+{
+  "id": "ART-NEW-0082",
+  "slug": "new-0082-diuretics-site-of-action-and-electrolyte-effects",
+  "title": "Diuretics: Site of Action and Electrolyte Effects",
+  "category": "Second Year MBBS",
+  "subject": "Pharmacology",
+  "preview": "Loop diuretics inhibit NKCC2 in the thick ascending limb and can increase urinary calcium excretion.",
+  "quickRevision": [
+    "Loop diuretics inhibit NKCC2 in the thick ascending limb and can increase urinary calcium excretion.",
+    "Potassium-sparing diuretics act in the collecting system by antagonizing aldosterone or blocking ENaC.",
+    "Monitor sodium, potassium, kidney function and volume status because adverse effects differ by class."
+  ],
+  "sections": [
+    {
+      "title": "Pathophysiology & identification",
+      "type": "pearl",
+      "points": [
+        "Loop diuretics inhibit NKCC2 in the thick ascending limb and can increase urinary calcium excretion.",
+        "Thiazides inhibit NCC in the distal convoluted tubule and reduce urinary calcium excretion."
+      ]
+    },
+    {
+      "title": "Diagnostic and treatment connections",
+      "type": "table",
+      "points": [
+        "Potassium-sparing diuretics act in the collecting system by antagonizing aldosterone or blocking ENaC.",
+        "Monitor sodium, potassium, kidney function and volume status because adverse effects differ by class."
+      ]
+    },
+    {
+      "title": "Exam trap — avoid this mistake",
+      "type": "trap",
+      "points": [
+        "Do not assume all diuretic groups have the same effects on calcium or potassium."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Which transporter is inhibited by loop diuretics?",
+      "options": [
+        "SGLT1",
+        "NCC exclusively",
+        "NKCC2",
+        "Na/K ATPase in all tissues"
+      ],
+      "correct": 2,
+      "explanation": "Loop diuretics inhibit NKCC2 in the thick ascending limb and can increase urinary calcium excretion.",
+      "type": "High-yield concept check"
+    }
+  ],
+  "images": [],
+  "medicalEditorialStatus": "author-drafted-not-clinician-peer-reviewed",
+  "inlineLinks": []
+}

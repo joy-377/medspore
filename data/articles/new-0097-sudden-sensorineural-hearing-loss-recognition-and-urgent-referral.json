@@ -1,0 +1,55 @@
+{
+  "id": "ART-NEW-0097",
+  "slug": "new-0097-sudden-sensorineural-hearing-loss-recognition-and-urgent-referral",
+  "title": "Sudden Sensorineural Hearing Loss: Recognition and Urgent Referral",
+  "category": "Third Year (Part 1)",
+  "subject": "ENT",
+  "preview": "Sudden sensorineural hearing loss is an otologic urgency and may be mistaken for earwax or middle-ear disease.",
+  "quickRevision": [
+    "Sudden sensorineural hearing loss is an otologic urgency and may be mistaken for earwax or middle-ear disease.",
+    "Prompt audiometry and specialist assessment improve diagnostic and treatment decision-making.",
+    "Consider associated neurologic signs that might indicate a central cause."
+  ],
+  "sections": [
+    {
+      "title": "Recognize the core pattern",
+      "type": "pearl",
+      "points": [
+        "Sudden sensorineural hearing loss is an otologic urgency and may be mistaken for earwax or middle-ear disease.",
+        "Use otoscopy and bedside Weber/Rinne assessment to help distinguish conductive from sensorineural impairment."
+      ]
+    },
+    {
+      "title": "Clinical examination and interpretation",
+      "type": "table",
+      "points": [
+        "Prompt audiometry and specialist assessment improve diagnostic and treatment decision-making.",
+        "Consider associated neurologic signs that might indicate a central cause."
+      ]
+    },
+    {
+      "title": "Exam trap — avoid this mistake",
+      "type": "trap",
+      "points": [
+        "Do not delay referral for sudden unexplained hearing loss with a normal-looking ear canal."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Which type of acute hearing loss warrants urgent specialist evaluation?",
+      "options": [
+        "Sudden sensorineural loss",
+        "Normal hearing variation",
+        "Earwax with complete relief after removal",
+        "Long-standing stable presbycusis without change"
+      ],
+      "correct": 0,
+      "explanation": "Sudden sensorineural loss. Sudden sensorineural hearing loss is an otologic urgency and may be mistaken for earwax or middle-ear disease.",
+      "type": "High-yield concept check"
+    }
+  ],
+  "images": [],
+  "medicalEditorialStatus": "author-drafted-not-clinician-peer-reviewed",
+  "inlineLinks": []
+}

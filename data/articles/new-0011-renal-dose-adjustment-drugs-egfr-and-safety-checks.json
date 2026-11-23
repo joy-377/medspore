@@ -1,0 +1,55 @@
+{
+  "id": "ART-NEW-0011",
+  "slug": "new-0011-renal-dose-adjustment-drugs-egfr-and-safety-checks",
+  "title": "Renal Dose Adjustment: Drugs, eGFR and Safety Checks",
+  "category": "Clinical Tips",
+  "subject": "Prescription Pearls",
+  "preview": "Renal drug adjustment considers the drug, kidney function estimate, route, indication and whether kidney function is stable.",
+  "quickRevision": [
+    "Renal drug adjustment considers the drug, kidney function estimate, route, indication and whether kidney function is stable.",
+    "Some drugs have active renally cleared metabolites; accumulation can cause neurotoxicity, hypoglycemia or bleeding.",
+    "Reassess doses after acute kidney injury or recovery and consult the product-specific dosing guidance."
+  ],
+  "sections": [
+    {
+      "title": "Recognize the situation",
+      "type": "pearl",
+      "points": [
+        "Renal drug adjustment considers the drug, kidney function estimate, route, indication and whether kidney function is stable.",
+        "eGFR and creatinine clearance estimates are not always interchangeable for dosing, particularly at extremes of body size or unstable kidney function."
+      ]
+    },
+    {
+      "title": "Clinical decisions & differential",
+      "type": "table",
+      "points": [
+        "Some drugs have active renally cleared metabolites; accumulation can cause neurotoxicity, hypoglycemia or bleeding.",
+        "Reassess doses after acute kidney injury or recovery and consult the product-specific dosing guidance."
+      ]
+    },
+    {
+      "title": "Exam trap — avoid this mistake",
+      "type": "trap",
+      "points": [
+        "Do not use one blanket percentage dose reduction for every renally eliminated medicine."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Which is safest for renal dose adjustment?",
+      "options": [
+        "Drug-specific guidance with current renal assessment",
+        "Using the last year's creatinine alone",
+        "Ignoring active metabolites",
+        "The same dose reduction for all drugs"
+      ],
+      "correct": 0,
+      "explanation": "Drug-specific guidance with current renal assessment. Renal drug adjustment considers the drug, kidney function estimate, route, indication and whether kidney function is stable.",
+      "type": "High-yield concept check"
+    }
+  ],
+  "images": [],
+  "medicalEditorialStatus": "author-drafted-not-clinician-peer-reviewed",
+  "inlineLinks": []
+}

@@ -4,9 +4,63 @@
   "slug": "902-acute-stroke-management-window-timelines",
   "category": "Final Year (Part 2)",
   "subject": "Medicine",
-  "title": "Acute Stroke Management & Window Timelines",
-  "preview": "IV Thrombolysis (rtPA) criteria, mechanical thrombectomy, and BP targets...",
-  "body": "<p><b>Step 1: Emergency Triage &amp; Neuroimaging</b><br>Immediate non-contrast head CT (NCCT) or diffusion-weighted MRI to definitively differentiate Ischemic Stroke from Hemorrhagic Stroke.</p><p><b>Step 2: Intravenous Thrombolysis (IV Alteplase / Tenecteplase):</b><br>• <i>Therapeutic Time Window:</i> Within <b>4.5 hours</b> of symptom onset (or last known normal).<br>• <i>Blood Pressure Mandate:</i> BP must be <b>&lt; 185/110 mmHg</b> before administering rtPA (treat with IV Labetalol or Nicardipine). Maintain BP &lt; 180/105 mmHg for the next 24 hours.<br>• <i>Key Absolute Contraindications:</i> Prior ICH at any time, ischemic stroke or head trauma within past 3 months, active internal bleeding, platelet count &lt; 100,000 /µL, INR &gt; 1.7.</p><p><b>Step 3: Endovascular Mechanical Thrombectomy:</b><br>• Indicated for Large Vessel Occlusions (LVO) of the anterior circulation (Internal Carotid Artery or M1 segment of Middle Cerebral Artery).<br>• Can be performed up to <b>6 to 24 hours</b> from onset in selected patients meeting perfusion mismatch criteria (DAWN and DEFUSE-3 trials).</p>",
+  "title": "Acute Ischemic Stroke: Recognition, Imaging and Reperfusion Decisions",
+  "preview": "Stroke treatment depends on last-known-well time, neurological disability, vessel status and imaging—not one memorized number.",
+  "body": "",
   "readingMinutes": 2,
-  "reviewStatus": "editorially-reformatted-legacy-content"
+  "reviewStatus": "legacy-medical-fact-check-required",
+  "sections": [
+    {
+      "title": "First actions",
+      "type": "flow",
+      "points": [
+        "Activate a stroke system of care and assess whether symptoms are disabling.",
+        "Do not dismiss posterior circulation symptoms such as ataxia or diplopia simply because classic face-arm-speech findings are absent."
+      ]
+    },
+    {
+      "title": "Use the right treatment pathway",
+      "type": "pearl",
+      "points": [
+        "Intravenous thrombolysis is time-dependent in eligible patients; selected extended-window and mechanical thrombectomy strategies use additional clinical and imaging criteria.",
+        "Blood pressure and antithrombotic decisions depend on treatment pathway and contraindications."
+      ]
+    },
+    {
+      "title": "Exam trap",
+      "type": "trap",
+      "points": [
+        "Do not assume a normal early CT rules out ischemic stroke.",
+        "Do not substitute antiplatelet treatment for eligible reperfusion therapy."
+      ]
+    }
+  ],
+  "images": [],
+  "quickRevision": [
+    "Recognize sudden focal deficits; assess airway, glucose, neurological findings and last-known-well time.",
+    "Noncontrast brain imaging is used urgently to assess for hemorrhage and guide reperfusion decisions.",
+    "Eligibility for thrombolysis or thrombectomy depends on clinical and imaging selection under current pathways."
+  ],
+  "medicalEditorialStatus": "topic-specific-reviewed-against-open-authoritative-guidance-not-clinician-peer-reviewed",
+  "inlineLinks": [
+    {
+      "slug": "new-0107-tia-recognition-and-secondary-stroke-prevention-principles",
+      "context": "For a complementary clinical comparison, read"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "What determines eligibility for time-sensitive ischemic stroke treatment?",
+      "options": [
+        "The first blood pressure reading alone",
+        "Any headache",
+        "Age alone",
+        "Last-known-well time, imaging and clinical criteria"
+      ],
+      "correct": 3,
+      "explanation": "Last-known-well time, imaging and clinical criteria. Intravenous thrombolysis is time-dependent in eligible patients; selected extended-window and mechanical thrombectomy strategies use additional clinical and imaging criteria.",
+      "type": "High-yield recall"
+    }
+  ],
+  "valueSources": []
 }

@@ -1,0 +1,55 @@
+{
+  "id": "ART-NEW-0098",
+  "slug": "new-0098-vertigo-at-the-bedside-bppv-versus-central-causes",
+  "title": "Vertigo at the Bedside: BPPV Versus Central Causes",
+  "category": "Third Year (Part 1)",
+  "subject": "ENT",
+  "preview": "Brief positional vertigo triggered by head movement suggests BPPV, whereas continuous severe vertigo requires broader assessment.",
+  "quickRevision": [
+    "Brief positional vertigo triggered by head movement suggests BPPV, whereas continuous severe vertigo requires broader assessment.",
+    "A bedside positional test supports BPPV when performed and interpreted correctly.",
+    "HINTS examination has constraints and should be used by trained clinicians in the appropriate acute vestibular syndrome."
+  ],
+  "sections": [
+    {
+      "title": "Recognize the core pattern",
+      "type": "pearl",
+      "points": [
+        "Brief positional vertigo triggered by head movement suggests BPPV, whereas continuous severe vertigo requires broader assessment.",
+        "Central causes may produce direction-changing nystagmus, marked gait ataxia or focal neurologic deficits."
+      ]
+    },
+    {
+      "title": "Clinical examination and interpretation",
+      "type": "table",
+      "points": [
+        "A bedside positional test supports BPPV when performed and interpreted correctly.",
+        "HINTS examination has constraints and should be used by trained clinicians in the appropriate acute vestibular syndrome."
+      ]
+    },
+    {
+      "title": "Exam trap — avoid this mistake",
+      "type": "trap",
+      "points": [
+        "Do not assume all dizziness with nausea is benign positional vertigo."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Which feature is more concerning for a central cause of acute vertigo?",
+      "options": [
+        "Severe gait ataxia or focal neurologic deficits",
+        "A history of common motion sickness",
+        "Mild ear fullness alone",
+        "Brief position-triggered vertigo with characteristic testing"
+      ],
+      "correct": 0,
+      "explanation": "Severe gait ataxia or focal neurologic deficits. Central causes may produce direction-changing nystagmus, marked gait ataxia or focal neurologic deficits.",
+      "type": "High-yield concept check"
+    }
+  ],
+  "images": [],
+  "medicalEditorialStatus": "author-drafted-not-clinician-peer-reviewed",
+  "inlineLinks": []
+}

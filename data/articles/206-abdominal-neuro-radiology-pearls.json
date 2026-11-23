@@ -5,8 +5,62 @@
   "category": "Triads & Signs",
   "subject": "Radiological Signs",
   "title": "Abdominal & Neuro Radiology Pearls",
-  "preview": "Coffee bean sign, String sign, Apple-core lesion, and neuro imaging signs...",
-  "body": "<ul><li><b>Coffee Bean Sign (Abdominal X-Ray):</b> Massively dilated loop of colon appearing like a coffee bean pointing towards the Right Upper Quadrant. <i>Signifies:</i> Sigmoid Volvulus.</li><li><b>String Sign of Kantor (Barium Enema):</b> Severe narrowing of the terminal ileum. <i>Signifies:</i> Crohn's Disease.</li><li><b>Apple-Core Lesion (Barium Enema):</b> Circumferential narrowing of the colon lumen. <i>Signifies:</i> Colorectal Carcinoma.</li><li><b>Bird's Beak Sign (Barium Swallow):</b> Dilated esophagus tapering to a smooth point at the GE junction. <i>Signifies:</i> Achalasia Cardia.</li><li><b>Lentiform (Lens) Shape on Head CT:</b> Biconvex hyperdensity that does not cross suture lines. <i>Signifies:</i> Epidural Hematoma (Middle Meningeal Artery rupture).</li><li><b>Crescent Shape on Head CT:</b> Concave hyperdensity that CAN cross suture lines. <i>Signifies:</i> Subdural Hematoma (Bridging veins rupture).</li></ul>",
+  "preview": "Classic abdominal and brain imaging signs connect shape to disease but still need full-context interpretation.",
+  "body": "",
   "readingMinutes": 2,
-  "reviewStatus": "editorially-reformatted-legacy-content"
+  "reviewStatus": "legacy-medical-fact-check-required",
+  "sections": [
+    {
+      "title": "Obstruction signs in abdominal imaging",
+      "type": "table",
+      "points": [
+        "Coffee-bean sign: a markedly dilated twisted sigmoid colon in some presentations of sigmoid volvulus.",
+        "Bird-beak sign: tapered gastroesophageal junction on contrast studies of achalasia; other disorders can mimic it."
+      ]
+    },
+    {
+      "title": "Luminal narrowing patterns",
+      "type": "pearl",
+      "points": [
+        "Apple-core narrowing is a classic colonic contrast-imaging clue for annular colorectal carcinoma but is not by itself a histologic diagnosis.",
+        "A string-like narrowed segment in ileal imaging can be seen in Crohn disease, interpreted alongside other findings."
+      ]
+    },
+    {
+      "title": "Head CT extra-axial blood",
+      "type": "table",
+      "points": [
+        "Epidural hematoma is often biconvex; subdural blood is often crescentic.",
+        "Suture boundaries, anatomical location and chronicity affect the imaging appearance and differential."
+      ]
+    },
+    {
+      "title": "Exam trap",
+      "type": "trap",
+      "points": [
+        "A classic image silhouette is a clue, not a universal rule or replacement for clinical evaluation."
+      ]
+    }
+  ],
+  "images": [],
+  "quickRevision": [
+    "Coffee-bean appearance can be associated with sigmoid volvulus; a bird-beak narrowing may occur in achalasia.",
+    "An apple-core colonic lesion suggests a constricting process requiring further investigation.",
+    "Extra-axial hemorrhage patterns on CT are classically lens-shaped for epidural and crescentic for subdural bleeding, with exceptions."
+  ],
+  "medicalEditorialStatus": "structured-clinical-revision-not-clinician-peer-reviewed",
+  "quiz": [
+    {
+      "question": "A crescent-shaped extra-axial collection is classically associated with what?",
+      "options": [
+        "Subdural hematoma",
+        "Subarachnoid blood in sulci only",
+        "Diffuse atrophy",
+        "Epidural hematoma with a biconvex shape"
+      ],
+      "correct": 0,
+      "explanation": "Signifies: Subdural Hematoma (Bridging veins rupture).",
+      "type": "High-yield recall"
+    }
+  ]
 }

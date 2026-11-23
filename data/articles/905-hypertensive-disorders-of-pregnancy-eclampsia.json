@@ -4,9 +4,57 @@
   "slug": "905-hypertensive-disorders-of-pregnancy-eclampsia",
   "category": "Final Year (Part 2)",
   "subject": "OBG",
-  "title": "Hypertensive Disorders of Pregnancy & Eclampsia",
-  "preview": "Preeclampsia diagnostic criteria, HELLP syndrome, and MgSO4 Pritchard regimen...",
-  "body": "<p><b>Preeclampsia Diagnostic Criteria (After 20 Weeks Gestation):</b><br>• New-onset Hypertension (SBP &ge; 140 or DBP &ge; 90 mmHg on two occasions 4 hours apart) in a previously normotensive woman, WITH <b>Proteinuria</b> (&ge; 300 mg/24h or urine protein/Cr ratio &ge; 0.3).<br>• <i>In the absence of proteinuria:</i> Diagnosed if hypertension occurs alongside thrombocytopenia (&lt;100k), renal insufficiency (Cr &gt; 1.1), impaired liver function (transaminases 2x normal), pulmonary edema, or persistent new cerebral/visual disturbances.</p><p><b>HELLP Syndrome:</b> Hemolysis (schistocytes, elevated LDH &gt;600), Elevated Liver enzymes (AST/ALT &ge; 70), and Low Platelets (&lt;100,000 /µL).</p><p><b>Eclampsia &amp; Seizure Prophylaxis (Magnesium Sulfate - MgSO4):</b><br>• <b>Pritchard Regimen:</b><br>&nbsp;&nbsp;- <i>Loading Dose:</i> 4 g IV (20% solution over 5 min) PLUS 10 g IM (5 g of 50% solution deep IM in each buttock).<br>&nbsp;&nbsp;- <i>Maintenance Dose:</i> 5 g IM (50% solution) every 4 hours in alternating buttocks, continuing until 24 hours postpartum or 24 hours after the last seizure.<br>• <b>Monitoring Parameters for MgSO4 Toxicity:</b> 1. Patellar reflex present (disappears first at 8–10 mEq/L), 2. Respiratory rate &ge; 16/min (respiratory arrest at 12–15 mEq/L), 3. Urine output &ge; 30 mL/hr (excreted solely by kidneys).<br>• <b>Antidote for Mg Toxicity:</b> 10 mL of <b>10% Calcium Gluconate IV</b> administered slowly over 10 minutes.</p>",
+  "title": "Preeclampsia and Eclampsia: Clinical Recognition and Escalation",
+  "preview": "High blood pressure after mid-pregnancy plus organ injury can signal preeclampsia even without overt proteinuria.",
+  "body": "",
   "readingMinutes": 2,
-  "reviewStatus": "editorially-reformatted-legacy-content"
+  "reviewStatus": "legacy-medical-fact-check-required",
+  "sections": [
+    {
+      "title": "Recognize maternal and fetal risk",
+      "type": "pearl",
+      "points": [
+        "Severe headache, visual symptoms, breathlessness, severe hypertension, upper abdominal pain and seizures warrant urgent assessment.",
+        "Evaluate fetal status, maternal laboratory tests and gestation while stabilizing the mother."
+      ]
+    },
+    {
+      "title": "Seizure protection and care",
+      "type": "flow",
+      "points": [
+        "Use a protocol-approved magnesium sulfate regimen with monitoring for respiratory compromise, reflexes and urinary function.",
+        "Severe hypertension management, seizure control and the timing of delivery require specialist obstetric coordination."
+      ]
+    },
+    {
+      "title": "Exam trap",
+      "type": "trap",
+      "points": [
+        "Proteinuria is not required when other qualifying organ dysfunction is present.",
+        "Do not regard absence of edema as evidence that preeclampsia cannot be severe."
+      ]
+    }
+  ],
+  "images": [],
+  "quickRevision": [
+    "Preeclampsia may involve hypertension with kidney, liver, hematologic, pulmonary or neurologic consequences.",
+    "Eclampsia is new-onset seizure associated with the hypertensive pregnancy syndrome after other causes are considered.",
+    "Magnesium sulfate is the established anticonvulsant used in eclampsia pathways; obstetric escalation and delivery planning are essential."
+  ],
+  "medicalEditorialStatus": "topic-specific-reviewed-against-open-authoritative-guidance-not-clinician-peer-reviewed",
+  "quiz": [
+    {
+      "question": "What medication is a key seizure-prevention/treatment agent in eclampsia?",
+      "options": [
+        "Magnesium sulfate",
+        "Routine oral iron alone",
+        "Low-dose aspirin as acute seizure reversal",
+        "Vitamin K"
+      ],
+      "correct": 0,
+      "explanation": "Use a protocol-approved magnesium sulfate regimen with monitoring for respiratory compromise, reflexes and urinary function.",
+      "type": "High-yield recall"
+    }
+  ],
+  "valueSources": []
 }

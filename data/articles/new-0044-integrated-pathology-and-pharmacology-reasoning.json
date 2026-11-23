@@ -1,0 +1,55 @@
+{
+  "id": "ART-NEW-0044",
+  "slug": "new-0044-integrated-pathology-and-pharmacology-reasoning",
+  "title": "Integrated Pathology and Pharmacology Reasoning",
+  "category": "Exam Strategy",
+  "subject": "INI-CET Strategy",
+  "preview": "Pathology gives the structural or molecular lesion; pharmacology links that lesion to a therapeutic target.",
+  "quickRevision": [
+    "Pathology gives the structural or molecular lesion; pharmacology links that lesion to a therapeutic target.",
+    "Predict a mechanism-linked adverse effect rather than memorizing unrelated side-effect lists.",
+    "Use the patient's comorbidities and drug interactions when comparing two plausible agents."
+  ],
+  "sections": [
+    {
+      "title": "Recognize the question type",
+      "type": "pearl",
+      "points": [
+        "Pathology gives the structural or molecular lesion; pharmacology links that lesion to a therapeutic target.",
+        "Identify the relevant receptor, enzyme, pathway or cell before choosing a drug effect."
+      ]
+    },
+    {
+      "title": "Use this in timed practice",
+      "type": "table",
+      "points": [
+        "Predict a mechanism-linked adverse effect rather than memorizing unrelated side-effect lists.",
+        "Use the patient's comorbidities and drug interactions when comparing two plausible agents."
+      ]
+    },
+    {
+      "title": "Exam trap — avoid this mistake",
+      "type": "trap",
+      "points": [
+        "Avoid treating every drug in one class as identical in selectivity or adverse-effect profile."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Which concept helps integrate pathology with pharmacology?",
+      "options": [
+        "Grouping all diseases by age alone",
+        "Memorizing only brand names",
+        "Linking disease mechanism to drug target",
+        "Ignoring receptor effects"
+      ],
+      "correct": 2,
+      "explanation": "Linking disease mechanism to drug target. Pathology gives the structural or molecular lesion; pharmacology links that lesion to a therapeutic target.",
+      "type": "High-yield concept check"
+    }
+  ],
+  "images": [],
+  "medicalEditorialStatus": "author-drafted-not-clinician-peer-reviewed",
+  "inlineLinks": []
+}

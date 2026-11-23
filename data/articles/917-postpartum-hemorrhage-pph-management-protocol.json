@@ -4,9 +4,65 @@
   "slug": "917-postpartum-hemorrhage-pph-management-protocol",
   "category": "Final Year (Part 2)",
   "subject": "OBG",
-  "title": "Postpartum Hemorrhage (PPH) Management Protocol",
-  "preview": "The 4 Ts (Tone, Tissue, Trauma, Thrombin), Bakri balloon, and B-Lynch suture...",
-  "body": "<p><b>The 4 Ts of PPH (Etiology Breakdown):</b><br>• <b>Tone (70%):</b> Uterine atony (most common cause). Risk factors: Polyhydramnios, multiple gestation, prolonged labor.<br>• <b>Tissue (20%):</b> Retained placental tissue or membranes.<br>• <b>Trauma (10%):</b> Cervical/vaginal lacerations, uterine rupture, or uterine inversion.<br>• <b>Thrombin (&lt;1%):</b> Pre-existing or acquired coagulopathy (HELLP, DIC, von Willebrand disease).</p><p><b>Stepwise Surgical &amp; Medical Algorithm:</b><br>• <b>Step 1:</b> Bimanual uterine massage + IV Oxytocin infusion (20-40 IU in 1000 mL crystalloid) + Methylergonovine (contraindicated in chronic hypertension) or Carboprost (contraindicated in asthma) / Misoprostol.<br>• <b>Step 2:</b> Uterine balloon tamponade (Bakri balloon or condom catheter filled with 300-500 mL saline).<br>• <b>Step 3:</b> Surgical interventions — B-Lynch compression suture (for atony), Uterine/Internal Iliac artery ligation.<br>• <b>Step 4:</b> Subtotal or Total Peripartum Hysterectomy (the definitive life-saving last resort when bleeding is uncontrollable).</p>",
+  "title": "Postpartum Hemorrhage: Recognition and Emergency Response",
+  "preview": "Rapidly identify excessive postpartum bleeding, resuscitate and address uterine tone, tissue, trauma and coagulation.",
+  "body": "",
   "readingMinutes": 2,
-  "reviewStatus": "editorially-reformatted-legacy-content"
+  "reviewStatus": "legacy-medical-fact-check-required",
+  "sections": [
+    {
+      "title": "Recognize maternal shock",
+      "type": "pearl",
+      "points": [
+        "Blood loss may be underestimated visually, and vital signs may lag; assess cumulative loss and perfusion.",
+        "Activate emergency support early when bleeding persists or maternal physiology worsens."
+      ]
+    },
+    {
+      "title": "Act on the cause",
+      "type": "flow",
+      "points": [
+        "Assess uterine tone and genital tract trauma while coordinating blood products and definitive interventions when necessary.",
+        "Current evidence-based PPH bundles and local protocols guide dose, route and sequencing."
+      ]
+    },
+    {
+      "title": "Memory aid",
+      "type": "mnemonic",
+      "points": [
+        "The four Ts of postpartum hemorrhage: Tone, Tissue, Trauma and Thrombin.",
+        "A firm uterus makes alternative sources such as trauma, tissue and coagulation particularly important to assess."
+      ]
+    },
+    {
+      "title": "Exam trap",
+      "type": "trap",
+      "points": [
+        "A firm uterus with ongoing bleeding should prompt attention to trauma, retained tissue and coagulation causes.",
+        "Do not delay escalation while waiting for an arbitrary blood-loss number."
+      ]
+    }
+  ],
+  "images": [],
+  "quickRevision": [
+    "The four Ts—Tone, Tissue, Trauma and Thrombin—provide a practical framework for causes of postpartum hemorrhage.",
+    "Uterine atony is common, but lacerations, retained tissue and coagulopathy need active assessment.",
+    "A coordinated response combines uterine measures, uterotonics, resuscitation and appropriate escalation."
+  ],
+  "medicalEditorialStatus": "topic-specific-reviewed-against-open-authoritative-guidance-not-clinician-peer-reviewed",
+  "quiz": [
+    {
+      "question": "What is a major immediate treatment component for uterine atony causing PPH?",
+      "options": [
+        "Unrelated oral antihistamine",
+        "Antithyroid therapy",
+        "Uterine massage and appropriate uterotonics",
+        "Routine diuretic alone"
+      ],
+      "correct": 2,
+      "explanation": "Uterine massage and appropriate uterotonics. Assess uterine tone and genital tract trauma while coordinating blood products and definitive interventions when necessary.",
+      "type": "High-yield recall"
+    }
+  ],
+  "valueSources": []
 }

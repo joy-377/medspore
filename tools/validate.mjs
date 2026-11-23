@@ -49,9 +49,9 @@ for(const [p,slug] of [['data/pyq/neetpg.js','neetpg'],['data/pyq/inicet.js','in
 check(EXAMS.neetpg.fullQuestions===180&&EXAMS.neetpg.sections===5&&EXAMS.neetpg.fullMinutes===210,'NEET PG 2026 preset mismatch');
 check(EXAMS.inicet.fullQuestions===200&&EXAMS.inicet.sections===4&&EXAMS.inicet.fullMinutes===180,'INI-CET 2026 preset mismatch');
 check(getTestPreset('neetpg','half').count===90,'NEET PG half mock 90 mismatch');
-check(getTestPreset('inicet','mini').count===40,'INI-CET mini mock 40 mismatch');
+check(getTestPreset('inicet','mini').count===50,'INI-CET mini mock 50 mismatch');
 const articles=JSON.parse(contents('data/articles/index.json'));
-check(articles.length===82,`Expected 82 unique source articles; found ${articles.length}`);
+check(articles.length>=150,`Expected at least 150 unique source articles; found ${articles.length}`);
 const slugs=new Set(),articleIds=new Set();
 for(const a of articles){
  check(!slugs.has(a.slug),`Duplicate article slug ${a.slug}`);slugs.add(a.slug);
@@ -63,7 +63,7 @@ for(const a of articles){
   const article=JSON.parse(contents(file));
   check(article.id===a.id&&article.slug===a.slug,`Metadata mismatch for ${a.slug}`);
   check(typeof article.title==='string'&&article.title.length>=4,`Invalid article title ${a.slug}`);
-  check(typeof article.body==='string'&&article.body.length>=150,`Article body too short: ${a.slug}`);
+  const contentText=[article.preview,...(article.quickRevision||[]),...(article.sections||[]).map(x=>(x.html||x.text||'')+' '+(x.points||[]).join(' '))].join(' ').replace(/<[^>]+>/g,' ');check(contentText.length>=360,`Article study content too short: ${a.slug}`);check(Array.isArray(article.quiz)&&article.quiz.length>=1,`Missing article quiz: ${a.slug}`);for(const q of article.quiz||[])check(q.options?.length===4&&Number.isInteger(q.correct)&&q.correct>=0&&q.correct<4&&q.explanation?.length>25,`Invalid quiz item: ${a.slug}`);
  }
 }
 metrics.articles=articles.length;
@@ -76,7 +76,7 @@ check(!contents('index.html').includes('noindex'), 'Homepage incorrectly noindex
 check(contents('exam/index.html').includes('noindex'), 'Personal exam screen should noindex');
 const robots=contents('robots.txt');check(robots.includes('Sitemap:'),'robots.txt sitemap missing');
 const sitemap=contents('sitemap.xml');let urls=[...sitemap.matchAll(/<loc>([^<]+)<\/loc>/g)].map(x=>x[1]);metrics.sitemapUrls=urls.length;
-check(urls.length===111,`Expected 111 sitemap URLs but got ${urls.length}`);
+check(urls.length===articles.length+29,`Expected ${articles.length+29} sitemap URLs but got ${urls.length}`);
 check(new Set(urls).size===urls.length,'Duplicate sitemap urls');
 for(const u of urls){check(u.startsWith('https://medspore.pages.dev/'),`Wrong canonical origin ${u}`);const route=u.replace('https://medspore.pages.dev/','');const p=route? (route.endsWith('.html')?route:`${route}index.html`):'index.html';check(has(p),`Sitemap references missing HTML: ${p}`)}
 check(contents('index.html').includes('google-adsense-account'),'AdSense verification publisher meta missing');

@@ -1,0 +1,55 @@
+{
+  "id": "ART-NEW-0030",
+  "slug": "new-0030-rovsing-psoas-and-obturator-signs-in-suspected-appendicitis",
+  "title": "Rovsing, Psoas and Obturator Signs in Suspected Appendicitis",
+  "category": "Triads & Signs",
+  "subject": "Eponyms",
+  "preview": "Rovsing sign describes right lower quadrant pain provoked by left lower abdominal palpation.",
+  "quickRevision": [
+    "Rovsing sign describes right lower quadrant pain provoked by left lower abdominal palpation.",
+    "Obturator sign may arise when a pelvic appendix irritates the obturator internus region.",
+    "These signs have limited sensitivity and must be combined with history, examination and imaging when indicated."
+  ],
+  "sections": [
+    {
+      "title": "Recognize the pattern",
+      "type": "pearl",
+      "points": [
+        "Rovsing sign describes right lower quadrant pain provoked by left lower abdominal palpation.",
+        "Psoas sign can reflect irritation involving the iliopsoas region, often with a retrocecal appendix."
+      ]
+    },
+    {
+      "title": "What this finding does—and does not—mean",
+      "type": "table",
+      "points": [
+        "Obturator sign may arise when a pelvic appendix irritates the obturator internus region.",
+        "These signs have limited sensitivity and must be combined with history, examination and imaging when indicated."
+      ]
+    },
+    {
+      "title": "Exam trap — avoid this mistake",
+      "type": "trap",
+      "points": [
+        "The absence of these maneuvers does not exclude appendicitis."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Which sign is right lower quadrant pain elicited on left-sided abdominal palpation?",
+      "options": [
+        "Rovsing sign",
+        "Chvostek sign",
+        "Murphy sign",
+        "Tinel sign"
+      ],
+      "correct": 0,
+      "explanation": "Rovsing sign describes right lower quadrant pain provoked by left lower abdominal palpation.",
+      "type": "High-yield concept check"
+    }
+  ],
+  "images": [],
+  "medicalEditorialStatus": "author-drafted-not-clinician-peer-reviewed",
+  "inlineLinks": []
+}

@@ -1,0 +1,52 @@
+{
+  "id": "ART-NEW-0060",
+  "slug": "new-0060-autism-red-flags-and-developmental-screening-principles",
+  "title": "Autism Red Flags and Developmental Screening Principles",
+  "category": "High-Yield Tables",
+  "subject": "Developmental Milestones",
+  "preview": "Social communication differences, restricted behaviors and developmental concerns merit a comprehensive assessment.",
+  "quickRevision": [
+    "Social communication differences, restricted behaviors and developmental concerns merit a comprehensive assessment.",
+    "Screening identifies children who may need evaluation; a positive screen is not a confirmed autism diagnosis.",
+    "Hearing assessment is important when speech or response-to-name concerns arise."
+  ],
+  "sections": [
+    {
+      "title": "Essential distinctions",
+      "type": "pearl",
+      "points": [
+        "Social communication differences, restricted behaviors and developmental concerns merit a comprehensive assessment.",
+        "Not responding to name, reduced joint attention or loss of language may be warning signs but are not diagnostic by themselves."
+      ]
+    },
+    {
+      "title": "High-yield comparison table",
+      "type": "table",
+      "html": "<div class=\"ms-table-scroll\"><table class=\"ms-fact-table\"><thead><tr><th scope=\"col\">Review focus</th><th scope=\"col\">High-yield fact</th></tr></thead><tbody><tr><th scope=\"row\">Distinguishing clue</th><td>Screening identifies children who may need evaluation; a positive screen is not a confirmed autism diagnosis.</td></tr><tr><th scope=\"row\">Clinical implication</th><td>Hearing assessment is important when speech or response-to-name concerns arise.</td></tr></tbody></table></div>"
+    },
+    {
+      "title": "Exam trap — avoid this mistake",
+      "type": "trap",
+      "points": [
+        "Do not dismiss parental concerns because a child has normal physical growth."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Which is a possible early social-communication red flag?",
+      "options": [
+        "Isolated transient hiccups",
+        "Reduced joint attention",
+        "Unchanged shoe size",
+        "Normal palmar creases"
+      ],
+      "correct": 1,
+      "explanation": "Not responding to name, reduced joint attention or loss of language may be warning signs but are not diagnostic by themselves.",
+      "type": "High-yield concept check"
+    }
+  ],
+  "images": [],
+  "medicalEditorialStatus": "author-drafted-not-clinician-peer-reviewed",
+  "inlineLinks": []
+}

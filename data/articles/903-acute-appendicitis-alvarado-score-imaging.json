@@ -5,8 +5,56 @@
   "category": "Final Year (Part 2)",
   "subject": "Surgery",
   "title": "Acute Appendicitis: Alvarado Score & Imaging",
-  "preview": "Migratory pain, Rovsing/Psoas signs, and CT findings in pediatric vs adult cases...",
-  "body": "<p><b>The Modified Alvarado Score (MANTRELS - Total 10 Points):</b><br>• <b>M:</b> Migratory right iliac fossa pain (1)<br>• <b>A:</b> Anorexia (1)<br>• <b>N:</b> Nausea / vomiting (1)<br>• <b>T:</b> Tenderness in RIF (<b>2 points</b>)<br>• <b>R:</b> Rebound tenderness (1)<br>• <b>E:</b> Elevated temperature &gt;37.3&deg;C (1)<br>• <b>L:</b> Leukocytosis &gt;10,000 /µL (<b>2 points</b>)<br>• <b>S:</b> Shift to left of neutrophils (1)<br><i>Score &ge; 7:</i> Strongly predictive of acute appendicitis; warrants surgical consultation/appendectomy.</p><p><b>Classic Clinical Signs:</b><br>• <i>McBurney's Point:</i> Maximal tenderness at 1/3rd distance from ASIS to umbilicus.<br>• <i>Rovsing's Sign:</i> Palpation of Left Lower Quadrant causes pain in Right Lower Quadrant.<br>• <i>Psoas Sign:</i> Pain on passive extension of right hip (indicates retrocecal appendix).<br>• <i>Obturator Sign:</i> Pain on internal rotation of flexed right hip (indicates pelvic appendix).</p><p><b>Diagnostic Imaging Standards:</b><br>• <i>Adults &amp; Elderly:</i> Contrast-enhanced <b>CT Abdomen</b> (Gold Standard: Appendiceal diameter &gt;6 mm, appendicolith, fat stranding).<br>• <i>Children &amp; Pregnant Females:</i> <b>Graded Compression Ultrasound</b> (non-compressible blind-ended tubular structure &gt;6 mm) or MRI to prevent radiation exposure.</p>",
+  "preview": "Appendicitis is evaluated using the clinical pattern, serial examination, laboratory context and appropriate imaging.",
+  "body": "",
   "readingMinutes": 2,
-  "reviewStatus": "editorially-reformatted-legacy-content"
+  "reviewStatus": "legacy-medical-fact-check-required",
+  "sections": [
+    {
+      "title": "Clinical features",
+      "type": "pearl",
+      "points": [
+        "Pain often begins centrally and localizes to the right lower abdomen; nausea, anorexia and focal tenderness may occur.",
+        "Elderly, pregnant and immunosuppressed patients can have atypical findings."
+      ]
+    },
+    {
+      "title": "Investigation pathway",
+      "type": "flow",
+      "points": [
+        "Combine examination, blood tests and appropriately selected ultrasound or cross-sectional imaging.",
+        "Consider gynecologic, urinary and gastrointestinal mimics when evaluating right lower-quadrant pain."
+      ]
+    },
+    {
+      "title": "Exam trap",
+      "type": "trap",
+      "points": [
+        "Do not diagnose or exclude appendicitis from a single fever cutoff or Alvarado point total.",
+        "Worsening pain, systemic instability or peritoneal signs require urgent reassessment."
+      ]
+    }
+  ],
+  "images": [],
+  "quickRevision": [
+    "Migrating periumbilical-to-right-lower-quadrant pain is classic, but presentations are variable.",
+    "Clinical scores such as Alvarado can assist risk stratification; they are not independent proof of appendicitis.",
+    "Imaging selection depends on age, pregnancy, probability and local expertise."
+  ],
+  "medicalEditorialStatus": "legacy-requires-clinician-review",
+  "quiz": [
+    {
+      "question": "Which finding makes appendicitis assessment more concerning?",
+      "options": [
+        "Migrating pain to right lower quadrant with local tenderness",
+        "Stable visual aura",
+        "Isolated painless chronic constipation",
+        "Only mild itching"
+      ],
+      "correct": 0,
+      "explanation": "Migrating pain to right lower quadrant with local tenderness. • Rovsing's Sign: Palpation of Left Lower Quadrant causes pain in Right Lower Quadrant.",
+      "type": "High-yield recall"
+    }
+  ],
+  "valueSources": []
 }

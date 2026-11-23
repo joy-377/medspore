@@ -1,0 +1,55 @@
+{
+  "id": "ART-NEW-0080",
+  "slug": "new-0080-beta-blockers-receptor-selectivity-and-contraindications",
+  "title": "Beta Blockers: Receptor Selectivity and Contraindications",
+  "category": "Second Year MBBS",
+  "subject": "Pharmacology",
+  "preview": "Beta-1 receptors influence heart rate and contractility; beta-2 receptors influence bronchial and vascular smooth muscle.",
+  "quickRevision": [
+    "Beta-1 receptors influence heart rate and contractility; beta-2 receptors influence bronchial and vascular smooth muscle.",
+    "Nonselective beta blockade can precipitate bronchospasm in susceptible patients.",
+    "Indications and risks vary in heart failure, ischemic heart disease, arrhythmia and pregnancy."
+  ],
+  "sections": [
+    {
+      "title": "Pathophysiology & identification",
+      "type": "pearl",
+      "points": [
+        "Beta-1 receptors influence heart rate and contractility; beta-2 receptors influence bronchial and vascular smooth muscle.",
+        "Cardioselective beta blockers preferentially block beta-1 at usual doses but selectivity is incomplete and dose-dependent."
+      ]
+    },
+    {
+      "title": "Diagnostic and treatment connections",
+      "type": "table",
+      "points": [
+        "Nonselective beta blockade can precipitate bronchospasm in susceptible patients.",
+        "Indications and risks vary in heart failure, ischemic heart disease, arrhythmia and pregnancy."
+      ]
+    },
+    {
+      "title": "Exam trap — avoid this mistake",
+      "type": "trap",
+      "points": [
+        "Do not abruptly stop long-term beta blockers without a plan because rebound sympathetic effects can occur."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Which receptor subtype is most closely linked to cardiac chronotropy?",
+      "options": [
+        "Muscarinic M3",
+        "Beta-1",
+        "Alpha-2 only",
+        "Nicotinic NMJ"
+      ],
+      "correct": 1,
+      "explanation": "Beta-1 receptors influence heart rate and contractility; beta-2 receptors influence bronchial and vascular smooth muscle.",
+      "type": "High-yield concept check"
+    }
+  ],
+  "images": [],
+  "medicalEditorialStatus": "author-drafted-not-clinician-peer-reviewed",
+  "inlineLinks": []
+}

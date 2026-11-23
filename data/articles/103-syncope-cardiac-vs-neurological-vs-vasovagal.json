@@ -5,8 +5,57 @@
   "category": "Clinical Tips",
   "subject": "General Tips",
   "title": "Syncope: Cardiac vs Neurological vs Vasovagal",
-  "preview": "How to differentiate the cause of sudden loss of consciousness at the bedside...",
-  "body": "<p><strong>Learning note:</strong> Educational revision content; verify medication doses, protocols and reference ranges against current institutional guidelines before any patient-care use.</p><p>Syncope is a transient loss of consciousness due to global cerebral hypoperfusion. A careful history can often pinpoint the exact cause:</p><ul><li><b>Vasovagal (Neurocardiogenic) Syncope:</b> Often has a prodrome (nausea, sweating, blurred vision, ringing in ears) and is triggered by prolonged standing, emotional stress, or pain. <i>Recovery is rapid</i> once supine.</li><li><b>Cardiac (Arrhythmogenic) Syncope:</b> Occurs <i>suddenly without any warning or prodrome</i>. Can happen while sitting or supine. Often associated with palpitations or chest pain. High risk of sudden cardiac death.</li><li><b>Orthostatic Hypotension:</b> Occurs exactly upon standing up from a sitting or lying position. Triggered by volume depletion, alpha-blockers, or autonomic neuropathy (Diabetes/Parkinson's).</li><li><b>Seizures (Neurological):</b> Preceded by an aura, followed by tonic-clonic movements, tongue biting, urinary incontinence, and a prolonged post-ictal state (confusion lasting minutes to hours).</li></ul>",
+  "preview": "Syncope is a transient loss of consciousness related to cerebral hypoperfusion; triggers, prodrome, exertional symptoms and cardiac findings guide risk.",
+  "body": "",
   "readingMinutes": 2,
-  "reviewStatus": "editorially-reformatted-legacy-content"
+  "reviewStatus": "legacy-medical-fact-check-required",
+  "sections": [
+    {
+      "title": "Start with red flags",
+      "type": "pearl",
+      "points": [
+        "Evaluate chest pain, palpitations, known heart disease, family history of sudden death, exertional collapse and abnormal ECG.",
+        "Check vital signs and other emergency causes when history suggests instability."
+      ]
+    },
+    {
+      "title": "Compare common mechanisms",
+      "type": "table",
+      "points": [
+        "Vasovagal: prolonged standing, pain or emotional triggers with nausea, sweating or warmth before collapse are common.",
+        "Cardiac: arrhythmia or structural disease may produce sudden or exertional collapse, but absence of a prodrome is not obligatory.",
+        "Orthostatic: symptoms often follow standing; assess hydration, medicines and autonomic causes."
+      ]
+    },
+    {
+      "title": "Exam trap",
+      "type": "trap",
+      "points": [
+        "Seizure is a transient-loss-of-consciousness mimic, not simply another mechanism of circulatory syncope.",
+        "A normal initial ECG cannot exclude every intermittent arrhythmia."
+      ]
+    }
+  ],
+  "images": [],
+  "quickRevision": [
+    "Vasovagal syncope often has a recognizable trigger and prodrome, while exertional or supine syncope raises cardiac concern.",
+    "Orthostatic symptoms follow standing and may reflect medication effects, dehydration or autonomic dysfunction.",
+    "Seizure, hypoglycemia and other causes can mimic syncope; recovery history helps with differentiation."
+  ],
+  "medicalEditorialStatus": "legacy-requires-clinician-review",
+  "quiz": [
+    {
+      "question": "Which feature raises concern for cardiac rather than uncomplicated vasovagal syncope?",
+      "options": [
+        "Nausea with heat exposure",
+        "Syncope during exertion",
+        "Brief lightheadedness after seeing blood",
+        "Prodrome after prolonged standing"
+      ],
+      "correct": 1,
+      "explanation": "Syncope during exertion raises concern for structural heart disease or a rhythm disturbance and needs cardiac assessment, unlike many typical vasovagal episodes with a clear trigger and prodrome.",
+      "type": "High-yield recall"
+    }
+  ],
+  "valueSources": []
 }

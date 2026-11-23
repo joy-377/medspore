@@ -1,0 +1,55 @@
+{
+  "id": "ART-NEW-0010",
+  "slug": "new-0010-anaphylaxis-recognition-and-emergency-priorities",
+  "title": "Anaphylaxis: Recognition and Emergency Priorities",
+  "category": "Clinical Tips",
+  "subject": "Ward Protocols",
+  "preview": "Anaphylaxis is a rapidly developing systemic hypersensitivity reaction involving airway, breathing or circulation; a rash may be absent.",
+  "quickRevision": [
+    "Anaphylaxis is a rapidly developing systemic hypersensitivity reaction involving airway, breathing or circulation; a rash may be absent.",
+    "Airway swelling, wheeze, hypotension and collapse require prompt action and observation for recurrence.",
+    "Antihistamines can relieve some cutaneous symptoms but do not replace adrenaline for life-threatening reactions."
+  ],
+  "sections": [
+    {
+      "title": "Recognize the situation",
+      "type": "pearl",
+      "points": [
+        "Anaphylaxis is a rapidly developing systemic hypersensitivity reaction involving airway, breathing or circulation; a rash may be absent.",
+        "Intramuscular adrenaline in the mid-anterolateral thigh is first-line treatment alongside emergency support."
+      ]
+    },
+    {
+      "title": "Clinical decisions & differential",
+      "type": "table",
+      "points": [
+        "Airway swelling, wheeze, hypotension and collapse require prompt action and observation for recurrence.",
+        "Antihistamines can relieve some cutaneous symptoms but do not replace adrenaline for life-threatening reactions."
+      ]
+    },
+    {
+      "title": "Exam trap — avoid this mistake",
+      "type": "trap",
+      "points": [
+        "Do not delay adrenaline while waiting for a skin rash or laboratory test."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "question": "What is the first-line medication for anaphylaxis?",
+      "options": [
+        "Topical corticosteroid",
+        "Intramuscular adrenaline",
+        "Oral antihistamine alone",
+        "Routine oral antibiotic"
+      ],
+      "correct": 1,
+      "explanation": "Intramuscular adrenaline in the mid-anterolateral thigh is first-line treatment alongside emergency support.",
+      "type": "High-yield concept check"
+    }
+  ],
+  "images": [],
+  "medicalEditorialStatus": "author-drafted-not-clinician-peer-reviewed",
+  "inlineLinks": []
+}

@@ -4,9 +4,57 @@
   "slug": "912-malignant-hyperthermia-crisis-protocol-antidote",
   "category": "Final Year (Part 2)",
   "subject": "Anesthesia",
-  "title": "Malignant Hyperthermia: Crisis Protocol & Antidote",
-  "preview": "RYR1 gene mutation, Succinylcholine trigger, and IV Dantrolene reconstitution...",
-  "body": "<p><b>Pathophysiology:</b><br>Autosomal dominant pharmacogenetic disorder of skeletal muscle sarcoplasmic reticulum calcium release channel (<b>RYR1 gene</b> in &gt;70% of cases, or CACNA1S). Exposure to triggering agents causes uncontrolled, massive myoplasmic calcium release leading to hypermetabolism, sustained muscle rigidity, and rhabdomyolysis.</p><p><b>Triggering Agents:</b><br>• <b>All Halogenated Inhalational Anesthetics</b> (Halothane, Isoflurane, Sevoflurane, Desflurane).<br>• Depolarizing muscle relaxant: <b>Succinylcholine</b>.<br>• <i>Safe Drugs:</i> Propofol, Etomidate, Ketamine, Opioids, Non-depolarizing muscle relaxants (Vecuronium, Rocuronium), and Local anesthetics.</p><p><b>Earliest Clinical Markers:</b><br>1. <b>Unexplained, steep rise in End-Tidal CO2 (EtCO2)</b> refractory to increased minute ventilation (earliest and most reliable sign).<br>2. <b>Masseter muscle spasm / rigidity (Trismus)</b> following succinylcholine administration.<br>3. Sinus tachycardia, tachypnea, unstable BP.<br>• <i>Hyperthermia (&gt;40&deg;C):</i> Highly specific, but typically a <b>late sign</b> (can rise by 1&deg;C every 5 minutes).</p><p><b>Emergency Management Protocol:</b><br>• <b>1. Discontinue Trigger:</b> Stop inhalational agent immediately; hyperventilate with 100% Oxygen at high flow (&ge;10 L/min).<br>• <b>2. Specific Antidote:</b> Administer <b>IV Dantrolene</b> immediately. Initial dose is <b>2.5 mg/kg IV push</b>, repeated every 5–10 minutes until symptoms subside (up to a maximum dose of 10 mg/kg). (Dantrolene binds RYR1 channels and blocks calcium egress).<br>• <b>3. Active Cooling:</b> Cold IV normal saline infusions, surface ice packs over groin, axilla, and neck.<br>• <b>4. Treat Hyperkalemia &amp; Acidosis:</b> IV Calcium gluconate, Insulin + Dextrose, and Sodium bicarbonate.</p>",
+  "title": "Malignant Hyperthermia: Recognize the Anesthetic Emergency",
+  "preview": "Malignant hyperthermia is a hypermetabolic anesthetic crisis; rapid recognition and removal of triggering agents are vital.",
+  "body": "",
   "readingMinutes": 2,
-  "reviewStatus": "editorially-reformatted-legacy-content"
+  "reviewStatus": "legacy-medical-fact-check-required",
+  "sections": [
+    {
+      "title": "Mechanism and recognition",
+      "type": "pearl",
+      "points": [
+        "Dysregulated skeletal-muscle calcium release drives hypermetabolism, heat production and muscle breakdown.",
+        "Hyperthermia may develop after earlier physiologic abnormalities; waiting for a high temperature may delay recognition."
+      ]
+    },
+    {
+      "title": "Emergency management",
+      "type": "flow",
+      "points": [
+        "Stop triggering agents, ventilate with oxygen, administer dantrolene according to the current crisis protocol and correct complications.",
+        "Monitor electrolytes, rhythm, kidney function, temperature and recurrence risk."
+      ]
+    },
+    {
+      "title": "Exam trap",
+      "type": "trap",
+      "points": [
+        "Dantrolene is a specific therapy; naloxone is not the reversal agent for malignant hyperthermia.",
+        "Early ETCO2 rise may be more informative than a late fever spike."
+      ]
+    }
+  ],
+  "images": [],
+  "quickRevision": [
+    "Triggering volatile anesthetics and succinylcholine can provoke malignant hyperthermia in susceptible patients.",
+    "Early clues include rising end-tidal carbon dioxide, tachycardia, rigidity and metabolic or respiratory acidosis.",
+    "Stop triggers, call for help, give dantrolene and provide intensive physiological support using a rehearsed protocol."
+  ],
+  "medicalEditorialStatus": "topic-specific-reviewed-against-open-authoritative-guidance-not-clinician-peer-reviewed",
+  "quiz": [
+    {
+      "question": "Which drug is specifically used to treat malignant hyperthermia?",
+      "options": [
+        "Dantrolene",
+        "Flumazenil",
+        "Vitamin K",
+        "Naloxone"
+      ],
+      "correct": 0,
+      "explanation": "Dantrolene is a specific therapy; naloxone is not the reversal agent for malignant hyperthermia.",
+      "type": "High-yield recall"
+    }
+  ],
+  "valueSources": []
 }

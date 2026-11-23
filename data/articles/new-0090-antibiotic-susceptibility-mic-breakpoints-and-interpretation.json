@@ -1,0 +1,55 @@
+{
+  "id": "ART-NEW-0090",
+  "slug": "new-0090-antibiotic-susceptibility-mic-breakpoints-and-interpretation",
+  "title": "Antibiotic Susceptibility: MIC, Breakpoints and Interpretation",
+  "category": "Second Year MBBS",
+  "subject": "Microbiology",
+  "preview": "MIC measures the lowest tested antimicrobial concentration preventing visible growth under standardized conditions.",
+  "quickRevision": [
+    "MIC measures the lowest tested antimicrobial concentration preventing visible growth under standardized conditions.",
+    "Susceptible does not mean every drug is suitable at every infection site or in every patient.",
+    "Culture context, specimen quality and local guidelines prevent inappropriate treatment of colonization."
+  ],
+  "sections": [
+    {
+      "title": "Pathophysiology & identification",
+      "type": "pearl",
+      "points": [
+        "MIC measures the lowest tested antimicrobial concentration preventing visible growth under standardized conditions.",
+        "Clinical breakpoints classify susceptibility using microbiology, pharmacokinetics, pharmacodynamics and clinical evidence."
+      ]
+    },
+    {
+      "title": "Diagnostic and treatment connections",
+      "type": "table",
+      "points": [
+        "Susceptible does not mean every drug is suitable at every infection site or in every patient.",
+        "Culture context, specimen quality and local guidelines prevent inappropriate treatment of colonization."
+      ]
+    },
+    {
+      "title": "Exam trap — avoid this mistake",
+      "type": "trap",
+      "points": [
+        "An MIC number cannot be interpreted without organism-drug-specific breakpoints and methods."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "question": "What is the MIC?",
+      "options": [
+        "Minimum inhibitory concentration",
+        "Mean infection clearance",
+        "Maximum immunization count",
+        "Minimal inflammatory cell count"
+      ],
+      "correct": 0,
+      "explanation": "Minimum inhibitory concentration. MIC measures the lowest tested antimicrobial concentration preventing visible growth under standardized conditions.",
+      "type": "High-yield concept check"
+    }
+  ],
+  "images": [],
+  "medicalEditorialStatus": "author-drafted-not-clinician-peer-reviewed",
+  "inlineLinks": []
+}

@@ -1,0 +1,52 @@
+{
+  "id": "ART-NEW-0056",
+  "slug": "new-0056-apache-ii-critical-illness-score-and-limitations",
+  "title": "APACHE II: Critical Illness Score and Limitations",
+  "category": "High-Yield Tables",
+  "subject": "Clinical Scoring Systems",
+  "preview": "APACHE II uses acute physiology, age and chronic health factors to characterize severity in critically ill cohorts.",
+  "quickRevision": [
+    "APACHE II uses acute physiology, age and chronic health factors to characterize severity in critically ill cohorts.",
+    "Scores can vary according to the time window and data used.",
+    "Performance depends on case mix and calibration, so published outcome estimates are not universally transferable."
+  ],
+  "sections": [
+    {
+      "title": "Essential distinctions",
+      "type": "pearl",
+      "points": [
+        "APACHE II uses acute physiology, age and chronic health factors to characterize severity in critically ill cohorts.",
+        "It is a prognostic and risk-adjustment tool, not a diagnosis or bedside command to begin a particular treatment."
+      ]
+    },
+    {
+      "title": "High-yield comparison table",
+      "type": "table",
+      "html": "<div class=\"ms-table-scroll\"><table class=\"ms-fact-table\"><thead><tr><th scope=\"col\">Review focus</th><th scope=\"col\">High-yield fact</th></tr></thead><tbody><tr><th scope=\"row\">Distinguishing clue</th><td>Scores can vary according to the time window and data used.</td></tr><tr><th scope=\"row\">Clinical implication</th><td>Performance depends on case mix and calibration, so published outcome estimates are not universally transferable.</td></tr></tbody></table></div>"
+    },
+    {
+      "title": "Exam trap — avoid this mistake",
+      "type": "trap",
+      "points": [
+        "Do not use APACHE II alone to make individual treatment-limitation decisions."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "question": "What is APACHE II primarily used for?",
+      "options": [
+        "Confirming myocardial infarction",
+        "Diagnosing every infection",
+        "Determining blood group",
+        "Critical illness severity and risk stratification"
+      ],
+      "correct": 3,
+      "explanation": "Critical illness severity and risk stratification. APACHE II uses acute physiology, age and chronic health factors to characterize severity in critically ill cohorts.",
+      "type": "High-yield concept check"
+    }
+  ],
+  "images": [],
+  "medicalEditorialStatus": "author-drafted-not-clinician-peer-reviewed",
+  "inlineLinks": []
+}

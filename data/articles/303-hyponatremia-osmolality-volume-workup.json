@@ -4,9 +4,63 @@
   "slug": "303-hyponatremia-osmolality-volume-workup",
   "category": "Critical Lab Values",
   "subject": "Electrolytes",
-  "title": "Hyponatremia: Osmolality & Volume Workup",
-  "preview": "Differentiating Hypovolemic, Euvolemic (SIADH), and Hypervolemic hyponatremia...",
-  "body": "<p><strong>Learning note:</strong> Educational revision content; verify medication doses, protocols and reference ranges against current institutional guidelines before any patient-care use.</p><p><b>Step 1: Confirm True Hyponatremia (Serum Osmolality):</b><br>• High Osmolality (&gt;295 mOsm/kg): Hyperglycemia (Corrected Na = Measured Na + 1.6 × [(Glucose - 100) / 100]).<br>• Normal Osmolality (280–295): Pseudohyponatremia (severe hyperlipidemia or hyperproteinemia).<br>• Low Osmolality (&lt;280): True Hypoosmolar Hyponatremia.</p><p><b>Step 2: Assess Volume Status:</b><br>• <i>Hypovolemic:</i> Dehydration, burns, diuretics. Urine Na &lt; 20 = Extra-renal loss; Urine Na &gt; 20 = Renal loss.<br>• <i>Euvolemic:</i> <b>SIADH</b> (Urine Osm &gt; 100, Urine Na &gt; 40), Hypothyroidism, Adrenal Insufficiency.<br>• <i>Hypervolemic:</i> Congestive Heart Failure, Cirrhosis, Nephrotic syndrome.</p><p><b>⚠️ Critical Pitfall (Correction Limit):</b> Do not correct chronic hyponatremia faster than <b>8–10 mEq/L in 24 hours</b> to avoid fatal <i>Osmotic Demyelination Syndrome (Central Pontine Myelinolysis)</i>.</p>",
+  "title": "Hyponatremia: Osmolality, Symptoms and Safe Correction",
+  "preview": "A stepwise approach separates true hypotonic hyponatremia from translocational or analytical explanations.",
+  "body": "",
   "readingMinutes": 2,
-  "reviewStatus": "editorially-reformatted-legacy-content"
+  "reviewStatus": "legacy-medical-fact-check-required",
+  "sections": [
+    {
+      "title": "Classify by effective osmolality",
+      "type": "table",
+      "points": [
+        "Hyperglycemia can lower measured sodium through water shifts; this differs from true hypotonic water excess.",
+        "Normal measured osmolality in an unexpected low sodium result raises the possibility of a measurement-related problem in selected settings."
+      ]
+    },
+    {
+      "title": "Identify the physiology",
+      "type": "flow",
+      "points": [
+        "Volume status, renal concentrating response, diuretics, endocrine disease and fluid intake guide the differential.",
+        "Management is tailored to symptoms, chronicity, clinical status and measured repeat values."
+      ]
+    },
+    {
+      "title": "Exam trap — correction is not a race",
+      "type": "trap",
+      "points": [
+        "Severe neurological symptoms require emergency supervised management; mild longstanding cases need a different pathway.",
+        "Correction can accelerate unexpectedly after the cause resolves, making frequent monitoring essential."
+      ]
+    }
+  ],
+  "images": [],
+  "quickRevision": [
+    "First evaluate neurological symptoms and measured serum osmolality; do not classify hyponatremia from the sodium number alone.",
+    "After confirming hypotonic hyponatremia, assess volume status, medication causes and urine osmolality/sodium.",
+    "Overly rapid correction of chronic hyponatremia can cause osmotic demyelination."
+  ],
+  "medicalEditorialStatus": "topic-specific-reviewed-against-open-authoritative-guidance-not-clinician-peer-reviewed",
+  "inlineLinks": [
+    {
+      "slug": "new-0035-sodium-correction-avoiding-overly-rapid-changes",
+      "context": "For a complementary clinical comparison, read"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "What is the feared consequence of overly rapid correction of chronic hyponatremia?",
+      "options": [
+        "Pulmonary fibrosis in every case",
+        "Retinal detachment",
+        "Osmotic demyelination",
+        "Iron overload"
+      ],
+      "correct": 2,
+      "explanation": "Rapid correction of chronic hypotonic hyponatremia increases the risk of osmotic demyelination syndrome; safe correction requires repeated sodium and clinical assessment.",
+      "type": "High-yield recall"
+    }
+  ],
+  "valueSources": []
 }

@@ -1,0 +1,55 @@
+{
+  "id": "ART-NEW-0069",
+  "slug": "new-0069-pressure-volume-loops-preload-afterload-and-contractility",
+  "title": "Pressure-Volume Loops: Preload, Afterload and Contractility",
+  "category": "First Year MBBS",
+  "subject": "Physiology",
+  "preview": "The left ventricular pressure-volume loop displays filling, isovolumetric contraction, ejection and isovolumetric relaxation.",
+  "quickRevision": [
+    "The left ventricular pressure-volume loop displays filling, isovolumetric contraction, ejection and isovolumetric relaxation.",
+    "Increasing afterload tends to reduce stroke volume for a given contractility and preload.",
+    "Greater contractility increases the slope of end-systolic pressure-volume relation and lowers end-systolic volume."
+  ],
+  "sections": [
+    {
+      "title": "Core biomedical mechanism",
+      "type": "pearl",
+      "points": [
+        "The left ventricular pressure-volume loop displays filling, isovolumetric contraction, ejection and isovolumetric relaxation.",
+        "Increasing preload generally increases end-diastolic volume and stroke volume within physiological limits."
+      ]
+    },
+    {
+      "title": "Clinical application",
+      "type": "table",
+      "points": [
+        "Increasing afterload tends to reduce stroke volume for a given contractility and preload.",
+        "Greater contractility increases the slope of end-systolic pressure-volume relation and lowers end-systolic volume."
+      ]
+    },
+    {
+      "title": "Exam trap — avoid this mistake",
+      "type": "trap",
+      "points": [
+        "Changes are interdependent; an altered loop should be interpreted using the axis, valve events and clinical setting."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Which part of a PV loop has constant volume while pressure rises?",
+      "options": [
+        "Ventricular filling",
+        "Isovolumetric contraction",
+        "Rapid ejection",
+        "Atrial systole"
+      ],
+      "correct": 1,
+      "explanation": "The left ventricular pressure-volume loop displays filling, isovolumetric contraction, ejection and isovolumetric relaxation.",
+      "type": "High-yield concept check"
+    }
+  ],
+  "images": [],
+  "medicalEditorialStatus": "author-drafted-not-clinician-peer-reviewed",
+  "inlineLinks": []
+}

@@ -1,0 +1,55 @@
+{
+  "id": "ART-NEW-0079",
+  "slug": "new-0079-tumor-suppressor-genes-and-oncogenes-exam-comparison",
+  "title": "Tumor Suppressor Genes and Oncogenes: Exam Comparison",
+  "category": "Second Year MBBS",
+  "subject": "Pathology",
+  "preview": "Proto-oncogenes become oncogenes through gain-of-function changes that promote abnormal growth.",
+  "quickRevision": [
+    "Proto-oncogenes become oncogenes through gain-of-function changes that promote abnormal growth.",
+    "Examples include RAS as an oncogene and RB1 or TP53 as tumor suppressors.",
+    "Alterations can be inherited or acquired; molecular context determines therapeutic implications."
+  ],
+  "sections": [
+    {
+      "title": "Pathophysiology & identification",
+      "type": "pearl",
+      "points": [
+        "Proto-oncogenes become oncogenes through gain-of-function changes that promote abnormal growth.",
+        "Tumor suppressor genes often contribute to cancer through loss of function; the two-hit model is an important conceptual pattern."
+      ]
+    },
+    {
+      "title": "Diagnostic and treatment connections",
+      "type": "table",
+      "points": [
+        "Examples include RAS as an oncogene and RB1 or TP53 as tumor suppressors.",
+        "Alterations can be inherited or acquired; molecular context determines therapeutic implications."
+      ]
+    },
+    {
+      "title": "Exam trap — avoid this mistake",
+      "type": "trap",
+      "points": [
+        "Not every tumor suppressor follows a literal two-hit genetic pattern in all tumors."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Which is a classic proto-oncogene that can become oncogenic?",
+      "options": [
+        "RB1",
+        "APC",
+        "TP53",
+        "RAS"
+      ],
+      "correct": 3,
+      "explanation": "Examples include RAS as an oncogene and RB1 or TP53 as tumor suppressors.",
+      "type": "High-yield concept check"
+    }
+  ],
+  "images": [],
+  "medicalEditorialStatus": "author-drafted-not-clinician-peer-reviewed",
+  "inlineLinks": []
+}

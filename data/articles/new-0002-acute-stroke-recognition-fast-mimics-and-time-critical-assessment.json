@@ -1,0 +1,63 @@
+{
+  "id": "ART-NEW-0002",
+  "slug": "new-0002-acute-stroke-recognition-fast-mimics-and-time-critical-assessment",
+  "title": "Acute Stroke Recognition: FAST, Mimics and Time-Critical Assessment",
+  "category": "Clinical Tips",
+  "subject": "Emergency Triage",
+  "preview": "FAST highlights Face weakness, Arm weakness and Speech disturbance; Time means activating emergency assessment without delay.",
+  "quickRevision": [
+    "FAST highlights Face weakness, Arm weakness and Speech disturbance; Time means activating emergency assessment without delay.",
+    "A posterior-circulation stroke can present with gait ataxia, diplopia, dysarthria or severe imbalance even without classic FAST findings.",
+    "Record last-known-well time and assess urgent brain imaging to separate ischemic from hemorrhagic stroke."
+  ],
+  "sections": [
+    {
+      "title": "Recognize the situation",
+      "type": "pearl",
+      "points": [
+        "FAST highlights Face weakness, Arm weakness and Speech disturbance; Time means activating emergency assessment without delay.",
+        "Check capillary glucose because hypoglycemia can mimic stroke and may be rapidly reversible."
+      ]
+    },
+    {
+      "title": "Clinical decisions & differential",
+      "type": "table",
+      "points": [
+        "A posterior-circulation stroke can present with gait ataxia, diplopia, dysarthria or severe imbalance even without classic FAST findings.",
+        "Record last-known-well time and assess urgent brain imaging to separate ischemic from hemorrhagic stroke."
+      ]
+    },
+    {
+      "title": "Memory aid",
+      "type": "mnemonic",
+      "points": [
+        "FAST: Face drooping, Arm weakness, Speech disturbance, Time to activate stroke care.",
+        "FAST does not reliably cover all posterior circulation presentations: new ataxia, diplopia or severe imbalance still require urgent evaluation."
+      ]
+    },
+    {
+      "title": "Exam trap — avoid this mistake",
+      "type": "trap",
+      "points": [
+        "A normal initial noncontrast CT does not rule out early ischemic stroke."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Which readily reversible condition can imitate acute stroke?",
+      "options": [
+        "Chronic hyperlipidemia",
+        "Stable osteoarthritis",
+        "Hypoglycemia",
+        "Simple myopia"
+      ],
+      "correct": 2,
+      "explanation": "Check capillary glucose because hypoglycemia can mimic stroke and may be rapidly reversible.",
+      "type": "High-yield concept check"
+    }
+  ],
+  "images": [],
+  "medicalEditorialStatus": "author-drafted-not-clinician-peer-reviewed",
+  "inlineLinks": []
+}

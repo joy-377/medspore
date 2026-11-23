@@ -5,8 +5,57 @@
   "category": "First Year MBBS",
   "subject": "Biochemistry",
   "title": "Lipoprotein Metabolism & Familial Dyslipidemias",
-  "preview": "Apo markers, Frederickson classification, and eruptive vs tendinous xanthomas...",
-  "body": "<p><b>Apoprotein Markers &amp; Functions:</b><br>• <b>Apo B-48:</b> Mediates chylomicron secretion from enterocytes into lymphatics.<br>• <b>Apo B-100:</b> Structural protein of VLDL, IDL, LDL; binds to LDL receptor (Apo B-48 and B-100 derived from same gene via RNA editing).<br>• <b>Apo E:</b> Mediates remnant uptake (chylomicron remnants &amp; IDL) by liver LDLR/LRP.<br>• <b>Apo C-II:</b> Essential cofactor that activates <b>Lipoprotein Lipase (LPL)</b>.<br>• <b>Apo A-I:</b> Structural protein of HDL; activates <b>LCAT</b> for cholesterol esterification.</p><p><b>Frederickson Familial Dyslipidemias (High-Yield Types):</b><br>• <b>Type I (Familial Hyperchylomicronemia):</b> LPL or Apo C-II deficiency. Massive increase in Chylomicrons &amp; Triglycerides (&gt;1000 mg/dL). Creamy supernatant layer; <b>Eruptive xanthomas</b>, acute recurrent pancreatitis. No increased risk of CAD.<br>• <b>Type IIa (Familial Hypercholesterolemia):</b> Absent/defective LDL receptors or Apo B-100. Severe elevation of LDL &amp; total cholesterol. Accelerated atherosclerosis, <b>Tendon xanthomas</b> (Achilles tendon), corneal arcus.<br>• <b>Type III (Familial Dysbetalipoproteinemia):</b> Apo E2 homozygosity (defective remnant uptake). Elevated Chylomicrons &amp; VLDL remnants. <b>Palmar xanthomas</b> and early coronary disease.</p>",
+  "preview": "Lipoprotein metabolism is easier when each apoprotein is linked to its key transport role.",
+  "body": "",
   "readingMinutes": 2,
-  "reviewStatus": "editorially-reformatted-legacy-content"
+  "reviewStatus": "legacy-medical-fact-check-required",
+  "sections": [
+    {
+      "title": "Key apoproteins at a glance",
+      "type": "table",
+      "points": [
+        "ApoB-48: chylomicron structure and intestinal lipoprotein assembly.",
+        "ApoB-100: hepatic VLDL/LDL structural protein and LDL receptor interaction.",
+        "ApoC-II: activator of lipoprotein lipase; ApoE: hepatic remnant uptake; ApoA-I: HDL structure and LCAT activation."
+      ]
+    },
+    {
+      "title": "Different genetic patterns",
+      "type": "pearl",
+      "points": [
+        "Familial chylomicronemia impairs clearance of triglyceride-rich lipoproteins and can cause recurrent pancreatitis.",
+        "Familial hypercholesterolemia commonly involves LDL receptor pathway defects with accelerated atherosclerosis and tendon xanthomas."
+      ]
+    },
+    {
+      "title": "Exam trap",
+      "type": "trap",
+      "points": [
+        "Severe triglyceride elevation is not interchangeable with isolated LDL elevation.",
+        "A normal total cholesterol result does not exclude every inherited lipoprotein disorder."
+      ]
+    }
+  ],
+  "images": [],
+  "quickRevision": [
+    "ApoB-48 is associated with intestinal chylomicrons; ApoB-100 supports LDL receptor binding.",
+    "ApoC-II supports lipoprotein lipase, while ApoE helps remnant clearance.",
+    "Very high triglycerides can raise pancreatitis risk, whereas LDL-associated disorders chiefly affect atherosclerotic risk."
+  ],
+  "medicalEditorialStatus": "cautiously-revised-clinician-review-still-recommended",
+  "quiz": [
+    {
+      "question": "Familial hypercholesterolemia commonly involves impaired handling of what?",
+      "options": [
+        "Hemoglobin oxygen affinity only",
+        "LDL particles",
+        "CSF glucose",
+        "Bile pigment clearance alone"
+      ],
+      "correct": 1,
+      "explanation": "LDL particles. Familial hypercholesterolemia commonly involves LDL receptor pathway defects with accelerated atherosclerosis and tendon xanthomas.",
+      "type": "High-yield recall"
+    }
+  ],
+  "valueSources": []
 }

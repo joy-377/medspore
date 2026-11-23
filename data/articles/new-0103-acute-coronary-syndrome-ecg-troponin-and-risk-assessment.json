@@ -1,0 +1,55 @@
+{
+  "id": "ART-NEW-0103",
+  "slug": "new-0103-acute-coronary-syndrome-ecg-troponin-and-risk-assessment",
+  "title": "Acute Coronary Syndrome: ECG, Troponin and Risk Assessment",
+  "category": "Final Year (Part 2)",
+  "subject": "Medicine",
+  "preview": "Acute coronary syndrome includes unstable angina, NSTEMI and STEMI, with differences in ECG and myocardial injury evidence.",
+  "quickRevision": [
+    "Acute coronary syndrome includes unstable angina, NSTEMI and STEMI, with differences in ECG and myocardial injury evidence.",
+    "Time-sensitive reperfusion pathways apply to suitable STEMI patterns; alternatives such as aortic dissection remain important in atypical cases.",
+    "Antiplatelet and anticoagulant decisions depend on diagnosis, bleeding risk and local pathways."
+  ],
+  "sections": [
+    {
+      "title": "Clinical syndrome and red flags",
+      "type": "pearl",
+      "points": [
+        "Acute coronary syndrome includes unstable angina, NSTEMI and STEMI, with differences in ECG and myocardial injury evidence.",
+        "Serial ECG and high-sensitivity troponin measurements help evaluate an evolving presentation."
+      ]
+    },
+    {
+      "title": "Differentiate and manage",
+      "type": "table",
+      "points": [
+        "Time-sensitive reperfusion pathways apply to suitable STEMI patterns; alternatives such as aortic dissection remain important in atypical cases.",
+        "Antiplatelet and anticoagulant decisions depend on diagnosis, bleeding risk and local pathways."
+      ]
+    },
+    {
+      "title": "Exam trap — avoid this mistake",
+      "type": "trap",
+      "points": [
+        "A single normal early troponin does not exclude a developing acute coronary syndrome."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Which marker is used to detect acute myocardial injury in ACS evaluation?",
+      "options": [
+        "Cardiac troponin",
+        "TSH only",
+        "Serum amylase alone",
+        "Total calcium only"
+      ],
+      "correct": 0,
+      "explanation": "Cardiac troponin. A single normal early troponin does not exclude a developing acute coronary syndrome.",
+      "type": "High-yield concept check"
+    }
+  ],
+  "images": [],
+  "medicalEditorialStatus": "author-drafted-not-clinician-peer-reviewed",
+  "inlineLinks": []
+}

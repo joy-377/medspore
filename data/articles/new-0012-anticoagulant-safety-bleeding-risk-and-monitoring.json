@@ -1,0 +1,55 @@
+{
+  "id": "ART-NEW-0012",
+  "slug": "new-0012-anticoagulant-safety-bleeding-risk-and-monitoring",
+  "title": "Anticoagulant Safety: Bleeding Risk and Monitoring",
+  "category": "Clinical Tips",
+  "subject": "Prescription Pearls",
+  "preview": "Anticoagulants reduce thrombosis risk but carry bleeding risk; indication, renal function, interactions and procedure plans matter.",
+  "quickRevision": [
+    "Anticoagulants reduce thrombosis risk but carry bleeding risk; indication, renal function, interactions and procedure plans matter.",
+    "Check concomitant antiplatelets, NSAIDs and bleeding history, and document the plan for missed doses or procedures.",
+    "Bleeding management depends on severity, timing of the last dose and anticoagulant-specific reversal availability."
+  ],
+  "sections": [
+    {
+      "title": "Recognize the situation",
+      "type": "pearl",
+      "points": [
+        "Anticoagulants reduce thrombosis risk but carry bleeding risk; indication, renal function, interactions and procedure plans matter.",
+        "Warfarin is monitored with INR; direct oral anticoagulants generally do not use INR as routine therapeutic monitoring."
+      ]
+    },
+    {
+      "title": "Clinical decisions & differential",
+      "type": "table",
+      "points": [
+        "Check concomitant antiplatelets, NSAIDs and bleeding history, and document the plan for missed doses or procedures.",
+        "Bleeding management depends on severity, timing of the last dose and anticoagulant-specific reversal availability."
+      ]
+    },
+    {
+      "title": "Exam trap — avoid this mistake",
+      "type": "trap",
+      "points": [
+        "A normal INR does not prove that a direct oral anticoagulant has no effect."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Which test is routinely used to monitor warfarin?",
+      "options": [
+        "HbA1c",
+        "Peak expiratory flow",
+        "Serum amylase",
+        "INR"
+      ],
+      "correct": 3,
+      "explanation": "Warfarin is monitored with INR; direct oral anticoagulants generally do not use INR as routine therapeutic monitoring.",
+      "type": "High-yield concept check"
+    }
+  ],
+  "images": [],
+  "medicalEditorialStatus": "author-drafted-not-clinician-peer-reviewed",
+  "inlineLinks": []
+}

@@ -1,0 +1,55 @@
+{
+  "id": "ART-NEW-0027",
+  "slug": "new-0027-small-bowel-obstruction-step-ladder-pattern-and-transition-point",
+  "title": "Small-Bowel Obstruction: Step-Ladder Pattern and Transition Point",
+  "category": "Triads & Signs",
+  "subject": "Radiological Signs",
+  "preview": "Dilated small bowel loops and multiple air–fluid levels can suggest small-bowel obstruction.",
+  "quickRevision": [
+    "Dilated small bowel loops and multiple air–fluid levels can suggest small-bowel obstruction.",
+    "Prior abdominal surgery raises the likelihood of adhesions, but hernia and malignancy remain important differentials.",
+    "Severe persistent pain, fever, peritoneal signs and rising lactate may raise concern for compromised bowel."
+  ],
+  "sections": [
+    {
+      "title": "Recognize the pattern",
+      "type": "pearl",
+      "points": [
+        "Dilated small bowel loops and multiple air–fluid levels can suggest small-bowel obstruction.",
+        "CT can help identify a transition point, cause, strangulation or ischemic complications."
+      ]
+    },
+    {
+      "title": "What this finding does—and does not—mean",
+      "type": "table",
+      "points": [
+        "Prior abdominal surgery raises the likelihood of adhesions, but hernia and malignancy remain important differentials.",
+        "Severe persistent pain, fever, peritoneal signs and rising lactate may raise concern for compromised bowel."
+      ]
+    },
+    {
+      "title": "Exam trap — avoid this mistake",
+      "type": "trap",
+      "points": [
+        "Plain radiographic patterns are not sufficiently specific to identify the precise cause or exclude ischemia."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "question": "What does a CT transition point help localize?",
+      "options": [
+        "The retinal blind spot",
+        "The site of intestinal obstruction",
+        "A cardiac valve lesion",
+        "The ureteric orifice"
+      ],
+      "correct": 1,
+      "explanation": "The site of intestinal obstruction. CT can help identify a transition point, cause, strangulation or ischemic complications.",
+      "type": "High-yield concept check"
+    }
+  ],
+  "images": [],
+  "medicalEditorialStatus": "author-drafted-not-clinician-peer-reviewed",
+  "inlineLinks": []
+}

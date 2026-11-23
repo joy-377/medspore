@@ -1,0 +1,55 @@
+{
+  "id": "ART-NEW-0114",
+  "slug": "new-0114-dehydration-in-children-clinical-assessment",
+  "title": "Dehydration in Children: Clinical Assessment",
+  "category": "Final Year (Part 2)",
+  "subject": "Pediatrics",
+  "preview": "Children with dehydration may have reduced urine output, dry mucosae, sunken eyes, thirst or altered activity.",
+  "quickRevision": [
+    "Children with dehydration may have reduced urine output, dry mucosae, sunken eyes, thirst or altered activity.",
+    "Oral rehydration is suitable for many mild to moderate cases when the child can drink; severe illness needs urgent supervised treatment.",
+    "Fluid plans account for ongoing losses, age and comorbidity."
+  ],
+  "sections": [
+    {
+      "title": "Clinical syndrome and red flags",
+      "type": "pearl",
+      "points": [
+        "Children with dehydration may have reduced urine output, dry mucosae, sunken eyes, thirst or altered activity.",
+        "Assess mental status, capillary refill, pulse, breathing and ability to drink rather than relying only on skin turgor."
+      ]
+    },
+    {
+      "title": "Differentiate and manage",
+      "type": "table",
+      "points": [
+        "Oral rehydration is suitable for many mild to moderate cases when the child can drink; severe illness needs urgent supervised treatment.",
+        "Fluid plans account for ongoing losses, age and comorbidity."
+      ]
+    },
+    {
+      "title": "Exam trap — avoid this mistake",
+      "type": "trap",
+      "points": [
+        "A single sign does not precisely quantify dehydration severity in every child."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Which finding supports clinically significant dehydration?",
+      "options": [
+        "Reduced urine output with lethargy",
+        "Normal drinking and activity",
+        "Isolated tooth eruption",
+        "Normal bowel sounds alone"
+      ],
+      "correct": 0,
+      "explanation": "Reduced urine output with lethargy. Children with dehydration may have reduced urine output, dry mucosae, sunken eyes, thirst or altered activity.",
+      "type": "High-yield concept check"
+    }
+  ],
+  "images": [],
+  "medicalEditorialStatus": "author-drafted-not-clinician-peer-reviewed",
+  "inlineLinks": []
+}

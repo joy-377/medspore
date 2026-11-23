@@ -1,0 +1,55 @@
+{
+  "id": "ART-NEW-0008",
+  "slug": "new-0008-hypoglycemia-at-the-bedside-recognition-and-reassessment",
+  "title": "Hypoglycemia at the Bedside: Recognition and Reassessment",
+  "category": "Clinical Tips",
+  "subject": "Ward Protocols",
+  "preview": "Hypoglycemia may produce sweating, tremor, hunger, confusion, seizure or reduced consciousness.",
+  "quickRevision": [
+    "Hypoglycemia may produce sweating, tremor, hunger, confusion, seizure or reduced consciousness.",
+    "Recheck glucose and assess recurrence risk, especially with long-acting insulin or sulfonylureas.",
+    "Investigate missed meals, renal impairment, medication mismatch and acute illness after stabilizing the patient."
+  ],
+  "sections": [
+    {
+      "title": "Recognize the situation",
+      "type": "pearl",
+      "points": [
+        "Hypoglycemia may produce sweating, tremor, hunger, confusion, seizure or reduced consciousness.",
+        "Confirm glucose promptly and provide appropriate glucose treatment using a safe route based on consciousness and swallowing ability."
+      ]
+    },
+    {
+      "title": "Clinical decisions & differential",
+      "type": "table",
+      "points": [
+        "Recheck glucose and assess recurrence risk, especially with long-acting insulin or sulfonylureas.",
+        "Investigate missed meals, renal impairment, medication mismatch and acute illness after stabilizing the patient."
+      ]
+    },
+    {
+      "title": "Exam trap — avoid this mistake",
+      "type": "trap",
+      "points": [
+        "Do not give oral intake to a patient unable to protect their airway."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Which patient needs a nonoral route of glucose treatment?",
+      "options": [
+        "An unconscious patient unable to swallow",
+        "A patient with normal glucose and headache",
+        "A patient requesting routine vitamins",
+        "An alert patient swallowing safely"
+      ],
+      "correct": 0,
+      "explanation": "An unconscious patient unable to swallow. Do not give oral intake to a patient unable to protect their airway.",
+      "type": "High-yield concept check"
+    }
+  ],
+  "images": [],
+  "medicalEditorialStatus": "author-drafted-not-clinician-peer-reviewed",
+  "inlineLinks": []
+}

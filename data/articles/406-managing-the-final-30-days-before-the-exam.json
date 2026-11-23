@@ -5,8 +5,56 @@
   "category": "Exam Strategy",
   "subject": "Time Management",
   "title": "Managing the Final 30 Days Before the Exam",
-  "preview": "The 20th notebook revision, avoiding new sources, and active testing...",
-  "body": "<p><b>1. Freeze Your Resources:</b><br>Do not start new textbooks, coaching notes, or lecture videos in the last month. Trust your primary resource and revise only what has already been marked.</p><p><b>2. Master the '20th Notebook' (High-Yield Volatile Sheet):</b><br>Dedicate the last 7 days exclusively to volatile memory items: Developmental milestones, IPC sections, biostatistical formulas, chromosome associations, and named signs.</p><p><b>3. Taper Mock Tests:</b><br>Stop taking full grand mocks 5–7 days before the main exam. A difficult mock just before the exam can damage confidence. Shift entirely to revision and previous year questions (PYQs).</p>",
+  "preview": "Use the final revision period for consolidation, error correction and sustainable timed practice.",
+  "body": "",
   "readingMinutes": 2,
-  "reviewStatus": "editorially-reformatted-legacy-content"
+  "reviewStatus": "legacy-medical-fact-check-required",
+  "sections": [
+    {
+      "title": "Consolidate efficiently",
+      "type": "flow",
+      "points": [
+        "Review your existing core resources and high-risk areas; a large last-minute source switch can create confusion.",
+        "Use targeted practice to distinguish “forgotten knowledge” from “misread stem” errors."
+      ]
+    },
+    {
+      "title": "Protect performance",
+      "type": "pearl",
+      "points": [
+        "Schedule breaks and sleep to preserve attention and retrieval.",
+        "Measure progress with unfamiliar practice questions, not only notes that feel easy to recognize."
+      ]
+    },
+    {
+      "title": "Exam trap",
+      "type": "trap",
+      "points": [
+        "Do not invent a universal countdown plan that ignores each student’s starting point.",
+        "A last-minute flood of new material can displace well-consolidated knowledge."
+      ]
+    }
+  ],
+  "images": [],
+  "quickRevision": [
+    "Prioritize recurring mistakes and previously studied high-value concepts.",
+    "Use short retrieval sessions, carefully selected timed tests and deliberate recovery.",
+    "Adjust the plan to the official upcoming examination schedule and personal performance."
+  ],
+  "medicalEditorialStatus": "legacy-requires-clinician-review",
+  "quiz": [
+    {
+      "question": "What is a sensible final-month exam priority?",
+      "options": [
+        "Eliminating sleep",
+        "Starting every new textbook",
+        "Avoiding all timed practice",
+        "Targeted active recall with weakness repair"
+      ],
+      "correct": 3,
+      "explanation": "Targeted active recall with weakness repair. Freeze Your Resources: Do not start new textbooks, coaching notes, or lecture videos in the last month.",
+      "type": "High-yield recall"
+    }
+  ],
+  "valueSources": []
 }

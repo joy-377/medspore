@@ -1,0 +1,55 @@
+{
+  "id": "ART-NEW-0029",
+  "slug": "new-0029-murphy-sign-and-acute-cholecystitis-interpretation-limits",
+  "title": "Murphy Sign and Acute Cholecystitis: Interpretation Limits",
+  "category": "Triads & Signs",
+  "subject": "Eponyms",
+  "preview": "Murphy sign is inspiratory arrest with pain during right upper quadrant palpation.",
+  "quickRevision": [
+    "Murphy sign is inspiratory arrest with pain during right upper quadrant palpation.",
+    "Ultrasound findings, systemic inflammation and a compatible symptom pattern improve interpretation.",
+    "A negative Murphy sign can occur in older patients or severe disease; consider the whole clinical picture."
+  ],
+  "sections": [
+    {
+      "title": "Recognize the pattern",
+      "type": "pearl",
+      "points": [
+        "Murphy sign is inspiratory arrest with pain during right upper quadrant palpation.",
+        "A positive sign can support acute cholecystitis but is not diagnostic in isolation."
+      ]
+    },
+    {
+      "title": "What this finding does—and does not—mean",
+      "type": "table",
+      "points": [
+        "Ultrasound findings, systemic inflammation and a compatible symptom pattern improve interpretation.",
+        "A negative Murphy sign can occur in older patients or severe disease; consider the whole clinical picture."
+      ]
+    },
+    {
+      "title": "Exam trap — avoid this mistake",
+      "type": "trap",
+      "points": [
+        "Do not confuse Murphy sign with Charcot triad, which suggests cholangitis."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Murphy sign is classically associated with which condition?",
+      "options": [
+        "Deep vein thrombosis",
+        "Acute cholecystitis",
+        "Otitis media",
+        "Acute glaucoma"
+      ],
+      "correct": 1,
+      "explanation": "A positive sign can support acute cholecystitis but is not diagnostic in isolation.",
+      "type": "High-yield concept check"
+    }
+  ],
+  "images": [],
+  "medicalEditorialStatus": "author-drafted-not-clinician-peer-reviewed",
+  "inlineLinks": []
+}

@@ -1,0 +1,55 @@
+{
+  "id": "ART-NEW-0110",
+  "slug": "new-0110-breast-lump-evaluation-triple-assessment-principles",
+  "title": "Breast Lump Evaluation: Triple Assessment Principles",
+  "category": "Final Year (Part 2)",
+  "subject": "Surgery",
+  "preview": "Triple assessment of a breast lump integrates clinical examination, appropriate imaging and tissue diagnosis when indicated.",
+  "quickRevision": [
+    "Triple assessment of a breast lump integrates clinical examination, appropriate imaging and tissue diagnosis when indicated.",
+    "A suspicious palpable lump may need biopsy even when one imaging test is reassuring.",
+    "Assessment includes skin, nipple changes, nodes and family or personal risk history."
+  ],
+  "sections": [
+    {
+      "title": "Clinical syndrome and red flags",
+      "type": "pearl",
+      "points": [
+        "Triple assessment of a breast lump integrates clinical examination, appropriate imaging and tissue diagnosis when indicated.",
+        "Imaging is chosen by patient age, presentation and local guidelines rather than one universal modality."
+      ]
+    },
+    {
+      "title": "Differentiate and manage",
+      "type": "table",
+      "points": [
+        "A suspicious palpable lump may need biopsy even when one imaging test is reassuring.",
+        "Assessment includes skin, nipple changes, nodes and family or personal risk history."
+      ]
+    },
+    {
+      "title": "Exam trap — avoid this mistake",
+      "type": "trap",
+      "points": [
+        "Do not label a persistent suspicious lump benign solely from a normal single test."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "question": "What are the components of breast lump triple assessment?",
+      "options": [
+        "History alone",
+        "Clinical exam, imaging and tissue sampling when indicated",
+        "Blood group, ECG and EEG",
+        "Urine test, fundoscopy and spirometry"
+      ],
+      "correct": 1,
+      "explanation": "Clinical exam, imaging and tissue sampling when indicated. Triple assessment of a breast lump integrates clinical examination, appropriate imaging and tissue diagnosis when indicated.",
+      "type": "High-yield concept check"
+    }
+  ],
+  "images": [],
+  "medicalEditorialStatus": "author-drafted-not-clinician-peer-reviewed",
+  "inlineLinks": []
+}

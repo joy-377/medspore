@@ -1,0 +1,55 @@
+{
+  "id": "ART-NEW-0039",
+  "slug": "new-0039-troponin-rise-and-fall-injury-versus-infarction",
+  "title": "Troponin Rise and Fall: Injury Versus Infarction",
+  "category": "Critical Lab Values",
+  "subject": "Pathology Markers",
+  "preview": "Troponin elevation indicates myocardial injury, but myocardial infarction requires evidence of acute ischemia in the appropriate context.",
+  "quickRevision": [
+    "Troponin elevation indicates myocardial injury, but myocardial infarction requires evidence of acute ischemia in the appropriate context.",
+    "ECG findings, symptoms, imaging and serial results help classify ischemic and nonischemic causes.",
+    "Sepsis, myocarditis and pulmonary embolism can also produce myocardial injury."
+  ],
+  "sections": [
+    {
+      "title": "Interpret the result in context",
+      "type": "pearl",
+      "points": [
+        "Troponin elevation indicates myocardial injury, but myocardial infarction requires evidence of acute ischemia in the appropriate context.",
+        "A dynamic rise or fall supports acute injury, whereas chronic elevations may occur in kidney disease or structural heart disease."
+      ]
+    },
+    {
+      "title": "Clinical interpretation & next steps",
+      "type": "table",
+      "points": [
+        "ECG findings, symptoms, imaging and serial results help classify ischemic and nonischemic causes.",
+        "Sepsis, myocarditis and pulmonary embolism can also produce myocardial injury."
+      ]
+    },
+    {
+      "title": "Exam trap — avoid this mistake",
+      "type": "trap",
+      "points": [
+        "A single elevated troponin result is not equivalent to a confirmed type 1 myocardial infarction."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "question": "An elevated troponin most directly indicates what?",
+      "options": [
+        "Anemia in every patient",
+        "Myocardial injury",
+        "Aortic stenosis in every patient",
+        "Bacterial pneumonia alone"
+      ],
+      "correct": 1,
+      "explanation": "Troponin elevation indicates myocardial injury, but myocardial infarction requires evidence of acute ischemia in the appropriate context.",
+      "type": "High-yield concept check"
+    }
+  ],
+  "images": [],
+  "medicalEditorialStatus": "author-drafted-not-clinician-peer-reviewed",
+  "inlineLinks": []
+}

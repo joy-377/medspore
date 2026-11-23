@@ -1,0 +1,52 @@
+{
+  "id": "ART-NEW-0058",
+  "slug": "new-0058-developmental-red-flags-beyond-routine-milestones",
+  "title": "Developmental Red Flags Beyond Routine Milestones",
+  "category": "High-Yield Tables",
+  "subject": "Developmental Milestones",
+  "preview": "Loss of previously attained skills is a developmental red flag at any age.",
+  "quickRevision": [
+    "Loss of previously attained skills is a developmental red flag at any age.",
+    "Hearing and vision problems can mimic or compound developmental delays.",
+    "Use validated screening tools and assess family concerns rather than waiting for a rigid age cutoff."
+  ],
+  "sections": [
+    {
+      "title": "Essential distinctions",
+      "type": "pearl",
+      "points": [
+        "Loss of previously attained skills is a developmental red flag at any age.",
+        "Delayed milestones are interpreted across language, social, gross-motor and fine-motor domains."
+      ]
+    },
+    {
+      "title": "High-yield comparison table",
+      "type": "table",
+      "html": "<div class=\"ms-table-scroll\"><table class=\"ms-fact-table\"><thead><tr><th scope=\"col\">Review focus</th><th scope=\"col\">High-yield fact</th></tr></thead><tbody><tr><th scope=\"row\">Distinguishing clue</th><td>Hearing and vision problems can mimic or compound developmental delays.</td></tr><tr><th scope=\"row\">Clinical implication</th><td>Use validated screening tools and assess family concerns rather than waiting for a rigid age cutoff.</td></tr></tbody></table></div>"
+    },
+    {
+      "title": "Exam trap — avoid this mistake",
+      "type": "trap",
+      "points": [
+        "Regression of speech or social engagement warrants assessment even if some motor milestones are normal."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Which finding is particularly concerning in child development?",
+      "options": [
+        "Normal variation in hair color",
+        "An isolated single nap change",
+        "A transient preference for one toy",
+        "Loss of acquired skills"
+      ],
+      "correct": 3,
+      "explanation": "Loss of acquired skills. Loss of previously attained skills is a developmental red flag at any age.",
+      "type": "High-yield concept check"
+    }
+  ],
+  "images": [],
+  "medicalEditorialStatus": "author-drafted-not-clinician-peer-reviewed",
+  "inlineLinks": []
+}

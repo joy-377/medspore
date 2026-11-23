@@ -8,5 +8,37 @@
   "preview": "Desmoglein vs BP antigens, Nikolsky sign, and DIF patterns...",
   "body": "<p><b>Pemphigus Vulgaris (PV):</b><br>• <i>Pathogenesis:</i> Autoantibodies against <b>Desmoglein-3</b> (mucosal) and <b>Desmoglein-1</b> (skin) disrupting intraepidermal keratinocyte adhesion.<br>• <i>Blister Type:</i> <b>Flaccid, fragile bullae</b> that rupture extremely easily leaving painful, non-healing erosions. Extensive oral mucosal involvement is the presenting hallmark.<br>• <i>Clinical Signs:</i> <b>Nikolsky Sign Positive</b> (slight lateral pressure on normal skin produces epidermal slippage); <b>Asboe-Hansen (Bulla-spread) Sign Positive</b>.<br>• <i>Histopathology &amp; DIF:</i> <b>Intraepidermal clefting</b> directly suprabasal (Tombstone appearance of basal cells) with <b>Acantholysis</b> (Tzanck smear reveals round acantholytic cells). Direct Immunofluorescence (DIF) reveals a <b>Fishnet / Reticular intercellular pattern</b> of IgG and C3 throughout the epidermis.</p><p><b>Bullous Pemphigoid (BP):</b><br>• <i>Pathogenesis:</i> Autoantibodies against hemidesmosomal proteins <b>BP180 (BPAG2)</b> and <b>BP230 (BPAG1)</b> at the dermo-epidermal junction.<br>• <i>Blister Type:</i> <b>Tense, thick-walled bullae</b> arising on an urticarial, erythematous, severely pruritic base. Oral mucosa usually spared.<br>• <i>Clinical Signs:</i> <b>Nikolsky Sign Negative</b>; Bulla-spread sign negative.<br>• <i>Histopathology &amp; DIF:</i> <b>Subepidermal non-acantholytic split</b> packed with eosinophils. DIF demonstrates a continuous <b>Linear band of IgG and C3 along the dermo-epidermal basement membrane</b>.</p>",
   "readingMinutes": 2,
-  "reviewStatus": "editorially-reformatted-legacy-content"
+  "reviewStatus": "legacy-medical-fact-check-required",
+  "sections": [
+    {
+      "title": "Pemphigus Vulgaris (PV)",
+      "html": "<p><b>Pemphigus Vulgaris (PV):</b><br/>• <i>Pathogenesis:</i> Autoantibodies against <b>Desmoglein-3</b> (mucosal) and <b>Desmoglein-1</b> (skin) disrupting intraepidermal keratinocyte adhesion.<br/>• <i>Blister Type:</i> <b>Flaccid, fragile bullae</b> that rupture extremely easily leaving painful, non-healing erosions. Extensive oral mucosal involvement is the presenting hallmark.<br/>• <i>Clinical Signs:</i> <b>Nikolsky Sign Positive</b> (slight lateral pressure on normal skin produces epidermal slippage); <b>Asboe-Hansen (Bulla-spread) Sign Positive</b>.<br/>• <i>Histopathology &amp; DIF:</i> <b>Intraepidermal clefting</b> directly suprabasal (Tombstone appearance of basal cells) with <b>Acantholysis</b> (Tzanck smear reveals round acantholytic cells). Direct Immunofluorescence (DIF) reveals a <b>Fishnet / Reticular intercellular pattern</b> of IgG and C3 throughout the epidermis.</p>",
+      "type": ""
+    },
+    {
+      "title": "Bullous Pemphigoid (BP)",
+      "html": "<p><b>Bullous Pemphigoid (BP):</b><br/>• <i>Pathogenesis:</i> Autoantibodies against hemidesmosomal proteins <b>BP180 (BPAG2)</b> and <b>BP230 (BPAG1)</b> at the dermo-epidermal junction.<br/>• <i>Blister Type:</i> <b>Tense, thick-walled bullae</b> arising on an urticarial, erythematous, severely pruritic base. Oral mucosa usually spared.<br/>• <i>Clinical Signs:</i> <b>Nikolsky Sign Negative</b>; Bulla-spread sign negative.<br/>• <i>Histopathology &amp; DIF:</i> <b>Subepidermal non-acantholytic split</b> packed with eosinophils. DIF demonstrates a continuous <b>Linear band of IgG and C3 along the dermo-epidermal basement membrane</b>.</p>",
+      "type": ""
+    }
+  ],
+  "images": [],
+  "quickRevision": [
+    "Pemphigus Vulgaris (PV); Pathogenesis: Autoantibodies against Desmoglein-3 (mucosal) and Desmoglein-1 (skin) disrupting intraepidermal keratinocyte adhesion.",
+    "Bullous Pemphigoid (BP); Pathogenesis: Autoantibodies against hemidesmosomal proteins BP180 (BPAG2) and BP230 (BPAG1) at the dermo-epidermal junction."
+  ],
+  "medicalEditorialStatus": "legacy-requires-clinician-review",
+  "quiz": [
+    {
+      "question": "Which immunobullous condition typically has intraepidermal acantholysis?",
+      "options": [
+        "Dermatitis herpetiformis as an acantholytic lesion",
+        "Epidermolysis bullosa acquisita by definition",
+        "Pemphigus vulgaris",
+        "Bullous pemphigoid"
+      ],
+      "correct": 2,
+      "explanation": "Pemphigus Vulgaris (PV): • Pathogenesis: Autoantibodies against Desmoglein-3 (mucosal) and Desmoglein-1 (skin) disrupting intraepidermal keratinocyte adhesion.",
+      "type": "High-yield recall"
+    }
+  ]
 }

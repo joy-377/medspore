@@ -1,0 +1,55 @@
+{
+  "id": "ART-NEW-0099",
+  "slug": "new-0099-epistaxis-anterior-versus-posterior-bleeding",
+  "title": "Epistaxis: Anterior Versus Posterior Bleeding",
+  "category": "Third Year (Part 1)",
+  "subject": "ENT",
+  "preview": "Anterior epistaxis commonly arises from the anterior septal vascular plexus.",
+  "quickRevision": [
+    "Anterior epistaxis commonly arises from the anterior septal vascular plexus.",
+    "Initial measures include sitting forward, direct pressure to the soft nose and assessing hemodynamic stability.",
+    "Anticoagulants, trauma and recurrent bleeding change management decisions."
+  ],
+  "sections": [
+    {
+      "title": "Recognize the core pattern",
+      "type": "pearl",
+      "points": [
+        "Anterior epistaxis commonly arises from the anterior septal vascular plexus.",
+        "Posterior epistaxis is more likely in older adults and may require specialized management or airway precautions."
+      ]
+    },
+    {
+      "title": "Clinical examination and interpretation",
+      "type": "table",
+      "points": [
+        "Initial measures include sitting forward, direct pressure to the soft nose and assessing hemodynamic stability.",
+        "Anticoagulants, trauma and recurrent bleeding change management decisions."
+      ]
+    },
+    {
+      "title": "Exam trap — avoid this mistake",
+      "type": "trap",
+      "points": [
+        "Do not tilt the head backward; this can allow blood to flow into the pharynx."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Which first-aid step is appropriate for an uncomplicated anterior nosebleed?",
+      "options": [
+        "Lying flat with head back",
+        "Blind deep nasal instrumentation",
+        "Firm pressure on the soft nose while leaning forward",
+        "Ignoring heavy bleeding"
+      ],
+      "correct": 2,
+      "explanation": "Firm pressure on the soft nose while leaning forward. Initial measures include sitting forward, direct pressure to the soft nose and assessing hemodynamic stability.",
+      "type": "High-yield concept check"
+    }
+  ],
+  "images": [],
+  "medicalEditorialStatus": "author-drafted-not-clinician-peer-reviewed",
+  "inlineLinks": []
+}

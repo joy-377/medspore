@@ -1,0 +1,55 @@
+{
+  "id": "ART-NEW-0019",
+  "slug": "new-0019-addison-disease-clinical-clues-and-hyperpigmentation",
+  "title": "Addison Disease: Clinical Clues and Hyperpigmentation",
+  "category": "Triads & Signs",
+  "subject": "Medical Triads",
+  "preview": "Primary adrenal insufficiency may produce fatigue, weight loss, postural symptoms, hyponatremia and increased pigmentation.",
+  "quickRevision": [
+    "Primary adrenal insufficiency may produce fatigue, weight loss, postural symptoms, hyponatremia and increased pigmentation.",
+    "Hyperkalemia and salt craving can reflect mineralocorticoid deficiency; acute adrenal crisis may feature shock.",
+    "Diagnosis uses appropriate cortisol and ACTH assessment, often with stimulation testing in a suitable setting."
+  ],
+  "sections": [
+    {
+      "title": "Recognize the pattern",
+      "type": "pearl",
+      "points": [
+        "Primary adrenal insufficiency may produce fatigue, weight loss, postural symptoms, hyponatremia and increased pigmentation.",
+        "Hyperpigmentation is related to elevated ACTH in primary rather than typical secondary adrenal failure."
+      ]
+    },
+    {
+      "title": "What this finding does—and does not—mean",
+      "type": "table",
+      "points": [
+        "Hyperkalemia and salt craving can reflect mineralocorticoid deficiency; acute adrenal crisis may feature shock.",
+        "Diagnosis uses appropriate cortisol and ACTH assessment, often with stimulation testing in a suitable setting."
+      ]
+    },
+    {
+      "title": "Exam trap — avoid this mistake",
+      "type": "trap",
+      "points": [
+        "A hypotensive patient with suspected adrenal crisis needs urgent clinical management, not delayed care while awaiting tests."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Hyperpigmentation in primary adrenal insufficiency is linked to elevation of which hormone?",
+      "options": [
+        "Insulin",
+        "Calcitonin",
+        "TSH alone",
+        "ACTH"
+      ],
+      "correct": 3,
+      "explanation": "Hyperpigmentation is related to elevated ACTH in primary rather than typical secondary adrenal failure.",
+      "type": "High-yield concept check"
+    }
+  ],
+  "images": [],
+  "medicalEditorialStatus": "author-drafted-not-clinician-peer-reviewed",
+  "inlineLinks": []
+}

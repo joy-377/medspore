@@ -5,8 +5,64 @@
   "category": "Triads & Signs",
   "subject": "Eponyms",
   "title": "High-Yield Eponymous Nodes & Spots",
-  "preview": "Roth spots, Osler nodes, Janeway lesions, and Koplik spots...",
-  "body": "<ul><li><b>Infective Endocarditis Stigmata:</b><br>1. <i>Osler Nodes:</i> Painful, tender, raised nodules on finger/toe pads (Immune complex deposition).<br>2. <i>Janeway Lesions:</i> Painless, erythematous macules on palms and soles (Microemboli).<br>3. <i>Roth Spots:</i> Exudative, edematous hemorrhagic lesions of the retina with pale centers.</li><li><b>Koplik Spots:</b> Tiny white/blue spots on an erythematous base on the buccal mucosa opposite the molars. <i>Pathognomonic for:</i> Measles (appears before the rash).</li><li><b>Virchow's Node:</b> Enlarged, hard, non-tender left supraclavicular lymph node. <i>Signifies:</i> Metastatic abdominal malignancy (Gastric Cancer, known as Troisier's sign).</li><li><b>Sister Mary Joseph Nodule:</b> Palpable nodule bulging into the umbilicus. <i>Signifies:</i> Advanced intra-abdominal malignancy (Gastric/Ovarian).</li></ul>",
+  "preview": "Osler nodes, Janeway lesions, Roth spots, Koplik spots and named metastatic nodules are useful pattern-recognition clues.",
+  "body": "",
   "readingMinutes": 2,
-  "reviewStatus": "editorially-reformatted-legacy-content"
+  "reviewStatus": "legacy-medical-fact-check-required",
+  "sections": [
+    {
+      "title": "Infective endocarditis signs",
+      "type": "table",
+      "points": [
+        "Osler nodes: classically tender nodules on distal digits.",
+        "Janeway lesions: classically painless lesions of palms or soles.",
+        "Roth spots: retinal hemorrhagic lesions with pale centers; they are not exclusive to endocarditis."
+      ]
+    },
+    {
+      "title": "Viral illness clue",
+      "type": "pearl",
+      "points": [
+        "Koplik spots are small whitish buccal mucosal lesions classically associated with measles.",
+        "Recognize the importance of infection-control precautions and clinical confirmation when measles is suspected."
+      ]
+    },
+    {
+      "title": "Named malignant associations",
+      "type": "table",
+      "points": [
+        "Virchow node: left supraclavicular lymphadenopathy may reflect thoracic or abdominal malignancy but has several possible causes.",
+        "Sister Mary Joseph nodule: an umbilical metastatic deposit can occur with intra-abdominal or pelvic malignancy."
+      ]
+    },
+    {
+      "title": "Exam trap",
+      "type": "trap",
+      "points": [
+        "Neither a missing skin sign nor a named node excludes the underlying disease.",
+        "Clinical signs should trigger targeted investigation rather than be treated as standalone diagnostic proof."
+      ]
+    }
+  ],
+  "images": [],
+  "quickRevision": [
+    "Painful Osler nodes and painless Janeway lesions are classically associated with infective endocarditis, but may be absent.",
+    "Koplik spots can appear with measles before the typical exanthem.",
+    "Virchow node and Sister Mary Joseph nodule can signal underlying malignancy and require proper diagnostic assessment."
+  ],
+  "medicalEditorialStatus": "structured-clinical-revision-not-clinician-peer-reviewed",
+  "quiz": [
+    {
+      "question": "Virchow node refers to which lymph node?",
+      "options": [
+        "Popliteal node",
+        "Left supraclavicular lymph node",
+        "Right inguinal lymph node",
+        "Preauricular node"
+      ],
+      "correct": 1,
+      "explanation": "Virchow's Node: Enlarged, hard, non-tender left supraclavicular lymph node.",
+      "type": "High-yield recall"
+    }
+  ]
 }

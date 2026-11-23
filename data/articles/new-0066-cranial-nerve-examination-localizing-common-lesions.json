@@ -1,0 +1,55 @@
+{
+  "id": "ART-NEW-0066",
+  "slug": "new-0066-cranial-nerve-examination-localizing-common-lesions",
+  "title": "Cranial Nerve Examination: Localizing Common Lesions",
+  "category": "First Year MBBS",
+  "subject": "Anatomy",
+  "preview": "Cranial nerve localization combines the pattern of motor, sensory and autonomic deficits rather than one isolated sign.",
+  "quickRevision": [
+    "Cranial nerve localization combines the pattern of motor, sensory and autonomic deficits rather than one isolated sign.",
+    "Afferent pupillary light input travels via optic nerve II; efferent constriction travels via oculomotor nerve III.",
+    "Bulbar symptoms, diplopia and pupil abnormalities may signal brainstem or compressive disease requiring urgent assessment."
+  ],
+  "sections": [
+    {
+      "title": "Core biomedical mechanism",
+      "type": "pearl",
+      "points": [
+        "Cranial nerve localization combines the pattern of motor, sensory and autonomic deficits rather than one isolated sign.",
+        "A lower motor neuron facial palsy often affects the forehead; typical unilateral supranuclear facial weakness tends to spare forehead movement."
+      ]
+    },
+    {
+      "title": "Clinical application",
+      "type": "table",
+      "points": [
+        "Afferent pupillary light input travels via optic nerve II; efferent constriction travels via oculomotor nerve III.",
+        "Bulbar symptoms, diplopia and pupil abnormalities may signal brainstem or compressive disease requiring urgent assessment."
+      ]
+    },
+    {
+      "title": "Exam trap — avoid this mistake",
+      "type": "trap",
+      "points": [
+        "Forehead sparing is a helpful pattern but not an absolute rule in every neurological lesion."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Which nerve is the afferent limb of the pupillary light reflex?",
+      "options": [
+        "Hypoglossal nerve XII",
+        "Accessory nerve XI",
+        "Optic nerve II",
+        "Facial nerve VII"
+      ],
+      "correct": 2,
+      "explanation": "Afferent pupillary light input travels via optic nerve II; efferent constriction travels via oculomotor nerve III.",
+      "type": "High-yield concept check"
+    }
+  ],
+  "images": [],
+  "medicalEditorialStatus": "author-drafted-not-clinician-peer-reviewed",
+  "inlineLinks": []
+}

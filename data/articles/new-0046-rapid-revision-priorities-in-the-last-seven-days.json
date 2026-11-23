@@ -1,0 +1,55 @@
+{
+  "id": "ART-NEW-0046",
+  "slug": "new-0046-rapid-revision-priorities-in-the-last-seven-days",
+  "title": "Rapid Revision Priorities in the Last Seven Days",
+  "category": "Exam Strategy",
+  "subject": "Time Management",
+  "preview": "In the last week, prioritize high-frequency weaknesses and repeated mistakes rather than launching broad new resources.",
+  "quickRevision": [
+    "In the last week, prioritize high-frequency weaknesses and repeated mistakes rather than launching broad new resources.",
+    "Focus on red-flag presentations, core algorithms, formulas and common exam confusions.",
+    "Reduce last-minute switching between multiple conflicting note sets."
+  ],
+  "sections": [
+    {
+      "title": "Recognize the question type",
+      "type": "pearl",
+      "points": [
+        "In the last week, prioritize high-frequency weaknesses and repeated mistakes rather than launching broad new resources.",
+        "Use short timed blocks, spaced recall and adequate sleep to protect retrieval and reasoning."
+      ]
+    },
+    {
+      "title": "Use this in timed practice",
+      "type": "table",
+      "points": [
+        "Focus on red-flag presentations, core algorithms, formulas and common exam confusions.",
+        "Reduce last-minute switching between multiple conflicting note sets."
+      ]
+    },
+    {
+      "title": "Exam trap — avoid this mistake",
+      "type": "trap",
+      "points": [
+        "A new giant syllabus in the final days usually has lower return than targeted revision."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Which approach is most suitable for final-week revision?",
+      "options": [
+        "Starting many new textbooks",
+        "Changing every resource daily",
+        "Focused recall of weak and high-yield topics",
+        "Avoiding sleep entirely"
+      ],
+      "correct": 2,
+      "explanation": "Focused recall of weak and high-yield topics. In the last week, prioritize high-frequency weaknesses and repeated mistakes rather than launching broad new resources.",
+      "type": "High-yield concept check"
+    }
+  ],
+  "images": [],
+  "medicalEditorialStatus": "author-drafted-not-clinician-peer-reviewed",
+  "inlineLinks": []
+}

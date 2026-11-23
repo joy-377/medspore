@@ -4,9 +4,117 @@
   "slug": "201-cardiovascular-neurological-triads",
   "category": "Triads & Signs",
   "subject": "Medical Triads",
-  "title": "Cardiovascular & Neurological Triads",
-  "preview": "Beck's, Cushing's, and Virchow's triad explained in high-yield detail...",
+  "title": "Beck, Cushing and Virchow Triads: What They Mean—and What They Do Not",
+  "preview": "A compact high-yield guide to classic cardiovascular and neurological triads, with clinical interpretation and common exam traps.",
   "body": "<ul><li><b>Beck's Triad (Cardiac Tamponade):</b> 1. Hypotension, 2. Muffled heart sounds, 3. Distended Jugular Vein (JVD). <i>Pathophysiology:</i> Fluid in pericardial sac restricts heart filling, dropping stroke volume.</li><li><b>Cushing's Triad (Raised Intracranial Pressure):</b> 1. Hypertension (with widened pulse pressure), 2. Bradycardia, 3. Irregular respiration (Cheyne-Stokes). <i>Clue:</i> It's a late, ominous sign of brain herniation.</li><li><b>Virchow's Triad (DVT / Pulmonary Embolism):</b> 1. Venous stasis (bedridden), 2. Endothelial injury (surgery/trauma), 3. Hypercoagulability (Factor V Leiden, OCPs, Cancer).</li><li><b>Wernicke's Triad (Thiamine Deficiency):</b> 1. Confusion (Encephalopathy), 2. Oculomotor dysfunction (Nystagmus/CN VI palsy), 3. Ataxia. <i>Treatment:</i> ALWAYS give IV Thiamine BEFORE Glucose.</li></ul>",
   "readingMinutes": 2,
-  "reviewStatus": "editorially-reformatted-legacy-content"
+  "reviewStatus": "evidence-supported-editorial-demo-not-clinician-peer-reviewed",
+  "sections": [
+    {
+      "title": "Beck's triad: cardiac tamponade",
+      "type": "pearl",
+      "points": [
+        "Classical features: hypotension, elevated jugular venous pressure and muffled heart sounds.",
+        "The full triad may be absent, particularly in slowly developing tamponade; absence does not exclude the condition.",
+        "Interpret findings with hemodynamics and appropriate echocardiography when clinically indicated."
+      ]
+    },
+    {
+      "title": "Cushing's triad: raised intracranial pressure",
+      "type": "warning",
+      "points": [
+        "Traditional teaching combines hypertension with widened pulse pressure, bradycardia and abnormal respirations.",
+        "It is a late warning pattern associated with serious intracranial hypertension; do not wait for all components before recognizing deterioration."
+      ]
+    },
+    {
+      "title": "Virchow's triad: thrombosis",
+      "type": "mnemonic",
+      "points": [
+        "The three thrombosis-promoting factors are endothelial injury, abnormal blood flow (stasis) and hypercoagulability.",
+        "Virchow’s triad describes mechanisms and risk factors, not a bedside diagnostic test for an acute pulmonary embolism."
+      ]
+    },
+    {
+      "title": "Differentiate by clinical problem",
+      "type": "table",
+      "points": [
+        "Beck → obstructive cardiac filling / tamponade clues.",
+        "Cushing → possible dangerously raised intracranial pressure.",
+        "Virchow → processes that promote thrombosis."
+      ]
+    },
+    {
+      "title": "INI-CET-style pitfalls",
+      "type": "trap",
+      "points": [
+        "A classic triad is a memory aid, not a requirement for diagnosis.",
+        "Prioritize clinical urgency and context over remembering isolated names."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Which combination is the classic Beck triad?",
+      "options": [
+        "Hypotension, elevated JVP and muffled heart sounds",
+        "Fever, jaundice and right upper quadrant pain",
+        "Bradycardia, hypertension and irregular respirations",
+        "Stasis, endothelial injury and hypercoagulability"
+      ],
+      "correct": 0,
+      "explanation": "Beck’s triad describes tamponade; it is not consistently present.",
+      "type": "NEET PG / INI-CET-style concept"
+    },
+    {
+      "question": "Which is NOT part of Virchow’s triad?",
+      "options": [
+        "Venous stasis",
+        "Hypercoagulability",
+        "Endothelial injury",
+        "Hyperbilirubinemia"
+      ],
+      "correct": 3,
+      "explanation": "Virchow’s triad includes injury, stasis and hypercoagulability.",
+      "type": "NEET PG / INI-CET-style concept"
+    },
+    {
+      "question": "If the classic Beck triad is absent, what is the most appropriate interpretation?",
+      "options": [
+        "Cardiac tamponade is always excluded",
+        "Absence does not exclude tamponade",
+        "Anticoagulation is always indicated",
+        "Cardiac tamponade must be present"
+      ],
+      "correct": 1,
+      "explanation": "The full triad has limited sensitivity and should not be used alone to rule out tamponade.",
+      "type": "NEET PG / INI-CET-style concept"
+    }
+  ],
+  "rapidRevision": [
+    "Beck: low BP + high JVP + quiet heart sounds (not always all present).",
+    "Cushing: hypertension + bradycardia + abnormal breathing is a late sign.",
+    "Virchow: stasis + vessel injury + hypercoagulability."
+  ],
+  "references": [
+    {
+      "title": "2025 ESC Guidelines for myocarditis and pericarditis: cardiac tamponade signs",
+      "url": "https://academic.oup.com/eurheartj/article/46/40/3952/8234483"
+    },
+    {
+      "title": "NCBI Bookshelf: Virchow Triad",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK539697/"
+    },
+    {
+      "title": "Robbins, Cotran & Kumar Pathologic Basis of Disease, 11th ed. (2025), further reading; chapter not independently checked",
+      "url": "https://shop.elsevier.com/books/robbins-cotran-and-kumar-pathologic-basis-of-disease/kumar/978-0-443-26452-8"
+    }
+  ],
+  "images": [],
+  "quickRevision": [
+    "Beck: low BP + high JVP + quiet heart sounds (not always all present).",
+    "Cushing: hypertension + bradycardia + abnormal breathing is a late sign.",
+    "Virchow: stasis + vessel injury + hypercoagulability."
+  ],
+  "medicalEditorialStatus": "legacy-requires-clinician-review"
 }

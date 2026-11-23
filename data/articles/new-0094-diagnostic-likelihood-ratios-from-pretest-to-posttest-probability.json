@@ -1,0 +1,55 @@
+{
+  "id": "ART-NEW-0094",
+  "slug": "new-0094-diagnostic-likelihood-ratios-from-pretest-to-posttest-probability",
+  "title": "Diagnostic Likelihood Ratios: From Pretest to Posttest Probability",
+  "category": "Third Year (Part 1)",
+  "subject": "PSM",
+  "preview": "Sensitivity and specificity describe test characteristics; likelihood ratios link test results to pretest probability.",
+  "quickRevision": [
+    "Sensitivity and specificity describe test characteristics; likelihood ratios link test results to pretest probability.",
+    "Likelihood ratios are not themselves the posttest probability; odds-based updating is required.",
+    "Spectrum effects and test thresholds can change real-world test performance."
+  ],
+  "sections": [
+    {
+      "title": "Recognize the core pattern",
+      "type": "pearl",
+      "points": [
+        "Sensitivity and specificity describe test characteristics; likelihood ratios link test results to pretest probability.",
+        "A positive likelihood ratio greater than one tends to increase probability, while a negative ratio below one tends to decrease it."
+      ]
+    },
+    {
+      "title": "Clinical examination and interpretation",
+      "type": "table",
+      "points": [
+        "Likelihood ratios are not themselves the posttest probability; odds-based updating is required.",
+        "Spectrum effects and test thresholds can change real-world test performance."
+      ]
+    },
+    {
+      "title": "Exam trap — avoid this mistake",
+      "type": "trap",
+      "points": [
+        "Do not interpret an isolated test result without an estimate of prior clinical probability."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "question": "What does a negative likelihood ratio below one tend to do?",
+      "options": [
+        "Have no relation to probability",
+        "Prove the disease is present",
+        "Always increase pretest odds",
+        "Decrease the probability of disease"
+      ],
+      "correct": 3,
+      "explanation": "Decrease the probability of disease. A positive likelihood ratio greater than one tends to increase probability, while a negative ratio below one tends to decrease it.",
+      "type": "High-yield concept check"
+    }
+  ],
+  "images": [],
+  "medicalEditorialStatus": "author-drafted-not-clinician-peer-reviewed",
+  "inlineLinks": []
+}

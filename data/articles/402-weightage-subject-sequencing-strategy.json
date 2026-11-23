@@ -5,8 +5,56 @@
   "category": "Exam Strategy",
   "subject": "NEET PG Strategy",
   "title": "Weightage & Subject Sequencing Strategy",
-  "preview": "High-yield vs short subjects: Allocating revision time for maximum ROI...",
-  "body": "<p><b>The High-Yield Clinical Core (50%+ of the paper):</b><br>Medicine, Surgery, OBG, Pathology, and Pharmacology form the foundation. Clinical vignettes primarily integrate these core subjects.</p><p><b>The High-Yield 'Short Subjects' (Maximum Return on Investment):</b><br>Radiology, Dermatology, Psychiatry, Anesthesia, and Orthopedics contribute nearly 45–50 questions collectively. Their syllabi are concise, and the questions are largely repetitive. Mastering short subjects gives a reliable boost in overall percentiles.</p><p><b>First-Year Subjects (The Differentiator):</b><br>Anatomy (focus heavily on nerve lesions and cross-sectional imaging), Physiology (acid-base and cardiac cycles), and Biochemistry (inborn errors of metabolism and vitamin deficiencies) often determine top ranks.</p>",
+  "preview": "Plan subject sequencing around deficits and exam utility rather than an unverifiable fixed weightage percentage.",
+  "body": "",
   "readingMinutes": 2,
-  "reviewStatus": "editorially-reformatted-legacy-content"
+  "reviewStatus": "legacy-medical-fact-check-required",
+  "sections": [
+    {
+      "title": "Prioritize what matters",
+      "type": "flow",
+      "points": [
+        "Group mistakes by genuine knowledge gap, interpretation error and exam pacing problem.",
+        "Spend more time on weaknesses with high clinical or examination relevance while maintaining broad coverage."
+      ]
+    },
+    {
+      "title": "Measure progress",
+      "type": "pearl",
+      "points": [
+        "Review the trend in accuracy and speed on unseen questions rather than only familiar flashcards.",
+        "Use shorter frequent reviews of forgotten material across the revision period."
+      ]
+    },
+    {
+      "title": "Exam trap",
+      "type": "trap",
+      "points": [
+        "No single fixed subject-weightage percentage applies reliably to every future examination.",
+        "More study hours are not useful if they do not improve retention or transfer to questions."
+      ]
+    }
+  ],
+  "images": [],
+  "quickRevision": [
+    "Identify personal weak topics using recent mock results and missed-question patterns.",
+    "Allocate time based on the importance of each topic, learning gap and days available.",
+    "Use spaced active recall and mixed-case practice rather than only rereading notes."
+  ],
+  "medicalEditorialStatus": "legacy-requires-clinician-review",
+  "quiz": [
+    {
+      "question": "What best determines revision sequencing?",
+      "options": [
+        "Alphabetic subject order alone",
+        "Weakness, importance and available study time",
+        "Random switching every hour",
+        "Only textbook thickness"
+      ],
+      "correct": 1,
+      "explanation": "A useful revision sequence weighs weak subjects, expected examination relevance and available time rather than following a fixed subject-order formula.",
+      "type": "High-yield recall"
+    }
+  ],
+  "valueSources": []
 }

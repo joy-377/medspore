@@ -1,0 +1,55 @@
+{
+  "id": "ART-NEW-0025",
+  "slug": "new-0025-chest-radiograph-air-bronchogram-and-silhouette-sign",
+  "title": "Chest Radiograph: Air Bronchogram and Silhouette Sign",
+  "category": "Triads & Signs",
+  "subject": "Radiological Signs",
+  "preview": "An air bronchogram appears when air-filled bronchi are outlined by surrounding opaque alveolar lung.",
+  "quickRevision": [
+    "An air bronchogram appears when air-filled bronchi are outlined by surrounding opaque alveolar lung.",
+    "Consolidation, edema and other air-space processes may produce air bronchograms; the finding is not pathogen-specific.",
+    "Evaluate radiograph projection, rotation and clinical context before assigning a lobe or diagnosis."
+  ],
+  "sections": [
+    {
+      "title": "Recognize the pattern",
+      "type": "pearl",
+      "points": [
+        "An air bronchogram appears when air-filled bronchi are outlined by surrounding opaque alveolar lung.",
+        "The silhouette sign localizes disease by loss of a normal border between structures of similar density."
+      ]
+    },
+    {
+      "title": "What this finding does—and does not—mean",
+      "type": "table",
+      "points": [
+        "Consolidation, edema and other air-space processes may produce air bronchograms; the finding is not pathogen-specific.",
+        "Evaluate radiograph projection, rotation and clinical context before assigning a lobe or diagnosis."
+      ]
+    },
+    {
+      "title": "Exam trap — avoid this mistake",
+      "type": "trap",
+      "points": [
+        "An air bronchogram does not alone distinguish bacterial from viral pneumonia."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Why does an air bronchogram become visible?",
+      "options": [
+        "All bronchi become calcified",
+        "The diaphragm is absent",
+        "Air in bronchi contrasts with surrounding opaque alveoli",
+        "Pleural air surrounds the lung"
+      ],
+      "correct": 2,
+      "explanation": "Air in bronchi contrasts with surrounding opaque alveoli. An air bronchogram appears when air-filled bronchi are outlined by surrounding opaque alveolar lung.",
+      "type": "High-yield concept check"
+    }
+  ],
+  "images": [],
+  "medicalEditorialStatus": "author-drafted-not-clinician-peer-reviewed",
+  "inlineLinks": []
+}

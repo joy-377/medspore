@@ -1,0 +1,55 @@
+{
+  "id": "ART-NEW-0077",
+  "slug": "new-0077-granulomatous-inflammation-caseating-versus-noncaseating",
+  "title": "Granulomatous Inflammation: Caseating Versus Noncaseating",
+  "category": "Second Year MBBS",
+  "subject": "Pathology",
+  "preview": "Granulomas are organized collections of activated macrophages that may form in chronic inflammatory conditions.",
+  "quickRevision": [
+    "Granulomas are organized collections of activated macrophages that may form in chronic inflammatory conditions.",
+    "Histologic appearance alone is insufficient to confirm organism or cause.",
+    "Interpret biopsy alongside microbiology, exposure and the distribution of disease."
+  ],
+  "sections": [
+    {
+      "title": "Pathophysiology & identification",
+      "type": "pearl",
+      "points": [
+        "Granulomas are organized collections of activated macrophages that may form in chronic inflammatory conditions.",
+        "Caseating granulomas are associated with tuberculosis and some fungal infections; noncaseating granulomas occur in sarcoidosis and other conditions."
+      ]
+    },
+    {
+      "title": "Diagnostic and treatment connections",
+      "type": "table",
+      "points": [
+        "Histologic appearance alone is insufficient to confirm organism or cause.",
+        "Interpret biopsy alongside microbiology, exposure and the distribution of disease."
+      ]
+    },
+    {
+      "title": "Exam trap — avoid this mistake",
+      "type": "trap",
+      "points": [
+        "Not every noncaseating granuloma indicates sarcoidosis, and not every tuberculous granuloma shows classic caseation."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Which cell type predominates in a granuloma?",
+      "options": [
+        "Keratinocytes",
+        "Mature erythrocytes",
+        "Activated macrophages",
+        "Platelets"
+      ],
+      "correct": 2,
+      "explanation": "Granulomas are organized collections of activated macrophages that may form in chronic inflammatory conditions.",
+      "type": "High-yield concept check"
+    }
+  ],
+  "images": [],
+  "medicalEditorialStatus": "author-drafted-not-clinician-peer-reviewed",
+  "inlineLinks": []
+}

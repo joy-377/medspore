@@ -6,7 +6,45 @@
   "subject": "Ward Protocols",
   "title": "Postoperative Fever: A Clinical Assessment Framework",
   "preview": "Wind, Water, Walking, Wound, Wonder Drugs. The timeline of post-op fever...",
-  "body": "<p><strong>Learning note:</strong> Educational revision content; verify medication doses, protocols and reference ranges against current institutional guidelines before any patient-care use.</p><p>The traditional “five Ws” are a memory aid, not a reliable diagnostic algorithm. Postoperative fever must be assessed using the patient’s vital signs, procedure, clinical examination, risk factors, and timeline.</p><h2>Look for urgency first</h2><ul><li>Assess haemodynamic instability, respiratory distress, wound findings and sepsis risk.</li><li>Consider surgical site infection, pulmonary causes, urinary infection, thrombosis and medication-related fever when clinically appropriate.</li><li>Order tests according to clinical findings rather than postoperative day alone.</li><li><strong>Important:</strong> Atelectasis by itself should not be assumed to cause postoperative fever.</li></ul>",
+  "body": "<p>The traditional “five Ws” are a memory aid, not a reliable diagnostic algorithm. Postoperative fever must be assessed using the patient’s vital signs, procedure, clinical examination, risk factors, and timeline.</p><h2>Look for urgency first</h2><ul><li>Assess haemodynamic instability, respiratory distress, wound findings and sepsis risk.</li><li>Consider surgical site infection, pulmonary causes, urinary infection, thrombosis and medication-related fever when clinically appropriate.</li><li>Order tests according to clinical findings rather than postoperative day alone.</li><li><strong>Important:</strong> Atelectasis by itself should not be assumed to cause postoperative fever.</li></ul>",
   "readingMinutes": 2,
-  "reviewStatus": "editorially-reformatted-legacy-content"
+  "reviewStatus": "legacy-medical-fact-check-required",
+  "sections": [
+    {
+      "title": "Clinical Interpretation",
+      "html": "<p>The traditional “five Ws” are a memory aid, not a reliable diagnostic algorithm. Postoperative fever must be assessed using the patient’s vital signs, procedure, clinical examination, risk factors, and timeline.</p>",
+      "type": ""
+    },
+    {
+      "title": "Exam Focus",
+      "html": "<h2>Look for urgency first</h2>",
+      "type": ""
+    },
+    {
+      "title": "Important",
+      "html": "<ul><li>Assess haemodynamic instability, respiratory distress, wound findings and sepsis risk.</li><li>Consider surgical site infection, pulmonary causes, urinary infection, thrombosis and medication-related fever when clinically appropriate.</li><li>Order tests according to clinical findings rather than postoperative day alone.</li><li><strong>Important:</strong> Atelectasis by itself should not be assumed to cause postoperative fever.</li></ul>",
+      "type": ""
+    }
+  ],
+  "images": [],
+  "quickRevision": [
+    "The traditional “five Ws” are a memory aid, not a reliable diagnostic algorithm. Postoperative fever must be assessed using the patient’s vital signs, procedure, clinical examination, risk factors, and timeline.",
+    "Look for urgency first",
+    "Assess haemodynamic instability, respiratory distress, wound findings and sepsis risk."
+  ],
+  "medicalEditorialStatus": "legacy-requires-clinician-review",
+  "quiz": [
+    {
+      "question": "Which feature makes postoperative fever require urgent clinical reassessment?",
+      "options": [
+        "Unchanged healed incision",
+        "Hemodynamic instability",
+        "Isolated low-grade fever without symptoms in a stable patient",
+        "Normal vital signs"
+      ],
+      "correct": 1,
+      "explanation": "Hemodynamic instability. Assess haemodynamic instability, respiratory distress, wound findings and sepsis risk.",
+      "type": "High-yield recall"
+    }
+  ]
 }

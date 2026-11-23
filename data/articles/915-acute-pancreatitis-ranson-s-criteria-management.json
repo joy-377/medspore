@@ -4,9 +4,57 @@
   "slug": "915-acute-pancreatitis-ranson-s-criteria-management",
   "category": "Final Year (Part 2)",
   "subject": "Surgery",
-  "title": "Acute Pancreatitis: Ranson's Criteria & Management",
-  "preview": "Gallstones vs Alcohol etiology, Cullen/Grey Turner signs, and fluid resuscitation...",
-  "body": "<p><b>Etiology &amp; Clinical Signs:</b><br>• <i>Top 2 Causes:</i> Gallstones (~40-50%) and Chronic Alcohol abuse (~30%).<br>• <i>Cullen's Sign:</i> Superficial edema and bruising around the umbilicus (hemorrhagic pancreatitis).<br>• <i>Grey Turner's Sign:</i> Bruising of the flanks (retroperitoneal hemorrhage).</p><p><b>Ranson's Criteria for Severity Prediction:</b><br>• <i>At Admission:</i> <b>G</b>LUCOSE &gt; 200 mg/dL, <b>A</b>GE &gt; 55 years, <b>L</b>DH &gt; 350 IU/L, <b>H</b>AST (AST) &gt; 250 IU/L, <b>W</b>BC &gt; 16,000 /µL.<br>• <i>At 48 Hours:</i> <b>H</b>CT drop &gt; 10%, <b>B</b>UN rise &gt; 5 mg/dL, <b>S</b>erum Calcium &lt; 8 mg/dL, <b>P</b>aO2 &lt; 60 mmHg, Base deficit &gt; 4 mEq/L, Fluid sequestration &gt; 6 L.<br><i>Scoring:</i> Score 0–2 = Mild (&lt;1% mortality); Score &ge; 3 = Severe pancreatitis warranting ICU monitoring.</p><p><b>Management:</b> Aggressive isotonic crystalloid fluid resuscitation (Ringer's Lactate), pain control, and early enteral nutrition (oral feeding as soon as nausea/ileus resolves).</p>",
+  "title": "Acute Pancreatitis: Diagnosis, Severity and Supportive Care",
+  "preview": "Diagnose pancreatitis using compatible pain, pancreatic enzymes and/or imaging; management depends on severity and cause.",
+  "body": "",
   "readingMinutes": 2,
-  "reviewStatus": "editorially-reformatted-legacy-content"
+  "reviewStatus": "legacy-medical-fact-check-required",
+  "sections": [
+    {
+      "title": "Clinical pattern",
+      "type": "pearl",
+      "points": [
+        "Upper abdominal pain may radiate to the back, with nausea or vomiting.",
+        "Lipase is generally preferred over amylase in the diagnostic workup."
+      ]
+    },
+    {
+      "title": "Severity and complications",
+      "type": "flow",
+      "points": [
+        "Evaluate organ dysfunction, hemodynamic status, respiratory function and complications rather than relying only on an older scoring system.",
+        "Address gallstone-related obstruction or infected complications according to clinical findings and specialist pathways."
+      ]
+    },
+    {
+      "title": "Exam trap",
+      "type": "trap",
+      "points": [
+        "A high enzyme concentration alone does not grade disease severity.",
+        "Prophylactic antibiotics are not routine for uncomplicated sterile pancreatitis."
+      ]
+    }
+  ],
+  "images": [],
+  "quickRevision": [
+    "The diagnosis often relies on a typical clinical syndrome and elevated pancreatic enzymes, with imaging when needed.",
+    "Gallstones and alcohol are common causes; other etiologies include drugs and metabolic disorders.",
+    "Early treatment emphasizes analgesia, appropriate fluid assessment, nutrition and recognition of organ dysfunction."
+  ],
+  "medicalEditorialStatus": "topic-specific-reviewed-against-open-authoritative-guidance-not-clinician-peer-reviewed",
+  "quiz": [
+    {
+      "question": "Which biochemical test supports acute pancreatitis in appropriate clinical context?",
+      "options": [
+        "Troponin alone",
+        "Serum lipase",
+        "HbA1c alone",
+        "TSH alone"
+      ],
+      "correct": 1,
+      "explanation": "Serum lipase. Lipase is generally preferred over amylase in the diagnostic workup.",
+      "type": "High-yield recall"
+    }
+  ],
+  "valueSources": []
 }

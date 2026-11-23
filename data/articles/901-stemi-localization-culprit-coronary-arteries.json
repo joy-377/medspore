@@ -5,8 +5,62 @@
   "category": "Final Year (Part 2)",
   "subject": "Medicine",
   "title": "STEMI Localization & Culprit Coronary Arteries",
-  "preview": "ECG lead vectors, reciprocal depressions, and RV infarction precautions...",
-  "body": "<p><b>Coronary Artery Territory Localization on 12-Lead ECG:</b><br>• <b>Anterior / Anteroseptal Wall (V1–V4):</b> Left Anterior Descending (LAD) artery ('Widow Maker'). High risk of cardiogenic shock and heart block.<br>• <b>Lateral Wall (I, aVL, V5, V6):</b> Left Circumflex (LCx) artery or diagonal branch of LAD. Reciprocal depressions seen in inferior leads.<br>• <b>Inferior Wall (II, III, aVF):</b> Right Coronary Artery (RCA ~85%) or LCx (15%). Reciprocal ST depression in lead aVL.<br>• <b>Posterior Wall (V7–V9):</b> RCA or LCx. Standard leads V1–V3 show <i>horizontal ST depression, tall upright T waves, and prominent R waves (R/S ratio &gt; 1)</i>.</p><p><b>⚠️ Critical Pearl (Right Ventricular Infarction):</b><br>Occurs in ~30–40% of inferior STEMIs (proximal RCA occlusion). Identified by ST elevation in right precordial leads (<b>V3R, V4R &ge; 1 mm</b>).<br>• <i>Clinical Presentation:</i> Hypotension + Clear lung fields (absence of rales) + Elevated JVP.<br>• <i>Contraindicated Drugs:</i> <b>Nitroglycerin, Morphine, and Diuretics</b> (they reduce RV preload and trigger fatal circulatory collapse).<br>• <i>Management:</i> Aggressive IV Fluid boluses (0.9% Normal Saline) to maintain right ventricular filling pressures.</p>",
+  "preview": "Localize possible culprit coronary territories on the ECG without treating lead patterns as absolute arterial proof.",
+  "body": "",
   "readingMinutes": 2,
-  "reviewStatus": "editorially-reformatted-legacy-content"
+  "reviewStatus": "legacy-medical-fact-check-required",
+  "sections": [
+    {
+      "title": "ECG territory clues",
+      "type": "table",
+      "points": [
+        "V1–V4 can suggest anterior involvement; II, III and aVF suggest inferior involvement; I, aVL, V5–V6 may suggest lateral involvement.",
+        "Coronary dominance and anatomical variation mean an ECG territory does not uniquely identify the occluded artery."
+      ]
+    },
+    {
+      "title": "Assess right ventricular involvement",
+      "type": "pearl",
+      "points": [
+        "Inferior infarction with hypotension, clear lungs and raised jugular venous pressure should prompt right-sided ECG assessment and urgent specialist management.",
+        "Avoid therapies that could worsen hemodynamic instability; evaluate volume and right-heart physiology rather than using automatic aggressive fluid boluses."
+      ]
+    },
+    {
+      "title": "Exam trap",
+      "type": "trap",
+      "points": [
+        "A normal or nondiagnostic initial ECG does not fully exclude acute coronary syndrome.",
+        "Do not apply a single rigid medication rule without the patient’s blood pressure and clinical context."
+      ]
+    }
+  ],
+  "images": [],
+  "quickRevision": [
+    "Anterior ST elevation often implicates LAD territory; inferior ST elevation may reflect RCA or circumflex involvement.",
+    "Posterior infarction may produce reciprocal anterior ST depression; posterior leads can improve detection.",
+    "Right ventricular involvement changes hemodynamic management and requires careful assessment."
+  ],
+  "medicalEditorialStatus": "cautiously-revised-clinician-review-still-recommended",
+  "inlineLinks": [
+    {
+      "slug": "new-0103-acute-coronary-syndrome-ecg-troponin-and-risk-assessment",
+      "context": "For a complementary clinical comparison, read"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "ST elevation in inferior leads II, III and aVF suggests injury in which wall?",
+      "options": [
+        "Posterior wall as the only site",
+        "Anterior septal wall only",
+        "Inferior wall",
+        "High lateral wall exclusively"
+      ],
+      "correct": 2,
+      "explanation": "Inferior wall. V1–V4 can suggest anterior involvement; II, III and aVF suggest inferior involvement; I, aVL, V5–V6 may suggest lateral involvement.",
+      "type": "High-yield recall"
+    }
+  ],
+  "valueSources": []
 }

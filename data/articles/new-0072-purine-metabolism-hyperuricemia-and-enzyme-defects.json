@@ -1,0 +1,55 @@
+{
+  "id": "ART-NEW-0072",
+  "slug": "new-0072-purine-metabolism-hyperuricemia-and-enzyme-defects",
+  "title": "Purine Metabolism: Hyperuricemia and Enzyme Defects",
+  "category": "First Year MBBS",
+  "subject": "Biochemistry",
+  "preview": "Purine degradation ultimately produces uric acid in humans, and xanthine oxidase contributes to this pathway.",
+  "quickRevision": [
+    "Purine degradation ultimately produces uric acid in humans, and xanthine oxidase contributes to this pathway.",
+    "Adenosine deaminase deficiency is a cause of severe combined immunodeficiency.",
+    "Hyperuricemia results from overproduction, underexcretion or both; clinical context determines evaluation."
+  ],
+  "sections": [
+    {
+      "title": "Core biomedical mechanism",
+      "type": "pearl",
+      "points": [
+        "Purine degradation ultimately produces uric acid in humans, and xanthine oxidase contributes to this pathway.",
+        "HGPRT is involved in purine salvage; severe deficiency causes Lesch–Nyhan syndrome."
+      ]
+    },
+    {
+      "title": "Clinical application",
+      "type": "table",
+      "points": [
+        "Adenosine deaminase deficiency is a cause of severe combined immunodeficiency.",
+        "Hyperuricemia results from overproduction, underexcretion or both; clinical context determines evaluation."
+      ]
+    },
+    {
+      "title": "Exam trap — avoid this mistake",
+      "type": "trap",
+      "points": [
+        "Do not treat all high urate measurements as synonymous with symptomatic gout."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Deficiency of HGPRT is associated with which syndrome?",
+      "options": [
+        "Alkaptonuria",
+        "Lesch–Nyhan syndrome",
+        "Wilson disease",
+        "Maple syrup urine disease"
+      ],
+      "correct": 1,
+      "explanation": "HGPRT is involved in purine salvage; severe deficiency causes Lesch–Nyhan syndrome.",
+      "type": "High-yield concept check"
+    }
+  ],
+  "images": [],
+  "medicalEditorialStatus": "author-drafted-not-clinician-peer-reviewed",
+  "inlineLinks": []
+}

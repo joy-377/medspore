@@ -1,0 +1,55 @@
+{
+  "id": "ART-NEW-0092",
+  "slug": "new-0092-asphyxial-deaths-findings-and-interpretation-limits",
+  "title": "Asphyxial Deaths: Findings and Interpretation Limits",
+  "category": "Third Year (Part 1)",
+  "subject": "Forensic Medicine",
+  "preview": "Asphyxial deaths can arise through several mechanisms including airway obstruction, neck compression or impaired ventilation.",
+  "quickRevision": [
+    "Asphyxial deaths can arise through several mechanisms including airway obstruction, neck compression or impaired ventilation.",
+    "Neck injuries, scene reconstruction and autopsy findings require careful correlation.",
+    "The manner of death cannot be inferred solely from a single external mark."
+  ],
+  "sections": [
+    {
+      "title": "Recognize the core pattern",
+      "type": "pearl",
+      "points": [
+        "Asphyxial deaths can arise through several mechanisms including airway obstruction, neck compression or impaired ventilation.",
+        "Petechial hemorrhages are nonspecific and may occur in circumstances other than asphyxia."
+      ]
+    },
+    {
+      "title": "Clinical examination and interpretation",
+      "type": "table",
+      "points": [
+        "Neck injuries, scene reconstruction and autopsy findings require careful correlation.",
+        "The manner of death cannot be inferred solely from a single external mark."
+      ]
+    },
+    {
+      "title": "Exam trap — avoid this mistake",
+      "type": "trap",
+      "points": [
+        "Absence of petechiae does not exclude an asphyxial mechanism."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Which statement about petechiae in suspected asphyxia is most accurate?",
+      "options": [
+        "They directly identify the precise mechanism",
+        "They are nonspecific findings",
+        "They confirm homicide in every case",
+        "Their absence always excludes asphyxia"
+      ],
+      "correct": 1,
+      "explanation": "They are nonspecific findings. Petechial hemorrhages are nonspecific and may occur in circumstances other than asphyxia.",
+      "type": "High-yield concept check"
+    }
+  ],
+  "images": [],
+  "medicalEditorialStatus": "author-drafted-not-clinician-peer-reviewed",
+  "inlineLinks": []
+}

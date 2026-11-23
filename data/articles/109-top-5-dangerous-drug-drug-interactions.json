@@ -6,7 +6,39 @@
   "subject": "Prescription Pearls",
   "title": "Top 5 Dangerous Drug-Drug Interactions",
   "preview": "Combinations that can trigger life-threatening crises in the ward...",
-  "body": "<p><strong>Learning note:</strong> Educational revision content; verify medication doses, protocols and reference ranges against current institutional guidelines before any patient-care use.</p><p>Never combine these drugs without careful consideration and monitoring:</p><ul><li><b>1. Sildenafil (Viagra) + Nitrates:</b> Both increase cGMP, causing massive, irreversible, and potentially fatal hypotension. Always check for PDE-5 inhibitor use before giving sublingual NTG for chest pain.</li><li><b>2. Warfarin + Amiodarone / Fluconazole / Bactrim:</b> These are potent CYP450 inhibitors. They block Warfarin metabolism, causing a sudden spike in INR and massive bleeding risk.</li><li><b>3. ACE Inhibitors + Spironolactone:</b> Both drugs retain potassium. Combining them significantly increases the risk of severe hyperkalemia and arrhythmias.</li><li><b>4. SSRIs (Fluoxetine) + MAOIs / Tramadol:</b> High risk of precipitating Serotonin Syndrome (hyperthermia, clonus, tremors).</li><li><b>5. Clopidogrel + Omeprazole:</b> Omeprazole inhibits CYP2C19, the exact enzyme needed to convert Clopidogrel (a prodrug) into its active form. This renders the Clopidogrel useless, leading to stent thrombosis. (Use Pantoprazole instead).</li></ul>",
+  "body": "<p>Never combine these drugs without careful consideration and monitoring:</p><ul><li><b>1. Sildenafil (Viagra) + Nitrates:</b> Both increase cGMP, causing massive, irreversible, and potentially fatal hypotension. Always check for PDE-5 inhibitor use before giving sublingual NTG for chest pain.</li><li><b>2. Warfarin + Amiodarone / Fluconazole / Bactrim:</b> These are potent CYP450 inhibitors. They block Warfarin metabolism, causing a sudden spike in INR and massive bleeding risk.</li><li><b>3. ACE Inhibitors + Spironolactone:</b> Both drugs retain potassium. Combining them significantly increases the risk of severe hyperkalemia and arrhythmias.</li><li><b>4. SSRIs (Fluoxetine) + MAOIs / Tramadol:</b> High risk of precipitating Serotonin Syndrome (hyperthermia, clonus, tremors).</li><li><b>5. Clopidogrel + Omeprazole:</b> Omeprazole inhibits CYP2C19, the exact enzyme needed to convert Clopidogrel (a prodrug) into its active form. This renders the Clopidogrel useless, leading to stent thrombosis. (Use Pantoprazole instead).</li></ul>",
   "readingMinutes": 2,
-  "reviewStatus": "editorially-reformatted-legacy-content"
+  "reviewStatus": "legacy-medical-fact-check-required",
+  "sections": [
+    {
+      "title": "Clinical Interpretation",
+      "html": "<p>Never combine these drugs without careful consideration and monitoring:</p>",
+      "type": ""
+    },
+    {
+      "title": "1. Sildenafil (Viagra) + Nitrates",
+      "html": "<ul><li><b>1. Sildenafil (Viagra) + Nitrates:</b> Both increase cGMP, causing massive, irreversible, and potentially fatal hypotension. Always check for PDE-5 inhibitor use before giving sublingual NTG for chest pain.</li><li><b>2. Warfarin + Amiodarone / Fluconazole / Bactrim:</b> These are potent CYP450 inhibitors. They block Warfarin metabolism, causing a sudden spike in INR and massive bleeding risk.</li><li><b>3. ACE Inhibitors + Spironolactone:</b> Both drugs retain potassium. Combining them significantly increases the risk of severe hyperkalemia and arrhythmias.</li><li><b>4. SSRIs (Fluoxetine) + MAOIs / Tramadol:</b> High risk of precipitating Serotonin Syndrome (hyperthermia, clonus, tremors).</li><li><b>5. Clopidogrel + Omeprazole:</b> Omeprazole inhibits CYP2C19, the exact enzyme needed to convert Clopidogrel (a prodrug) into its active form. This renders the Clopidogrel useless, leading to stent thrombosis. (Use Pantoprazole instead).</li></ul>",
+      "type": ""
+    }
+  ],
+  "images": [],
+  "quickRevision": [
+    "Never combine these drugs without careful consideration and monitoring:",
+    "1.; Sildenafil (Viagra) + Nitrates: Both increase cGMP, causing massive, irreversible, and potentially fatal hypotension."
+  ],
+  "medicalEditorialStatus": "legacy-requires-clinician-review",
+  "quiz": [
+    {
+      "question": "Which combination may increase serious bleeding risk?",
+      "options": [
+        "Topical emollient with sunscreen",
+        "Normal saline with water",
+        "Warfarin with an NSAID",
+        "Oral rehydration salts with food"
+      ],
+      "correct": 2,
+      "explanation": "Warfarin combined with an NSAID increases bleeding risk because NSAIDs can impair platelet function and injure gastrointestinal mucosa; the interaction is not simply a universal block of warfarin metabolism.",
+      "type": "High-yield recall"
+    }
+  ]
 }

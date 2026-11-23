@@ -4,9 +4,57 @@
   "slug": "920-compartment-syndrome-of-the-limbs",
   "category": "Final Year (Part 2)",
   "subject": "Orthopedics",
-  "title": "Compartment Syndrome of the Limbs",
-  "preview": "The 5 Ps, intracompartmental pressure monitoring, and emergency fasciotomy...",
-  "body": "<p><b>Pathophysiology:</b><br>Increased tissue pressure within a closed osteofascial compartment leads to microvascular collapse, muscle and nerve ischemia. Most commonly occurs in the anterior compartment of the leg following tibial shaft fractures, crush injuries, or tight circumferential casts.</p><p><b>The Classical '5 Ps' (Clinical Presentation):</b><br>1. <b>Pain</b> out of proportion to the injury (earliest and most reliable sign). Pain significantly aggravated by <i>passive stretch</i> of the muscles in that compartment.<br>2. <b>Pallor</b> (though pulses are usually preserved because capillary pressure is lower than arterial pressure).<br>3. <b>Pulselessness</b> (a very late, ominous sign indicating complete vascular shutdown).<br>4. <b>Paresthesia</b> (early nerve ischemia sign, e.g., loss of first web space sensation in anterior tibial compartment syndrome).<br>5. <b>Paralysis</b> (latest sign indicating irreversible muscle/nerve death).</p><p><b>Diagnostic &amp; Therapeutic Standard:</b><br>• Intracompartmental pressure measurement using a slit catheter or Stryker pressure monitor. Absolute pressure <b>&gt; 30–40 mmHg</b> (or delta pressure &lt; 30 mmHg relative to diastolic BP) mandates <b>Emergency Surgical Fasciotomy</b> (decompression of all compartments via dual-incision technique).</p>",
+  "title": "Acute Compartment Syndrome: The Time-Critical Limb",
+  "preview": "Rising pressure within a noncompliant compartment can compromise perfusion and nerves before pulses disappear.",
+  "body": "",
   "readingMinutes": 2,
-  "reviewStatus": "editorially-reformatted-legacy-content"
+  "reviewStatus": "legacy-medical-fact-check-required",
+  "sections": [
+    {
+      "title": "Recognition",
+      "type": "pearl",
+      "points": [
+        "Trauma, fractures, reperfusion and tight casts or dressings are common contexts.",
+        "Serial examination matters when symptoms evolve after an initially reassuring assessment."
+      ]
+    },
+    {
+      "title": "Physiologic logic",
+      "type": "flow",
+      "points": [
+        "Pressure reduces local capillary perfusion and threatens ischemic muscle and nerves.",
+        "Objective pressure measurements may assist in selected difficult assessments, but do not replace clinical urgency."
+      ]
+    },
+    {
+      "title": "Exam trap",
+      "type": "trap",
+      "points": [
+        "Palpable distal pulses do not exclude compartment syndrome.",
+        "Do not wait for paralysis or pulselessness in a patient with strong early clinical warning signs."
+      ]
+    }
+  ],
+  "images": [],
+  "quickRevision": [
+    "Pain out of proportion and pain on passive stretch are classic early warning features.",
+    "Sensory disturbance and tense compartments increase concern; pulses may remain present until late.",
+    "Urgent surgical assessment and removal of external constriction are crucial when suspected."
+  ],
+  "medicalEditorialStatus": "topic-specific-reviewed-against-open-authoritative-guidance-not-clinician-peer-reviewed",
+  "quiz": [
+    {
+      "question": "Which finding is a warning for acute compartment syndrome?",
+      "options": [
+        "Disproportionate pain with passive stretch",
+        "Normal painless passive movement as a universal rule-out",
+        "Absence of swelling proving safety",
+        "Only chronic skin itching"
+      ],
+      "correct": 0,
+      "explanation": "Severe pain out of proportion, particularly on passive stretch, is an early sign of compartment syndrome; pulses can remain present.",
+      "type": "High-yield recall"
+    }
+  ],
+  "valueSources": []
 }

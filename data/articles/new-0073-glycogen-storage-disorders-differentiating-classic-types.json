@@ -1,0 +1,55 @@
+{
+  "id": "ART-NEW-0073",
+  "slug": "new-0073-glycogen-storage-disorders-differentiating-classic-types",
+  "title": "Glycogen Storage Disorders: Differentiating Classic Types",
+  "category": "First Year MBBS",
+  "subject": "Biochemistry",
+  "preview": "Type I glycogen storage disease (von Gierke) involves glucose-6-phosphatase system dysfunction and fasting hypoglycemia.",
+  "quickRevision": [
+    "Type I glycogen storage disease (von Gierke) involves glucose-6-phosphatase system dysfunction and fasting hypoglycemia.",
+    "Type V (McArdle) is muscle glycogen phosphorylase deficiency associated with exercise intolerance.",
+    "Differentiate by tissue affected, fasting response, muscle symptoms and enzyme defect rather than the shared word glycogen."
+  ],
+  "sections": [
+    {
+      "title": "Core biomedical mechanism",
+      "type": "pearl",
+      "points": [
+        "Type I glycogen storage disease (von Gierke) involves glucose-6-phosphatase system dysfunction and fasting hypoglycemia.",
+        "Type II (Pompe) is lysosomal acid alpha-glucosidase deficiency associated with cardiomyopathy or myopathy."
+      ]
+    },
+    {
+      "title": "Clinical application",
+      "type": "table",
+      "points": [
+        "Type V (McArdle) is muscle glycogen phosphorylase deficiency associated with exercise intolerance.",
+        "Differentiate by tissue affected, fasting response, muscle symptoms and enzyme defect rather than the shared word glycogen."
+      ]
+    },
+    {
+      "title": "Exam trap — avoid this mistake",
+      "type": "trap",
+      "points": [
+        "Pompe disease is a lysosomal disorder rather than simply a hepatic glycogen mobilization defect."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Which enzyme deficiency causes classic Pompe disease?",
+      "options": [
+        "Muscle glycogen phosphorylase",
+        "Acid alpha-glucosidase",
+        "Phenylalanine hydroxylase",
+        "Glucose-6-phosphatase"
+      ],
+      "correct": 1,
+      "explanation": "Type II (Pompe) is lysosomal acid alpha-glucosidase deficiency associated with cardiomyopathy or myopathy.",
+      "type": "High-yield concept check"
+    }
+  ],
+  "images": [],
+  "medicalEditorialStatus": "author-drafted-not-clinician-peer-reviewed",
+  "inlineLinks": []
+}

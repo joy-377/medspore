@@ -1,0 +1,55 @@
+{
+  "id": "ART-NEW-0095",
+  "slug": "new-0095-bias-confounding-and-effect-modification-exam-table",
+  "title": "Bias, Confounding and Effect Modification: Exam Table",
+  "category": "Third Year (Part 1)",
+  "subject": "PSM",
+  "preview": "Selection bias arises from how participants are sampled or retained; information bias arises from measurement errors.",
+  "quickRevision": [
+    "Selection bias arises from how participants are sampled or retained; information bias arises from measurement errors.",
+    "Effect modification occurs when the effect genuinely differs across levels of another variable.",
+    "Randomization, design restrictions, stratification and multivariable adjustment address different threats to inference."
+  ],
+  "sections": [
+    {
+      "title": "Recognize the core pattern",
+      "type": "pearl",
+      "points": [
+        "Selection bias arises from how participants are sampled or retained; information bias arises from measurement errors.",
+        "Confounding occurs when another variable distorts an exposure-outcome association."
+      ]
+    },
+    {
+      "title": "Clinical examination and interpretation",
+      "type": "table",
+      "points": [
+        "Effect modification occurs when the effect genuinely differs across levels of another variable.",
+        "Randomization, design restrictions, stratification and multivariable adjustment address different threats to inference."
+      ]
+    },
+    {
+      "title": "Exam trap — avoid this mistake",
+      "type": "trap",
+      "points": [
+        "Effect modification should be described rather than simply adjusted away as if always an error."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "question": "What is effect modification?",
+      "options": [
+        "A synonym for recall bias",
+        "A real difference in effect across groups",
+        "A measurement device error",
+        "A random sampling frame only"
+      ],
+      "correct": 1,
+      "explanation": "A real difference in effect across groups. Effect modification occurs when the effect genuinely differs across levels of another variable.",
+      "type": "High-yield concept check"
+    }
+  ],
+  "images": [],
+  "medicalEditorialStatus": "author-drafted-not-clinician-peer-reviewed",
+  "inlineLinks": []
+}

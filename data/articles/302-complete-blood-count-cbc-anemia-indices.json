@@ -4,9 +4,64 @@
   "slug": "302-complete-blood-count-cbc-anemia-indices",
   "category": "Critical Lab Values",
   "subject": "Hematology & ABG",
-  "title": "Complete Blood Count (CBC) & Anemia Indices",
-  "preview": "MCV, RDW, Mentzer Index, and reticulocyte production index rules...",
-  "body": "<p><strong>Learning note:</strong> Educational revision content; verify medication doses, protocols and reference ranges against current institutional guidelines before any patient-care use.</p><p><b>Microcytic Anemia (MCV &lt; 80 fL):</b><br>• <i>Iron Deficiency Anemia (IDA):</i> Low serum Iron, Low Ferritin, High TIBC, High RDW.<br>• <i>Thalassemia Trait:</i> Normal/High Ferritin, Normal TIBC, Normal RDW.<br>• <b>Mentzer Index (MCV / RBC count):</b> &gt;13 suggests IDA; &lt;13 strongly points toward Beta-Thalassemia Trait.</p><p><b>Macrocytic Anemia (MCV &gt; 100 fL):</b><br>• <i>Megaloblastic:</i> Vit B12 or Folate deficiency (hypersegmented neutrophils &gt;5 lobes).<br>• <i>Non-megaloblastic:</i> Alcoholism, Hypothyroidism, Liver disease, Reticulocytosis.</p><p><b>Reticulocyte Production Index (RPI):</b><br>Corrected Retic Count = Retic % × (Patient Hct / 45). RPI = Corrected Retic / Maturation Correction Factor. RPI &gt; 2 indicates hyperproliferative (hemolysis/hemorrhage); RPI &lt; 2 indicates hypoproliferative (bone marrow failure/deficiency).</p>",
+  "title": "CBC and Anemia Indices: A Practical Classification",
+  "preview": "Combine hemoglobin, MCV, reticulocyte response and smear findings to classify anemia logically.",
+  "body": "",
   "readingMinutes": 2,
-  "reviewStatus": "editorially-reformatted-legacy-content"
+  "reviewStatus": "legacy-medical-fact-check-required",
+  "sections": [
+    {
+      "title": "Start with red-cell indices",
+      "type": "table",
+      "points": [
+        "Mean corpuscular volume describes average red-cell size; morphology and distribution may reveal mixed populations.",
+        "Ferritin is affected by inflammation, so its diagnostic interpretation is context-dependent."
+      ]
+    },
+    {
+      "title": "Use production-versus-loss logic",
+      "type": "flow",
+      "points": [
+        "A low reticulocyte response despite anemia suggests insufficient marrow compensation.",
+        "An increased response suggests ongoing destruction, bleeding or recovery from treatment, depending on clinical context."
+      ]
+    },
+    {
+      "title": "Exam trap",
+      "type": "trap",
+      "points": [
+        "A single Mentzer-index cutoff is not definitive for thalassemia trait or iron deficiency.",
+        "Normal MCV does not exclude a mixed microcytic and macrocytic disorder."
+      ]
+    }
+  ],
+  "images": [],
+  "quickRevision": [
+    "Microcytosis commonly prompts assessment for iron deficiency, thalassemia and chronic inflammatory processes.",
+    "Macrocytosis can reflect B12/folate deficiency, liver disease, alcohol, hypothyroidism or reticulocytosis.",
+    "A reticulocyte response helps distinguish reduced red-cell production from blood loss or hemolysis."
+  ],
+  "medicalEditorialStatus": "topic-specific-reviewed-against-open-authoritative-guidance-not-clinician-peer-reviewed",
+  "quiz": [
+    {
+      "question": "Which red-cell index is used to classify microcytic versus macrocytic anemia?",
+      "options": [
+        "Platelet distribution width alone",
+        "Neutrophil count",
+        "Mean corpuscular volume (MCV)",
+        "Reticulocyte count alone"
+      ],
+      "correct": 2,
+      "explanation": "Mean corpuscular volume (MCV). Mean corpuscular volume describes average red-cell size; morphology and distribution may reveal mixed populations.",
+      "type": "High-yield recall"
+    }
+  ],
+  "valueSources": [
+    {
+      "label": "Adult MCV categories",
+      "source": "Merck Manual Professional — Evaluation of Anemia",
+      "url": "https://www.merckmanuals.com/professional/hematology/approach-to-the-patient-with-anemia/evaluation-of-anemia",
+      "note": "Microcytosis <80 fL and macrocytosis >100 fL are commonly used adult categories; laboratory and age context vary."
+    }
+  ]
 }

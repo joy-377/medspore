@@ -1,0 +1,55 @@
+{
+  "id": "ART-NEW-0076",
+  "slug": "new-0076-immune-complex-deposition-patterns-in-glomerulonephritis",
+  "title": "Immune Complex Deposition Patterns in Glomerulonephritis",
+  "category": "Second Year MBBS",
+  "subject": "Pathology",
+  "preview": "Immune-complex glomerulonephritis commonly produces granular immunofluorescence patterns in glomeruli.",
+  "quickRevision": [
+    "Immune-complex glomerulonephritis commonly produces granular immunofluorescence patterns in glomeruli.",
+    "Electron microscopy helps localize deposits as subepithelial, subendothelial or mesangial.",
+    "Clinical syndrome, complement testing and serology must be interpreted with biopsy context."
+  ],
+  "sections": [
+    {
+      "title": "Pathophysiology & identification",
+      "type": "pearl",
+      "points": [
+        "Immune-complex glomerulonephritis commonly produces granular immunofluorescence patterns in glomeruli.",
+        "Anti-GBM disease classically produces linear IgG staining along the glomerular basement membrane."
+      ]
+    },
+    {
+      "title": "Diagnostic and treatment connections",
+      "type": "table",
+      "points": [
+        "Electron microscopy helps localize deposits as subepithelial, subendothelial or mesangial.",
+        "Clinical syndrome, complement testing and serology must be interpreted with biopsy context."
+      ]
+    },
+    {
+      "title": "Exam trap — avoid this mistake",
+      "type": "trap",
+      "points": [
+        "A granular pattern is not equivalent to a specific etiologic diagnosis without other evidence."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "question": "What immunofluorescence pattern is typical of anti-GBM disease?",
+      "options": [
+        "No immunoglobulin by definition",
+        "Granular IgA exclusively",
+        "Linear IgG along basement membranes",
+        "Nuclear staining alone"
+      ],
+      "correct": 2,
+      "explanation": "Linear IgG along basement membranes. Anti-GBM disease classically produces linear IgG staining along the glomerular basement membrane.",
+      "type": "High-yield concept check"
+    }
+  ],
+  "images": [],
+  "medicalEditorialStatus": "author-drafted-not-clinician-peer-reviewed",
+  "inlineLinks": []
+}

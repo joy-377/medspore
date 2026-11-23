@@ -6,7 +6,45 @@
   "subject": "Developmental Milestones",
   "title": "Social, Language & Primitive Reflex Timelines",
   "preview": "Social smile, stranger anxiety, Moro reflex, and Babinski disappearance...",
-  "body": "<p><strong>Learning note:</strong> Educational revision content; verify medication doses, protocols and reference ranges against current institutional guidelines before any patient-care use.</p><p><b>Social &amp; Adaptive Milestones:</b><br>• <i>2 months:</i> Social smile (responds to mother's face).<br>• <i>3 months:</i> Recognizes mother.<br>• <i>6 months:</i> Recognizes strangers, exhibits stranger anxiety.<br>• <i>9 months:</i> Waves 'bye-bye', plays peek-a-boo.<br>• <i>12 months:</i> Drinks from a cup, helps in dressing.<br>• <i>2 years:</i> Dry by day, tells toilet needs.<br>• <i>3 years:</i> Parallel play (plays alongside peers).<br>• <i>4 years:</i> Cooperative play (plays with other children).</p><p><b>Language Milestones:</b><br>• <i>3 months:</i> Cooing.<br>• <i>6 months:</i> Monosyllables ('ba', 'da').<br>• <i>9 months:</i> Bisyllables ('mama', 'dada' non-specific).<br>• <i>12 months:</i> 1-2 words with meaning.<br>• <i>18 months:</i> 8-10 words vocabulary.<br>• <i>2 years:</i> 2-word sentences ('want milk').<br>• <i>3 years:</i> Asks questions, knows full name and gender.</p><p><b>Primitive Reflexes (Disappearance Timeline):</b><br>• <i>Moro Reflex:</i> Disappears by 4-6 months (persistence implies cerebral palsy).<br>• <i>Palmar Grasp:</i> Disappears by 3-4 months.<br>• <i>Rooting Reflex:</i> Disappears by 3-4 months.<br>• <i>Babinski Sign:</i> Normal in infants; becomes flexor (plantar) by 12-18 months with myelination.</p>",
+  "body": "<p><b>Social &amp; Adaptive Milestones:</b><br>• <i>2 months:</i> Social smile (responds to mother's face).<br>• <i>3 months:</i> Recognizes mother.<br>• <i>6 months:</i> Recognizes strangers, exhibits stranger anxiety.<br>• <i>9 months:</i> Waves 'bye-bye', plays peek-a-boo.<br>• <i>12 months:</i> Drinks from a cup, helps in dressing.<br>• <i>2 years:</i> Dry by day, tells toilet needs.<br>• <i>3 years:</i> Parallel play (plays alongside peers).<br>• <i>4 years:</i> Cooperative play (plays with other children).</p><p><b>Language Milestones:</b><br>• <i>3 months:</i> Cooing.<br>• <i>6 months:</i> Monosyllables ('ba', 'da').<br>• <i>9 months:</i> Bisyllables ('mama', 'dada' non-specific).<br>• <i>12 months:</i> 1-2 words with meaning.<br>• <i>18 months:</i> 8-10 words vocabulary.<br>• <i>2 years:</i> 2-word sentences ('want milk').<br>• <i>3 years:</i> Asks questions, knows full name and gender.</p><p><b>Primitive Reflexes (Disappearance Timeline):</b><br>• <i>Moro Reflex:</i> Disappears by 4-6 months (persistence implies cerebral palsy).<br>• <i>Palmar Grasp:</i> Disappears by 3-4 months.<br>• <i>Rooting Reflex:</i> Disappears by 3-4 months.<br>• <i>Babinski Sign:</i> Normal in infants; becomes flexor (plantar) by 12-18 months with myelination.</p>",
   "readingMinutes": 2,
-  "reviewStatus": "editorially-reformatted-legacy-content"
+  "reviewStatus": "legacy-medical-fact-check-required",
+  "sections": [
+    {
+      "title": "Social & Adaptive Milestones",
+      "html": "<p><b>Social &amp; Adaptive Milestones:</b><br/>• <i>2 months:</i> Social smile (responds to mother's face).<br/>• <i>3 months:</i> Recognizes mother.<br/>• <i>6 months:</i> Recognizes strangers, exhibits stranger anxiety.<br/>• <i>9 months:</i> Waves 'bye-bye', plays peek-a-boo.<br/>• <i>12 months:</i> Drinks from a cup, helps in dressing.<br/>• <i>2 years:</i> Dry by day, tells toilet needs.<br/>• <i>3 years:</i> Parallel play (plays alongside peers).<br/>• <i>4 years:</i> Cooperative play (plays with other children).</p>",
+      "type": ""
+    },
+    {
+      "title": "Language Milestones",
+      "html": "<p><b>Language Milestones:</b><br/>• <i>3 months:</i> Cooing.<br/>• <i>6 months:</i> Monosyllables ('ba', 'da').<br/>• <i>9 months:</i> Bisyllables ('mama', 'dada' non-specific).<br/>• <i>12 months:</i> 1-2 words with meaning.<br/>• <i>18 months:</i> 8-10 words vocabulary.<br/>• <i>2 years:</i> 2-word sentences ('want milk').<br/>• <i>3 years:</i> Asks questions, knows full name and gender.</p>",
+      "type": ""
+    },
+    {
+      "title": "Primitive Reflexes (Disappearance Timeline)",
+      "html": "<p><b>Primitive Reflexes (Disappearance Timeline):</b><br/>• <i>Moro Reflex:</i> Disappears by 4-6 months (persistence implies cerebral palsy).<br/>• <i>Palmar Grasp:</i> Disappears by 3-4 months.<br/>• <i>Rooting Reflex:</i> Disappears by 3-4 months.<br/>• <i>Babinski Sign:</i> Normal in infants; becomes flexor (plantar) by 12-18 months with myelination.</p>",
+      "type": ""
+    }
+  ],
+  "images": [],
+  "quickRevision": [
+    "Social & Adaptive Milestones; 2 months: Social smile (responds to mother's face).; 3 months: Recognizes mother.",
+    "Language Milestones; 3 months: Cooing.; 6 months: Monosyllables ('ba', 'da').; 9 months: Bisyllables ('mama', 'dada' non-specific).",
+    "Primitive Reflexes (Disappearance Timeline); Moro Reflex: Disappears by 4-6 months (persistence implies cerebral palsy)."
+  ],
+  "medicalEditorialStatus": "legacy-requires-clinician-review",
+  "quiz": [
+    {
+      "question": "Which reflex is assessed in early infancy?",
+      "options": [
+        "An adult swallowing reflex exclusively",
+        "Moro reflex",
+        "Patellar reflex as the only primitive reflex",
+        "Babinski as a named cranial nerve"
+      ],
+      "correct": 1,
+      "explanation": "The Moro reflex is a primitive newborn response that normally becomes less prominent and integrates in infancy; asymmetry or persistence warrants context-sensitive evaluation.",
+      "type": "High-yield recall"
+    }
+  ]
 }

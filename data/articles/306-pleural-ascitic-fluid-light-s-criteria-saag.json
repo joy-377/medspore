@@ -5,8 +5,73 @@
   "category": "Critical Lab Values",
   "subject": "CSF & Fluids",
   "title": "Pleural & Ascitic Fluid: Light's Criteria & SAAG",
-  "preview": "Exudate vs Transudate and Portal Hypertension evaluation rules...",
-  "body": "<p><strong>Learning note:</strong> Educational revision content; verify medication doses, protocols and reference ranges against current institutional guidelines before any patient-care use.</p><p><b>Light's Criteria (Pleural Fluid):</b> Fluid is an <b>Exudate</b> if ANY ONE of the following is true:<br>1. Pleural fluid protein / Serum protein ratio &gt; 0.5<br>2. Pleural fluid LDH / Serum LDH ratio &gt; 0.6<br>3. Pleural fluid LDH &gt; 2/3 the upper limit of normal serum LDH.<br><i>Transudates:</i> Heart Failure, Cirrhosis, Nephrotic Syndrome.<br><i>Exudates:</i> Pneumonia (parapneumonic), Malignancy, Tuberculosis, Pulmonary Embolism.</p><p><b>Serum-Ascites Albumin Gradient (SAAG):</b><br>SAAG = Serum Albumin - Ascitic Fluid Albumin.<br>• <b>High SAAG (&ge; 1.1 g/dL) = Portal Hypertension present:</b> Cirrhosis, Budd-Chiari syndrome, Congestive Heart Failure.<br>• <b>Low SAAG (&lt; 1.1 g/dL) = Normal Portal Pressure:</b> Peritoneal Carcinomatosis, Peritoneal Tuberculosis, Pancreatitis, Nephrotic syndrome.</p>",
+  "preview": "Light’s criteria categorize pleural effusions; the serum–ascites albumin gradient helps assess portal-hypertension physiology.",
+  "body": "",
   "readingMinutes": 2,
-  "reviewStatus": "editorially-reformatted-legacy-content"
+  "reviewStatus": "legacy-medical-fact-check-required",
+  "sections": [
+    {
+      "title": "Pleural fluid: exudate versus transudate",
+      "type": "table",
+      "points": [
+        "Light’s criteria: exudate if pleural/serum protein ratio is at least 0.5, pleural/serum LDH ratio at least 0.6, or pleural LDH at least two-thirds the serum LDH upper limit.",
+        "Use the clinical differential: heart failure and systemic hydrostatic changes commonly produce transudates; infection, malignancy and inflammatory disease commonly produce exudates."
+      ]
+    },
+    {
+      "title": "Ascitic fluid: the SAAG approach",
+      "type": "flow",
+      "points": [
+        "SAAG is serum albumin minus ascitic albumin measured near the time of paracentesis.",
+        "A SAAG of at least 1.1 g/dL supports portal hypertension; a lower gradient points toward other mechanisms, with clinical exceptions."
+      ]
+    },
+    {
+      "title": "Exam trap",
+      "type": "trap",
+      "points": [
+        "Do not label a diuretic-treated cardiac effusion as inflammatory from borderline Light’s criteria alone.",
+        "Never interpret a gradient without considering sample context, cause and clinical findings."
+      ]
+    }
+  ],
+  "images": [],
+  "quickRevision": [
+    "Light’s criteria classify a pleural effusion as exudative when one or more protein/LDH ratios or the pleural LDH criterion is met.",
+    "A higher serum–ascites albumin gradient supports portal hypertension; fluid protein and context further distinguish etiologies.",
+    "Diuretic-treated heart failure may create an apparent exudate by Light’s criteria, requiring careful interpretation."
+  ],
+  "medicalEditorialStatus": "cautiously-revised-clinician-review-still-recommended",
+  "inlineLinks": [
+    {
+      "slug": "new-0038-pleural-fluid-interpretation-ph-glucose-and-clinical-meaning",
+      "context": "For a complementary clinical comparison, read"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Which ratio or criterion helps distinguish pleural exudate from transudate?",
+      "options": [
+        "APGAR score",
+        "CHA2DS2-VASc",
+        "Glasgow Coma Scale",
+        "Light criteria"
+      ],
+      "correct": 3,
+      "explanation": "Light criteria. Light’s criteria: exudate if pleural/serum protein ratio is at least 0.5, pleural/serum LDH ratio at least 0.6, or pleural LDH at least two-thirds the serum LDH upper limit.",
+      "type": "High-yield recall"
+    }
+  ],
+  "valueSources": [
+    {
+      "label": "Light’s criteria (pleural protein and LDH ratios)",
+      "source": "Merck Manual Professional — Pleural Effusion",
+      "url": "https://www.merckmanuals.com/professional/pulmonary-disorders/mediastinal-and-pleural-disorders/pleural-effusion"
+    },
+    {
+      "label": "SAAG ≥1.1 g/dL (portal-hypertension pattern)",
+      "source": "Merck Manual Professional — Ascites",
+      "url": "https://www.merckmanuals.com/professional/hepatic-and-biliary-disorders/approach-to-the-patient-with-liver-disease/ascites"
+    }
+  ]
 }

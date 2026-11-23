@@ -1,0 +1,55 @@
+{
+  "id": "ART-NEW-0009",
+  "slug": "new-0009-postoperative-oliguria-a-stepwise-clinical-assessment",
+  "title": "Postoperative Oliguria: A Stepwise Clinical Assessment",
+  "category": "Clinical Tips",
+  "subject": "Ward Protocols",
+  "preview": "Postoperative oliguria can follow hypovolemia, bleeding, sepsis, low cardiac output, obstruction or a medication effect.",
+  "quickRevision": [
+    "Postoperative oliguria can follow hypovolemia, bleeding, sepsis, low cardiac output, obstruction or a medication effect.",
+    "Reassess circulation, fluid balance, recent blood loss, renal function and nephrotoxic exposure.",
+    "Fluid challenges require evaluation for fluid responsiveness and overload; oliguria does not automatically mean dehydration."
+  ],
+  "sections": [
+    {
+      "title": "Recognize the situation",
+      "type": "pearl",
+      "points": [
+        "Postoperative oliguria can follow hypovolemia, bleeding, sepsis, low cardiac output, obstruction or a medication effect.",
+        "Check catheter patency and whether the collected urine volume is real before interpreting low output."
+      ]
+    },
+    {
+      "title": "Clinical decisions & differential",
+      "type": "table",
+      "points": [
+        "Reassess circulation, fluid balance, recent blood loss, renal function and nephrotoxic exposure.",
+        "Fluid challenges require evaluation for fluid responsiveness and overload; oliguria does not automatically mean dehydration."
+      ]
+    },
+    {
+      "title": "Exam trap — avoid this mistake",
+      "type": "trap",
+      "points": [
+        "A blocked urinary catheter can mimic a fall in kidney urine production."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "question": "What is an early practical check in catheterized postoperative oliguria?",
+      "options": [
+        "Routine fundoscopy",
+        "Catheter patency",
+        "Fasting lipid profile",
+        "Hearing thresholds"
+      ],
+      "correct": 1,
+      "explanation": "Check catheter patency and whether the collected urine volume is real before interpreting low output.",
+      "type": "High-yield concept check"
+    }
+  ],
+  "images": [],
+  "medicalEditorialStatus": "author-drafted-not-clinician-peer-reviewed",
+  "inlineLinks": []
+}

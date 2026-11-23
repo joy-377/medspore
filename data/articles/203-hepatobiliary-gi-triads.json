@@ -5,8 +5,62 @@
   "category": "Triads & Signs",
   "subject": "Surgical Triads",
   "title": "Hepatobiliary & GI Triads",
-  "preview": "Charcot's Triad, Reynold's Pentad, and Borchardt's Triad for Gastric Volvulus...",
-  "body": "<ul><li><b>Charcot's Triad (Acute Cholangitis):</b> 1. Right Upper Quadrant (RUQ) pain, 2. Jaundice, 3. Fever with chills/rigors. <i>Next step:</i> ERCP.</li><li><b>Reynolds' Pentad (Severe Suppurative Cholangitis):</b> Charcot's Triad + 4. Shock (hypotension), 5. Altered mental status. This is a surgical emergency requiring urgent biliary decompression.</li><li><b>Borchardt's Triad (Acute Gastric Volvulus):</b> 1. Severe epigastric pain, 2. Retching without vomiting, 3. Inability to pass a Nasogastric (NG) tube.</li><li><b>Mackler's Triad (Boerhaave Syndrome):</b> 1. Vomiting, 2. Lower chest pain, 3. Subcutaneous emphysema (crepitus in the neck). <i>Diagnosis:</i> Esophageal rupture.</li></ul>",
+  "preview": "Classic gastrointestinal triads help recognize cholangitis, gastric volvulus and esophageal rupture without replacing diagnostic assessment.",
+  "body": "",
   "readingMinutes": 2,
-  "reviewStatus": "editorially-reformatted-legacy-content"
+  "reviewStatus": "legacy-medical-fact-check-required",
+  "sections": [
+    {
+      "title": "Charcot triad: acute cholangitis",
+      "type": "pearl",
+      "points": [
+        "Biliary obstruction with infection can cause upper abdominal pain, fever and jaundice.",
+        "Management involves urgent clinical assessment, antibiotics and timely biliary drainage when indicated."
+      ]
+    },
+    {
+      "title": "Reynolds pentad: systemic compromise",
+      "type": "mnemonic",
+      "points": [
+        "Charcot triad plus hypotension and altered mental status raises concern for severe cholangitis.",
+        "Severe disease may occur without all five classic findings."
+      ]
+    },
+    {
+      "title": "Borchardt and Mackler patterns",
+      "type": "table",
+      "points": [
+        "Borchardt: severe epigastric pain, retching with little or no vomit and difficulty passing a nasogastric tube suggest acute gastric volvulus.",
+        "Mackler: vomiting, chest pain and subcutaneous emphysema can occur after esophageal rupture, although the full combination is uncommon."
+      ]
+    },
+    {
+      "title": "Exam trap",
+      "type": "trap",
+      "points": [
+        "Classic triads are memory aids; the absence of a complete triad does not exclude a serious diagnosis."
+      ]
+    }
+  ],
+  "images": [],
+  "quickRevision": [
+    "Charcot triad is fever, right-upper-quadrant pain and jaundice; the full triad is not always present in cholangitis.",
+    "Reynolds pentad adds hypotension and altered mentation to Charcot triad.",
+    "Borchardt triad and Mackler triad are important differential clues for acute gastric volvulus and esophageal rupture."
+  ],
+  "medicalEditorialStatus": "structured-clinical-revision-not-clinician-peer-reviewed",
+  "quiz": [
+    {
+      "question": "Charcot triad is associated with which hepatobiliary emergency?",
+      "options": [
+        "Uncomplicated fatty liver",
+        "Chronic constipation",
+        "Uncomplicated gastroesophageal reflux",
+        "Acute cholangitis"
+      ],
+      "correct": 3,
+      "explanation": "Charcot triad—fever, right-upper-quadrant pain and jaundice—is a classic pattern for acute cholangitis, but its absence does not rule out the disease.",
+      "type": "High-yield recall"
+    }
+  ]
 }

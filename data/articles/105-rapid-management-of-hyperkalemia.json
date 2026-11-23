@@ -4,9 +4,134 @@
   "slug": "105-rapid-management-of-hyperkalemia",
   "category": "Clinical Tips",
   "subject": "Ward Protocols",
-  "title": "Rapid Management of Hyperkalemia",
-  "preview": "ECG changes and the stepwise protocol to stabilize, shift, and excrete Potassium...",
-  "body": "<p><strong>Learning note:</strong> Educational revision content; verify medication doses, protocols and reference ranges against current institutional guidelines before any patient-care use.</p><p>Hyperkalemia (K+ &gt; 5.5 mEq/L) is a medical emergency that can lead to fatal arrhythmias. <b>ECG Changes:</b> Tall peaked T waves → Loss of P wave → Widened QRS → Sine wave pattern → Asystole.</p><p><b>Step 1: Stabilize the Myocardium (Most Urgent)</b><br>Administer <b>IV Calcium Gluconate</b> (or Calcium Chloride via central line). <i>Note:</i> Calcium does NOT lower serum potassium; it only protects the heart by raising the threshold potential.</p><p><b>Step 2: Shift Potassium Intracellularly</b><br>• IV Insulin (Regular) + 50% Dextrose (to prevent hypoglycemia).<br>• Salbutamol (Albuterol) nebulization (Beta-2 agonist).<br>• IV Sodium Bicarbonate (especially if the patient is acidotic).</p><p><b>Step 3: Excrete Potassium from the Body</b><br>• Loop diuretics (Furosemide).<br>• GI cation-exchange resins (Patiromer, Sodium Zirconium Cyclosilicate).<br>• Hemodialysis (the ultimate definitive treatment if refractory).</p>",
+  "title": "Hyperkalemia Emergencies: ECG Clues, Calcium and Potassium Removal",
+  "preview": "Learn why ECG findings matter, why calcium stabilizes the myocardium but does not remove potassium, and how to avoid missing pseudohyperkalemia.",
+  "body": "<p>Hyperkalemia (K+ &gt; 5.5 mEq/L) is a medical emergency that can lead to fatal arrhythmias. <b>ECG Changes:</b> Tall peaked T waves → Loss of P wave → Widened QRS → Sine wave pattern → Asystole.</p><p><b>Step 1: Stabilize the Myocardium (Most Urgent)</b><br>Administer <b>IV Calcium Gluconate</b> (or Calcium Chloride via central line). <i>Note:</i> Calcium does NOT lower serum potassium; it only protects the heart by raising the threshold potential.</p><p><b>Step 2: Shift Potassium Intracellularly</b><br>• IV Insulin (Regular) + 50% Dextrose (to prevent hypoglycemia).<br>• Salbutamol (Albuterol) nebulization (Beta-2 agonist).<br>• IV Sodium Bicarbonate (especially if the patient is acidotic).</p><p><b>Step 3: Excrete Potassium from the Body</b><br>• Loop diuretics (Furosemide).<br>• GI cation-exchange resins (Patiromer, Sodium Zirconium Cyclosilicate).<br>• Hemodialysis (the ultimate definitive treatment if refractory).</p>",
   "readingMinutes": 2,
-  "reviewStatus": "editorially-reformatted-legacy-content"
+  "reviewStatus": "evidence-supported-editorial-demo-not-clinician-peer-reviewed",
+  "sections": [
+    {
+      "title": "Recognize the risk",
+      "type": "pearl",
+      "points": [
+        "Hyperkalemia is an elevated blood potassium concentration; severity depends on the level, rate of rise, symptoms and ECG findings.",
+        "Significant hyperkalemia may cause conduction abnormalities, malignant arrhythmias and cardiac arrest.",
+        "A normal or minimally abnormal ECG does not reliably rule out dangerous hyperkalemia."
+      ]
+    },
+    {
+      "title": "ECG patterns to recognize",
+      "type": "table",
+      "points": [
+        "Peaked T waves, prolonged PR interval, reduced P-wave amplitude, QRS widening and a sine-wave pattern are classic findings.",
+        "The ECG sequence is not obligatory; patients may lack classic changes despite significant hyperkalemia."
+      ]
+    },
+    {
+      "title": "Emergency logic: protect → shift → remove",
+      "type": "flow",
+      "points": [
+        "Protect the myocardium with intravenous calcium when indicated by significant ECG abnormalities or the emergency pathway. Calcium does not meaningfully lower serum potassium.",
+        "Temporarily shift potassium into cells using therapies such as insulin with glucose and, in selected cases, beta-2 agonists; monitor blood glucose.",
+        "Remove potassium from the body and address the cause; renal replacement therapy may be required in severe or refractory cases."
+      ]
+    },
+    {
+      "title": "Exam trap: calcium is not potassium elimination",
+      "type": "trap",
+      "points": [
+        "Calcium stabilizes cardiac excitability; insulin-glucose shifts potassium intracellularly; elimination requires kidney excretion, gastrointestinal removal or dialysis.",
+        "Do not delay urgent assessment while waiting for a textbook-perfect ECG pattern."
+      ]
+    },
+    {
+      "title": "Memory aid",
+      "type": "mnemonic",
+      "points": [
+        "Emergency hyperkalemia: protect the heart → shift potassium → remove potassium.",
+        "Calcium protects cardiac electrical stability but does not remove potassium."
+      ]
+    },
+    {
+      "title": "Pseudohyperkalemia and follow-up",
+      "type": "warning",
+      "points": [
+        "Consider a hemolyzed sample or collection artifact when the result does not fit the clinical context.",
+        "Repeat the sample promptly when appropriate, while treating high-risk symptomatic or ECG-positive patients urgently.",
+        "Recheck potassium and glucose after therapy and monitor for rebound."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "question": "What is the immediate purpose of intravenous calcium in severe hyperkalemia with ECG abnormalities?",
+      "options": [
+        "Shift potassium into cells",
+        "Stabilize the cardiac membrane",
+        "Increase renal potassium excretion",
+        "Remove potassium through the bowel"
+      ],
+      "correct": 1,
+      "explanation": "Calcium stabilizes cardiac electrical activity; it does not remove potassium.",
+      "type": "NEET PG / INI-CET-style concept"
+    },
+    {
+      "question": "Which ECG change is classically associated with advanced hyperkalemia?",
+      "options": [
+        "Shortened PR interval only",
+        "Persistent narrow QRS as a rule",
+        "Widening of the QRS complex",
+        "Isolated delta waves"
+      ],
+      "correct": 2,
+      "explanation": "QRS widening and loss of P waves can appear as hyperkalemia progresses.",
+      "type": "NEET PG / INI-CET-style concept"
+    },
+    {
+      "question": "An unexpectedly high potassium level is reported from a visibly hemolyzed sample without concordant findings. What should be considered?",
+      "options": [
+        "Pseudohyperkalemia",
+        "A definitive diagnosis of adrenal crisis",
+        "Exclusion of any arrhythmia risk",
+        "A diagnosis of hypokalemia"
+      ],
+      "correct": 0,
+      "explanation": "Hemolysis can artifactually raise measured potassium; assess the clinical urgency and repeat appropriately.",
+      "type": "NEET PG / INI-CET-style concept"
+    }
+  ],
+  "rapidRevision": [
+    "Intravenous calcium protects cardiac conduction but does not lower serum potassium.",
+    "Insulin-glucose causes a temporary intracellular shift; definitive removal is still needed.",
+    "Severity and ECG findings are not perfectly correlated.",
+    "Consider sample hemolysis if the laboratory result is discordant."
+  ],
+  "references": [
+    {
+      "title": "BMJ (2026): Diagnosis and management of acute hyperkalaemia",
+      "url": "https://www.bmj.com/content/394/bmj-2026-100287.long"
+    },
+    {
+      "title": "Merck Manual Professional: Hyperkalemia",
+      "url": "https://www.merckmanuals.com/professional/nephrology/electrolyte-disorders/hyperkalemia"
+    },
+    {
+      "title": "Harrison’s Principles of Internal Medicine, 22nd ed. (2025), further reading; chapter not independently checked",
+      "url": "https://accessmedicine.mhmedical.com/content.aspx?bookid=3541&sectionid=291971486"
+    }
+  ],
+  "images": [],
+  "quickRevision": [
+    "Intravenous calcium protects cardiac conduction but does not lower serum potassium.",
+    "Insulin-glucose causes a temporary intracellular shift; definitive removal is still needed.",
+    "Severity and ECG findings are not perfectly correlated.",
+    "Consider sample hemolysis if the laboratory result is discordant."
+  ],
+  "medicalEditorialStatus": "legacy-requires-clinician-review",
+  "inlineLinks": [
+    {
+      "slug": "new-0034-hypokalemia-ecg-clues-and-magnesium-connection",
+      "context": "For a complementary clinical comparison, read"
+    }
+  ]
 }

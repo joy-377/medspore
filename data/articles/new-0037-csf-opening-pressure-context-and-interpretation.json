@@ -1,0 +1,55 @@
+{
+  "id": "ART-NEW-0037",
+  "slug": "new-0037-csf-opening-pressure-context-and-interpretation",
+  "title": "CSF Opening Pressure: Context and Interpretation",
+  "category": "Critical Lab Values",
+  "subject": "CSF & Fluids",
+  "preview": "CSF opening pressure is measured during lumbar puncture under standardized patient positioning and technique.",
+  "quickRevision": [
+    "CSF opening pressure is measured during lumbar puncture under standardized patient positioning and technique.",
+    "Evaluate pressure alongside CSF cells, glucose, protein and appropriate microbiology tests.",
+    "A normal CSF opening pressure does not exclude every neurological infection or inflammatory disorder."
+  ],
+  "sections": [
+    {
+      "title": "Interpret the result in context",
+      "type": "pearl",
+      "points": [
+        "CSF opening pressure is measured during lumbar puncture under standardized patient positioning and technique.",
+        "Body position, straining, anxiety, sedation and the clinical situation can affect pressure interpretation."
+      ]
+    },
+    {
+      "title": "Clinical interpretation & next steps",
+      "type": "table",
+      "points": [
+        "Evaluate pressure alongside CSF cells, glucose, protein and appropriate microbiology tests.",
+        "A normal CSF opening pressure does not exclude every neurological infection or inflammatory disorder."
+      ]
+    },
+    {
+      "title": "Exam trap — avoid this mistake",
+      "type": "trap",
+      "points": [
+        "Interpret pressure in context rather than treating one measurement as a stand-alone diagnosis."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Which factor can affect measured CSF opening pressure?",
+      "options": [
+        "Blood group",
+        "Eye dominance",
+        "Patient positioning",
+        "Hair color"
+      ],
+      "correct": 2,
+      "explanation": "CSF opening pressure is measured during lumbar puncture under standardized patient positioning and technique.",
+      "type": "High-yield concept check"
+    }
+  ],
+  "images": [],
+  "medicalEditorialStatus": "author-drafted-not-clinician-peer-reviewed",
+  "inlineLinks": []
+}

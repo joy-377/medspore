@@ -5,8 +5,56 @@
   "category": "Second Year MBBS",
   "subject": "Pathology",
   "title": "Glomerular Diseases: Nephritic vs Nephrotic Syndromes",
-  "preview": "MCD, FSGS, Membranous, PSGN, and RPGN immunofluorescence patterns...",
-  "body": "<p><b>Nephrotic Syndrome (Heavy Proteinuria &gt; 3.5 g/day, Hypoalbuminemia, Edema, Hyperlipidemia):</b><br>• <b>Minimal Change Disease (MCD):</b> Most common in children. LM normal; IF negative; <b>EM shows effacement of visceral epithelial foot processes (podocytes)</b>. Selective proteinuria. Responds dramatically to corticosteroids.<br>• <b>Focal Segmental Glomerulosclerosis (FSGS):</b> Most common nephrotic in adults (especially African Americans, HIV, heroin abuse). Segmental sclerosis; non-responsive to steroids.<br>• <b>Membranous Nephropathy:</b> Associated with PLA2R antibodies, Hep B, NSAIDs, solid malignancies. Diffuse capillary wall thickening, <b>'Spike and Dome' appearance on silver stain</b>; Granular IgG/C3 along GBM.</p><p><b>Nephritic Syndrome (Hematuria, RBC casts, Oliguria, Hypertension, Mild Proteinuria):</b><br>• <b>Post-Streptococcal Glomerulonephritis (PSGN):</b> Follows group A strep skin (impetigo) or pharyngeal infection after 1–4 weeks. Low C3. <b>'Starry-sky' / lumpy-bumpy granular IF</b>; Subepithelial electron-dense humps on EM.<br>• <b>Rapidly Progressive Glomerulonephritis (RPGN):</b> Severe nephritic picture progressing to renal failure within weeks. <b>Crescent formation on LM</b> (crescents made of parietal epithelial cells and monocytes/fibrin).</p>",
+  "preview": "Nephritic and nephrotic patterns overlap but emphasize different types of glomerular injury.",
+  "body": "",
   "readingMinutes": 2,
-  "reviewStatus": "editorially-reformatted-legacy-content"
+  "reviewStatus": "legacy-medical-fact-check-required",
+  "sections": [
+    {
+      "title": "Recognize the syndrome",
+      "type": "table",
+      "points": [
+        "Nephritic: dysmorphic erythrocytes or red-cell casts suggest glomerular inflammation.",
+        "Nephrotic: prominent proteinuria with hypoalbuminemia can cause generalized edema."
+      ]
+    },
+    {
+      "title": "Clinical correlations",
+      "type": "pearl",
+      "points": [
+        "Complement, infection history, autoimmune findings and renal function guide the differential.",
+        "Some glomerular disorders show mixed nephritic and nephrotic findings rather than clean textbook separation."
+      ]
+    },
+    {
+      "title": "Exam trap",
+      "type": "trap",
+      "points": [
+        "Do not diagnose a single glomerular disease solely from the syndrome label.",
+        "Edema by itself does not establish nephrotic syndrome."
+      ]
+    }
+  ],
+  "images": [],
+  "quickRevision": [
+    "Nephritic disease features inflammation with hematuria and often reduced filtration or raised blood pressure.",
+    "Nephrotic disease features heavy protein loss, edema and hypoalbuminemia, with variable lipid changes.",
+    "Kidney biopsy and additional tests are selected according to age, presentation and suspected cause."
+  ],
+  "medicalEditorialStatus": "legacy-requires-clinician-review",
+  "quiz": [
+    {
+      "question": "What is a characteristic feature of nephrotic syndrome?",
+      "options": [
+        "Absence of hypoalbuminemia in all cases",
+        "Predominant red-cell casts in every case",
+        "Only isolated glycosuria",
+        "Heavy proteinuria with edema"
+      ],
+      "correct": 3,
+      "explanation": "Heavy proteinuria with edema. Nephrotic Syndrome (Heavy Proteinuria > 3.5 g/day, Hypoalbuminemia, Edema, Hyperlipidemia): • Minimal Change Disease (MCD): Most common in children.",
+      "type": "High-yield recall"
+    }
+  ],
+  "valueSources": []
 }

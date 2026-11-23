@@ -1,0 +1,55 @@
+{
+  "id": "ART-NEW-0083",
+  "slug": "new-0083-serotonin-syndrome-versus-neuroleptic-malignant-syndrome",
+  "title": "Serotonin Syndrome Versus Neuroleptic Malignant Syndrome",
+  "category": "Second Year MBBS",
+  "subject": "Pharmacology",
+  "preview": "Serotonin syndrome often has rapid onset with clonus, hyperreflexia, autonomic activation and agitation.",
+  "quickRevision": [
+    "Serotonin syndrome often has rapid onset with clonus, hyperreflexia, autonomic activation and agitation.",
+    "Medication history and neuromuscular findings help distinguish these potentially fatal syndromes.",
+    "Stop the offending agents, provide supportive care and escalate based on severity."
+  ],
+  "sections": [
+    {
+      "title": "Pathophysiology & identification",
+      "type": "pearl",
+      "points": [
+        "Serotonin syndrome often has rapid onset with clonus, hyperreflexia, autonomic activation and agitation.",
+        "Neuroleptic malignant syndrome commonly evolves more slowly with marked rigidity, fever and altered mental status after dopamine blockade."
+      ]
+    },
+    {
+      "title": "Diagnostic and treatment connections",
+      "type": "table",
+      "points": [
+        "Medication history and neuromuscular findings help distinguish these potentially fatal syndromes.",
+        "Stop the offending agents, provide supportive care and escalate based on severity."
+      ]
+    },
+    {
+      "title": "Exam trap — avoid this mistake",
+      "type": "trap",
+      "points": [
+        "Hyperreflexia and clonus favor serotonin toxicity; do not use fever alone to differentiate."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Which feature supports serotonin syndrome more than NMS?",
+      "options": [
+        "Clonus and hyperreflexia",
+        "Lead-pipe rigidity without clonus",
+        "Longstanding stable tremor only",
+        "Chronic joint deformity"
+      ],
+      "correct": 0,
+      "explanation": "Clonus and hyperreflexia. Serotonin syndrome often has rapid onset with clonus, hyperreflexia, autonomic activation and agitation.",
+      "type": "High-yield concept check"
+    }
+  ],
+  "images": [],
+  "medicalEditorialStatus": "author-drafted-not-clinician-peer-reviewed",
+  "inlineLinks": []
+}

@@ -1,0 +1,55 @@
+{
+  "id": "ART-NEW-0068",
+  "slug": "new-0068-portal-systemic-anastomoses-sites-and-clinical-significance",
+  "title": "Portal-Systemic Anastomoses: Sites and Clinical Significance",
+  "category": "First Year MBBS",
+  "subject": "Anatomy",
+  "preview": "Portal-systemic anastomoses connect portal venous tributaries to systemic veins at sites such as esophagus, rectum and abdominal wall.",
+  "quickRevision": [
+    "Portal-systemic anastomoses connect portal venous tributaries to systemic veins at sites such as esophagus, rectum and abdominal wall.",
+    "Esophageal varices are a potentially severe source of upper gastrointestinal bleeding.",
+    "Management depends on the cause of portal hypertension and preventive or acute bleeding pathways."
+  ],
+  "sections": [
+    {
+      "title": "Core biomedical mechanism",
+      "type": "pearl",
+      "points": [
+        "Portal-systemic anastomoses connect portal venous tributaries to systemic veins at sites such as esophagus, rectum and abdominal wall.",
+        "Portal hypertension may lead to gastroesophageal varices and splenomegaly."
+      ]
+    },
+    {
+      "title": "Clinical application",
+      "type": "table",
+      "points": [
+        "Esophageal varices are a potentially severe source of upper gastrointestinal bleeding.",
+        "Management depends on the cause of portal hypertension and preventive or acute bleeding pathways."
+      ]
+    },
+    {
+      "title": "Exam trap — avoid this mistake",
+      "type": "trap",
+      "points": [
+        "Hemorrhoids are not synonymous with rectal varices, even though both involve the anorectal region."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Which site is a classic portosystemic collateral pathway?",
+      "options": [
+        "Carpal tunnel",
+        "Retinal macula",
+        "Popliteal fossa",
+        "Distal esophagus"
+      ],
+      "correct": 3,
+      "explanation": "Distal esophagus. Portal-systemic anastomoses connect portal venous tributaries to systemic veins at sites such as esophagus, rectum and abdominal wall.",
+      "type": "High-yield concept check"
+    }
+  ],
+  "images": [],
+  "medicalEditorialStatus": "author-drafted-not-clinician-peer-reviewed",
+  "inlineLinks": []
+}

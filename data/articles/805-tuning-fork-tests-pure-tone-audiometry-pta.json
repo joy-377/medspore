@@ -5,8 +5,56 @@
   "category": "Third Year (Part 1)",
   "subject": "ENT",
   "title": "Tuning Fork Tests & Pure Tone Audiometry (PTA)",
-  "preview": "Rinne, Weber, ABC tests, Carhart's notch, and Stenger's malingering test...",
-  "body": "<p><b>Tuning Fork Tests (512 Hz preferred to prevent tone decay/overtones):</b><br>• <b>Rinne Test:</b> Compares Air Conduction (AC) vs Bone Conduction (BC).<br>&nbsp;&nbsp;- <i>Positive (AC &gt; BC):</i> Normal ear or Sensorineural Hearing Loss (SNHL).<br>&nbsp;&nbsp;- <i>Negative (BC &gt; AC):</i> <b>Conductive Hearing Loss (CHL)</b> (Minimum 15–20 dB air-bone gap required).<br>&nbsp;&nbsp;- <i>False Negative Rinne:</i> Severe unilateral dead ear / profound SNHL; sound heard via bone conduction by the contralateral normal ear (masking required).<br>• <b>Weber Test:</b> Lateralization of sound via skull midline bone conduction.<br>&nbsp;&nbsp;- <i>Lateralizes to Affected (Poorer) Ear:</i> Conductive Hearing Loss (ambient noise attenuated in diseased ear).<br>&nbsp;&nbsp;- <i>Lateralizes to Better (Normal) Ear:</i> Sensorineural Hearing Loss.<br>• <b>Absolute Bone Conduction (ABC) Test:</b> Reduced in SNHL; normal in CHL.</p><p><b>High-Yield Audiometric Patterns:</b><br>• <b>Otosclerosis:</b> Bilateral progressive CHL, Paracusis of Willis (hears better in noisy surroundings), Schwartz sign (flamingo-pink promontory), <b>Carhart's Notch</b> (dip in bone conduction curve at <b>2000 Hz / 2 kHz</b>). Treatment: Stapedotomy with Teflon piston insertion.<br>• <b>Noise-Induced Hearing Loss (Acoustic Trauma):</b> Bilateral symmetrical SNHL with a distinct dip / acoustic notch at <b>4000 Hz (4 kHz)</b>.<br>• <b>Presbyacusis:</b> Age-related high-frequency symmetrical down-sloping SNHL.</p>",
+  "preview": "Rinne and Weber tuning fork tests help differentiate conductive from sensorineural hearing patterns when interpreted with history and audiometry.",
+  "body": "",
   "readingMinutes": 2,
-  "reviewStatus": "editorially-reformatted-legacy-content"
+  "reviewStatus": "legacy-medical-fact-check-required",
+  "sections": [
+    {
+      "title": "Weber: lateralization",
+      "type": "table",
+      "points": [
+        "Conductive asymmetry often sends Weber to the poorer-hearing ear.",
+        "Sensorineural asymmetry often sends Weber to the better-hearing ear."
+      ]
+    },
+    {
+      "title": "Rinne: air versus bone",
+      "type": "pearl",
+      "points": [
+        "Air conduction normally exceeds bone conduction; a reversal can suggest a conductive component.",
+        "Interpret reliability according to test technique and hearing severity."
+      ]
+    },
+    {
+      "title": "Exam trap",
+      "type": "trap",
+      "points": [
+        "Tuning-fork tests are screening clues and can be misleading in severe or mixed losses.",
+        "Do not equate a single bedside result with a complete audiogram."
+      ]
+    }
+  ],
+  "images": [],
+  "quickRevision": [
+    "In unilateral conductive hearing loss, Weber sound generally lateralizes toward the affected ear.",
+    "In unilateral sensorineural loss, Weber sound generally lateralizes toward the better-hearing ear.",
+    "Rinne compares air and bone conduction on the tested side; formal audiometry confirms the degree and type of hearing loss."
+  ],
+  "medicalEditorialStatus": "legacy-requires-clinician-review",
+  "quiz": [
+    {
+      "question": "In unilateral conductive hearing loss, Weber testing typically lateralizes to which side?",
+      "options": [
+        "Affected ear",
+        "Unaffected ear always",
+        "Neither ear ever",
+        "The eye on the same side"
+      ],
+      "correct": 0,
+      "explanation": "Affected ear. - Lateralizes to Affected (Poorer) Ear: Conductive Hearing Loss (ambient noise attenuated in diseased ear).",
+      "type": "High-yield recall"
+    }
+  ],
+  "valueSources": []
 }

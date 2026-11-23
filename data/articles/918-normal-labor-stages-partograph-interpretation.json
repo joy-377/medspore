@@ -5,8 +5,56 @@
   "category": "Final Year (Part 2)",
   "subject": "OBG",
   "title": "Normal Labor Stages & Partograph Interpretation",
-  "preview": "Active phase, alert/action lines, cervical dilatation, and fetal descent...",
-  "body": "<p><b>Stages of Labor:</b><br>• <b>First Stage:</b> From onset of true labor pains to full cervical dilatation (10 cm). Divided into Latent phase (up to 4 cm, slow) and Active phase (4 cm to 10 cm, rapid progression at $ge 1$ cm/hr in nulliparas).</p><p><b>The World Health Organization (WHO) Partograph:</b><br>• Designed to monitor labor progress and prevent obstructed labor.<br>• <b>Alert Line:</b> Drawn from 4 cm dilatation at a rate of 1 cm/hour. If the cervical dilatation curve crosses to the right of the alert line, it warns of slow progress.<br>• <b>Action Line:</b> Parallel to and 4 hours to the right of the alert line. If the plot crosses the action line, <b>immediate clinical intervention</b> (augmentation with oxytocin, or Cesarean section for cephalopelvic disproportion) is mandatory.</p><p>• <b>Second Stage:</b> From full cervical dilatation to delivery of the baby (Duration: ~2 hours in nulliparas, ~1 hour in multiparas).</p><p>• <b>Third Stage:</b> From delivery of the baby to expulsion of the placenta and membranes (Managed actively with oxytocin to prevent PPH).</p>",
+  "preview": "Assess labor through maternal and fetal wellbeing, cervical change and the overall pattern of progress rather than a rigid clock alone.",
+  "body": "",
   "readingMinutes": 2,
-  "reviewStatus": "editorially-reformatted-legacy-content"
+  "reviewStatus": "legacy-medical-fact-check-required",
+  "sections": [
+    {
+      "title": "Observe progress in context",
+      "type": "pearl",
+      "points": [
+        "Document cervical findings, contractions, descent and maternal/fetal condition with an appropriate care tool.",
+        "Active labor and the pace of change vary substantially between individuals."
+      ]
+    },
+    {
+      "title": "When progress appears slow",
+      "type": "flow",
+      "points": [
+        "Review maternal and fetal status and consider presentation, position, contractions and support before selecting intervention.",
+        "Escalation decisions are based on a combination of findings and established maternity protocols."
+      ]
+    },
+    {
+      "title": "Exam trap",
+      "type": "trap",
+      "points": [
+        "A single slow cervical examination is not proof of obstructed labor.",
+        "Do not apply an outdated universal dilation threshold without context."
+      ]
+    }
+  ],
+  "images": [],
+  "quickRevision": [
+    "Normal labor has variable progress; a single hourly cervical-dilation rule should not replace clinical assessment.",
+    "Evaluate contraction quality, fetal presentation, maternal physiology and fetal heart rate patterns.",
+    "The WHO Labour Care Guide promotes individualized, evidence-based intrapartum monitoring."
+  ],
+  "medicalEditorialStatus": "legacy-requires-clinician-review",
+  "quiz": [
+    {
+      "question": "What is assessed using a labor progress chart?",
+      "options": [
+        "Retinal detachment severity",
+        "Cervical dilation and labor progress over time",
+        "Cardiac ejection fraction only",
+        "Renal clearance"
+      ],
+      "correct": 1,
+      "explanation": "Cervical dilation and labor progress over time. Stages of Labor: • First Stage: From onset of true labor pains to full cervical dilatation (10 cm).",
+      "type": "High-yield recall"
+    }
+  ],
+  "valueSources": []
 }

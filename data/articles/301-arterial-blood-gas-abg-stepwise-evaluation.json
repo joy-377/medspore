@@ -4,9 +4,146 @@
   "slug": "301-arterial-blood-gas-abg-stepwise-evaluation",
   "category": "Critical Lab Values",
   "subject": "Hematology & ABG",
-  "title": "Arterial Blood Gas (ABG): Stepwise Evaluation",
-  "preview": "Winter's formula, Serum Anion Gap, and Delta Gap calculations explained...",
-  "body": "<p><strong>Learning note:</strong> Educational revision content; verify medication doses, protocols and reference ranges against current institutional guidelines before any patient-care use.</p><p><b>Step 1: Check pH</b> (&lt;7.35 = Acidemia, &gt;7.45 = Alkalemia).<br><b>Step 2: Check Primary Driver</b> (pCO2 vs HCO3). If pH and pCO2 move in opposite directions, it is Respiratory; if same direction, Metabolic.</p><p><b>Step 3: Anion Gap (for Metabolic Acidosis):</b><br>Serum AG = Na - (Cl + HCO3). Normal = 12 ± 2 mEq/L.<br><i>High AG Acidosis Causes (GOLDMARK):</i> Glycols, Oxoproline, L-lactate, D-lactate, Methanol, Aspirin, Renal failure, Ketoacidosis.</p><p><b>Step 4: Compensation (Winter's Formula):</b><br>Expected pCO2 = (1.5 × HCO3) + 8 ± 2.<br>• Measured pCO2 &gt; Expected = Concurrent Respiratory Acidosis.<br>• Measured pCO2 &lt; Expected = Concurrent Respiratory Alkalosis.</p><p><b>Delta Ratio (ΔAG / ΔHCO3):</b><br>• &lt;0.4: Pure Normal AG Metabolic Acidosis.<br>• 0.4 - 0.8: Mixed High AG and Normal AG Acidosis.<br>• 1 - 2: Pure High AG Acidosis (classic DKA).<br>• &gt;2: High AG Acidosis + concurrent Metabolic Alkalosis.</p>",
+  "title": "Arterial Blood Gas Interpretation: A Stepwise Acid–Base Method",
+  "preview": "Start with pH, identify the primary disturbance, check expected compensation and avoid missing a mixed acid–base disorder.",
+  "body": "<p><b>Step 1: Check pH</b> (&lt;7.35 = Acidemia, &gt;7.45 = Alkalemia).<br><b>Step 2: Check Primary Driver</b> (pCO2 vs HCO3). If pH and pCO2 move in opposite directions, it is Respiratory; if same direction, Metabolic.</p><p><b>Step 3: Anion Gap (for Metabolic Acidosis):</b><br>Serum AG = Na - (Cl + HCO3). Normal = 12 ± 2 mEq/L.<br><i>High AG Acidosis Causes (GOLDMARK):</i> Glycols, Oxoproline, L-lactate, D-lactate, Methanol, Aspirin, Renal failure, Ketoacidosis.</p><p><b>Step 4: Compensation (Winter's Formula):</b><br>Expected pCO2 = (1.5 × HCO3) + 8 ± 2.<br>• Measured pCO2 &gt; Expected = Concurrent Respiratory Acidosis.<br>• Measured pCO2 &lt; Expected = Concurrent Respiratory Alkalosis.</p><p><b>Delta Ratio (ΔAG / ΔHCO3):</b><br>• &lt;0.4: Pure Normal AG Metabolic Acidosis.<br>• 0.4 - 0.8: Mixed High AG and Normal AG Acidosis.<br>• 1 - 2: Pure High AG Acidosis (classic DKA).<br>• &gt;2: High AG Acidosis + concurrent Metabolic Alkalosis.</p>",
   "readingMinutes": 2,
-  "reviewStatus": "editorially-reformatted-legacy-content"
+  "reviewStatus": "evidence-supported-editorial-demo-not-clinician-peer-reviewed",
+  "sections": [
+    {
+      "title": "Read the pH and paired values",
+      "type": "snapshot",
+      "points": [
+        "Read arterial pH, PaCO₂ and bicarbonate together; avoid interpreting isolated values.",
+        "As a commonly taught adult reference interval, arterial pH is approximately 7.35–7.45, but laboratory methods and patient context matter.",
+        "A pH near normal does not exclude a mixed acid–base disorder."
+      ]
+    },
+    {
+      "title": "Identify the primary process",
+      "type": "table",
+      "points": [
+        "Acidemia with low bicarbonate points toward a metabolic acidosis; acidemia with high PaCO₂ suggests respiratory acidosis.",
+        "Alkalemia with high bicarbonate suggests metabolic alkalosis; alkalemia with low PaCO₂ suggests respiratory alkalosis.",
+        "Clinical history and measured serum chemistry results are essential."
+      ]
+    },
+    {
+      "title": "Compensation: ask whether it fits",
+      "type": "flow",
+      "points": [
+        "Compensatory changes are predictable only within approximate physiologic ranges.",
+        "In metabolic acidosis, Winter’s formula estimates expected PaCO₂: 1.5 × serum HCO₃⁻ + 8 (± 2 mmHg).",
+        "Measured PaCO₂ outside the expected range suggests an additional respiratory disorder."
+      ]
+    },
+    {
+      "title": "Examine the anion gap",
+      "type": "pearl",
+      "points": [
+        "For metabolic acidosis, calculate anion gap using sodium − (chloride + bicarbonate) in consistent units.",
+        "Interpret anion gap with albumin concentration, electrolyte measurement technique and clinical context."
+      ]
+    },
+    {
+      "title": "Memory aid",
+      "type": "mnemonic",
+      "points": [
+        "ABG order: pH first → primary respiratory/metabolic process → expected compensation → anion gap when indicated.",
+        "Check oxygenation and the whole clinical picture separately."
+      ]
+    },
+    {
+      "title": "Exam trap: one value does not tell the whole story",
+      "type": "trap",
+      "points": [
+        "Compensation alone rarely explains pH overcorrection across normal.",
+        "Multiple acid–base disturbances can coexist, especially in critically ill patients."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "question": "In metabolic acidosis, Winter’s formula primarily predicts which value?",
+      "options": [
+        "Expected PaCO₂",
+        "Serum sodium",
+        "Albumin-corrected calcium",
+        "PaO₂"
+      ],
+      "correct": 0,
+      "explanation": "It estimates expected respiratory compensation (PaCO₂).",
+      "type": "NEET PG / INI-CET-style concept"
+    },
+    {
+      "question": "A patient with metabolic acidosis has a PaCO₂ much higher than Winter’s expected value. What does this suggest?",
+      "options": [
+        "Concurrent respiratory acidosis",
+        "Isolated metabolic alkalosis",
+        "Perfect respiratory compensation",
+        "No primary acid–base abnormality"
+      ],
+      "correct": 0,
+      "explanation": "Higher-than-expected PaCO₂ suggests an additional respiratory acidosis.",
+      "type": "NEET PG / INI-CET-style concept"
+    },
+    {
+      "question": "What is the correct first principle when interpreting an ABG?",
+      "options": [
+        "Consider pH, PaCO₂ and bicarbonate together",
+        "Rely on bicarbonate alone",
+        "Ignore clinical context",
+        "Exclude mixed disorders when pH is near normal"
+      ],
+      "correct": 0,
+      "explanation": "Acid–base interpretation integrates all values, not a single number.",
+      "type": "NEET PG / INI-CET-style concept"
+    }
+  ],
+  "rapidRevision": [
+    "Interpret pH and PaCO₂/HCO₃⁻ as a set.",
+    "Use predicted compensation to detect mixed disorders.",
+    "Calculate and interpret anion gap in metabolic acidosis.",
+    "Reference intervals depend on methods and clinical context."
+  ],
+  "references": [
+    {
+      "title": "Merck Manual Professional: Diagnosis of Acid-Base Disorders",
+      "url": "https://www.merckmanuals.com/professional/nephrology/acid-base-regulation-and-disorders/acid-base-regulation"
+    },
+    {
+      "title": "Merck Manual Professional: Metabolic Acidosis and Winter’s Formula",
+      "url": "https://www.merckmanuals.com/professional/nephrology/acid-base-regulation-and-disorders/metabolic-acidosis"
+    },
+    {
+      "title": "NCBI Bookshelf: Normal Reference Ranges (reference context)",
+      "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK613071/"
+    },
+    {
+      "title": "Guyton and Hall Textbook of Medical Physiology, 15th ed. (2025), further reading; chapter not independently checked",
+      "url": "https://shop.elsevier.com/books/guyton-and-hall-textbook-of-medical-physiology/hall/978-0-443-11101-3"
+    }
+  ],
+  "images": [],
+  "quickRevision": [
+    "Interpret pH and PaCO₂/HCO₃⁻ as a set.",
+    "Use predicted compensation to detect mixed disorders.",
+    "Calculate and interpret anion gap in metabolic acidosis.",
+    "Reference intervals depend on methods and clinical context."
+  ],
+  "medicalEditorialStatus": "legacy-requires-clinician-review",
+  "inlineLinks": [
+    {
+      "slug": "new-0033-lactic-acidosis-perfusion-versus-alternative-causes",
+      "context": "For a complementary clinical comparison, read"
+    }
+  ],
+  "valueSources": [
+    {
+      "label": "Arterial pH reference interval and expected compensation",
+      "source": "Merck Manual Professional — Acid-Base Disorders (updated 2026)",
+      "url": "https://www.merckmanuals.com/professional/nephrology/acid-base-regulation-and-disorders/acid-base-disorders",
+      "note": "Adult pH 7.35–7.45; Winter formula is a physiologic estimate, not an absolute rule."
+    }
+  ]
 }

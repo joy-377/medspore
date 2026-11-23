@@ -1,0 +1,55 @@
+{
+  "id": "ART-NEW-0035",
+  "slug": "new-0035-sodium-correction-avoiding-overly-rapid-changes",
+  "title": "Sodium Correction: Avoiding Overly Rapid Changes",
+  "category": "Critical Lab Values",
+  "subject": "Electrolytes",
+  "preview": "Serum sodium reflects water balance relative to solute, so the cause of dysnatremia matters as much as the number.",
+  "quickRevision": [
+    "Serum sodium reflects water balance relative to solute, so the cause of dysnatremia matters as much as the number.",
+    "Assess symptoms, serum osmolality, volume status and medications before selecting correction strategies.",
+    "Severe neurologic symptoms require urgent supervised treatment and repeated sodium measurements."
+  ],
+  "sections": [
+    {
+      "title": "Interpret the result in context",
+      "type": "pearl",
+      "points": [
+        "Serum sodium reflects water balance relative to solute, so the cause of dysnatremia matters as much as the number.",
+        "Rapid correction of chronic hyponatremia risks osmotic demyelination, especially in vulnerable patients."
+      ]
+    },
+    {
+      "title": "Clinical interpretation & next steps",
+      "type": "table",
+      "points": [
+        "Assess symptoms, serum osmolality, volume status and medications before selecting correction strategies.",
+        "Severe neurologic symptoms require urgent supervised treatment and repeated sodium measurements."
+      ]
+    },
+    {
+      "title": "Exam trap — avoid this mistake",
+      "type": "trap",
+      "points": [
+        "Do not apply a single unmonitored correction plan to every patient, particularly when chronicity is uncertain."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "question": "What is a feared complication of overly rapid correction of chronic hyponatremia?",
+      "options": [
+        "Hyperthyroidism",
+        "Acute appendicitis",
+        "Cataract formation",
+        "Osmotic demyelination"
+      ],
+      "correct": 3,
+      "explanation": "Rapid correction of chronic hyponatremia risks osmotic demyelination, especially in vulnerable patients.",
+      "type": "High-yield concept check"
+    }
+  ],
+  "images": [],
+  "medicalEditorialStatus": "author-drafted-not-clinician-peer-reviewed",
+  "inlineLinks": []
+}

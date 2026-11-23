@@ -8,5 +8,37 @@
   "preview": "Erb's Palsy vs Klumpke's Palsy, roots, clinical signs, and sensory loss...",
   "body": "<p><b>Erb-Duchenne Palsy (Upper Trunk Lesion - C5, C6):</b><br>• <i>Mechanism:</i> Excessive increase in angle between head and shoulder (birth trauma, fall on shoulder).<br>• <i>Nerves Involved:</i> Suprascapular, Axillary, Musculocutaneous.<br>• <i>Muscles Paralyzed:</i> Supraspinatus, Infraspinatus, Deltoid, Biceps brachii, Brachialis, Supinator.<br>• <i>Deformity:</i> <b>Policeman's tip / Waiter's tip deformity</b> (Arm adducted and medially rotated, forearm extended and pronated).<br>• <i>Sensory Loss:</i> Outer aspect of arm and forearm.</p><p><b>Klumpke's Palsy (Lower Trunk Lesion - C8, T1):</b><br>• <i>Mechanism:</i> Upward traction on the arm (breech delivery, clutching a tree branch while falling).<br>• <i>Nerves Involved:</i> Ulnar nerve mainly, Median nerve partially.<br>• <i>Muscles Paralyzed:</i> All intrinsic muscles of the hand (interossei, lumbricals).<br>• <i>Deformity:</i> <b>Complete Claw Hand</b> (Hyperextension at MCP joints, flexion at IP joints).<br>• <i>Associated Feature:</i> <b>Horner's Syndrome</b> (Ptosis, Miosis, Anhidrosis) due to sympathetic T1 root involvement.</p>",
   "readingMinutes": 2,
-  "reviewStatus": "editorially-reformatted-legacy-content"
+  "reviewStatus": "legacy-medical-fact-check-required",
+  "sections": [
+    {
+      "title": "Erb-Duchenne Palsy (Upper Trunk Lesion - C5, C6)",
+      "html": "<p><b>Erb-Duchenne Palsy (Upper Trunk Lesion - C5, C6):</b><br/>• <i>Mechanism:</i> Excessive increase in angle between head and shoulder (birth trauma, fall on shoulder).<br/>• <i>Nerves Involved:</i> Suprascapular, Axillary, Musculocutaneous.<br/>• <i>Muscles Paralyzed:</i> Supraspinatus, Infraspinatus, Deltoid, Biceps brachii, Brachialis, Supinator.<br/>• <i>Deformity:</i> <b>Policeman's tip / Waiter's tip deformity</b> (Arm adducted and medially rotated, forearm extended and pronated).<br/>• <i>Sensory Loss:</i> Outer aspect of arm and forearm.</p>",
+      "type": ""
+    },
+    {
+      "title": "Klumpke's Palsy (Lower Trunk Lesion - C8, T1)",
+      "html": "<p><b>Klumpke's Palsy (Lower Trunk Lesion - C8, T1):</b><br/>• <i>Mechanism:</i> Upward traction on the arm (breech delivery, clutching a tree branch while falling).<br/>• <i>Nerves Involved:</i> Ulnar nerve mainly, Median nerve partially.<br/>• <i>Muscles Paralyzed:</i> All intrinsic muscles of the hand (interossei, lumbricals).<br/>• <i>Deformity:</i> <b>Complete Claw Hand</b> (Hyperextension at MCP joints, flexion at IP joints).<br/>• <i>Associated Feature:</i> <b>Horner's Syndrome</b> (Ptosis, Miosis, Anhidrosis) due to sympathetic T1 root involvement.</p>",
+      "type": ""
+    }
+  ],
+  "images": [],
+  "quickRevision": [
+    "Erb-Duchenne Palsy (Upper Trunk Lesion - C5, C6); Mechanism: Excessive increase in angle between head and shoulder (birth trauma, fall on shoulder).",
+    "Klumpke's Palsy (Lower Trunk Lesion - C8, T1); Mechanism: Upward traction on the arm (breech delivery, clutching a tree branch while falling)."
+  ],
+  "medicalEditorialStatus": "legacy-requires-clinician-review",
+  "quiz": [
+    {
+      "question": "Upper brachial plexus injury classically affects which roots?",
+      "options": [
+        "T10–T12",
+        "C5–C6",
+        "L4–S1",
+        "C8–T1 exclusively"
+      ],
+      "correct": 1,
+      "explanation": "C5–C6. Erb-Duchenne Palsy (Upper Trunk Lesion - C5, C6): • Mechanism: Excessive increase in angle between head and shoulder (birth trauma, fall on shoulder).",
+      "type": "High-yield recall"
+    }
+  ]
 }

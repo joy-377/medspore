@@ -8,5 +8,54 @@
   "preview": "Risk factors, Richter's hernia, Littre's hernia, and surgical mesh repair...",
   "body": "<p><b>Special Hernia Variants:</b><br>• <b>Richter's Hernia:</b> Only a portion of the circumference of the bowel wall is entrapped in the hernial ring. <i>Danger:</i> Strangulation and gangrene can occur <b>without causing clinical intestinal obstruction</b> (no vomiting or constipation, making diagnosis deceivingly difficult).</p><p>• <b>Littre's Hernia:</b> Hernial sac contains a <b>Meckel's Diverticulum</b>.</p><p>• <b>Spigelian Hernia:</b> Herniation through the Spigelian fascia (semilunar line), usually below the level of the umbilicus.</p><p>• <b>Obturator Hernia:</b> Herniation through the obturator canal; seen most commonly in elderly, thin, multiparous women. Presents with <b>Howship-Romberg sign</b> (pain down the medial aspect of the thigh to the knee due to obturator nerve compression).</p><p><b>Surgical Management:</b> Open or laparoscopic mesh repair (e.g., Lichtenstein repair for inguinal hernia, sublay mesh repair for incisional hernia) to tension-free reinforce the abdominal wall defect.</p>",
   "readingMinutes": 2,
-  "reviewStatus": "editorially-reformatted-legacy-content"
+  "reviewStatus": "legacy-medical-fact-check-required",
+  "sections": [
+    {
+      "title": "Special Hernia Variants",
+      "html": "<p><b>Special Hernia Variants:</b><br/>• <b>Richter's Hernia:</b> Only a portion of the circumference of the bowel wall is entrapped in the hernial ring. <i>Danger:</i> Strangulation and gangrene can occur <b>without causing clinical intestinal obstruction</b> (no vomiting or constipation, making diagnosis deceivingly difficult).</p>",
+      "type": ""
+    },
+    {
+      "title": "Littre's Hernia",
+      "html": "<p>• <b>Littre's Hernia:</b> Hernial sac contains a <b>Meckel's Diverticulum</b>.</p>",
+      "type": ""
+    },
+    {
+      "title": "Spigelian Hernia",
+      "html": "<p>• <b>Spigelian Hernia:</b> Herniation through the Spigelian fascia (semilunar line), usually below the level of the umbilicus.</p>",
+      "type": ""
+    },
+    {
+      "title": "Obturator Hernia",
+      "html": "<p>• <b>Obturator Hernia:</b> Herniation through the obturator canal; seen most commonly in elderly, thin, multiparous women. Presents with <b>Howship-Romberg sign</b> (pain down the medial aspect of the thigh to the knee due to obturator nerve compression).</p>",
+      "type": ""
+    },
+    {
+      "title": "Surgical Management",
+      "html": "<p><b>Surgical Management:</b> Open or laparoscopic mesh repair (e.g., Lichtenstein repair for inguinal hernia, sublay mesh repair for incisional hernia) to tension-free reinforce the abdominal wall defect.</p>",
+      "type": ""
+    }
+  ],
+  "images": [],
+  "quickRevision": [
+    "Special Hernia Variants; Richter's Hernia: Only a portion of the circumference of the bowel wall is entrapped in the hernial ring.",
+    "• Littre's Hernia: Hernial sac contains a Meckel's Diverticulum .",
+    "• Spigelian Hernia: Herniation through the Spigelian fascia (semilunar line), usually below the level of the umbilicus.",
+    "• Obturator Hernia: Herniation through the obturator canal; seen most commonly in elderly, thin, multiparous women. Presents with Howship-Romberg sign (pain down the medial aspect of the thigh to the knee due to obturator nerve compression)"
+  ],
+  "medicalEditorialStatus": "legacy-requires-clinician-review",
+  "quiz": [
+    {
+      "question": "Which hernia feature suggests possible strangulation?",
+      "options": [
+        "Severe pain with a tender irreducible lump",
+        "Stable long-standing asymptomatic bulge",
+        "Painless readily reducible swelling",
+        "No local tenderness ever"
+      ],
+      "correct": 0,
+      "explanation": "An irreducible tender hernia with severe or escalating pain raises concern for incarceration or strangulation and requires urgent surgical assessment.",
+      "type": "High-yield recall"
+    }
+  ]
 }

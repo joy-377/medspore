@@ -1,0 +1,52 @@
+{
+  "id": "ART-NEW-0051",
+  "slug": "new-0051-antihypertensive-classes-mechanisms-and-adverse-effects",
+  "title": "Antihypertensive Classes: Mechanisms and Adverse Effects",
+  "category": "High-Yield Tables",
+  "subject": "Drug of Choice",
+  "preview": "ACE inhibitors and ARBs reduce renin–angiotensin signaling; dihydropyridine calcium blockers predominantly relax vascular smooth muscle.",
+  "quickRevision": [
+    "ACE inhibitors and ARBs reduce renin–angiotensin signaling; dihydropyridine calcium blockers predominantly relax vascular smooth muscle.",
+    "ACE inhibitors may cause cough and angioedema; both ACE inhibitors and ARBs require potassium and kidney-function consideration.",
+    "Selection depends on age, pregnancy, kidney disease, coronary disease and other patient characteristics."
+  ],
+  "sections": [
+    {
+      "title": "Essential distinctions",
+      "type": "pearl",
+      "points": [
+        "ACE inhibitors and ARBs reduce renin–angiotensin signaling; dihydropyridine calcium blockers predominantly relax vascular smooth muscle.",
+        "Thiazide-type diuretics, calcium-channel blockers and renin–angiotensin blockers are common first-line classes in appropriate patients."
+      ]
+    },
+    {
+      "title": "High-yield comparison table",
+      "type": "table",
+      "html": "<div class=\"ms-table-scroll\"><table class=\"ms-fact-table\"><thead><tr><th scope=\"col\">Review focus</th><th scope=\"col\">High-yield fact</th></tr></thead><tbody><tr><th scope=\"row\">Distinguishing clue</th><td>ACE inhibitors may cause cough and angioedema; both ACE inhibitors and ARBs require potassium and kidney-function consideration.</td></tr><tr><th scope=\"row\">Clinical implication</th><td>Selection depends on age, pregnancy, kidney disease, coronary disease and other patient characteristics.</td></tr></tbody></table></div>"
+    },
+    {
+      "title": "Exam trap — avoid this mistake",
+      "type": "trap",
+      "points": [
+        "ACE inhibitors and ARBs must not be combined routinely because harm can outweigh benefit."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Which adverse effect is characteristic of ACE inhibitors?",
+      "options": [
+        "Ototoxicity in every patient",
+        "Hyperpigmented skin exclusively",
+        "Blue sclerae",
+        "Dry cough"
+      ],
+      "correct": 3,
+      "explanation": "Dry cough. ACE inhibitors may cause cough and angioedema; both ACE inhibitors and ARBs require potassium and kidney-function consideration.",
+      "type": "High-yield concept check"
+    }
+  ],
+  "images": [],
+  "medicalEditorialStatus": "author-drafted-not-clinician-peer-reviewed",
+  "inlineLinks": []
+}

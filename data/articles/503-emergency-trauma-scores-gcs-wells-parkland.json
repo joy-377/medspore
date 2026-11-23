@@ -5,8 +5,79 @@
   "category": "High-Yield Tables",
   "subject": "Clinical Scoring Systems",
   "title": "Emergency & Trauma Scores: GCS, Wells & Parkland",
-  "preview": "Glasgow Coma Scale, Wells DVT/PE criteria, and Burn resuscitation...",
-  "body": "<p><strong>Learning note:</strong> Educational revision content; verify medication doses, protocols and reference ranges against current institutional guidelines before any patient-care use.</p><p><b>Glasgow Coma Scale (GCS - Range 3 to 15):</b><br>• <b>Eye Opening (E4):</b> 4-Spontaneous, 3-To voice, 2-To pain, 1-None.<br>• <b>Verbal Response (V5):</b> 5-Oriented, 4-Confused, 3-Inappropriate words, 2-Incomprehensible sounds, 1-None.<br>• <b>Motor Response (M6):</b> 6-Obeys commands, 5-Localizes pain, 4-Withdraws from pain, 3-Decorticate (flexion), 2-Decerebrate (extension), 1-None.<br><i>Rule:</i> GCS &le; 8 indicates intubation ('GCS less than 8, intubate').</p><p><b>Wells Criteria for Pulmonary Embolism:</b><br>• Clinical signs of DVT (+3), PE most likely (+3), HR &gt; 100 (+1.5), Immobilization/surgery in past 4 weeks (+1.5), Prior DVT/PE (+1.5), Hemoptysis (+1), Malignancy (+1).<br><i>Score &gt; 4:</i> PE Likely &rarr; CT Pulmonary Angiography (CTPA).<br><i>Score &le; 4:</i> PE Unlikely &rarr; High-sensitivity D-dimer.</p><p><b>Parkland Formula (Burn Resuscitation):</b><br>Fluid Volume (first 24h) = <b>4 mL &times; Weight (kg) &times; % Total Body Surface Area (TBSA)</b> burned.<br>• First 8 hours: Administer 50% of the calculated volume (starting from the time of burn).<br>• Next 16 hours: Administer the remaining 50%.<br>• Fluid of choice: Ringer's Lactate (RL).</p>",
+  "preview": "Recognize the Glasgow Coma Scale, the clinical probability role of the Wells score, and why modern burn fluid resuscitation is titrated.",
+  "body": "",
   "readingMinutes": 2,
-  "reviewStatus": "editorially-reformatted-legacy-content"
+  "reviewStatus": "legacy-medical-fact-check-required",
+  "sections": [
+    {
+      "title": "Neurologic assessment with GCS",
+      "type": "table",
+      "points": [
+        "Record eye, verbal and motor components separately and repeat assessments over time.",
+        "A low GCS prompts urgent airway assessment but does not replace evaluation of airway reflexes, oxygenation and other causes of reduced consciousness."
+      ]
+    },
+    {
+      "title": "Pulmonary embolism risk before testing",
+      "type": "flow",
+      "points": [
+        "Use Wells or another validated rule in the intended population, incorporating clinical context, D-dimer and imaging when appropriate.",
+        "Probability estimates are less reliable when used outside their validated setting."
+      ]
+    },
+    {
+      "title": "Burns: titrate rather than blindly follow a formula",
+      "type": "pearl",
+      "points": [
+        "For adults with large burns, the American Burn Association recommends a lower initial fluid estimate than the historical Parkland 4 mL/kg/%TBSA approach, to reduce fluid-related harm.",
+        "Repeated urine-output and perfusion assessments guide adjustments in a specialized care pathway."
+      ]
+    },
+    {
+      "title": "Memory aid",
+      "type": "mnemonic",
+      "points": [
+        "GCS components: E (eye), V (verbal), M (motor).",
+        "Record each component rather than only a summed total."
+      ]
+    },
+    {
+      "title": "Exam trap",
+      "type": "trap",
+      "points": [
+        "Do not treat a historical burn-fluid formula as an unchangeable prescription.",
+        "Neither a low GCS nor a positive probability score replaces professional clinical assessment."
+      ]
+    }
+  ],
+  "images": [],
+  "quickRevision": [
+    "GCS assesses eye opening, verbal response and motor response; individual components and the clinical context matter.",
+    "Wells criteria estimate pretest probability of pulmonary embolism and help direct appropriate testing.",
+    "Burn fluid formulas are starting estimates; resuscitation should respond to patient physiology and specialist guidance."
+  ],
+  "medicalEditorialStatus": "cautiously-revised-clinician-review-still-recommended",
+  "quiz": [
+    {
+      "question": "What does the Glasgow Coma Scale evaluate?",
+      "options": [
+        "Liver synthetic function",
+        "Eye, verbal and motor responses",
+        "Fracture stability",
+        "Gestational age"
+      ],
+      "correct": 1,
+      "explanation": "The Glasgow Coma Scale records eye, verbal and motor responses; each component can change independently and should be documented.",
+      "type": "High-yield recall"
+    }
+  ],
+  "valueSources": [
+    {
+      "label": "Adult major-burn initial fluid estimate",
+      "source": "American Burn Association Clinical Practice Guidelines on Burn Shock Resuscitation (Journal of Burn Care & Research, 2024)",
+      "url": "https://academic.oup.com/jbcr/article/45/3/565/7458089",
+      "note": "For adults with ≥20% TBSA burns, an initial 2 mL/kg/%TBSA estimate is recommended; titrate to response."
+    }
+  ]
 }

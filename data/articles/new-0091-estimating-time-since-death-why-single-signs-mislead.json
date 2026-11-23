@@ -1,0 +1,55 @@
+{
+  "id": "ART-NEW-0091",
+  "slug": "new-0091-estimating-time-since-death-why-single-signs-mislead",
+  "title": "Estimating Time Since Death: Why Single Signs Mislead",
+  "category": "Third Year (Part 1)",
+  "subject": "Forensic Medicine",
+  "preview": "Algor, livor and rigor mortis are postmortem phenomena, but their timing varies with environment and circumstances.",
+  "quickRevision": [
+    "Algor, livor and rigor mortis are postmortem phenomena, but their timing varies with environment and circumstances.",
+    "Forensic time-since-death estimates require integration of multiple observations and scene context.",
+    "Single textbook timelines are poor substitutes for case-specific forensic assessment."
+  ],
+  "sections": [
+    {
+      "title": "Recognize the core pattern",
+      "type": "pearl",
+      "points": [
+        "Algor, livor and rigor mortis are postmortem phenomena, but their timing varies with environment and circumstances.",
+        "Body temperature, clothing, location, body habitus and movement can affect decomposition signs."
+      ]
+    },
+    {
+      "title": "Clinical examination and interpretation",
+      "type": "table",
+      "points": [
+        "Forensic time-since-death estimates require integration of multiple observations and scene context.",
+        "Single textbook timelines are poor substitutes for case-specific forensic assessment."
+      ]
+    },
+    {
+      "title": "Exam trap — avoid this mistake",
+      "type": "trap",
+      "points": [
+        "Do not claim a precise time of death from one isolated sign."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Which factor materially affects postmortem cooling?",
+      "options": [
+        "Ambient temperature",
+        "Blood group alone",
+        "Handedness",
+        "Eye color"
+      ],
+      "correct": 0,
+      "explanation": "Ambient temperature. Body temperature, clothing, location, body habitus and movement can affect decomposition signs.",
+      "type": "High-yield concept check"
+    }
+  ],
+  "images": [],
+  "medicalEditorialStatus": "author-drafted-not-clinician-peer-reviewed",
+  "inlineLinks": []
+}

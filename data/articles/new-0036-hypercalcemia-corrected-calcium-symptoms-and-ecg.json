@@ -1,0 +1,55 @@
+{
+  "id": "ART-NEW-0036",
+  "slug": "new-0036-hypercalcemia-corrected-calcium-symptoms-and-ecg",
+  "title": "Hypercalcemia: Corrected Calcium, Symptoms and ECG",
+  "category": "Critical Lab Values",
+  "subject": "Electrolytes",
+  "preview": "Hypercalcemia can cause constipation, polyuria, dehydration, weakness, confusion and shortened QT interval.",
+  "quickRevision": [
+    "Hypercalcemia can cause constipation, polyuria, dehydration, weakness, confusion and shortened QT interval.",
+    "Common causes include primary hyperparathyroidism and malignancy; PTH helps guide etiologic classification.",
+    "Symptomatic severe hypercalcemia requires careful fluid and renal assessment, ECG monitoring and cause-specific treatment."
+  ],
+  "sections": [
+    {
+      "title": "Interpret the result in context",
+      "type": "pearl",
+      "points": [
+        "Hypercalcemia can cause constipation, polyuria, dehydration, weakness, confusion and shortened QT interval.",
+        "Albumin influences total serum calcium; ionized calcium helps clarify ambiguous results, especially when albumin or pH is abnormal."
+      ]
+    },
+    {
+      "title": "Clinical interpretation & next steps",
+      "type": "table",
+      "points": [
+        "Common causes include primary hyperparathyroidism and malignancy; PTH helps guide etiologic classification.",
+        "Symptomatic severe hypercalcemia requires careful fluid and renal assessment, ECG monitoring and cause-specific treatment."
+      ]
+    },
+    {
+      "title": "Exam trap — avoid this mistake",
+      "type": "trap",
+      "points": [
+        "Do not rely on a corrected-calcium formula in every critically ill patient without considering ionized measurement."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Which hormone is especially useful when categorizing hypercalcemia?",
+      "options": [
+        "Erythropoietin only",
+        "Parathyroid hormone",
+        "Melatonin",
+        "Prolactin alone"
+      ],
+      "correct": 1,
+      "explanation": "Parathyroid hormone. Hypercalcemia can cause constipation, polyuria, dehydration, weakness, confusion and shortened QT interval.",
+      "type": "High-yield concept check"
+    }
+  ],
+  "images": [],
+  "medicalEditorialStatus": "author-drafted-not-clinician-peer-reviewed",
+  "inlineLinks": []
+}

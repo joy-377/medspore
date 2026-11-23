@@ -5,8 +5,56 @@
   "category": "First Year MBBS",
   "subject": "Physiology",
   "title": "Renal Physiology: Countercurrent Mechanism & Acid-Base",
-  "preview": "Medullary hyperosmolarity, loop diuretics site, and bicarbonate reclamation...",
-  "body": "<p><b>Countercurrent Multiplier &amp; Exchanger:</b><br>• <b>Countercurrent Multiplier:</b> Handled by the <b>Loop of Henle</b>. Descending thin limb is permeable to water but impermeable to NaCl (tubular fluid concentrates up to 1200 mOsm/L). Thick ascending limb actively pumps NaCl into interstitium via <b>Na+-K+-2Cl- symporter (NKCC2)</b> but is impermeable to water (diluting segment).<br>• <b>Countercurrent Exchanger:</b> Passive process in the <b>Vasa Recta</b> that maintains hyperosmolar medullary gradient without washing it out.<br>• <b>Urea Recycling:</b> Inner medullary collecting ducts reabsorb urea via UT-A1/UT-A3 under ADH influence, contributing 50% to medullary hypertonicity.</p><p><b>Tubular Bicarbonate Handling:</b><br>• <b>Proximal Convoluted Tubule (PCT):</b> Reabsorbs <b>85–90% of filtered HCO3-</b> via apical Na+/H+ exchanger (NHE3) and membrane-bound Carbonic Anhydrase type IV (inhibited by Acetazolamide).<br>• <b>Distal Tubule (Alpha-Intercalated Cells):</b> Secretes H+ ions into lumen via H+-ATPase and H+/K+-ATPase, generating new HCO3-.</p>",
+  "preview": "The nephron concentrates urine through loop countercurrent multiplication, vascular exchange and hormone-regulated water permeability.",
+  "body": "",
   "readingMinutes": 2,
-  "reviewStatus": "editorially-reformatted-legacy-content"
+  "reviewStatus": "legacy-medical-fact-check-required",
+  "sections": [
+    {
+      "title": "Countercurrent multiplier",
+      "type": "pearl",
+      "points": [
+        "Different permeabilities in descending and ascending nephron segments create the medullary gradient.",
+        "The thick ascending limb reabsorbs NaCl without accompanying water, diluting tubular fluid."
+      ]
+    },
+    {
+      "title": "Exchange and hormonal control",
+      "type": "flow",
+      "points": [
+        "Vasa recta preserve the gradient through countercurrent exchange while minimizing solute washout.",
+        "ADH increases collecting duct water permeability through aquaporin regulation."
+      ]
+    },
+    {
+      "title": "Exam trap",
+      "type": "trap",
+      "points": [
+        "Loop of Henle segments are not uniformly water-permeable.",
+        "Concentrating ability depends on both the gradient and the collecting duct response to ADH."
+      ]
+    }
+  ],
+  "images": [],
+  "quickRevision": [
+    "The descending thin limb is relatively water-permeable, while the thick ascending limb reabsorbs salts and is water-impermeable.",
+    "The medullary osmotic gradient facilitates water reabsorption in the collecting system when antidiuretic hormone acts.",
+    "Urea recycling contributes to the inner medullary osmotic gradient."
+  ],
+  "medicalEditorialStatus": "legacy-requires-clinician-review",
+  "quiz": [
+    {
+      "question": "Which structure is important in the renal countercurrent multiplier?",
+      "options": [
+        "Renal pelvis",
+        "Glomerular capsule exclusively",
+        "Loop of Henle",
+        "Ureterovesical junction"
+      ],
+      "correct": 2,
+      "explanation": "Countercurrent Multiplier & Exchanger: • Countercurrent Multiplier: Handled by the Loop of Henle.",
+      "type": "High-yield recall"
+    }
+  ],
+  "valueSources": []
 }

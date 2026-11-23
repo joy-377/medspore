@@ -1,0 +1,55 @@
+{
+  "id": "ART-NEW-0096",
+  "slug": "new-0096-outbreak-investigation-epidemic-curve-and-attack-rate",
+  "title": "Outbreak Investigation: Epidemic Curve and Attack Rate",
+  "category": "Third Year (Part 1)",
+  "subject": "PSM",
+  "preview": "Outbreak investigation establishes whether cases exceed expectation and defines a case consistently.",
+  "quickRevision": [
+    "Outbreak investigation establishes whether cases exceed expectation and defines a case consistently.",
+    "An attack rate compares new cases in a defined exposed population during the event.",
+    "Hypotheses should be tested with appropriate epidemiologic methods, environmental findings and laboratory evidence."
+  ],
+  "sections": [
+    {
+      "title": "Recognize the core pattern",
+      "type": "pearl",
+      "points": [
+        "Outbreak investigation establishes whether cases exceed expectation and defines a case consistently.",
+        "An epidemic curve shows temporal distribution and may help suggest point-source versus propagated patterns."
+      ]
+    },
+    {
+      "title": "Clinical examination and interpretation",
+      "type": "table",
+      "points": [
+        "An attack rate compares new cases in a defined exposed population during the event.",
+        "Hypotheses should be tested with appropriate epidemiologic methods, environmental findings and laboratory evidence."
+      ]
+    },
+    {
+      "title": "Exam trap — avoid this mistake",
+      "type": "trap",
+      "points": [
+        "An apparent cluster can result from changed testing or reporting, so verify the baseline."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "question": "What does an epidemic curve primarily display?",
+      "options": [
+        "Blood pressure over time",
+        "Vaccination route only",
+        "Case counts over time",
+        "Only case-control odds ratios"
+      ],
+      "correct": 2,
+      "explanation": "Case counts over time. Outbreak investigation establishes whether cases exceed expectation and defines a case consistently.",
+      "type": "High-yield concept check"
+    }
+  ],
+  "images": [],
+  "medicalEditorialStatus": "author-drafted-not-clinician-peer-reviewed",
+  "inlineLinks": []
+}

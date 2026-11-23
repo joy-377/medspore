@@ -4,9 +4,70 @@
   "slug": "305-cerebrospinal-fluid-csf-analysis-master-chart",
   "category": "Critical Lab Values",
   "subject": "CSF & Fluids",
-  "title": "Cerebrospinal Fluid (CSF) Analysis Master Chart",
-  "preview": "Differentiating Bacterial, Viral, TB, and Fungal meningitis at a glance...",
-  "body": "<p><strong>Learning note:</strong> Educational revision content; verify medication doses, protocols and reference ranges against current institutional guidelines before any patient-care use.</p><ul><li><b>Normal CSF:</b> Opening pressure 50–200 mmH2O; Cells &lt;5 /µL (all lymphocytes); Protein 15–45 mg/dL; Glucose &gt;60% of blood glucose.</li><li><b>Acute Bacterial Meningitis:</b> Markedly elevated pressure (&gt;200); Cells 1,000–10,000 /µL (predominantly <b>Neutrophils</b>); Protein markedly elevated (&gt;100 mg/dL); Glucose markedly reduced (&lt;40% of serum).</li><li><b>Viral (Aseptic) Meningitis:</b> Normal or slightly elevated pressure; Cells 50–500 /µL (<b>Lymphocytes</b>); Protein normal or mildly elevated; Glucose completely <b>Normal</b>.</li><li><b>Tubercular (TB) Meningitis:</b> Elevated pressure; Cells 100–500 /µL (<b>Lymphocytes</b>); Protein very high (up to 500 mg/dL, forms <i>cobweb coagulum</i> on standing); Glucose very low (&lt;30% of serum).</li><li><b>Guillain-Barré Syndrome (GBS):</b> <i>Albuminocytological Dissociation</i> (very high protein with normal cell count).</li></ul>",
+  "title": "CSF Analysis: Pattern Recognition in Meningitis and Neurology",
+  "preview": "Interpret CSF cells, glucose, protein and opening pressure together, not as isolated diagnostic cutoffs.",
+  "body": "",
   "readingMinutes": 2,
-  "reviewStatus": "editorially-reformatted-legacy-content"
+  "reviewStatus": "legacy-medical-fact-check-required",
+  "sections": [
+    {
+      "title": "Start with the patient",
+      "type": "pearl",
+      "points": [
+        "Evaluate contraindications and procedural safety before lumbar puncture; never delay urgent care for a critically unwell patient.",
+        "Compare CSF glucose with a near-contemporaneous blood glucose rather than treating the absolute number alone as definitive."
+      ]
+    },
+    {
+      "title": "Recognize common patterns",
+      "type": "table",
+      "points": [
+        "Bacterial, viral, tuberculous and fungal infections have overlapping but useful patterns in cell differential, protein and glucose.",
+        "Albuminocytological dissociation is associated with Guillain–Barré syndrome but may be absent early."
+      ]
+    },
+    {
+      "title": "Examination pitfalls",
+      "type": "trap",
+      "points": [
+        "Normal or nearly normal early CSF cannot fully exclude dangerous infection.",
+        "Microbiologic methods and overall clinical suspicion may matter more than a memorized fixed cell-count cutoff."
+      ]
+    }
+  ],
+  "images": [],
+  "quickRevision": [
+    "Bacterial meningitis often causes neutrophil-predominant inflammation and lower CSF glucose, although early patterns can vary.",
+    "Viral meningitis more often has a lymphocyte-predominant pattern with relatively preserved glucose.",
+    "CSF results depend on sampling time, prior treatment, blood contamination, immune status and age."
+  ],
+  "medicalEditorialStatus": "topic-specific-reviewed-against-open-authoritative-guidance-not-clinician-peer-reviewed",
+  "inlineLinks": [
+    {
+      "slug": "new-0037-csf-opening-pressure-context-and-interpretation",
+      "context": "For a complementary clinical comparison, read"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Which CSF result can support bacterial meningitis in context?",
+      "options": [
+        "No inflammatory cells in every case",
+        "Obligatory high CSF glucose",
+        "Neutrophilic pleocytosis with low CSF glucose",
+        "A completely normal CSF profile in all cases"
+      ],
+      "correct": 2,
+      "explanation": "Bacterial meningitis commonly gives neutrophil-predominant CSF inflammation and a reduced CSF-to-blood glucose relationship, with exceptions after partial treatment or in early disease.",
+      "type": "High-yield recall"
+    }
+  ],
+  "valueSources": [
+    {
+      "label": "CSF glucose and protein interpretation",
+      "source": "Merck Manual Professional, Lumbar Puncture and CSF abnormality tables",
+      "url": "https://www.merckmanuals.com/en-ca/professional/neurologic-disorders/neurologic-tests-and-procedures/lumbar-puncture",
+      "note": "Intervals depend on clinical setting and laboratory method."
+    }
+  ]
 }

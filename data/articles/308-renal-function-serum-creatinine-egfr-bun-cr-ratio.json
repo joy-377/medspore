@@ -5,8 +5,56 @@
   "category": "Critical Lab Values",
   "subject": "Pathology Markers",
   "title": "Renal Function: Serum Creatinine, eGFR & BUN/Cr Ratio",
-  "preview": "Differentiating Prerenal, Intrinsic, and Postrenal Acute Kidney Injury (AKI)...",
-  "body": "<p><strong>Learning note:</strong> Educational revision content; verify medication doses, protocols and reference ranges against current institutional guidelines before any patient-care use.</p><p><b>BUN to Serum Creatinine Ratio:</b><br>• <b>Ratio &gt; 20:1:</b> Points to <i>Prerenal Azotemia</i> (dehydration, volume depletion, heart failure). Increased urea reabsorption along with sodium/water in proximal tubules.<br>• <b>Ratio 10:1 to 15:1:</b> Normal or <i>Intrinsic Renal AKI</i> (Acute Tubular Necrosis - ATN). Damaged tubules fail to reabsorb urea.</p><p><b>Fractional Excretion of Sodium (FENa):</b><br>FENa = [(Urine Na × Serum Cr) / (Serum Na × Urine Cr)] × 100.<br>• <b>FENa &lt; 1%:</b> Prerenal Azotemia (kidneys actively conserving sodium). Urine osmolality &gt;500 mOsm/kg, Urine Na &lt; 20 mEq/L.<br>• <b>FENa &gt; 2%:</b> Intrinsic AKI / ATN (tubular resorption lost). Urine osmolality &lt;350 mOsm/kg, Urine Na &gt; 40 mEq/L, 'Muddy brown granular casts'.</p>",
+  "preview": "Renal function tests require trend, baseline kidney disease and hemodynamic context; no single urine index proves the cause of AKI.",
+  "body": "",
   "readingMinutes": 2,
-  "reviewStatus": "editorially-reformatted-legacy-content"
+  "reviewStatus": "legacy-medical-fact-check-required",
+  "sections": [
+    {
+      "title": "Know the limitations of creatinine and urea",
+      "type": "pearl",
+      "points": [
+        "Serum creatinine reflects production and renal handling; muscle mass and illness can alter its interpretation.",
+        "Urea is influenced by protein turnover, volume depletion and gastrointestinal bleeding and should not be used as a stand-alone diagnostic discriminator."
+      ]
+    },
+    {
+      "title": "Structured AKI assessment",
+      "type": "flow",
+      "points": [
+        "Compare serial kidney function, fluid balance and urine output; review medications and exposure to contrast or toxins.",
+        "Assess volume status, examine urine sediment when indicated and use ultrasound if obstruction is suspected."
+      ]
+    },
+    {
+      "title": "Exam trap: FENa is not a verdict",
+      "type": "trap",
+      "points": [
+        "Urine sodium and fractional excretion may be altered by diuretics or mixed renal pathology.",
+        "A low FENa does not invariably exclude intrinsic renal disease, and a high FENa does not always exclude a prerenal component."
+      ]
+    }
+  ],
+  "images": [],
+  "quickRevision": [
+    "Acute kidney injury may develop before creatinine rises noticeably; urine output and changes from baseline also matter.",
+    "Fractional excretion indices can support the assessment of sodium handling but may be misleading with diuretics, chronic kidney disease and sepsis.",
+    "Evaluate perfusion, nephrotoxins, obstruction and urine sediment alongside laboratory results."
+  ],
+  "medicalEditorialStatus": "cautiously-revised-clinician-review-still-recommended",
+  "quiz": [
+    {
+      "question": "Why can serum creatinine lag behind acute changes in renal function?",
+      "options": [
+        "It changes instantaneously with every nephron injury",
+        "It accumulates over time after a fall in GFR",
+        "It exclusively measures tubular secretion",
+        "It is independent of muscle mass"
+      ],
+      "correct": 1,
+      "explanation": "It accumulates over time after a fall in GFR. Serum creatinine reflects production and renal handling; muscle mass and illness can alter its interpretation.",
+      "type": "High-yield recall"
+    }
+  ],
+  "valueSources": []
 }

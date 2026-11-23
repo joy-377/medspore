@@ -1,0 +1,55 @@
+{
+  "id": "ART-NEW-0107",
+  "slug": "new-0107-tia-recognition-and-secondary-stroke-prevention-principles",
+  "title": "TIA Recognition and Secondary Stroke Prevention Principles",
+  "category": "Final Year (Part 2)",
+  "subject": "Medicine",
+  "preview": "TIA is transient focal neurological dysfunction from ischemia without evidence of acute infarction in the modern tissue-based concept.",
+  "quickRevision": [
+    "TIA is transient focal neurological dysfunction from ischemia without evidence of acute infarction in the modern tissue-based concept.",
+    "Neurovascular imaging, cardiac rhythm evaluation and vascular risk management inform secondary prevention.",
+    "Differentials include migraine aura, seizure and metabolic mimics."
+  ],
+  "sections": [
+    {
+      "title": "Clinical syndrome and red flags",
+      "type": "pearl",
+      "points": [
+        "TIA is transient focal neurological dysfunction from ischemia without evidence of acute infarction in the modern tissue-based concept.",
+        "Even resolved symptoms may warn of early stroke risk, requiring urgent evaluation."
+      ]
+    },
+    {
+      "title": "Differentiate and manage",
+      "type": "table",
+      "points": [
+        "Neurovascular imaging, cardiac rhythm evaluation and vascular risk management inform secondary prevention.",
+        "Differentials include migraine aura, seizure and metabolic mimics."
+      ]
+    },
+    {
+      "title": "Exam trap — avoid this mistake",
+      "type": "trap",
+      "points": [
+        "Do not discharge a resolved unilateral weakness episode as harmless solely because the examination is now normal."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Why does a resolved focal neurological episode still require urgent assessment?",
+      "options": [
+        "TIA cannot recur",
+        "Resolution excludes vascular causes",
+        "It may signal a high early stroke risk",
+        "All TIAs are migraines"
+      ],
+      "correct": 2,
+      "explanation": "It may signal a high early stroke risk. Even resolved symptoms may warn of early stroke risk, requiring urgent evaluation.",
+      "type": "High-yield concept check"
+    }
+  ],
+  "images": [],
+  "medicalEditorialStatus": "author-drafted-not-clinician-peer-reviewed",
+  "inlineLinks": []
+}
