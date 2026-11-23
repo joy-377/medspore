@@ -1,0 +1,55 @@
+{
+  "id": "ART-NEW-0018",
+  "slug": "new-0018-wernicke-encephalopathy-classic-triad-and-frequent-omissions",
+  "title": "Wernicke Encephalopathy: Classic Triad and Frequent Omissions",
+  "category": "Triads & Signs",
+  "subject": "Medical Triads",
+  "preview": "Wernicke encephalopathy is associated with thiamine deficiency and may cause confusion, eye movement abnormalities and ataxia.",
+  "quickRevision": [
+    "Wernicke encephalopathy is associated with thiamine deficiency and may cause confusion, eye movement abnormalities and ataxia.",
+    "Early parenteral thiamine is important when suspected, particularly in high-risk nutritionally depleted patients.",
+    "Untreated disease can cause lasting memory impairment and evolve into Korsakoff syndrome."
+  ],
+  "sections": [
+    {
+      "title": "Recognize the pattern",
+      "type": "pearl",
+      "points": [
+        "Wernicke encephalopathy is associated with thiamine deficiency and may cause confusion, eye movement abnormalities and ataxia.",
+        "The classic triad is frequently incomplete; risk includes malnutrition and alcohol use disorder but is not limited to them."
+      ]
+    },
+    {
+      "title": "What this finding does—and does not—mean",
+      "type": "table",
+      "points": [
+        "Early parenteral thiamine is important when suspected, particularly in high-risk nutritionally depleted patients.",
+        "Untreated disease can cause lasting memory impairment and evolve into Korsakoff syndrome."
+      ]
+    },
+    {
+      "title": "Exam trap — avoid this mistake",
+      "type": "trap",
+      "points": [
+        "The absence of ophthalmoplegia or ataxia must not falsely reassure when risk and confusion are present."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Which deficiency causes Wernicke encephalopathy?",
+      "options": [
+        "Thiamine deficiency",
+        "Vitamin K deficiency",
+        "Vitamin D deficiency",
+        "Vitamin C deficiency"
+      ],
+      "correct": 0,
+      "explanation": "Wernicke encephalopathy is associated with thiamine deficiency and may cause confusion, eye movement abnormalities and ataxia.",
+      "type": "High-yield concept check"
+    }
+  ],
+  "images": [],
+  "medicalEditorialStatus": "author-drafted-not-clinician-peer-reviewed",
+  "inlineLinks": []
+}

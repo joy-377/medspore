@@ -1,0 +1,55 @@
+{
+  "id": "ART-NEW-0111",
+  "slug": "new-0111-ectopic-pregnancy-presentation-and-diagnostic-approach",
+  "title": "Ectopic Pregnancy: Presentation and Diagnostic Approach",
+  "category": "Final Year (Part 2)",
+  "subject": "OBG",
+  "preview": "Ectopic pregnancy can present with amenorrhea, unilateral pain, vaginal bleeding or collapse from intra-abdominal hemorrhage.",
+  "quickRevision": [
+    "Ectopic pregnancy can present with amenorrhea, unilateral pain, vaginal bleeding or collapse from intra-abdominal hemorrhage.",
+    "Serial quantitative hCG and transvaginal ultrasound are interpreted together and with clinical stability.",
+    "A pregnancy of unknown location needs a follow-up plan, not premature reassurance."
+  ],
+  "sections": [
+    {
+      "title": "Clinical syndrome and red flags",
+      "type": "pearl",
+      "points": [
+        "Ectopic pregnancy can present with amenorrhea, unilateral pain, vaginal bleeding or collapse from intra-abdominal hemorrhage.",
+        "Any reproductive-age patient with concerning abdominal pain should have pregnancy status assessed where appropriate."
+      ]
+    },
+    {
+      "title": "Differentiate and manage",
+      "type": "table",
+      "points": [
+        "Serial quantitative hCG and transvaginal ultrasound are interpreted together and with clinical stability.",
+        "A pregnancy of unknown location needs a follow-up plan, not premature reassurance."
+      ]
+    },
+    {
+      "title": "Exam trap — avoid this mistake",
+      "type": "trap",
+      "points": [
+        "Do not delay emergency evaluation in a hemodynamically unstable patient while waiting for serial tests."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Which complication makes ectopic pregnancy immediately dangerous?",
+      "options": [
+        "Acne flare",
+        "Intra-abdominal hemorrhage",
+        "Simple conjunctivitis",
+        "Chronic earwax"
+      ],
+      "correct": 1,
+      "explanation": "Ectopic pregnancy can present with amenorrhea, unilateral pain, vaginal bleeding or collapse from intra-abdominal hemorrhage.",
+      "type": "High-yield concept check"
+    }
+  ],
+  "images": [],
+  "medicalEditorialStatus": "author-drafted-not-clinician-peer-reviewed",
+  "inlineLinks": []
+}

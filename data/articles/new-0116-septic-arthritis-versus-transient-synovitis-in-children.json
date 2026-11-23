@@ -1,0 +1,55 @@
+{
+  "id": "ART-NEW-0116",
+  "slug": "new-0116-septic-arthritis-versus-transient-synovitis-in-children",
+  "title": "Septic Arthritis Versus Transient Synovitis in Children",
+  "category": "Final Year (Part 2)",
+  "subject": "Orthopedics",
+  "preview": "Septic arthritis in a child is an urgent joint infection that may present with fever, severe pain and refusal to bear weight.",
+  "quickRevision": [
+    "Septic arthritis in a child is an urgent joint infection that may present with fever, severe pain and refusal to bear weight.",
+    "Inflammatory markers, ultrasound and joint aspiration decisions require clinical context and specialist assessment.",
+    "Delay in septic arthritis diagnosis risks joint destruction and systemic infection."
+  ],
+  "sections": [
+    {
+      "title": "Clinical syndrome and red flags",
+      "type": "pearl",
+      "points": [
+        "Septic arthritis in a child is an urgent joint infection that may present with fever, severe pain and refusal to bear weight.",
+        "Transient synovitis may follow a viral illness and often has less systemic illness, but presentations overlap."
+      ]
+    },
+    {
+      "title": "Differentiate and manage",
+      "type": "table",
+      "points": [
+        "Inflammatory markers, ultrasound and joint aspiration decisions require clinical context and specialist assessment.",
+        "Delay in septic arthritis diagnosis risks joint destruction and systemic infection."
+      ]
+    },
+    {
+      "title": "Exam trap — avoid this mistake",
+      "type": "trap",
+      "points": [
+        "Do not rule out septic arthritis merely because a child has a recent viral history."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Which feature raises concern for septic arthritis over transient synovitis?",
+      "options": [
+        "Stable painless movement",
+        "A normal gait",
+        "Well appearance with rapidly improving pain",
+        "Toxic appearance with inability to bear weight"
+      ],
+      "correct": 3,
+      "explanation": "Toxic appearance with inability to bear weight. Septic arthritis in a child is an urgent joint infection that may present with fever, severe pain and refusal to bear weight.",
+      "type": "High-yield concept check"
+    }
+  ],
+  "images": [],
+  "medicalEditorialStatus": "author-drafted-not-clinician-peer-reviewed",
+  "inlineLinks": []
+}

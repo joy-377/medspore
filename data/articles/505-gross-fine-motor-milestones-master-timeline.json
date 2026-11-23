@@ -6,7 +6,39 @@
   "subject": "Developmental Milestones",
   "title": "Gross & Fine Motor Milestones Master Timeline",
   "preview": "Neck holding, sitting, mature pincer grasp, and shape copying timelines...",
-  "body": "<p><strong>Learning note:</strong> Educational revision content; verify medication doses, protocols and reference ranges against current institutional guidelines before any patient-care use.</p><p><b>Gross Motor Milestones:</b><br>• <i>3 months:</i> Neck holding.<br>• <i>5 months:</i> Rolls over (tummy to back).<br>• <i>6 months:</i> Sits with support (tripod fashion).<br>• <i>8 months:</i> Sits steadily without support.<br>• <i>9 months:</i> Stands with support; crawls.<br>• <i>10 months:</i> Cruising (walks holding onto furniture).<br>• <i>12 months:</i> Walks independently without support.<br>• <i>18 months:</i> Runs stiffly, kicks a ball.<br>• <i>2 years:</i> Climbs stairs (2 feet per step).<br>• <i>3 years:</i> Climbs stairs (alternating feet), rides a tricycle.<br>• <i>4 years:</i> Hops on one foot.</p><p><b>Fine Motor Milestones:</b><br>• <i>4 months:</i> Bidextrous reach (reaches with both hands).<br>• <i>6 months:</i> Unidextrous reach (transfers objects hand-to-hand).<br>• <i>9 months:</i> Immature pincer grasp.<br>• <i>12 months:</i> Mature pincer grasp (picks pellet with thumb and index).<br>• <i>Block Towers:</i> 15 mo (2 cubes), 18 mo (3 cubes), 2 yr (6 cubes), 3 yr (9 cubes).<br>• <i>Copying Shapes:</i> 18 mo (scribbles), 3 yr (circle), 4 yr (cross and square), 5 yr (triangle).</p>",
+  "body": "<p><b>Gross Motor Milestones:</b><br>• <i>3 months:</i> Neck holding.<br>• <i>5 months:</i> Rolls over (tummy to back).<br>• <i>6 months:</i> Sits with support (tripod fashion).<br>• <i>8 months:</i> Sits steadily without support.<br>• <i>9 months:</i> Stands with support; crawls.<br>• <i>10 months:</i> Cruising (walks holding onto furniture).<br>• <i>12 months:</i> Walks independently without support.<br>• <i>18 months:</i> Runs stiffly, kicks a ball.<br>• <i>2 years:</i> Climbs stairs (2 feet per step).<br>• <i>3 years:</i> Climbs stairs (alternating feet), rides a tricycle.<br>• <i>4 years:</i> Hops on one foot.</p><p><b>Fine Motor Milestones:</b><br>• <i>4 months:</i> Bidextrous reach (reaches with both hands).<br>• <i>6 months:</i> Unidextrous reach (transfers objects hand-to-hand).<br>• <i>9 months:</i> Immature pincer grasp.<br>• <i>12 months:</i> Mature pincer grasp (picks pellet with thumb and index).<br>• <i>Block Towers:</i> 15 mo (2 cubes), 18 mo (3 cubes), 2 yr (6 cubes), 3 yr (9 cubes).<br>• <i>Copying Shapes:</i> 18 mo (scribbles), 3 yr (circle), 4 yr (cross and square), 5 yr (triangle).</p>",
   "readingMinutes": 2,
-  "reviewStatus": "editorially-reformatted-legacy-content"
+  "reviewStatus": "legacy-medical-fact-check-required",
+  "sections": [
+    {
+      "title": "Gross Motor Milestones",
+      "html": "<p><b>Gross Motor Milestones:</b><br/>• <i>3 months:</i> Neck holding.<br/>• <i>5 months:</i> Rolls over (tummy to back).<br/>• <i>6 months:</i> Sits with support (tripod fashion).<br/>• <i>8 months:</i> Sits steadily without support.<br/>• <i>9 months:</i> Stands with support; crawls.<br/>• <i>10 months:</i> Cruising (walks holding onto furniture).<br/>• <i>12 months:</i> Walks independently without support.<br/>• <i>18 months:</i> Runs stiffly, kicks a ball.<br/>• <i>2 years:</i> Climbs stairs (2 feet per step).<br/>• <i>3 years:</i> Climbs stairs (alternating feet), rides a tricycle.<br/>• <i>4 years:</i> Hops on one foot.</p>",
+      "type": ""
+    },
+    {
+      "title": "Fine Motor Milestones",
+      "html": "<p><b>Fine Motor Milestones:</b><br/>• <i>4 months:</i> Bidextrous reach (reaches with both hands).<br/>• <i>6 months:</i> Unidextrous reach (transfers objects hand-to-hand).<br/>• <i>9 months:</i> Immature pincer grasp.<br/>• <i>12 months:</i> Mature pincer grasp (picks pellet with thumb and index).<br/>• <i>Block Towers:</i> 15 mo (2 cubes), 18 mo (3 cubes), 2 yr (6 cubes), 3 yr (9 cubes).<br/>• <i>Copying Shapes:</i> 18 mo (scribbles), 3 yr (circle), 4 yr (cross and square), 5 yr (triangle).</p>",
+      "type": ""
+    }
+  ],
+  "images": [],
+  "quickRevision": [
+    "Gross Motor Milestones; 3 months: Neck holding.; 5 months: Rolls over (tummy to back).; 6 months: Sits with support (tripod fashion).",
+    "Fine Motor Milestones; 4 months: Bidextrous reach (reaches with both hands).; 6 months: Unidextrous reach (transfers objects hand-to-hand)."
+  ],
+  "medicalEditorialStatus": "legacy-requires-clinician-review",
+  "quiz": [
+    {
+      "question": "Which finding is a developmental red flag?",
+      "options": [
+        "Occasional normal sleep variation",
+        "Transient food preference",
+        "Loss of previously attained motor milestones",
+        "Normal age-appropriate progress"
+      ],
+      "correct": 2,
+      "explanation": "Loss of a milestone that was previously achieved is a developmental red flag requiring assessment; a minor variation in timing alone is not equivalent to regression.",
+      "type": "High-yield recall"
+    }
+  ]
 }

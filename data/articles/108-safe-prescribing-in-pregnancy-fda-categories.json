@@ -6,7 +6,51 @@
   "subject": "Prescription Pearls",
   "title": "Prescribing in Pregnancy: Safety Principles",
   "preview": "Which antihypertensives, antibiotics, and analgesics are safe for expecting mothers...",
-  "body": "<p><strong>Learning note:</strong> Educational revision content; verify medication doses, protocols and reference ranges against current institutional guidelines before any patient-care use.</p><p><strong>Clinical principle:</strong> Medication safety in pregnancy depends on gestational age, maternal condition, dose, route, and the best available evidence. The former FDA A/B/C/D/X letter categories have been replaced by narrative pregnancy and lactation labeling.</p><h2>Practical approach</h2><ul><li>Confirm the indication and gestational age before choosing a drug.</li><li>Use current, medicine-specific prescribing guidance and local obstetric protocols.</li><li>Review fetal and maternal risks, effective alternatives, and the risks of untreated disease.</li><li>Avoid assuming that every agent within a drug class shares an identical risk profile.</li></ul><p>For real patients, consult up-to-date institutional guidance and a qualified clinician.</p>",
+  "body": "<p><strong>Clinical principle:</strong> Medication safety in pregnancy depends on gestational age, maternal condition, dose, route, and the best available evidence. The former FDA A/B/C/D/X letter categories have been replaced by narrative pregnancy and lactation labeling.</p><h2>Practical approach</h2><ul><li>Confirm the indication and gestational age before choosing a drug.</li><li>Use current, medicine-specific prescribing guidance and local obstetric protocols.</li><li>Review fetal and maternal risks, effective alternatives, and the risks of untreated disease.</li><li>Avoid assuming that every agent within a drug class shares an identical risk profile.</li></ul><p>For real patients, consult up-to-date institutional guidance and a qualified clinician.</p>",
   "readingMinutes": 2,
-  "reviewStatus": "editorially-reformatted-legacy-content"
+  "reviewStatus": "legacy-medical-fact-check-required",
+  "sections": [
+    {
+      "title": "Clinical principle",
+      "html": "<p><strong>Clinical principle:</strong> Medication safety in pregnancy depends on gestational age, maternal condition, dose, route, and the best available evidence. The former FDA A/B/C/D/X letter categories have been replaced by narrative pregnancy and lactation labeling.</p>",
+      "type": ""
+    },
+    {
+      "title": "Exam Focus",
+      "html": "<h2>Practical approach</h2>",
+      "type": ""
+    },
+    {
+      "title": "Key Findings & Exam Clues",
+      "html": "<ul><li>Confirm the indication and gestational age before choosing a drug.</li><li>Use current, medicine-specific prescribing guidance and local obstetric protocols.</li><li>Review fetal and maternal risks, effective alternatives, and the risks of untreated disease.</li><li>Avoid assuming that every agent within a drug class shares an identical risk profile.</li></ul>",
+      "type": ""
+    },
+    {
+      "title": "Clinical Takeaways",
+      "html": "<p>For real patients, consult up-to-date institutional guidance and a qualified clinician.</p>",
+      "type": "pearl"
+    }
+  ],
+  "images": [],
+  "quickRevision": [
+    "Clinical principle: Medication safety in pregnancy depends on gestational age, maternal condition, dose, route, and the best available evidence.",
+    "Practical approach",
+    "Confirm the indication and gestational age before choosing a drug.; Use current, medicine-specific prescribing guidance and local obstetric protocols.",
+    "For real patients, consult up-to-date institutional guidance and a qualified clinician."
+  ],
+  "medicalEditorialStatus": "legacy-requires-clinician-review",
+  "quiz": [
+    {
+      "question": "Which statement about medications in pregnancy is appropriate?",
+      "options": [
+        "Risk assessment is drug- and gestation-specific",
+        "All antibiotics are contraindicated",
+        "The old FDA letters alone determine every decision",
+        "All over-the-counter drugs are automatically safe"
+      ],
+      "correct": 0,
+      "explanation": "Risk assessment is drug- and gestation-specific. Avoid assuming that every agent within a drug class shares an identical risk profile.",
+      "type": "High-yield recall"
+    }
+  ]
 }

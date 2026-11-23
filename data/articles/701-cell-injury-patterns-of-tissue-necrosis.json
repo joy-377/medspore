@@ -5,8 +5,61 @@
   "category": "Second Year MBBS",
   "subject": "Pathology",
   "title": "Cell Injury & Patterns of Tissue Necrosis",
-  "preview": "Coagulative, Liquefactive, Caseous, and Fibrinoid necrosis hallmarks...",
-  "body": "<p><b>Patterns of Tissue Necrosis:</b><br>• <b>Coagulative Necrosis:</b> Most common pattern. Architecture of dead tissues preserved for days (ghost cells). Characteristic of <b>ischemic infarcts in all solid organs EXCEPT the brain</b>.<br>• <b>Liquefactive Necrosis:</b> Complete digestion of dead cells transforming tissue into a liquid viscous mass. Seen in <b>Hypoxic death of CNS / Brain infarcts</b> and focal bacterial or fungal infections (pus formation / abscess).<br>• <b>Caseous Necrosis:</b> Friable, cheese-like macroscopic appearance. Microscopically shows structureless, granular, eosinophilic debris surrounded by granulomatous inflammation (giant cells, epithelioid cells). Classic for <b>Tuberculosis</b>.<br>• <b>Fat Necrosis:</b> Focal areas of fat destruction resulting from release of activated pancreatic lipases (Acute Pancreatitis) or breast trauma. Fatty acids combine with calcium to produce chalky-white deposits (<b>Saponification</b>).<br>• <b>Fibrinoid Necrosis:</b> Immune complex (antigen-antibody) deposition combined with fibrin leaking into arterial walls. Classic for <b>Polyarteritis Nodosa (PAN)</b>, Malignant Hypertension, and Aschoff nodules of Rheumatic Heart Disease.</p>",
+  "preview": "The pattern of necrosis reflects mechanism and tissue context, providing strong pathology examination clues.",
+  "body": "",
   "readingMinutes": 2,
-  "reviewStatus": "editorially-reformatted-legacy-content"
+  "reviewStatus": "legacy-medical-fact-check-required",
+  "sections": [
+    {
+      "title": "Coagulative versus liquefactive",
+      "type": "table",
+      "points": [
+        "Coagulative: tissue outlines persist transiently after ischemic injury in many solid organs.",
+        "Liquefactive: enzymatic digestion dominates, as in brain infarction and abscess formation."
+      ]
+    },
+    {
+      "title": "Caseous and fat necrosis",
+      "type": "table",
+      "points": [
+        "Caseous: amorphous granular debris in granulomatous inflammation, classically associated with tuberculosis but not unique to it.",
+        "Fat necrosis: lipase-related destruction in pancreatitis or trauma can cause calcium soap formation (saponification)."
+      ]
+    },
+    {
+      "title": "Fibrinoid vascular injury",
+      "type": "pearl",
+      "points": [
+        "Fibrinoid change in vessel walls reflects marked vascular injury with plasma-protein/fibrin-related deposition and can occur in some immune-mediated vasculitides."
+      ]
+    },
+    {
+      "title": "Exam trap",
+      "type": "trap",
+      "points": [
+        "Do not assume every infarct is coagulative: brain ischemia is the classic exception."
+      ]
+    }
+  ],
+  "images": [],
+  "quickRevision": [
+    "Coagulative necrosis commonly follows ischemia in solid organs outside the central nervous system.",
+    "Liquefactive necrosis is characteristic of cerebral infarction and many suppurative infections.",
+    "Caseous, fat and fibrinoid necrosis each have distinct inflammatory or metabolic associations."
+  ],
+  "medicalEditorialStatus": "structured-clinical-revision-not-clinician-peer-reviewed",
+  "quiz": [
+    {
+      "question": "Liquefactive necrosis is classically associated with what?",
+      "options": [
+        "Cerebral infarction",
+        "Ischemic infarction of heart typically",
+        "Dry gangrene exclusively",
+        "Enzymatic fat necrosis exclusively"
+      ],
+      "correct": 0,
+      "explanation": "Cerebral infarction. • Liquefactive Necrosis: Complete digestion of dead cells transforming tissue into a liquid viscous mass.",
+      "type": "High-yield recall"
+    }
+  ]
 }

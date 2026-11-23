@@ -1,0 +1,55 @@
+{
+  "id": "ART-NEW-0006",
+  "slug": "new-0006-the-deteriorating-ward-patient-early-warning-signs-and-escalation",
+  "title": "The Deteriorating Ward Patient: Early Warning Signs and Escalation",
+  "category": "Clinical Tips",
+  "subject": "Ward Protocols",
+  "preview": "New confusion, increasing respiratory rate, hypotension and falling urine output can be early deterioration signals.",
+  "quickRevision": [
+    "New confusion, increasing respiratory rate, hypotension and falling urine output can be early deterioration signals.",
+    "Recheck observations, glucose, oxygenation, medications and likely triggers while activating a rapid response pathway as indicated.",
+    "Trend matters: a progressive change may be more informative than one isolated measurement."
+  ],
+  "sections": [
+    {
+      "title": "Recognize the situation",
+      "type": "pearl",
+      "points": [
+        "New confusion, increasing respiratory rate, hypotension and falling urine output can be early deterioration signals.",
+        "An early-warning score organizes observations but does not replace clinical judgment or escalation when staff are concerned."
+      ]
+    },
+    {
+      "title": "Clinical decisions & differential",
+      "type": "table",
+      "points": [
+        "Recheck observations, glucose, oxygenation, medications and likely triggers while activating a rapid response pathway as indicated.",
+        "Trend matters: a progressive change may be more informative than one isolated measurement."
+      ]
+    },
+    {
+      "title": "Exam trap — avoid this mistake",
+      "type": "trap",
+      "points": [
+        "Do not dismiss a patient's worsening status because a single score is below an alert threshold."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Which change is a relevant ward deterioration warning?",
+      "options": [
+        "Stable long-standing myopia",
+        "New confusion with tachypnea",
+        "A normal appetite alone",
+        "An unchanged old scar"
+      ],
+      "correct": 1,
+      "explanation": "New confusion with tachypnea. New confusion, increasing respiratory rate, hypotension and falling urine output can be early deterioration signals.",
+      "type": "High-yield concept check"
+    }
+  ],
+  "images": [],
+  "medicalEditorialStatus": "author-drafted-not-clinician-peer-reviewed",
+  "inlineLinks": []
+}

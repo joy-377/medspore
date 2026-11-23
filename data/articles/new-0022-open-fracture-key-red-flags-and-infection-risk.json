@@ -1,0 +1,55 @@
+{
+  "id": "ART-NEW-0022",
+  "slug": "new-0022-open-fracture-key-red-flags-and-infection-risk",
+  "title": "Open Fracture: Key Red Flags and Infection Risk",
+  "category": "Triads & Signs",
+  "subject": "Surgical Triads",
+  "preview": "An open fracture communicates with the external environment and carries risks of infection and soft-tissue injury.",
+  "quickRevision": [
+    "An open fracture communicates with the external environment and carries risks of infection and soft-tissue injury.",
+    "Early antibiotics, tetanus assessment and timely debridement follow local trauma protocols.",
+    "Fracture appearance alone underestimates contamination and associated vessel or nerve damage."
+  ],
+  "sections": [
+    {
+      "title": "Recognize the pattern",
+      "type": "pearl",
+      "points": [
+        "An open fracture communicates with the external environment and carries risks of infection and soft-tissue injury.",
+        "Assess neurovascular status, control bleeding, cover with a clean dressing and urgently involve trauma or orthopedic teams."
+      ]
+    },
+    {
+      "title": "What this finding does—and does not—mean",
+      "type": "table",
+      "points": [
+        "Early antibiotics, tetanus assessment and timely debridement follow local trauma protocols.",
+        "Fracture appearance alone underestimates contamination and associated vessel or nerve damage."
+      ]
+    },
+    {
+      "title": "Exam trap — avoid this mistake",
+      "type": "trap",
+      "points": [
+        "Never repeatedly probe the wound to establish whether bone is exposed."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Why is an open fracture treated as a high-risk injury?",
+      "options": [
+        "Communication with the external environment increases infection risk",
+        "All require only casting",
+        "There is no soft-tissue involvement",
+        "Every open fracture is painless"
+      ],
+      "correct": 0,
+      "explanation": "Communication with the external environment increases infection risk. An open fracture communicates with the external environment and carries risks of infection and soft-tissue injury.",
+      "type": "High-yield concept check"
+    }
+  ],
+  "images": [],
+  "medicalEditorialStatus": "author-drafted-not-clinician-peer-reviewed",
+  "inlineLinks": []
+}

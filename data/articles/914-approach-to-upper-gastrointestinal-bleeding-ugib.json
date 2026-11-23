@@ -4,9 +4,57 @@
   "slug": "914-approach-to-upper-gastrointestinal-bleeding-ugib",
   "category": "Final Year (Part 2)",
   "subject": "Medicine",
-  "title": "Approach to Upper Gastrointestinal Bleeding (UGIB)",
-  "preview": "Glasgow-Blatchford score, IV Pantoprazole, variceal banding, and terlipressin...",
-  "body": "<p><b>Immediate Resuscitation &amp; Stabilization:</b><br>• Two large-bore IV cannulas, aggressive fluid resuscitation, and blood transfusion (maintain Hb &gt; 7 g/dL, or &gt; 9 g/dL in coronary artery disease).<br>• Correct coagulopathy with Fresh Frozen Plasma (FFP) or platelets if INR &gt; 1.5 or platelets &lt; 50,000.<br>• <b>High-dose PPI Infusion:</b> IV Pantoprazole bolus followed by continuous infusion (8 mg/hr) for non-variceal bleeds.</p><p><b>Variceal Bleeding Specifics:</b><br>• If variceal bleed is suspected (e.g., chronic liver disease / ascites): Start <b>Vasoactive Drugs</b> (Terlipressin, Octreotide, or Somatostatin) immediately to lower portal pressure.<br>• Administer prophylactic antibiotics (Ceftriaxone or Norfloxacin) to prevent spontaneous bacterial peritonitis / sepsis.<br>• Perform diagnostic and therapeutic <b>Upper GI Endoscopy (UGIE) within 12 hours</b> for variceal band ligation (VBL) or sclerotherapy.</p>",
+  "title": "Upper Gastrointestinal Bleeding: Stabilization Before Endoscopy",
+  "preview": "Risk assessment, hemodynamic stabilization and early endoscopic evaluation are the practical core of UGIB care.",
+  "body": "",
   "readingMinutes": 2,
-  "reviewStatus": "editorially-reformatted-legacy-content"
+  "reviewStatus": "legacy-medical-fact-check-required",
+  "sections": [
+    {
+      "title": "Recognize urgency",
+      "type": "pearl",
+      "points": [
+        "Repeated syncope, shock, ongoing hematemesis and altered mentation signal higher risk.",
+        "Consider variceal bleeding in the setting of portal hypertension and chronic liver disease."
+      ]
+    },
+    {
+      "title": "Treat the cause",
+      "type": "flow",
+      "points": [
+        "Peptic ulcer bleeding, varices, erosions and Mallory–Weiss tears require different targeted treatment plans.",
+        "Resuscitation, appropriate medication and early specialist coordination are complementary to endoscopy."
+      ]
+    },
+    {
+      "title": "Exam trap",
+      "type": "trap",
+      "points": [
+        "A near-normal initial hemoglobin does not exclude acute major hemorrhage.",
+        "Do not assume every black stool represents an active upper GI bleed without clinical assessment."
+      ]
+    }
+  ],
+  "images": [],
+  "quickRevision": [
+    "Hematemesis and melena may reflect upper GI bleeding; hemodynamic instability takes priority over identifying the precise lesion.",
+    "Large-bore access, blood counts, crossmatch and a transfusion strategy require assessment of the patient and comorbidities.",
+    "Endoscopy provides diagnosis and frequently treatment after initial stabilization."
+  ],
+  "medicalEditorialStatus": "topic-specific-reviewed-against-open-authoritative-guidance-not-clinician-peer-reviewed",
+  "quiz": [
+    {
+      "question": "What is an immediate priority in severe upper GI bleeding?",
+      "options": [
+        "Unrelated dermatology treatment",
+        "Elective dental review",
+        "Airway and circulatory stabilization",
+        "Routine cosmetic assessment"
+      ],
+      "correct": 2,
+      "explanation": "Airway and circulatory stabilization. Consider variceal bleeding in the setting of portal hypertension and chronic liver disease.",
+      "type": "High-yield recall"
+    }
+  ],
+  "valueSources": []
 }

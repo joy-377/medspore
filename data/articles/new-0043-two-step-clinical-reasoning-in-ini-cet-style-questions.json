@@ -1,0 +1,55 @@
+{
+  "id": "ART-NEW-0043",
+  "slug": "new-0043-two-step-clinical-reasoning-in-ini-cet-style-questions",
+  "title": "Two-Step Clinical Reasoning in INI-CET-Style Questions",
+  "category": "Exam Strategy",
+  "subject": "INI-CET Strategy",
+  "preview": "Integrated clinical questions often require a diagnosis followed by its mechanism, complication or best test.",
+  "quickRevision": [
+    "Integrated clinical questions often require a diagnosis followed by its mechanism, complication or best test.",
+    "Check whether two answer choices are both generally true but only one answers the precise task.",
+    "A short differential of two or three realistic alternatives is usually more useful than an exhaustive list."
+  ],
+  "sections": [
+    {
+      "title": "Recognize the question type",
+      "type": "pearl",
+      "points": [
+        "Integrated clinical questions often require a diagnosis followed by its mechanism, complication or best test.",
+        "Organize information as presentation, key discriminant, likely mechanism, next decision."
+      ]
+    },
+    {
+      "title": "Use this in timed practice",
+      "type": "table",
+      "points": [
+        "Check whether two answer choices are both generally true but only one answers the precise task.",
+        "A short differential of two or three realistic alternatives is usually more useful than an exhaustive list."
+      ]
+    },
+    {
+      "title": "Exam trap — avoid this mistake",
+      "type": "trap",
+      "points": [
+        "Do not confuse a disease-associated fact with the most appropriate answer for this patient."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "question": "What is a useful two-step reasoning approach?",
+      "options": [
+        "Treat all differentials as equally likely",
+        "Select the longest option",
+        "Recognize the syndrome then identify the specific requested decision",
+        "Ignore timing entirely"
+      ],
+      "correct": 2,
+      "explanation": "Recognize the syndrome then identify the specific requested decision. Organize information as presentation, key discriminant, likely mechanism, next decision.",
+      "type": "High-yield concept check"
+    }
+  ],
+  "images": [],
+  "medicalEditorialStatus": "author-drafted-not-clinician-peer-reviewed",
+  "inlineLinks": []
+}

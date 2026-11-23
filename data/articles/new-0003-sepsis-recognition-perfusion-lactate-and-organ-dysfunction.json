@@ -1,0 +1,55 @@
+{
+  "id": "ART-NEW-0003",
+  "slug": "new-0003-sepsis-recognition-perfusion-lactate-and-organ-dysfunction",
+  "title": "Sepsis Recognition: Perfusion, Lactate and Organ Dysfunction",
+  "category": "Clinical Tips",
+  "subject": "Emergency Triage",
+  "preview": "Sepsis is life-threatening organ dysfunction caused by a dysregulated response to infection, not simply a positive blood culture.",
+  "quickRevision": [
+    "Sepsis is life-threatening organ dysfunction caused by a dysregulated response to infection, not simply a positive blood culture.",
+    "Elevated lactate can support concern for impaired perfusion but also has nonhypoxic causes; it is not a stand-alone sepsis test.",
+    "Early recognition, cultures when feasible without delaying care, source control and appropriate antimicrobials are core principles."
+  ],
+  "sections": [
+    {
+      "title": "Recognize the situation",
+      "type": "pearl",
+      "points": [
+        "Sepsis is life-threatening organ dysfunction caused by a dysregulated response to infection, not simply a positive blood culture.",
+        "Look for altered mentation, low blood pressure, reduced urine output, respiratory distress and poor perfusion."
+      ]
+    },
+    {
+      "title": "Clinical decisions & differential",
+      "type": "table",
+      "points": [
+        "Elevated lactate can support concern for impaired perfusion but also has nonhypoxic causes; it is not a stand-alone sepsis test.",
+        "Early recognition, cultures when feasible without delaying care, source control and appropriate antimicrobials are core principles."
+      ]
+    },
+    {
+      "title": "Exam trap — avoid this mistake",
+      "type": "trap",
+      "points": [
+        "Do not wait for fever or a positive culture before recognizing possible sepsis."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Which is central to the modern concept of sepsis?",
+      "options": [
+        "Fever alone",
+        "A positive culture in every case",
+        "Infection-associated organ dysfunction",
+        "Any leukocytosis"
+      ],
+      "correct": 2,
+      "explanation": "Infection-associated organ dysfunction. Sepsis is life-threatening organ dysfunction caused by a dysregulated response to infection, not simply a positive blood culture.",
+      "type": "High-yield concept check"
+    }
+  ],
+  "images": [],
+  "medicalEditorialStatus": "author-drafted-not-clinician-peer-reviewed",
+  "inlineLinks": []
+}

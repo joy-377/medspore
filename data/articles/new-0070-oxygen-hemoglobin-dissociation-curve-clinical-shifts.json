@@ -1,0 +1,55 @@
+{
+  "id": "ART-NEW-0070",
+  "slug": "new-0070-oxygen-hemoglobin-dissociation-curve-clinical-shifts",
+  "title": "Oxygen-Hemoglobin Dissociation Curve: Clinical Shifts",
+  "category": "First Year MBBS",
+  "subject": "Physiology",
+  "preview": "A right shift of the oxygen–hemoglobin dissociation curve favors oxygen unloading to tissues.",
+  "quickRevision": [
+    "A right shift of the oxygen–hemoglobin dissociation curve favors oxygen unloading to tissues.",
+    "Fetal hemoglobin and carbon monoxide exposure alter oxygen binding behavior in clinically different ways.",
+    "Pulse oximetry alone does not fully describe oxygen content or tissue delivery."
+  ],
+  "sections": [
+    {
+      "title": "Core biomedical mechanism",
+      "type": "pearl",
+      "points": [
+        "A right shift of the oxygen–hemoglobin dissociation curve favors oxygen unloading to tissues.",
+        "Increased carbon dioxide, higher temperature, lower pH and increased 2,3-BPG commonly shift the curve right."
+      ]
+    },
+    {
+      "title": "Clinical application",
+      "type": "table",
+      "points": [
+        "Fetal hemoglobin and carbon monoxide exposure alter oxygen binding behavior in clinically different ways.",
+        "Pulse oximetry alone does not fully describe oxygen content or tissue delivery."
+      ]
+    },
+    {
+      "title": "Exam trap — avoid this mistake",
+      "type": "trap",
+      "points": [
+        "A higher hemoglobin saturation at a given partial pressure does not automatically mean better tissue oxygen delivery."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Which change usually shifts the oxyhemoglobin curve to the right?",
+      "options": [
+        "Increased temperature",
+        "Reduced 2,3-BPG",
+        "Increased pH",
+        "Reduced carbon dioxide"
+      ],
+      "correct": 0,
+      "explanation": "Increased temperature. Increased carbon dioxide, higher temperature, lower pH and increased 2,3-BPG commonly shift the curve right.",
+      "type": "High-yield concept check"
+    }
+  ],
+  "images": [],
+  "medicalEditorialStatus": "author-drafted-not-clinician-peer-reviewed",
+  "inlineLinks": []
+}

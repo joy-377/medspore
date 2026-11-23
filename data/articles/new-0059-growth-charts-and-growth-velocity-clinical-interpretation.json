@@ -1,0 +1,52 @@
+{
+  "id": "ART-NEW-0059",
+  "slug": "new-0059-growth-charts-and-growth-velocity-clinical-interpretation",
+  "title": "Growth Charts and Growth Velocity: Clinical Interpretation",
+  "category": "High-Yield Tables",
+  "subject": "Developmental Milestones",
+  "preview": "Growth requires serial measurements with correctly chosen age- and sex-appropriate charts.",
+  "quickRevision": [
+    "Growth requires serial measurements with correctly chosen age- and sex-appropriate charts.",
+    "Interpret weight, length or height and head circumference in context of prematurity and family pattern.",
+    "Incorrect technique or plotting can create false alarm; verify measurements before concluding."
+  ],
+  "sections": [
+    {
+      "title": "Essential distinctions",
+      "type": "pearl",
+      "points": [
+        "Growth requires serial measurements with correctly chosen age- and sex-appropriate charts.",
+        "Growth velocity and crossing centile channels can reveal concerns that one isolated percentile misses."
+      ]
+    },
+    {
+      "title": "High-yield comparison table",
+      "type": "table",
+      "html": "<div class=\"ms-table-scroll\"><table class=\"ms-fact-table\"><thead><tr><th scope=\"col\">Review focus</th><th scope=\"col\">High-yield fact</th></tr></thead><tbody><tr><th scope=\"row\">Distinguishing clue</th><td>Interpret weight, length or height and head circumference in context of prematurity and family pattern.</td></tr><tr><th scope=\"row\">Clinical implication</th><td>Incorrect technique or plotting can create false alarm; verify measurements before concluding.</td></tr></tbody></table></div>"
+    },
+    {
+      "title": "Exam trap — avoid this mistake",
+      "type": "trap",
+      "points": [
+        "Being at a low percentile is not itself a diagnosis without trend and clinical context."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "question": "What is more informative than a single height percentile?",
+      "options": [
+        "Serial growth velocity",
+        "Birth order alone",
+        "Eye color",
+        "Hand dominance"
+      ],
+      "correct": 0,
+      "explanation": "Serial growth velocity. Growth velocity and crossing centile channels can reveal concerns that one isolated percentile misses.",
+      "type": "High-yield concept check"
+    }
+  ],
+  "images": [],
+  "medicalEditorialStatus": "author-drafted-not-clinician-peer-reviewed",
+  "inlineLinks": []
+}

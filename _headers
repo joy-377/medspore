@@ -7,6 +7,12 @@
 /assets/*
   Cache-Control: public, max-age=604800
 /data/*
-  Cache-Control: public, max-age=3600
+  Cache-Control: no-cache
+/js/*
+  Cache-Control: no-cache
+/css/*
+  Cache-Control: no-cache
+/manifest.webmanifest
+  Cache-Control: no-cache
 /sw.js
   Cache-Control: no-cache

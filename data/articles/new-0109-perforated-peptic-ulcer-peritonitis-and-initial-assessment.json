@@ -1,0 +1,55 @@
+{
+  "id": "ART-NEW-0109",
+  "slug": "new-0109-perforated-peptic-ulcer-peritonitis-and-initial-assessment",
+  "title": "Perforated Peptic Ulcer: Peritonitis and Initial Assessment",
+  "category": "Final Year (Part 2)",
+  "subject": "Surgery",
+  "preview": "Perforated peptic ulcer can present with sudden severe abdominal pain, generalized peritonitis and physiological instability.",
+  "quickRevision": [
+    "Perforated peptic ulcer can present with sudden severe abdominal pain, generalized peritonitis and physiological instability.",
+    "Initial assessment addresses airway, circulation, analgesia and urgent surgical review.",
+    "NSAID exposure and Helicobacter pylori are important ulcer-related factors."
+  ],
+  "sections": [
+    {
+      "title": "Clinical syndrome and red flags",
+      "type": "pearl",
+      "points": [
+        "Perforated peptic ulcer can present with sudden severe abdominal pain, generalized peritonitis and physiological instability.",
+        "Free intraperitoneal air may be visible on appropriate imaging but is not invariably present."
+      ]
+    },
+    {
+      "title": "Differentiate and manage",
+      "type": "table",
+      "points": [
+        "Initial assessment addresses airway, circulation, analgesia and urgent surgical review.",
+        "NSAID exposure and Helicobacter pylori are important ulcer-related factors."
+      ]
+    },
+    {
+      "title": "Exam trap — avoid this mistake",
+      "type": "trap",
+      "points": [
+        "Absence of visible free air on a plain film does not rule out perforation."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Which finding supports possible perforated viscus?",
+      "options": [
+        "Isolated eye redness",
+        "Chronic painless constipation alone",
+        "Stable mild pruritus",
+        "Rigid abdomen with sudden severe pain"
+      ],
+      "correct": 3,
+      "explanation": "Rigid abdomen with sudden severe pain. Perforated peptic ulcer can present with sudden severe abdominal pain, generalized peritonitis and physiological instability.",
+      "type": "High-yield concept check"
+    }
+  ],
+  "images": [],
+  "medicalEditorialStatus": "author-drafted-not-clinician-peer-reviewed",
+  "inlineLinks": []
+}

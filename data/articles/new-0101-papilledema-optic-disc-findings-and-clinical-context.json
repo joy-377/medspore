@@ -1,0 +1,55 @@
+{
+  "id": "ART-NEW-0101",
+  "slug": "new-0101-papilledema-optic-disc-findings-and-clinical-context",
+  "title": "Papilledema: Optic Disc Findings and Clinical Context",
+  "category": "Third Year (Part 1)",
+  "subject": "Ophthalmology",
+  "preview": "Papilledema is optic disc swelling associated with raised intracranial pressure, but disc swelling has other causes.",
+  "quickRevision": [
+    "Papilledema is optic disc swelling associated with raised intracranial pressure, but disc swelling has other causes.",
+    "Assess headache, neurologic signs, vision and intracranial causes before procedures such as lumbar puncture.",
+    "Optic disc appearance is not interchangeable with visual function; acuity can be preserved early."
+  ],
+  "sections": [
+    {
+      "title": "Recognize the core pattern",
+      "type": "pearl",
+      "points": [
+        "Papilledema is optic disc swelling associated with raised intracranial pressure, but disc swelling has other causes.",
+        "Blurred disc margins, vessel obscuration and hemorrhages can be clues on fundus examination."
+      ]
+    },
+    {
+      "title": "Clinical examination and interpretation",
+      "type": "table",
+      "points": [
+        "Assess headache, neurologic signs, vision and intracranial causes before procedures such as lumbar puncture.",
+        "Optic disc appearance is not interchangeable with visual function; acuity can be preserved early."
+      ]
+    },
+    {
+      "title": "Exam trap — avoid this mistake",
+      "type": "trap",
+      "points": [
+        "Not every swollen optic disc is papilledema, and a normal fundus does not exclude early raised intracranial pressure."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "question": "What does papilledema specifically imply?",
+      "options": [
+        "Corneal edema",
+        "Any pale optic disc",
+        "A retinal tear alone",
+        "Optic disc swelling due to raised intracranial pressure"
+      ],
+      "correct": 3,
+      "explanation": "Optic disc swelling due to raised intracranial pressure. Papilledema is optic disc swelling associated with raised intracranial pressure, but disc swelling has other causes.",
+      "type": "High-yield concept check"
+    }
+  ],
+  "images": [],
+  "medicalEditorialStatus": "author-drafted-not-clinician-peer-reviewed",
+  "inlineLinks": []
+}

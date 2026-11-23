@@ -1,0 +1,55 @@
+{
+  "id": "ART-NEW-0015",
+  "slug": "new-0015-medication-reconciliation-at-admission-and-discharge",
+  "title": "Medication Reconciliation at Admission and Discharge",
+  "category": "Clinical Tips",
+  "subject": "Prescription Pearls",
+  "preview": "Medication reconciliation compares the patient's actual medicines against admission, transfer or discharge orders.",
+  "quickRevision": [
+    "Medication reconciliation compares the patient's actual medicines against admission, transfer or discharge orders.",
+    "Discrepancies include omissions, duplications, wrong frequencies and unintended continuation of temporary therapies.",
+    "Explain changes in plain language and communicate a current medication list to the next care setting."
+  ],
+  "sections": [
+    {
+      "title": "Recognize the situation",
+      "type": "pearl",
+      "points": [
+        "Medication reconciliation compares the patient's actual medicines against admission, transfer or discharge orders.",
+        "Include prescription medicines, OTC agents, supplements, allergies, doses and recent changes."
+      ]
+    },
+    {
+      "title": "Clinical decisions & differential",
+      "type": "table",
+      "points": [
+        "Discrepancies include omissions, duplications, wrong frequencies and unintended continuation of temporary therapies.",
+        "Explain changes in plain language and communicate a current medication list to the next care setting."
+      ]
+    },
+    {
+      "title": "Exam trap — avoid this mistake",
+      "type": "trap",
+      "points": [
+        "A recorded drug list is not necessarily an accurate history until verified with reliable sources."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "question": "What is medication reconciliation intended to detect?",
+      "options": [
+        "Only blood group incompatibility",
+        "Only infectious contacts",
+        "Only abnormal ECG findings",
+        "Unintended medication discrepancies"
+      ],
+      "correct": 3,
+      "explanation": "Unintended medication discrepancies. Discrepancies include omissions, duplications, wrong frequencies and unintended continuation of temporary therapies.",
+      "type": "High-yield concept check"
+    }
+  ],
+  "images": [],
+  "medicalEditorialStatus": "author-drafted-not-clinician-peer-reviewed",
+  "inlineLinks": []
+}

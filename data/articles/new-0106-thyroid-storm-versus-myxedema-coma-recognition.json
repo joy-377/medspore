@@ -1,0 +1,55 @@
+{
+  "id": "ART-NEW-0106",
+  "slug": "new-0106-thyroid-storm-versus-myxedema-coma-recognition",
+  "title": "Thyroid Storm Versus Myxedema Coma: Recognition",
+  "category": "Final Year (Part 2)",
+  "subject": "Medicine",
+  "preview": "Thyroid storm is life-threatening thyrotoxicosis with severe systemic decompensation such as hyperthermia, tachyarrhythmia or delirium.",
+  "quickRevision": [
+    "Thyroid storm is life-threatening thyrotoxicosis with severe systemic decompensation such as hyperthermia, tachyarrhythmia or delirium.",
+    "Both require emergency care and treatment directed to physiology and precipitating factors.",
+    "Biochemical results support diagnosis, but treatment decisions in unstable patients are driven by the syndrome."
+  ],
+  "sections": [
+    {
+      "title": "Clinical syndrome and red flags",
+      "type": "pearl",
+      "points": [
+        "Thyroid storm is life-threatening thyrotoxicosis with severe systemic decompensation such as hyperthermia, tachyarrhythmia or delirium.",
+        "Myxedema coma is severe hypothyroidism with hypothermia, altered mental status, hypoventilation or circulatory compromise."
+      ]
+    },
+    {
+      "title": "Differentiate and manage",
+      "type": "table",
+      "points": [
+        "Both require emergency care and treatment directed to physiology and precipitating factors.",
+        "Biochemical results support diagnosis, but treatment decisions in unstable patients are driven by the syndrome."
+      ]
+    },
+    {
+      "title": "Exam trap — avoid this mistake",
+      "type": "trap",
+      "points": [
+        "Do not confuse the two because both can cause altered consciousness; temperature and cardiovascular findings differ."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Which syndrome is associated with hypothermia and hypoventilation?",
+      "options": [
+        "Myxedema coma",
+        "Thyroid storm",
+        "Isolated thyroid nodule",
+        "Uncomplicated hyperthyroidism"
+      ],
+      "correct": 0,
+      "explanation": "Myxedema coma is severe hypothyroidism with hypothermia, altered mental status, hypoventilation or circulatory compromise.",
+      "type": "High-yield concept check"
+    }
+  ],
+  "images": [],
+  "medicalEditorialStatus": "author-drafted-not-clinician-peer-reviewed",
+  "inlineLinks": []
+}

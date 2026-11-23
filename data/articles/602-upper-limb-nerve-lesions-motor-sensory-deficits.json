@@ -8,5 +8,43 @@
   "preview": "Radial, Median, and Ulnar nerve compression sites and deformities...",
   "body": "<p><b>Radial Nerve (C5–T1):</b><br>• <i>Axilla Lesion (Crutch palsy / Saturday night palsy):</i> Loss of triceps + <b>Wrist Drop</b> + Sensory loss on posterior arm/forearm and first dorsal web space.<br>• <i>Spiral Groove Lesion (Shaft humerus fracture):</i> Triceps spared (nerve branch arises higher); <b>Wrist Drop</b> present.<br>• <i>Posterior Interosseous Nerve (PIN) Entrapment:</i> Normal wrist extension (ECRL intact), but finger extension lost (Finger drop); no sensory loss.</p><p><b>Median Nerve (C5–T1):</b><br>• <i>High Lesion (Supracondylar fracture humerus):</i> Loss of pronation, weak wrist flexion, <b>Benediction hand</b> (pointing index when attempting to make a fist).<br>• <i>Low Lesion (Carpal Tunnel Syndrome / Wrist cut):</i> <b>Ape-thumb deformity</b> (loss of abductor pollicis brevis &amp; opponens), thenar atrophy. Sensory loss over lateral 3.5 digits.</p><p><b>Ulnar Nerve (C8, T1):</b><br>• <i>Cubital Tunnel / Medial Epicondyle (High):</i> Mild clawing (FPD loss lessens clawing — <i>Ulnar Paradox</i>).<br>• <i>Wrist / Guyon's Canal (Low):</i> Severe <b>Claw Hand</b>. <b>Froment's Sign</b> positive (tests Adductor Pollicis; patient flexes thumb IP joint using FPL via median nerve to hold paper).</p>",
   "readingMinutes": 2,
-  "reviewStatus": "editorially-reformatted-legacy-content"
+  "reviewStatus": "legacy-medical-fact-check-required",
+  "sections": [
+    {
+      "title": "Radial Nerve (C5–T1)",
+      "html": "<p><b>Radial Nerve (C5–T1):</b><br/>• <i>Axilla Lesion (Crutch palsy / Saturday night palsy):</i> Loss of triceps + <b>Wrist Drop</b> + Sensory loss on posterior arm/forearm and first dorsal web space.<br/>• <i>Spiral Groove Lesion (Shaft humerus fracture):</i> Triceps spared (nerve branch arises higher); <b>Wrist Drop</b> present.<br/>• <i>Posterior Interosseous Nerve (PIN) Entrapment:</i> Normal wrist extension (ECRL intact), but finger extension lost (Finger drop); no sensory loss.</p>",
+      "type": ""
+    },
+    {
+      "title": "Median Nerve (C5–T1)",
+      "html": "<p><b>Median Nerve (C5–T1):</b><br/>• <i>High Lesion (Supracondylar fracture humerus):</i> Loss of pronation, weak wrist flexion, <b>Benediction hand</b> (pointing index when attempting to make a fist).<br/>• <i>Low Lesion (Carpal Tunnel Syndrome / Wrist cut):</i> <b>Ape-thumb deformity</b> (loss of abductor pollicis brevis &amp; opponens), thenar atrophy. Sensory loss over lateral 3.5 digits.</p>",
+      "type": ""
+    },
+    {
+      "title": "Ulnar Nerve (C8, T1)",
+      "html": "<p><b>Ulnar Nerve (C8, T1):</b><br/>• <i>Cubital Tunnel / Medial Epicondyle (High):</i> Mild clawing (FPD loss lessens clawing — <i>Ulnar Paradox</i>).<br/>• <i>Wrist / Guyon's Canal (Low):</i> Severe <b>Claw Hand</b>. <b>Froment's Sign</b> positive (tests Adductor Pollicis; patient flexes thumb IP joint using FPL via median nerve to hold paper).</p>",
+      "type": ""
+    }
+  ],
+  "images": [],
+  "quickRevision": [
+    "Radial Nerve (C5–T1); Axilla Lesion (Crutch palsy / Saturday night palsy): Loss of triceps + Wrist Drop + Sensory loss on posterior arm/forearm and first dorsal web space.",
+    "Median Nerve (C5–T1); High Lesion (Supracondylar fracture humerus): Loss of pronation, weak wrist flexion, Benediction hand (pointing index when attempting to make a fist).",
+    "Ulnar Nerve (C8, T1); Cubital Tunnel / Medial Epicondyle (High): Mild clawing (FPD loss lessens clawing — Ulnar Paradox )."
+  ],
+  "medicalEditorialStatus": "legacy-requires-clinician-review",
+  "quiz": [
+    {
+      "question": "Which nerve injury may produce wrist drop?",
+      "options": [
+        "Median nerve exclusively",
+        "Vagus nerve",
+        "Femoral nerve",
+        "Radial nerve"
+      ],
+      "correct": 3,
+      "explanation": "Radial Nerve (C5–T1): • Axilla Lesion (Crutch palsy / Saturday night palsy): Loss of triceps + Wrist Drop + Sensory loss on posterior arm/forearm and first dorsal web space.",
+      "type": "High-yield recall"
+    }
+  ]
 }

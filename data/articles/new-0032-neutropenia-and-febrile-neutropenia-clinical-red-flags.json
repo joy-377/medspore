@@ -1,0 +1,55 @@
+{
+  "id": "ART-NEW-0032",
+  "slug": "new-0032-neutropenia-and-febrile-neutropenia-clinical-red-flags",
+  "title": "Neutropenia and Febrile Neutropenia: Clinical Red Flags",
+  "category": "Critical Lab Values",
+  "subject": "Hematology & ABG",
+  "preview": "Neutropenia increases infection risk; fever during severe neutropenia can indicate a medical emergency.",
+  "quickRevision": [
+    "Neutropenia increases infection risk; fever during severe neutropenia can indicate a medical emergency.",
+    "Prompt assessment, cultures where possible and empiric antimicrobials according to institutional risk pathways are important.",
+    "Consider chemotherapy, marrow disease, drugs and infection as potential causes of neutropenia."
+  ],
+  "sections": [
+    {
+      "title": "Interpret the result in context",
+      "type": "pearl",
+      "points": [
+        "Neutropenia increases infection risk; fever during severe neutropenia can indicate a medical emergency.",
+        "Symptoms of infection may be muted because the inflammatory response is reduced."
+      ]
+    },
+    {
+      "title": "Clinical interpretation & next steps",
+      "type": "table",
+      "points": [
+        "Prompt assessment, cultures where possible and empiric antimicrobials according to institutional risk pathways are important.",
+        "Consider chemotherapy, marrow disease, drugs and infection as potential causes of neutropenia."
+      ]
+    },
+    {
+      "title": "Exam trap — avoid this mistake",
+      "type": "trap",
+      "points": [
+        "Do not dismiss fever in a neutropenic patient because the examination lacks pus or marked redness."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Why can infection be difficult to recognize in neutropenia?",
+      "options": [
+        "Blood cultures are always positive",
+        "Neutropenia always prevents fever",
+        "Inflammatory signs may be less prominent",
+        "All infections are viral"
+      ],
+      "correct": 2,
+      "explanation": "Inflammatory signs may be less prominent. Symptoms of infection may be muted because the inflammatory response is reduced.",
+      "type": "High-yield concept check"
+    }
+  ],
+  "images": [],
+  "medicalEditorialStatus": "author-drafted-not-clinician-peer-reviewed",
+  "inlineLinks": []
+}

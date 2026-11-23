@@ -1,0 +1,55 @@
+{
+  "id": "ART-NEW-0078",
+  "slug": "new-0078-dic-versus-ttp-and-hus-microangiopathic-patterns",
+  "title": "DIC Versus TTP and HUS: Microangiopathic Patterns",
+  "category": "Second Year MBBS",
+  "subject": "Pathology",
+  "preview": "DIC causes systemic coagulation activation with consumption of platelets and factors, often prolonging coagulation tests.",
+  "quickRevision": [
+    "DIC causes systemic coagulation activation with consumption of platelets and factors, often prolonging coagulation tests.",
+    "HUS includes microangiopathic hemolysis, thrombocytopenia and kidney injury, with different etiologies.",
+    "Smear schistocytes, kidney function, neurologic findings and coagulation profile help differentiate the syndromes."
+  ],
+  "sections": [
+    {
+      "title": "Pathophysiology & identification",
+      "type": "pearl",
+      "points": [
+        "DIC causes systemic coagulation activation with consumption of platelets and factors, often prolonging coagulation tests.",
+        "TTP involves severe ADAMTS13 dysfunction and microangiopathic hemolytic anemia with thrombocytopenia; coagulation tests are often not markedly prolonged."
+      ]
+    },
+    {
+      "title": "Diagnostic and treatment connections",
+      "type": "table",
+      "points": [
+        "HUS includes microangiopathic hemolysis, thrombocytopenia and kidney injury, with different etiologies.",
+        "Smear schistocytes, kidney function, neurologic findings and coagulation profile help differentiate the syndromes."
+      ]
+    },
+    {
+      "title": "Exam trap — avoid this mistake",
+      "type": "trap",
+      "points": [
+        "Do not delay specialist evaluation for suspected TTP while waiting for every confirmatory result."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Which condition is strongly associated with severe ADAMTS13 deficiency?",
+      "options": [
+        "Uncomplicated iron deficiency",
+        "Stable thrombocytosis",
+        "TTP",
+        "Hemophilia A"
+      ],
+      "correct": 2,
+      "explanation": "TTP involves severe ADAMTS13 dysfunction and microangiopathic hemolytic anemia with thrombocytopenia; coagulation tests are often not markedly prolonged.",
+      "type": "High-yield concept check"
+    }
+  ],
+  "images": [],
+  "medicalEditorialStatus": "author-drafted-not-clinician-peer-reviewed",
+  "inlineLinks": []
+}

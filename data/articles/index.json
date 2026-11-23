@@ -2,739 +2,1801 @@
   {
     "id": "ART-101",
     "slug": "101-the-don-t-miss-diagnoses-in-er-red-flags",
+    "title": "The 'Don't Miss' Diagnoses in ER (Red Flags)",
     "category": "Clinical Tips",
     "subject": "General Tips",
-    "title": "The 'Don't Miss' Diagnoses in ER (Red Flags)",
     "preview": "Critical symptoms that mandate immediate action: Thunderclap headache, tearing chest pain...",
-    "readingMinutes": 2
+    "readingMinutes": 1
   },
   {
     "id": "ART-102",
     "slug": "102-differentiating-the-types-of-shock-clinically",
+    "title": "Differentiating the Types of Shock Clinically",
     "category": "Clinical Tips",
     "subject": "General Tips",
-    "title": "Differentiating the Types of Shock Clinically",
     "preview": "Hypovolemic vs Cardiogenic vs Distributive vs Obstructive shock parameters...",
-    "readingMinutes": 2
+    "readingMinutes": 1
   },
   {
     "id": "ART-103",
     "slug": "103-syncope-cardiac-vs-neurological-vs-vasovagal",
+    "title": "Syncope: Cardiac vs Neurological vs Vasovagal",
     "category": "Clinical Tips",
     "subject": "General Tips",
-    "title": "Syncope: Cardiac vs Neurological vs Vasovagal",
-    "preview": "How to differentiate the cause of sudden loss of consciousness at the bedside...",
-    "readingMinutes": 2
+    "preview": "Syncope is a transient loss of consciousness related to cerebral hypoperfusion; triggers, prodrome, exertional symptoms and cardiac findings guide risk.",
+    "readingMinutes": 1
   },
   {
     "id": "ART-104",
     "slug": "104-standard-post-op-fever-protocol-the-5-ws",
+    "title": "Postoperative Fever: A Clinical Assessment Framework",
     "category": "Clinical Tips",
     "subject": "Ward Protocols",
-    "title": "Postoperative Fever: A Clinical Assessment Framework",
     "preview": "Wind, Water, Walking, Wound, Wonder Drugs. The timeline of post-op fever...",
-    "readingMinutes": 2
+    "readingMinutes": 1
   },
   {
     "id": "ART-105",
     "slug": "105-rapid-management-of-hyperkalemia",
+    "title": "Hyperkalemia Emergencies: ECG Clues, Calcium and Potassium Removal",
     "category": "Clinical Tips",
     "subject": "Ward Protocols",
-    "title": "Rapid Management of Hyperkalemia",
-    "preview": "ECG changes and the stepwise protocol to stabilize, shift, and excrete Potassium...",
+    "preview": "Learn why ECG findings matter, why calcium stabilizes the myocardium but does not remove potassium, and how to avoid missing pseudohyperkalemia.",
     "readingMinutes": 2
   },
   {
     "id": "ART-106",
     "slug": "106-management-of-diabetic-ketoacidosis-dka",
+    "title": "Diabetic Ketoacidosis: Fluids, Potassium and Insulin — Clinical Logic",
     "category": "Clinical Tips",
     "subject": "Ward Protocols",
-    "title": "Management of Diabetic Ketoacidosis (DKA)",
-    "preview": "The IV fluids, Insulin infusion, and Potassium correction protocol...",
-    "readingMinutes": 2
+    "preview": "DKA requires recognition of ketosis and metabolic acidosis, careful fluid replacement and potassium-aware insulin therapy.",
+    "readingMinutes": 1
   },
   {
     "id": "ART-107",
     "slug": "107-antibiotic-stewardship-empirical-choices",
+    "title": "Antibiotic Stewardship: Empirical Choices",
     "category": "Clinical Tips",
     "subject": "Prescription Pearls",
-    "title": "Antibiotic Stewardship: Empirical Choices",
-    "preview": "What to prescribe for CAP, UTI, Meningitis, and Cellulitis before cultures arrive...",
-    "readingMinutes": 2
+    "preview": "Empirical antimicrobial decisions balance immediate infection risk with local susceptibility and safe de-escalation.",
+    "readingMinutes": 1
   },
   {
     "id": "ART-108",
     "slug": "108-safe-prescribing-in-pregnancy-fda-categories",
+    "title": "Prescribing in Pregnancy: Safety Principles",
     "category": "Clinical Tips",
     "subject": "Prescription Pearls",
-    "title": "Prescribing in Pregnancy: Safety Principles",
     "preview": "Which antihypertensives, antibiotics, and analgesics are safe for expecting mothers...",
-    "readingMinutes": 2
+    "readingMinutes": 1
   },
   {
     "id": "ART-109",
     "slug": "109-top-5-dangerous-drug-drug-interactions",
+    "title": "Top 5 Dangerous Drug-Drug Interactions",
     "category": "Clinical Tips",
     "subject": "Prescription Pearls",
-    "title": "Top 5 Dangerous Drug-Drug Interactions",
     "preview": "Combinations that can trigger life-threatening crises in the ward...",
-    "readingMinutes": 2
+    "readingMinutes": 1
   },
   {
     "id": "ART-201",
     "slug": "201-cardiovascular-neurological-triads",
+    "title": "Beck, Cushing and Virchow Triads: What They Mean—and What They Do Not",
     "category": "Triads & Signs",
     "subject": "Medical Triads",
-    "title": "Cardiovascular & Neurological Triads",
-    "preview": "Beck's, Cushing's, and Virchow's triad explained in high-yield detail...",
+    "preview": "A compact high-yield guide to classic cardiovascular and neurological triads, with clinical interpretation and common exam traps.",
     "readingMinutes": 2
   },
   {
     "id": "ART-202",
     "slug": "202-renal-endocrine-triads",
+    "title": "Renal & Endocrine Triads",
     "category": "Triads & Signs",
     "subject": "Medical Triads",
-    "title": "Renal & Endocrine Triads",
-    "preview": "HUS, Whipple's Triad, and the classic features of Pheochromocytoma...",
-    "readingMinutes": 2
+    "preview": "Four classic renal/endocrine patterns—HUS, Whipple triad, pheochromocytoma and mixed cryoglobulinemia—are most useful when connected to mechanisms.",
+    "readingMinutes": 1
   },
   {
     "id": "ART-203",
     "slug": "203-hepatobiliary-gi-triads",
+    "title": "Hepatobiliary & GI Triads",
     "category": "Triads & Signs",
     "subject": "Surgical Triads",
-    "title": "Hepatobiliary & GI Triads",
-    "preview": "Charcot's Triad, Reynold's Pentad, and Borchardt's Triad for Gastric Volvulus...",
-    "readingMinutes": 2
+    "preview": "Classic gastrointestinal triads help recognize cholangitis, gastric volvulus and esophageal rupture without replacing diagnostic assessment.",
+    "readingMinutes": 1
   },
   {
     "id": "ART-204",
     "slug": "204-trauma-orthopedic-triads",
+    "title": "Trauma & Orthopedic Triads",
     "category": "Triads & Signs",
     "subject": "Surgical Triads",
-    "title": "Trauma & Orthopedic Triads",
-    "preview": "Unhappy triad of the knee, Fat Embolism syndrome, and Lethal Triad of Trauma...",
+    "preview": "Trauma patterns combine orthopedic injury, fat embolism and the physiologic lethal triad of major hemorrhage.",
     "readingMinutes": 2
   },
   {
     "id": "ART-205",
     "slug": "205-classic-chest-x-ray-cxr-signs",
+    "title": "Classic Chest X-Ray (CXR) Signs",
     "category": "Triads & Signs",
     "subject": "Radiological Signs",
-    "title": "Classic Chest X-Ray (CXR) Signs",
-    "preview": "Golden S, Deep Sulcus, and signs of Pulmonary Embolism on plain film...",
-    "readingMinutes": 2
+    "preview": "Recognize major chest radiograph patterns while remembering that classic X-ray signs are neither universally present nor diagnostic alone.",
+    "readingMinutes": 1
   },
   {
     "id": "ART-206",
     "slug": "206-abdominal-neuro-radiology-pearls",
+    "title": "Abdominal & Neuro Radiology Pearls",
     "category": "Triads & Signs",
     "subject": "Radiological Signs",
-    "title": "Abdominal & Neuro Radiology Pearls",
-    "preview": "Coffee bean sign, String sign, Apple-core lesion, and neuro imaging signs...",
-    "readingMinutes": 2
+    "preview": "Classic abdominal and brain imaging signs connect shape to disease but still need full-context interpretation.",
+    "readingMinutes": 1
   },
   {
     "id": "ART-207",
     "slug": "207-high-yield-eponymous-nodes-spots",
+    "title": "High-Yield Eponymous Nodes & Spots",
     "category": "Triads & Signs",
     "subject": "Eponyms",
-    "title": "High-Yield Eponymous Nodes & Spots",
-    "preview": "Roth spots, Osler nodes, Janeway lesions, and Koplik spots...",
+    "preview": "Osler nodes, Janeway lesions, Roth spots, Koplik spots and named metastatic nodules are useful pattern-recognition clues.",
     "readingMinutes": 2
   },
   {
     "id": "ART-301",
     "slug": "301-arterial-blood-gas-abg-stepwise-evaluation",
+    "title": "Arterial Blood Gas Interpretation: A Stepwise Acid–Base Method",
     "category": "Critical Lab Values",
     "subject": "Hematology & ABG",
-    "title": "Arterial Blood Gas (ABG): Stepwise Evaluation",
-    "preview": "Winter's formula, Serum Anion Gap, and Delta Gap calculations explained...",
+    "preview": "Start with pH, identify the primary disturbance, check expected compensation and avoid missing a mixed acid–base disorder.",
     "readingMinutes": 2
   },
   {
     "id": "ART-302",
     "slug": "302-complete-blood-count-cbc-anemia-indices",
+    "title": "CBC and Anemia Indices: A Practical Classification",
     "category": "Critical Lab Values",
     "subject": "Hematology & ABG",
-    "title": "Complete Blood Count (CBC) & Anemia Indices",
-    "preview": "MCV, RDW, Mentzer Index, and reticulocyte production index rules...",
-    "readingMinutes": 2
+    "preview": "Combine hemoglobin, MCV, reticulocyte response and smear findings to classify anemia logically.",
+    "readingMinutes": 1
   },
   {
     "id": "ART-303",
     "slug": "303-hyponatremia-osmolality-volume-workup",
+    "title": "Hyponatremia: Osmolality, Symptoms and Safe Correction",
     "category": "Critical Lab Values",
     "subject": "Electrolytes",
-    "title": "Hyponatremia: Osmolality & Volume Workup",
-    "preview": "Differentiating Hypovolemic, Euvolemic (SIADH), and Hypervolemic hyponatremia...",
-    "readingMinutes": 2
+    "preview": "A stepwise approach separates true hypotonic hyponatremia from translocational or analytical explanations.",
+    "readingMinutes": 1
   },
   {
     "id": "ART-304",
     "slug": "304-calcium-magnesium-diagnostic-pearls",
+    "title": "Calcium & Magnesium Diagnostic Pearls",
     "category": "Critical Lab Values",
     "subject": "Electrolytes",
-    "title": "Calcium & Magnesium Diagnostic Pearls",
-    "preview": "Corrected Calcium formula, ECG correlations, and refractory hypokalemia...",
+    "preview": "Interpret calcium and magnesium disorders using symptoms, ionized calcium and a careful review of albumin and medications.",
     "readingMinutes": 2
   },
   {
     "id": "ART-305",
     "slug": "305-cerebrospinal-fluid-csf-analysis-master-chart",
+    "title": "CSF Analysis: Pattern Recognition in Meningitis and Neurology",
     "category": "Critical Lab Values",
     "subject": "CSF & Fluids",
-    "title": "Cerebrospinal Fluid (CSF) Analysis Master Chart",
-    "preview": "Differentiating Bacterial, Viral, TB, and Fungal meningitis at a glance...",
-    "readingMinutes": 2
+    "preview": "Interpret CSF cells, glucose, protein and opening pressure together, not as isolated diagnostic cutoffs.",
+    "readingMinutes": 1
   },
   {
     "id": "ART-306",
     "slug": "306-pleural-ascitic-fluid-light-s-criteria-saag",
+    "title": "Pleural & Ascitic Fluid: Light's Criteria & SAAG",
     "category": "Critical Lab Values",
     "subject": "CSF & Fluids",
-    "title": "Pleural & Ascitic Fluid: Light's Criteria & SAAG",
-    "preview": "Exudate vs Transudate and Portal Hypertension evaluation rules...",
+    "preview": "Light’s criteria categorize pleural effusions; the serum–ascites albumin gradient helps assess portal-hypertension physiology.",
     "readingMinutes": 2
   },
   {
     "id": "ART-307",
     "slug": "307-cardiac-biomarkers-kinetics-relapse-detection",
+    "title": "Cardiac Biomarkers: Kinetics & Relapse Detection",
     "category": "Critical Lab Values",
     "subject": "Pathology Markers",
-    "title": "Cardiac Biomarkers: Kinetics & Relapse Detection",
-    "preview": "Troponin I vs CK-MB timelines and ruling out early re-infarction...",
-    "readingMinutes": 2
+    "preview": "Interpret cardiac troponin using serial measurements, a validated assay and the clinical/ECG picture, rather than a universal timing chart.",
+    "readingMinutes": 1
   },
   {
     "id": "ART-308",
     "slug": "308-renal-function-serum-creatinine-egfr-bun-cr-ratio",
+    "title": "Renal Function: Serum Creatinine, eGFR & BUN/Cr Ratio",
     "category": "Critical Lab Values",
     "subject": "Pathology Markers",
-    "title": "Renal Function: Serum Creatinine, eGFR & BUN/Cr Ratio",
-    "preview": "Differentiating Prerenal, Intrinsic, and Postrenal Acute Kidney Injury (AKI)...",
+    "preview": "Renal function tests require trend, baseline kidney disease and hemodynamic context; no single urine index proves the cause of AKI.",
     "readingMinutes": 2
   },
   {
     "id": "ART-401",
     "slug": "401-the-3-pass-rule-for-200-question-grand-mocks",
+    "title": "NEET PG: A Practical Timed Mock Strategy",
     "category": "Exam Strategy",
     "subject": "NEET PG Strategy",
-    "title": "NEET PG 2026: Section-Wise Mock Strategy",
-    "preview": "Pacing, strike rate, and negative marking management in a 3.5-hour exam...",
-    "readingMinutes": 2
+    "preview": "Use targeted mock analysis, error review and pacing rather than relying on a fixed exam-year template.",
+    "readingMinutes": 1
   },
   {
     "id": "ART-402",
     "slug": "402-weightage-subject-sequencing-strategy",
+    "title": "Weightage & Subject Sequencing Strategy",
     "category": "Exam Strategy",
     "subject": "NEET PG Strategy",
-    "title": "Weightage & Subject Sequencing Strategy",
-    "preview": "High-yield vs short subjects: Allocating revision time for maximum ROI...",
-    "readingMinutes": 2
+    "preview": "Plan subject sequencing around deficits and exam utility rather than an unverifiable fixed weightage percentage.",
+    "readingMinutes": 1
   },
   {
     "id": "ART-403",
     "slug": "403-cracking-ini-cet-question-patterns",
+    "title": "INI-CET Clinical Reasoning: Integrated Questions and Distractors",
     "category": "Exam Strategy",
     "subject": "INI-CET Strategy",
-    "title": "Cracking INI-CET Question Patterns",
-    "preview": "Multiple True/False, Match the following, and Negative Marking caution...",
-    "readingMinutes": 2
+    "preview": "Integrated exam stems are solved by moving from clinical syndrome to the precise decision asked.",
+    "readingMinutes": 1
   },
   {
     "id": "ART-404",
     "slug": "404-image-based-instrument-identification-tactics",
+    "title": "Image-Based & Instrument Identification Tactics",
     "category": "Exam Strategy",
     "subject": "INI-CET Strategy",
-    "title": "Image-Based & Instrument Identification Tactics",
     "preview": "Radiology slices, histopathology slides, and surgical instruments...",
-    "readingMinutes": 2
+    "readingMinutes": 1
   },
   {
     "id": "ART-405",
     "slug": "405-pacing-fighting-decision-fatigue-during-mock-tests",
+    "title": "Pacing & Fighting Decision Fatigue During Mock Tests",
     "category": "Exam Strategy",
     "subject": "Time Management",
-    "title": "Pacing & Fighting Decision Fatigue During Mock Tests",
     "preview": "The 45-second rule, cognitive reset drills, and mid-exam pacing...",
     "readingMinutes": 2
   },
   {
     "id": "ART-406",
     "slug": "406-managing-the-final-30-days-before-the-exam",
+    "title": "Managing the Final 30 Days Before the Exam",
     "category": "Exam Strategy",
     "subject": "Time Management",
-    "title": "Managing the Final 30 Days Before the Exam",
-    "preview": "The 20th notebook revision, avoiding new sources, and active testing...",
-    "readingMinutes": 2
+    "preview": "Use the final revision period for consolidation, error correction and sustainable timed practice.",
+    "readingMinutes": 1
   },
   {
     "id": "ART-407",
     "slug": "407-deconstructing-complex-clinical-stems",
+    "title": "Deconstructing Complex Clinical Stems",
     "category": "Exam Strategy",
     "subject": "MCQ Hacks",
-    "title": "Deconstructing Complex Clinical Stems",
     "preview": "Reading the last line, identifying anchors, and spotting examiner traps...",
     "readingMinutes": 2
   },
   {
     "id": "ART-408",
     "slug": "408-the-elimination-protocol-ruling-out-distractors",
+    "title": "The Elimination Protocol: Ruling Out Distractors",
     "category": "Exam Strategy",
     "subject": "MCQ Hacks",
-    "title": "The Elimination Protocol: Ruling Out Distractors",
     "preview": "Absolute words, paired opposites, and outlier elimination rules...",
     "readingMinutes": 2
   },
   {
     "id": "ART-501",
     "slug": "501-cardiovascular-endocrine-drug-of-choice-doc",
+    "title": "Cardiovascular & Endocrine Drug of Choice (DOC)",
     "category": "High-Yield Tables",
     "subject": "Drug of Choice",
-    "title": "Cardiovascular & Endocrine Drug of Choice (DOC)",
     "preview": "First-line agents for PSVT, AFib, Pheochromocytoma, and Thyroid storm...",
-    "readingMinutes": 2
+    "readingMinutes": 1
   },
   {
     "id": "ART-502",
     "slug": "502-infectious-diseases-neurological-drug-of-choice",
+    "title": "Infectious Diseases & Neurological Drug of Choice",
     "category": "High-Yield Tables",
     "subject": "Drug of Choice",
-    "title": "Infectious Diseases & Neurological Drug of Choice",
-    "preview": "Definitive treatments for MRSA, VRE, Status Epilepticus, and Trigeminal Neuralgia...",
-    "readingMinutes": 2
+    "preview": "Recognize urgent treatments by syndrome while avoiding universal “drug of choice” claims that ignore severity, resistance and contraindications.",
+    "readingMinutes": 1
   },
   {
     "id": "ART-503",
     "slug": "503-emergency-trauma-scores-gcs-wells-parkland",
+    "title": "Emergency & Trauma Scores: GCS, Wells & Parkland",
     "category": "High-Yield Tables",
     "subject": "Clinical Scoring Systems",
-    "title": "Emergency & Trauma Scores: GCS, Wells & Parkland",
-    "preview": "Glasgow Coma Scale, Wells DVT/PE criteria, and Burn resuscitation...",
+    "preview": "Recognize the Glasgow Coma Scale, the clinical probability role of the Wells score, and why modern burn fluid resuscitation is titrated.",
     "readingMinutes": 2
   },
   {
     "id": "ART-504",
     "slug": "504-medical-surgical-stratification-curb-65-child-pugh",
+    "title": "Medical & Surgical Stratification: CURB-65 & Child-Pugh",
     "category": "High-Yield Tables",
     "subject": "Clinical Scoring Systems",
-    "title": "Medical & Surgical Stratification: CURB-65 & Child-Pugh",
-    "preview": "Pneumonia mortality prediction, Cirrhosis grading, and APGAR parameters...",
-    "readingMinutes": 2
+    "preview": "Apply CURB-65 to pneumonia severity assessment alongside clinical judgement; understand the purpose of Child-Pugh and Apgar scoring.",
+    "readingMinutes": 1
   },
   {
     "id": "ART-505",
     "slug": "505-gross-fine-motor-milestones-master-timeline",
+    "title": "Gross & Fine Motor Milestones Master Timeline",
     "category": "High-Yield Tables",
     "subject": "Developmental Milestones",
-    "title": "Gross & Fine Motor Milestones Master Timeline",
     "preview": "Neck holding, sitting, mature pincer grasp, and shape copying timelines...",
     "readingMinutes": 2
   },
   {
     "id": "ART-506",
     "slug": "506-social-language-primitive-reflex-timelines",
+    "title": "Social, Language & Primitive Reflex Timelines",
     "category": "High-Yield Tables",
     "subject": "Developmental Milestones",
-    "title": "Social, Language & Primitive Reflex Timelines",
     "preview": "Social smile, stranger anxiety, Moro reflex, and Babinski disappearance...",
     "readingMinutes": 2
   },
   {
     "id": "ART-507",
     "slug": "507-national-immunization-schedule-nis-birth-to-16-years",
+    "title": "India National Immunization Schedule: The Logic of Age-Based Prevention",
     "category": "High-Yield Tables",
     "subject": "Immunization",
-    "title": "National Immunization Schedule (NIS): Birth to 16 Years",
-    "preview": "Doses, sites, routes, and vaccine storage temperatures under UIP...",
-    "readingMinutes": 2
+    "preview": "Understand birth doses, infant primary series and boosters while checking the current official Indian UIP schedule.",
+    "readingMinutes": 1
   },
   {
     "id": "ART-508",
     "slug": "508-vaccine-types-cold-chain-contraindications",
+    "title": "Vaccine Types, Cold Chain & Contraindications",
     "category": "High-Yield Tables",
     "subject": "Immunization",
-    "title": "Vaccine Types, Cold Chain & Contraindications",
-    "preview": "Live vs Killed vaccines, ILR vs Deep Freezer temperatures, and VVM...",
-    "readingMinutes": 2
+    "preview": "Vaccine effectiveness depends on product-specific storage, correct handling and age-appropriate administration.",
+    "readingMinutes": 1
   },
   {
     "id": "ART-601",
     "slug": "601-brachial-plexus-injuries-clinical-deformities",
+    "title": "Brachial Plexus Injuries & Clinical Deformities",
     "category": "First Year MBBS",
     "subject": "Anatomy",
-    "title": "Brachial Plexus Injuries & Clinical Deformities",
     "preview": "Erb's Palsy vs Klumpke's Palsy, roots, clinical signs, and sensory loss...",
     "readingMinutes": 2
   },
   {
     "id": "ART-602",
     "slug": "602-upper-limb-nerve-lesions-motor-sensory-deficits",
+    "title": "Upper Limb Nerve Lesions: Motor & Sensory Deficits",
     "category": "First Year MBBS",
     "subject": "Anatomy",
-    "title": "Upper Limb Nerve Lesions: Motor & Sensory Deficits",
     "preview": "Radial, Median, and Ulnar nerve compression sites and deformities...",
     "readingMinutes": 2
   },
   {
     "id": "ART-603",
     "slug": "603-cardiac-action-potential-fast-vs-slow-response",
+    "title": "Cardiac Action Potential: Fast vs Slow Response",
     "category": "First Year MBBS",
     "subject": "Physiology",
-    "title": "Cardiac Action Potential: Fast vs Slow Response",
     "preview": "Ventricular myocyte phases vs SA nodal automaticity and ion channels...",
     "readingMinutes": 2
   },
   {
     "id": "ART-604",
     "slug": "604-renal-physiology-countercurrent-mechanism-acid-base",
+    "title": "Renal Physiology: Countercurrent Mechanism & Acid-Base",
     "category": "First Year MBBS",
     "subject": "Physiology",
-    "title": "Renal Physiology: Countercurrent Mechanism & Acid-Base",
-    "preview": "Medullary hyperosmolarity, loop diuretics site, and bicarbonate reclamation...",
-    "readingMinutes": 2
+    "preview": "The nephron concentrates urine through loop countercurrent multiplication, vascular exchange and hormone-regulated water permeability.",
+    "readingMinutes": 1
   },
   {
     "id": "ART-605",
     "slug": "605-inborn-errors-of-metabolism-urea-cycle-amino-acids",
+    "title": "Inborn Errors of Metabolism: Urea Cycle & Amino Acids",
     "category": "First Year MBBS",
     "subject": "Biochemistry",
-    "title": "Inborn Errors of Metabolism: Urea Cycle & Amino Acids",
     "preview": "OTC deficiency vs CPS-1, PKU, Alkaptonuria, and Maple Syrup Urine Disease...",
     "readingMinutes": 2
   },
   {
     "id": "ART-606",
     "slug": "606-lipoprotein-metabolism-familial-dyslipidemias",
+    "title": "Lipoprotein Metabolism & Familial Dyslipidemias",
     "category": "First Year MBBS",
     "subject": "Biochemistry",
-    "title": "Lipoprotein Metabolism & Familial Dyslipidemias",
-    "preview": "Apo markers, Frederickson classification, and eruptive vs tendinous xanthomas...",
-    "readingMinutes": 2
+    "preview": "Lipoprotein metabolism is easier when each apoprotein is linked to its key transport role.",
+    "readingMinutes": 1
   },
   {
     "id": "ART-701",
     "slug": "701-cell-injury-patterns-of-tissue-necrosis",
+    "title": "Cell Injury & Patterns of Tissue Necrosis",
     "category": "Second Year MBBS",
     "subject": "Pathology",
-    "title": "Cell Injury & Patterns of Tissue Necrosis",
-    "preview": "Coagulative, Liquefactive, Caseous, and Fibrinoid necrosis hallmarks...",
-    "readingMinutes": 2
+    "preview": "The pattern of necrosis reflects mechanism and tissue context, providing strong pathology examination clues.",
+    "readingMinutes": 1
   },
   {
     "id": "ART-702",
     "slug": "702-glomerular-diseases-nephritic-vs-nephrotic-syndromes",
+    "title": "Glomerular Diseases: Nephritic vs Nephrotic Syndromes",
     "category": "Second Year MBBS",
     "subject": "Pathology",
-    "title": "Glomerular Diseases: Nephritic vs Nephrotic Syndromes",
-    "preview": "MCD, FSGS, Membranous, PSGN, and RPGN immunofluorescence patterns...",
-    "readingMinutes": 2
+    "preview": "Nephritic and nephrotic patterns overlap but emphasize different types of glomerular injury.",
+    "readingMinutes": 1
   },
   {
     "id": "ART-703",
     "slug": "703-autonomic-pharmacology-cholinergic-adrenergic-receptors",
+    "title": "Autonomic Pharmacology: Cholinergic & Adrenergic Receptors",
     "category": "Second Year MBBS",
     "subject": "Pharmacology",
-    "title": "Autonomic Pharmacology: Cholinergic & Adrenergic Receptors",
     "preview": "G-protein pathways, Bethanechol, Atropine, and Alpha/Beta blocker selectivities...",
     "readingMinutes": 2
   },
   {
     "id": "ART-704",
     "slug": "704-antimicrobial-chemotherapy-targets-toxicities",
+    "title": "Antimicrobial Chemotherapy: Targets & Toxicities",
     "category": "Second Year MBBS",
     "subject": "Pharmacology",
-    "title": "Antimicrobial Chemotherapy: Targets & Toxicities",
     "preview": "Cell wall inhibitors, ribosomal subunits (30S/50S), and adverse effect profiles...",
     "readingMinutes": 2
   },
   {
     "id": "ART-705",
     "slug": "705-gram-positive-cocci-bacilli-identification-algorithm",
+    "title": "Gram-Positive Cocci & Bacilli Identification Algorithm",
     "category": "Second Year MBBS",
     "subject": "Microbiology",
-    "title": "Gram-Positive Cocci & Bacilli Identification Algorithm",
-    "preview": "Staphylococcus vs Streptococcus, hemolysis, and spore-forming bacilli...",
-    "readingMinutes": 2
+    "preview": "A small set of laboratory principles distinguishes major gram-positive cocci and bacilli before species-level confirmation.",
+    "readingMinutes": 1
   },
   {
     "id": "ART-706",
     "slug": "706-clinical-virology-hepatitis-retroviruses",
+    "title": "Clinical Virology: Hepatitis & Retroviruses",
     "category": "Second Year MBBS",
     "subject": "Microbiology",
-    "title": "Clinical Virology: Hepatitis & Retroviruses",
     "preview": "Hepatitis B serology interpretation and HIV replication kinetics...",
     "readingMinutes": 2
   },
   {
     "id": "ART-801",
     "slug": "801-post-mortem-changes-algor-livor-rigor-mortis",
+    "title": "Post-Mortem Changes: Algor, Livor & Rigor Mortis",
     "category": "Third Year (Part 1)",
     "subject": "Forensic Medicine",
-    "title": "Post-Mortem Changes: Algor, Livor & Rigor Mortis",
-    "preview": "Estimating Post-Mortem Interval (PMI), Nysten's law, and fixation of hypostasis...",
-    "readingMinutes": 2
+    "preview": "Postmortem change is shaped by environment, body position and other variables; no single sign can determine an exact time of death.",
+    "readingMinutes": 1
   },
   {
     "id": "ART-802",
     "slug": "802-firearm-wounds-mechanical-injuries",
+    "title": "Firearm Wounds & Mechanical Injuries",
     "category": "Third Year (Part 1)",
     "subject": "Forensic Medicine",
-    "title": "Firearm Wounds & Mechanical Injuries",
-    "preview": "Contact vs close range gunshot wounds, abraded collars, and lacerations vs incised wounds...",
-    "readingMinutes": 2
+    "preview": "In forensic medicine, wound interpretation requires morphology, scene evidence and medical correlation rather than a single absolute sign.",
+    "readingMinutes": 1
   },
   {
     "id": "ART-803",
     "slug": "803-epidemiological-study-designs-association-metrics",
+    "title": "Epidemiological Study Designs & Association Metrics",
     "category": "Third Year (Part 1)",
     "subject": "PSM",
-    "title": "Epidemiological Study Designs & Association Metrics",
     "preview": "Case-Control vs Cohort, Odds Ratio, Relative Risk, and Attributable Risk calculations...",
     "readingMinutes": 2
   },
   {
     "id": "ART-804",
     "slug": "804-screening-tests-sensitivity-specificity-ppv-npv",
+    "title": "Screening Tests: Sensitivity, Specificity, PPV & NPV",
     "category": "Third Year (Part 1)",
     "subject": "PSM",
-    "title": "Screening Tests: Sensitivity, Specificity, PPV & NPV",
     "preview": "Evaluating 2x2 diagnostic tables, prevalence impact, and SnNOut vs SpPIn rules...",
     "readingMinutes": 2
   },
   {
     "id": "ART-805",
     "slug": "805-tuning-fork-tests-pure-tone-audiometry-pta",
+    "title": "Tuning Fork Tests & Pure Tone Audiometry (PTA)",
     "category": "Third Year (Part 1)",
     "subject": "ENT",
-    "title": "Tuning Fork Tests & Pure Tone Audiometry (PTA)",
-    "preview": "Rinne, Weber, ABC tests, Carhart's notch, and Stenger's malingering test...",
-    "readingMinutes": 2
+    "preview": "Rinne and Weber tuning fork tests help differentiate conductive from sensorineural hearing patterns when interpreted with history and audiometry.",
+    "readingMinutes": 1
   },
   {
     "id": "ART-806",
     "slug": "806-csom-mucosal-safe-vs-squamosal-unsafe-disease",
+    "title": "CSOM: Mucosal (Safe) vs Squamosal (Unsafe) Disease",
     "category": "Third Year (Part 1)",
     "subject": "ENT",
-    "title": "CSOM: Mucosal (Safe) vs Squamosal (Unsafe) Disease",
     "preview": "Atticoantral disease, Cholesteatoma, complications, and surgical strategies...",
     "readingMinutes": 2
   },
   {
     "id": "ART-807",
     "slug": "807-glaucoma-primary-open-angle-vs-acute-angle-closure",
+    "title": "Glaucoma: Primary Open-Angle vs Acute Angle-Closure",
     "category": "Third Year (Part 1)",
     "subject": "Ophthalmology",
-    "title": "Glaucoma: Primary Open-Angle vs Acute Angle-Closure",
-    "preview": "Optic disc cupping, gonioscopy, IOP spikes, and laser iridotomy management...",
-    "readingMinutes": 2
+    "preview": "Distinguish slowly progressive open-angle glaucoma from acute symptomatic angle closure, an ocular emergency.",
+    "readingMinutes": 1
   },
   {
     "id": "ART-808",
     "slug": "808-retinopathy-retinal-detachment-diagnostic-pearls",
+    "title": "Retinopathy & Retinal Detachment Diagnostic Pearls",
     "category": "Third Year (Part 1)",
     "subject": "Ophthalmology",
-    "title": "Retinopathy & Retinal Detachment Diagnostic Pearls",
     "preview": "Diabetic retinopathy stages, hypertensive grades, and Rhegmatogenous RD signs...",
     "readingMinutes": 2
   },
   {
     "id": "ART-901",
     "slug": "901-stemi-localization-culprit-coronary-arteries",
+    "title": "STEMI Localization & Culprit Coronary Arteries",
     "category": "Final Year (Part 2)",
     "subject": "Medicine",
-    "title": "STEMI Localization & Culprit Coronary Arteries",
-    "preview": "ECG lead vectors, reciprocal depressions, and RV infarction precautions...",
-    "readingMinutes": 2
+    "preview": "Localize possible culprit coronary territories on the ECG without treating lead patterns as absolute arterial proof.",
+    "readingMinutes": 1
   },
   {
     "id": "ART-902",
     "slug": "902-acute-stroke-management-window-timelines",
+    "title": "Acute Ischemic Stroke: Recognition, Imaging and Reperfusion Decisions",
     "category": "Final Year (Part 2)",
     "subject": "Medicine",
-    "title": "Acute Stroke Management & Window Timelines",
-    "preview": "IV Thrombolysis (rtPA) criteria, mechanical thrombectomy, and BP targets...",
-    "readingMinutes": 2
+    "preview": "Stroke treatment depends on last-known-well time, neurological disability, vessel status and imaging—not one memorized number.",
+    "readingMinutes": 1
   },
   {
     "id": "ART-903",
     "slug": "903-acute-appendicitis-alvarado-score-imaging",
+    "title": "Acute Appendicitis: Alvarado Score & Imaging",
     "category": "Final Year (Part 2)",
     "subject": "Surgery",
-    "title": "Acute Appendicitis: Alvarado Score & Imaging",
-    "preview": "Migratory pain, Rovsing/Psoas signs, and CT findings in pediatric vs adult cases...",
-    "readingMinutes": 2
+    "preview": "Appendicitis is evaluated using the clinical pattern, serial examination, laboratory context and appropriate imaging.",
+    "readingMinutes": 1
   },
   {
     "id": "ART-904",
     "slug": "904-intestinal-obstruction-small-vs-large-bowel",
+    "title": "Intestinal Obstruction: Small vs Large Bowel",
     "category": "Final Year (Part 2)",
     "subject": "Surgery",
-    "title": "Intestinal Obstruction: Small vs Large Bowel",
-    "preview": "Adhesions, Malignancy, Volvulus, and air-fluid level patterns on erect film...",
-    "readingMinutes": 2
+    "preview": "Bowel obstruction is evaluated with clinical stability, imaging and signs of strangulation rather than an exact symptom-duration formula.",
+    "readingMinutes": 1
   },
   {
     "id": "ART-905",
     "slug": "905-hypertensive-disorders-of-pregnancy-eclampsia",
+    "title": "Preeclampsia and Eclampsia: Clinical Recognition and Escalation",
     "category": "Final Year (Part 2)",
     "subject": "OBG",
-    "title": "Hypertensive Disorders of Pregnancy & Eclampsia",
-    "preview": "Preeclampsia diagnostic criteria, HELLP syndrome, and MgSO4 Pritchard regimen...",
-    "readingMinutes": 2
+    "preview": "High blood pressure after mid-pregnancy plus organ injury can signal preeclampsia even without overt proteinuria.",
+    "readingMinutes": 1
   },
   {
     "id": "ART-906",
     "slug": "906-antepartum-hemorrhage-placenta-previa-vs-abruptio",
+    "title": "Antepartum Hemorrhage: Placenta Previa vs Abruptio",
     "category": "Final Year (Part 2)",
     "subject": "OBG",
-    "title": "Antepartum Hemorrhage: Placenta Previa vs Abruptio",
     "preview": "Painless vs painful vaginal bleeding, Couvelaire uterus, and ultrasound rules...",
     "readingMinutes": 2
   },
   {
     "id": "ART-907",
     "slug": "907-congenital-heart-diseases-acyanotic-vs-cyanotic",
+    "title": "Congenital Heart Diseases: Acyanotic vs Cyanotic",
     "category": "Final Year (Part 2)",
     "subject": "Pediatrics",
-    "title": "Congenital Heart Diseases: Acyanotic vs Cyanotic",
     "preview": "VSD, ASD, Tetralogy of Fallot, TGA, and classic chest radiograph silhouettes...",
     "readingMinutes": 2
   },
   {
     "id": "ART-908",
     "slug": "908-high-yield-fracture-eponyms-nerve-pairings",
+    "title": "High-Yield Fracture Eponyms & Nerve Pairings",
     "category": "Final Year (Part 2)",
     "subject": "Orthopedics",
-    "title": "High-Yield Fracture Eponyms & Nerve Pairings",
     "preview": "Colles, Smith, Monteggia, Galeazzi fractures and nerve vulnerability...",
     "readingMinutes": 2
   },
   {
     "id": "ART-909",
     "slug": "909-schizophrenia-mood-disorders-antipsychotic-eps",
+    "title": "Schizophrenia, Mood Disorders & Antipsychotic EPS",
     "category": "Final Year (Part 2)",
     "subject": "Psychiatry",
-    "title": "Schizophrenia, Mood Disorders & Antipsychotic EPS",
     "preview": "Schneiderian first-rank symptoms, Bipolar criteria, and managing acute dystonia...",
     "readingMinutes": 2
   },
   {
     "id": "ART-910",
     "slug": "910-immunobullous-diseases-pemphigus-vs-pemphigoid",
+    "title": "Immunobullous Diseases: Pemphigus vs Pemphigoid",
     "category": "Final Year (Part 2)",
     "subject": "Dermatology",
-    "title": "Immunobullous Diseases: Pemphigus vs Pemphigoid",
     "preview": "Desmoglein vs BP antigens, Nikolsky sign, and DIF patterns...",
     "readingMinutes": 2
   },
   {
     "id": "ART-911",
     "slug": "911-trauma-radiology-fast-exam-head-ct-rules",
+    "title": "Trauma Radiology: FAST Exam & Head CT Rules",
     "category": "Final Year (Part 2)",
     "subject": "Radiology",
-    "title": "Trauma Radiology: FAST Exam & Head CT Rules",
-    "preview": "Focused Assessment with Sonography in Trauma (FAST) 4 standard acoustic windows...",
-    "readingMinutes": 2
+    "preview": "FAST/eFAST provides rapid point-of-care ultrasound clues in trauma, but negative views do not exclude every important injury.",
+    "readingMinutes": 1
   },
   {
     "id": "ART-912",
     "slug": "912-malignant-hyperthermia-crisis-protocol-antidote",
+    "title": "Malignant Hyperthermia: Recognize the Anesthetic Emergency",
     "category": "Final Year (Part 2)",
     "subject": "Anesthesia",
-    "title": "Malignant Hyperthermia: Crisis Protocol & Antidote",
-    "preview": "RYR1 gene mutation, Succinylcholine trigger, and IV Dantrolene reconstitution...",
-    "readingMinutes": 2
+    "preview": "Malignant hyperthermia is a hypermetabolic anesthetic crisis; rapid recognition and removal of triggering agents are vital.",
+    "readingMinutes": 1
   },
   {
     "id": "ART-913",
     "slug": "913-management-of-acute-severe-asthma-copd-exacerbation",
+    "title": "Acute Severe Asthma and COPD Exacerbations: Bedside Priorities",
     "category": "Final Year (Part 2)",
     "subject": "Medicine",
-    "title": "Management of Acute Severe Asthma & COPD Exacerbation",
-    "preview": "Nebulized bronchodilators, systemic steroids, IV magnesium sulfate, and NIV criteria...",
-    "readingMinutes": 2
+    "preview": "Recognize respiratory failure early; assess work of breathing and mental status rather than relying only on wheeze.",
+    "readingMinutes": 1
   },
   {
     "id": "ART-914",
     "slug": "914-approach-to-upper-gastrointestinal-bleeding-ugib",
+    "title": "Upper Gastrointestinal Bleeding: Stabilization Before Endoscopy",
     "category": "Final Year (Part 2)",
     "subject": "Medicine",
-    "title": "Approach to Upper Gastrointestinal Bleeding (UGIB)",
-    "preview": "Glasgow-Blatchford score, IV Pantoprazole, variceal banding, and terlipressin...",
-    "readingMinutes": 2
+    "preview": "Risk assessment, hemodynamic stabilization and early endoscopic evaluation are the practical core of UGIB care.",
+    "readingMinutes": 1
   },
   {
     "id": "ART-915",
     "slug": "915-acute-pancreatitis-ranson-s-criteria-management",
+    "title": "Acute Pancreatitis: Diagnosis, Severity and Supportive Care",
     "category": "Final Year (Part 2)",
     "subject": "Surgery",
-    "title": "Acute Pancreatitis: Ranson's Criteria & Management",
-    "preview": "Gallstones vs Alcohol etiology, Cullen/Grey Turner signs, and fluid resuscitation...",
-    "readingMinutes": 2
+    "preview": "Diagnose pancreatitis using compatible pain, pancreatic enzymes and/or imaging; management depends on severity and cause.",
+    "readingMinutes": 1
   },
   {
     "id": "ART-916",
     "slug": "916-incisional-hernia-vs-intestinal-strangulation",
+    "title": "Incisional Hernia vs Intestinal Strangulation",
     "category": "Final Year (Part 2)",
     "subject": "Surgery",
-    "title": "Incisional Hernia vs Intestinal Strangulation",
     "preview": "Risk factors, Richter's hernia, Littre's hernia, and surgical mesh repair...",
     "readingMinutes": 2
   },
   {
     "id": "ART-917",
     "slug": "917-postpartum-hemorrhage-pph-management-protocol",
+    "title": "Postpartum Hemorrhage: Recognition and Emergency Response",
     "category": "Final Year (Part 2)",
     "subject": "OBG",
-    "title": "Postpartum Hemorrhage (PPH) Management Protocol",
-    "preview": "The 4 Ts (Tone, Tissue, Trauma, Thrombin), Bakri balloon, and B-Lynch suture...",
-    "readingMinutes": 2
+    "preview": "Rapidly identify excessive postpartum bleeding, resuscitate and address uterine tone, tissue, trauma and coagulation.",
+    "readingMinutes": 1
   },
   {
     "id": "ART-918",
     "slug": "918-normal-labor-stages-partograph-interpretation",
+    "title": "Normal Labor Stages & Partograph Interpretation",
     "category": "Final Year (Part 2)",
     "subject": "OBG",
-    "title": "Normal Labor Stages & Partograph Interpretation",
-    "preview": "Active phase, alert/action lines, cervical dilatation, and fetal descent...",
-    "readingMinutes": 2
+    "preview": "Assess labor through maternal and fetal wellbeing, cervical change and the overall pattern of progress rather than a rigid clock alone.",
+    "readingMinutes": 1
   },
   {
     "id": "ART-919",
     "slug": "919-neonatal-resuscitation-program-nrp-guidelines",
+    "title": "Neonatal Resuscitation: Ventilation Comes First",
     "category": "Final Year (Part 2)",
     "subject": "Pediatrics",
-    "title": "Neonatal Resuscitation Program (NRP) Guidelines",
-    "preview": "Initial steps, golden minute, heart rate evaluation, and positive pressure ventilation...",
-    "readingMinutes": 2
+    "preview": "At birth, evaluate breathing and heart rate while preventing heat loss; effective ventilation is central when resuscitation is needed.",
+    "readingMinutes": 1
   },
   {
     "id": "ART-920",
     "slug": "920-compartment-syndrome-of-the-limbs",
+    "title": "Acute Compartment Syndrome: The Time-Critical Limb",
     "category": "Final Year (Part 2)",
     "subject": "Orthopedics",
-    "title": "Compartment Syndrome of the Limbs",
-    "preview": "The 5 Ps, intracompartmental pressure monitoring, and emergency fasciotomy...",
-    "readingMinutes": 2
+    "preview": "Rising pressure within a noncompliant compartment can compromise perfusion and nerves before pulses disappear.",
+    "readingMinutes": 1
   },
   {
     "id": "ART-921",
     "slug": "921-major-depressive-disorder-bipolar-mood-disorders",
+    "title": "Major Depressive Disorder & Bipolar Mood Disorders",
     "category": "Final Year (Part 2)",
     "subject": "Psychiatry",
-    "title": "Major Depressive Disorder & Bipolar Mood Disorders",
-    "preview": "DSM-5 criteria, melancholic features, lithium toxicity, and mood stabilizers...",
-    "readingMinutes": 2
+    "preview": "Separate major depressive episodes from mania/hypomania and remember the safety considerations of lithium therapy.",
+    "readingMinutes": 1
   },
   {
     "id": "ART-922",
     "slug": "922-ct-head-pearls-subdural-vs-epidural-hematoma",
+    "title": "CT Head Pearls: Subdural vs Epidural Hematoma",
     "category": "Final Year (Part 2)",
     "subject": "Radiology",
-    "title": "CT Head Pearls: Subdural vs Epidural Hematoma",
     "preview": "Middle meningeal artery vs bridging veins, midline shift, and herniation syndromes...",
     "readingMinutes": 2
+  },
+  {
+    "id": "ART-NEW-0001",
+    "slug": "new-0001-chest-pain-in-the-ed-six-immediately-dangerous-diagnoses",
+    "title": "Chest Pain in the ED: Six Immediately Dangerous Diagnoses",
+    "category": "Clinical Tips",
+    "subject": "Emergency Triage",
+    "preview": "Sudden chest pain with instability requires immediate assessment for acute coronary syndrome, aortic dissection, pulmonary embolism, tension pneumothorax, tamponade and esophageal rupture.",
+    "readingMinutes": 2
+  },
+  {
+    "id": "ART-NEW-0002",
+    "slug": "new-0002-acute-stroke-recognition-fast-mimics-and-time-critical-assessment",
+    "title": "Acute Stroke Recognition: FAST, Mimics and Time-Critical Assessment",
+    "category": "Clinical Tips",
+    "subject": "Emergency Triage",
+    "preview": "FAST highlights Face weakness, Arm weakness and Speech disturbance; Time means activating emergency assessment without delay.",
+    "readingMinutes": 2
+  },
+  {
+    "id": "ART-NEW-0003",
+    "slug": "new-0003-sepsis-recognition-perfusion-lactate-and-organ-dysfunction",
+    "title": "Sepsis Recognition: Perfusion, Lactate and Organ Dysfunction",
+    "category": "Clinical Tips",
+    "subject": "Emergency Triage",
+    "preview": "Sepsis is life-threatening organ dysfunction caused by a dysregulated response to infection, not simply a positive blood culture.",
+    "readingMinutes": 1
+  },
+  {
+    "id": "ART-NEW-0004",
+    "slug": "new-0004-the-unstable-patient-an-abcde-bedside-approach",
+    "title": "The Unstable Patient: An ABCDE Bedside Approach",
+    "category": "Clinical Tips",
+    "subject": "Emergency Triage",
+    "preview": "ABCDE stands for Airway, Breathing, Circulation, Disability and Exposure; reassess after every intervention.",
+    "readingMinutes": 1
+  },
+  {
+    "id": "ART-NEW-0005",
+    "slug": "new-0005-acute-dyspnea-pulmonary-edema-pe-asthma-and-pneumothorax",
+    "title": "Acute Dyspnea: Pulmonary Edema, PE, Asthma and Pneumothorax",
+    "category": "Clinical Tips",
+    "subject": "Emergency Triage",
+    "preview": "Acute dyspnea is a symptom; look for immediate threats such as pneumothorax, pulmonary edema, severe asthma and pulmonary embolism.",
+    "readingMinutes": 1
+  },
+  {
+    "id": "ART-NEW-0006",
+    "slug": "new-0006-the-deteriorating-ward-patient-early-warning-signs-and-escalation",
+    "title": "The Deteriorating Ward Patient: Early Warning Signs and Escalation",
+    "category": "Clinical Tips",
+    "subject": "Ward Protocols",
+    "preview": "New confusion, increasing respiratory rate, hypotension and falling urine output can be early deterioration signals.",
+    "readingMinutes": 1
+  },
+  {
+    "id": "ART-NEW-0007",
+    "slug": "new-0007-acute-kidney-injury-urine-output-creatinine-and-reversible-causes",
+    "title": "Acute Kidney Injury: Urine Output, Creatinine and Reversible Causes",
+    "category": "Clinical Tips",
+    "subject": "Ward Protocols",
+    "preview": "Acute kidney injury is a change in kidney function detected by creatinine trend or reduced urine output, interpreted with timing and context.",
+    "readingMinutes": 1
+  },
+  {
+    "id": "ART-NEW-0008",
+    "slug": "new-0008-hypoglycemia-at-the-bedside-recognition-and-reassessment",
+    "title": "Hypoglycemia at the Bedside: Recognition and Reassessment",
+    "category": "Clinical Tips",
+    "subject": "Ward Protocols",
+    "preview": "Hypoglycemia may produce sweating, tremor, hunger, confusion, seizure or reduced consciousness.",
+    "readingMinutes": 1
+  },
+  {
+    "id": "ART-NEW-0009",
+    "slug": "new-0009-postoperative-oliguria-a-stepwise-clinical-assessment",
+    "title": "Postoperative Oliguria: A Stepwise Clinical Assessment",
+    "category": "Clinical Tips",
+    "subject": "Ward Protocols",
+    "preview": "Postoperative oliguria can follow hypovolemia, bleeding, sepsis, low cardiac output, obstruction or a medication effect.",
+    "readingMinutes": 1
+  },
+  {
+    "id": "ART-NEW-0010",
+    "slug": "new-0010-anaphylaxis-recognition-and-emergency-priorities",
+    "title": "Anaphylaxis: Recognition and Emergency Priorities",
+    "category": "Clinical Tips",
+    "subject": "Ward Protocols",
+    "preview": "Anaphylaxis is a rapidly developing systemic hypersensitivity reaction involving airway, breathing or circulation; a rash may be absent.",
+    "readingMinutes": 1
+  },
+  {
+    "id": "ART-NEW-0011",
+    "slug": "new-0011-renal-dose-adjustment-drugs-egfr-and-safety-checks",
+    "title": "Renal Dose Adjustment: Drugs, eGFR and Safety Checks",
+    "category": "Clinical Tips",
+    "subject": "Prescription Pearls",
+    "preview": "Renal drug adjustment considers the drug, kidney function estimate, route, indication and whether kidney function is stable.",
+    "readingMinutes": 1
+  },
+  {
+    "id": "ART-NEW-0012",
+    "slug": "new-0012-anticoagulant-safety-bleeding-risk-and-monitoring",
+    "title": "Anticoagulant Safety: Bleeding Risk and Monitoring",
+    "category": "Clinical Tips",
+    "subject": "Prescription Pearls",
+    "preview": "Anticoagulants reduce thrombosis risk but carry bleeding risk; indication, renal function, interactions and procedure plans matter.",
+    "readingMinutes": 1
+  },
+  {
+    "id": "ART-NEW-0013",
+    "slug": "new-0013-opioid-prescribing-sedation-respiratory-risk-and-antidotes",
+    "title": "Opioid Prescribing: Sedation, Respiratory Risk and Antidotes",
+    "category": "Clinical Tips",
+    "subject": "Prescription Pearls",
+    "preview": "Opioids may cause respiratory depression, drowsiness, constipation and nausea; monitor consciousness and ventilation.",
+    "readingMinutes": 1
+  },
+  {
+    "id": "ART-NEW-0014",
+    "slug": "new-0014-high-risk-medicines-insulin-and-concentrated-electrolytes",
+    "title": "High-Risk Medicines: Insulin and Concentrated Electrolytes",
+    "category": "Clinical Tips",
+    "subject": "Prescription Pearls",
+    "preview": "Insulin and concentrated potassium are high-alert medicines because dosing or administration errors can cause rapid harm.",
+    "readingMinutes": 1
+  },
+  {
+    "id": "ART-NEW-0015",
+    "slug": "new-0015-medication-reconciliation-at-admission-and-discharge",
+    "title": "Medication Reconciliation at Admission and Discharge",
+    "category": "Clinical Tips",
+    "subject": "Prescription Pearls",
+    "preview": "Medication reconciliation compares the patient's actual medicines against admission, transfer or discharge orders.",
+    "readingMinutes": 1
+  },
+  {
+    "id": "ART-NEW-0016",
+    "slug": "new-0016-charcot-triad-in-cholangitis-clinical-context-and-pitfalls",
+    "title": "Charcot Triad in Cholangitis: Clinical Context and Pitfalls",
+    "category": "Triads & Signs",
+    "subject": "Medical Triads",
+    "preview": "Charcot triad in acute cholangitis comprises fever, right upper quadrant pain and jaundice.",
+    "readingMinutes": 1
+  },
+  {
+    "id": "ART-NEW-0017",
+    "slug": "new-0017-reynolds-pentad-and-severe-cholangitis-why-it-matters",
+    "title": "Reynolds Pentad and Severe Cholangitis: Why It Matters",
+    "category": "Triads & Signs",
+    "subject": "Medical Triads",
+    "preview": "Reynolds pentad adds hypotension and altered mental status to Charcot triad of fever, jaundice and right upper quadrant pain.",
+    "readingMinutes": 1
+  },
+  {
+    "id": "ART-NEW-0018",
+    "slug": "new-0018-wernicke-encephalopathy-classic-triad-and-frequent-omissions",
+    "title": "Wernicke Encephalopathy: Classic Triad and Frequent Omissions",
+    "category": "Triads & Signs",
+    "subject": "Medical Triads",
+    "preview": "Wernicke encephalopathy is associated with thiamine deficiency and may cause confusion, eye movement abnormalities and ataxia.",
+    "readingMinutes": 1
+  },
+  {
+    "id": "ART-NEW-0019",
+    "slug": "new-0019-addison-disease-clinical-clues-and-hyperpigmentation",
+    "title": "Addison Disease: Clinical Clues and Hyperpigmentation",
+    "category": "Triads & Signs",
+    "subject": "Medical Triads",
+    "preview": "Primary adrenal insufficiency may produce fatigue, weight loss, postural symptoms, hyponatremia and increased pigmentation.",
+    "readingMinutes": 1
+  },
+  {
+    "id": "ART-NEW-0020",
+    "slug": "new-0020-meningitis-signs-neck-stiffness-kernig-and-brudzinski",
+    "title": "Meningitis Signs: Neck Stiffness, Kernig and Brudzinski",
+    "category": "Triads & Signs",
+    "subject": "Medical Triads",
+    "preview": "Meningeal irritation may produce neck stiffness, photophobia and headache, but bedside signs are not sensitive enough to exclude meningitis.",
+    "readingMinutes": 1
+  },
+  {
+    "id": "ART-NEW-0021",
+    "slug": "new-0021-acute-limb-ischemia-the-six-ps-and-time-sensitivity",
+    "title": "Acute Limb Ischemia: The Six Ps and Time Sensitivity",
+    "category": "Triads & Signs",
+    "subject": "Surgical Triads",
+    "preview": "Acute limb ischemia is classically described by pain, pallor, pulselessness, paresthesia, paralysis and poikilothermia.",
+    "readingMinutes": 1
+  },
+  {
+    "id": "ART-NEW-0022",
+    "slug": "new-0022-open-fracture-key-red-flags-and-infection-risk",
+    "title": "Open Fracture: Key Red Flags and Infection Risk",
+    "category": "Triads & Signs",
+    "subject": "Surgical Triads",
+    "preview": "An open fracture communicates with the external environment and carries risks of infection and soft-tissue injury.",
+    "readingMinutes": 1
+  },
+  {
+    "id": "ART-NEW-0023",
+    "slug": "new-0023-testicular-torsion-signs-timing-and-diagnostic-pitfalls",
+    "title": "Testicular Torsion: Signs, Timing and Diagnostic Pitfalls",
+    "category": "Triads & Signs",
+    "subject": "Surgical Triads",
+    "preview": "Testicular torsion causes acute scrotal pain and can rapidly threaten testicular viability.",
+    "readingMinutes": 1
+  },
+  {
+    "id": "ART-NEW-0024",
+    "slug": "new-0024-peritonitis-guarding-rigidity-and-rebound-tenderness",
+    "title": "Peritonitis: Guarding, Rigidity and Rebound Tenderness",
+    "category": "Triads & Signs",
+    "subject": "Surgical Triads",
+    "preview": "Peritonitis may cause involuntary guarding, rigidity, rebound tenderness and pain on movement.",
+    "readingMinutes": 1
+  },
+  {
+    "id": "ART-NEW-0025",
+    "slug": "new-0025-chest-radiograph-air-bronchogram-and-silhouette-sign",
+    "title": "Chest Radiograph: Air Bronchogram and Silhouette Sign",
+    "category": "Triads & Signs",
+    "subject": "Radiological Signs",
+    "preview": "An air bronchogram appears when air-filled bronchi are outlined by surrounding opaque alveolar lung.",
+    "readingMinutes": 1
+  },
+  {
+    "id": "ART-NEW-0026",
+    "slug": "new-0026-pneumothorax-lung-edge-deep-sulcus-and-tension-clues",
+    "title": "Pneumothorax: Lung Edge, Deep Sulcus and Tension Clues",
+    "category": "Triads & Signs",
+    "subject": "Radiological Signs",
+    "preview": "Pneumothorax may show a visceral pleural line with absent peripheral lung markings.",
+    "readingMinutes": 1
+  },
+  {
+    "id": "ART-NEW-0027",
+    "slug": "new-0027-small-bowel-obstruction-step-ladder-pattern-and-transition-point",
+    "title": "Small-Bowel Obstruction: Step-Ladder Pattern and Transition Point",
+    "category": "Triads & Signs",
+    "subject": "Radiological Signs",
+    "preview": "Dilated small bowel loops and multiple air–fluid levels can suggest small-bowel obstruction.",
+    "readingMinutes": 1
+  },
+  {
+    "id": "ART-NEW-0028",
+    "slug": "new-0028-cerebral-edema-on-ct-sulcal-effacement-and-midline-shift",
+    "title": "Cerebral Edema on CT: Sulcal Effacement and Midline Shift",
+    "category": "Triads & Signs",
+    "subject": "Radiological Signs",
+    "preview": "Cerebral edema may produce sulcal effacement, reduced gray-white differentiation and compressed ventricles on CT.",
+    "readingMinutes": 1
+  },
+  {
+    "id": "ART-NEW-0029",
+    "slug": "new-0029-murphy-sign-and-acute-cholecystitis-interpretation-limits",
+    "title": "Murphy Sign and Acute Cholecystitis: Interpretation Limits",
+    "category": "Triads & Signs",
+    "subject": "Eponyms",
+    "preview": "Murphy sign is inspiratory arrest with pain during right upper quadrant palpation.",
+    "readingMinutes": 1
+  },
+  {
+    "id": "ART-NEW-0030",
+    "slug": "new-0030-rovsing-psoas-and-obturator-signs-in-suspected-appendicitis",
+    "title": "Rovsing, Psoas and Obturator Signs in Suspected Appendicitis",
+    "category": "Triads & Signs",
+    "subject": "Eponyms",
+    "preview": "Rovsing sign describes right lower quadrant pain provoked by left lower abdominal palpation.",
+    "readingMinutes": 1
+  },
+  {
+    "id": "ART-NEW-0031",
+    "slug": "new-0031-platelet-count-emergencies-bleeding-context-and-smear-review",
+    "title": "Platelet Count Emergencies: Bleeding Context and Smear Review",
+    "category": "Critical Lab Values",
+    "subject": "Hematology & ABG",
+    "preview": "A low platelet count may reflect reduced production, increased destruction or sequestration; bleeding risk varies by cause and context.",
+    "readingMinutes": 1
+  },
+  {
+    "id": "ART-NEW-0032",
+    "slug": "new-0032-neutropenia-and-febrile-neutropenia-clinical-red-flags",
+    "title": "Neutropenia and Febrile Neutropenia: Clinical Red Flags",
+    "category": "Critical Lab Values",
+    "subject": "Hematology & ABG",
+    "preview": "Neutropenia increases infection risk; fever during severe neutropenia can indicate a medical emergency.",
+    "readingMinutes": 1
+  },
+  {
+    "id": "ART-NEW-0033",
+    "slug": "new-0033-lactic-acidosis-perfusion-versus-alternative-causes",
+    "title": "Lactic Acidosis: Perfusion Versus Alternative Causes",
+    "category": "Critical Lab Values",
+    "subject": "Hematology & ABG",
+    "preview": "Lactate can rise with tissue hypoperfusion but also with seizures, beta-agonists, hepatic impairment or other causes.",
+    "readingMinutes": 1
+  },
+  {
+    "id": "ART-NEW-0034",
+    "slug": "new-0034-hypokalemia-ecg-clues-and-magnesium-connection",
+    "title": "Hypokalemia: ECG Clues and Magnesium Connection",
+    "category": "Critical Lab Values",
+    "subject": "Electrolytes",
+    "preview": "Hypokalemia may cause weakness, cramps, arrhythmia and characteristic ECG changes such as flattened T waves or U waves.",
+    "readingMinutes": 1
+  },
+  {
+    "id": "ART-NEW-0035",
+    "slug": "new-0035-sodium-correction-avoiding-overly-rapid-changes",
+    "title": "Sodium Correction: Avoiding Overly Rapid Changes",
+    "category": "Critical Lab Values",
+    "subject": "Electrolytes",
+    "preview": "Serum sodium reflects water balance relative to solute, so the cause of dysnatremia matters as much as the number.",
+    "readingMinutes": 1
+  },
+  {
+    "id": "ART-NEW-0036",
+    "slug": "new-0036-hypercalcemia-corrected-calcium-symptoms-and-ecg",
+    "title": "Hypercalcemia: Corrected Calcium, Symptoms and ECG",
+    "category": "Critical Lab Values",
+    "subject": "Electrolytes",
+    "preview": "Hypercalcemia can cause constipation, polyuria, dehydration, weakness, confusion and shortened QT interval.",
+    "readingMinutes": 1
+  },
+  {
+    "id": "ART-NEW-0037",
+    "slug": "new-0037-csf-opening-pressure-context-and-interpretation",
+    "title": "CSF Opening Pressure: Context and Interpretation",
+    "category": "Critical Lab Values",
+    "subject": "CSF & Fluids",
+    "preview": "CSF opening pressure is measured during lumbar puncture under standardized patient positioning and technique.",
+    "readingMinutes": 1
+  },
+  {
+    "id": "ART-NEW-0038",
+    "slug": "new-0038-pleural-fluid-interpretation-ph-glucose-and-clinical-meaning",
+    "title": "Pleural Fluid Interpretation: pH, Glucose and Clinical Meaning",
+    "category": "Critical Lab Values",
+    "subject": "CSF & Fluids",
+    "preview": "Pleural fluid tests are interpreted with history, imaging and whether the effusion is exudative or transudative.",
+    "readingMinutes": 1
+  },
+  {
+    "id": "ART-NEW-0039",
+    "slug": "new-0039-troponin-rise-and-fall-injury-versus-infarction",
+    "title": "Troponin Rise and Fall: Injury Versus Infarction",
+    "category": "Critical Lab Values",
+    "subject": "Pathology Markers",
+    "preview": "Troponin elevation indicates myocardial injury, but myocardial infarction requires evidence of acute ischemia in the appropriate context.",
+    "readingMinutes": 1
+  },
+  {
+    "id": "ART-NEW-0040",
+    "slug": "new-0040-d-dimer-pretest-probability-and-false-positives",
+    "title": "D-Dimer: Pretest Probability and False Positives",
+    "category": "Critical Lab Values",
+    "subject": "Pathology Markers",
+    "preview": "D-dimer is sensitive to fibrin turnover but nonspecific; infection, pregnancy, surgery and age can increase it.",
+    "readingMinutes": 1
+  },
+  {
+    "id": "ART-NEW-0041",
+    "slug": "new-0041-clinical-vignettes-identify-the-actual-decision-being-tested",
+    "title": "Clinical Vignettes: Identify the Actual Decision Being Tested",
+    "category": "Exam Strategy",
+    "subject": "NEET PG Strategy",
+    "preview": "Identify the question stem's actual task: diagnosis, mechanism, best next test, immediate stabilization or definitive treatment.",
+    "readingMinutes": 1
+  },
+  {
+    "id": "ART-NEW-0042",
+    "slug": "new-0042-anatomy-image-questions-landmarks-before-labels",
+    "title": "Anatomy Image Questions: Landmarks Before Labels",
+    "category": "Exam Strategy",
+    "subject": "NEET PG Strategy",
+    "preview": "First locate the region and orientation, then major anatomical landmarks, followed by the target structure.",
+    "readingMinutes": 1
+  },
+  {
+    "id": "ART-NEW-0043",
+    "slug": "new-0043-two-step-clinical-reasoning-in-ini-cet-style-questions",
+    "title": "Two-Step Clinical Reasoning in INI-CET-Style Questions",
+    "category": "Exam Strategy",
+    "subject": "INI-CET Strategy",
+    "preview": "Integrated clinical questions often require a diagnosis followed by its mechanism, complication or best test.",
+    "readingMinutes": 1
+  },
+  {
+    "id": "ART-NEW-0044",
+    "slug": "new-0044-integrated-pathology-and-pharmacology-reasoning",
+    "title": "Integrated Pathology and Pharmacology Reasoning",
+    "category": "Exam Strategy",
+    "subject": "INI-CET Strategy",
+    "preview": "Pathology gives the structural or molecular lesion; pharmacology links that lesion to a therapeutic target.",
+    "readingMinutes": 1
+  },
+  {
+    "id": "ART-NEW-0045",
+    "slug": "new-0045-answer-review-classifying-knowledge-versus-reading-errors",
+    "title": "Answer Review: Classifying Knowledge Versus Reading Errors",
+    "category": "Exam Strategy",
+    "subject": "Time Management",
+    "preview": "Classify each missed MCQ as knowledge gap, misread stem, poor differentiation, premature closure or time management error.",
+    "readingMinutes": 1
+  },
+  {
+    "id": "ART-NEW-0046",
+    "slug": "new-0046-rapid-revision-priorities-in-the-last-seven-days",
+    "title": "Rapid Revision Priorities in the Last Seven Days",
+    "category": "Exam Strategy",
+    "subject": "Time Management",
+    "preview": "In the last week, prioritize high-frequency weaknesses and repeated mistakes rather than launching broad new resources.",
+    "readingMinutes": 1
+  },
+  {
+    "id": "ART-NEW-0047",
+    "slug": "new-0047-interpreting-clinical-negatives-without-overreading-them",
+    "title": "Interpreting Clinical Negatives Without Overreading Them",
+    "category": "Exam Strategy",
+    "subject": "MCQ Hacks",
+    "preview": "A negative finding helps only if it meaningfully changes the differential in the relevant clinical context.",
+    "readingMinutes": 1
+  },
+  {
+    "id": "ART-NEW-0048",
+    "slug": "new-0048-best-next-step-versus-most-likely-diagnosis-questions",
+    "title": "Best Next Step Versus Most Likely Diagnosis Questions",
+    "category": "Exam Strategy",
+    "subject": "MCQ Hacks",
+    "preview": "Most likely diagnosis asks for the best explanation of the evidence; best next step asks for the immediate decision under the circumstances.",
+    "readingMinutes": 1
+  },
+  {
+    "id": "ART-NEW-0049",
+    "slug": "new-0049-antimicrobial-mechanisms-and-major-toxicities-compared",
+    "title": "Antimicrobial Mechanisms and Major Toxicities Compared",
+    "category": "High-Yield Tables",
+    "subject": "Drug of Choice",
+    "preview": "Beta-lactams inhibit bacterial cell-wall synthesis; macrolides act at the 50S ribosomal subunit; aminoglycosides act at 30S.",
+    "readingMinutes": 1
+  },
+  {
+    "id": "ART-NEW-0050",
+    "slug": "new-0050-antiepileptic-drug-profiles-and-important-contraindications",
+    "title": "Antiepileptic Drug Profiles and Important Contraindications",
+    "category": "High-Yield Tables",
+    "subject": "Drug of Choice",
+    "preview": "Antiseizure drugs differ in sodium-channel, calcium-channel and synaptic transmitter mechanisms.",
+    "readingMinutes": 1
+  },
+  {
+    "id": "ART-NEW-0051",
+    "slug": "new-0051-antihypertensive-classes-mechanisms-and-adverse-effects",
+    "title": "Antihypertensive Classes: Mechanisms and Adverse Effects",
+    "category": "High-Yield Tables",
+    "subject": "Drug of Choice",
+    "preview": "ACE inhibitors and ARBs reduce renin–angiotensin signaling; dihydropyridine calcium blockers predominantly relax vascular smooth muscle.",
+    "readingMinutes": 1
+  },
+  {
+    "id": "ART-NEW-0052",
+    "slug": "new-0052-anticoagulants-and-reversal-agents-key-comparisons",
+    "title": "Anticoagulants and Reversal Agents: Key Comparisons",
+    "category": "High-Yield Tables",
+    "subject": "Drug of Choice",
+    "preview": "Warfarin reduces synthesis of vitamin K-dependent clotting factors; heparins potentiate antithrombin; direct oral agents target factor Xa or thrombin.",
+    "readingMinutes": 1
+  },
+  {
+    "id": "ART-NEW-0053",
+    "slug": "new-0053-heart-score-clinical-chest-pain-risk-assessment",
+    "title": "HEART Score: Clinical Chest Pain Risk Assessment",
+    "category": "High-Yield Tables",
+    "subject": "Clinical Scoring Systems",
+    "preview": "The HEART score combines History, ECG, Age, Risk factors and Troponin in evaluating selected chest pain presentations.",
+    "readingMinutes": 1
+  },
+  {
+    "id": "ART-NEW-0054",
+    "slug": "new-0054-sofa-and-qsofa-sepsis-risk-assessment-concepts",
+    "title": "SOFA and qSOFA: Sepsis Risk Assessment Concepts",
+    "category": "High-Yield Tables",
+    "subject": "Clinical Scoring Systems",
+    "preview": "SOFA summarizes organ dysfunction across respiratory, coagulation, liver, cardiovascular, neurologic and renal systems.",
+    "readingMinutes": 1
+  },
+  {
+    "id": "ART-NEW-0055",
+    "slug": "new-0055-news2-and-early-warning-scores-recognizing-deterioration",
+    "title": "NEWS2 and Early Warning Scores: Recognizing Deterioration",
+    "category": "High-Yield Tables",
+    "subject": "Clinical Scoring Systems",
+    "preview": "NEWS2 aggregates common vital signs including respiration, oxygen saturation, blood pressure, pulse, temperature and consciousness.",
+    "readingMinutes": 1
+  },
+  {
+    "id": "ART-NEW-0056",
+    "slug": "new-0056-apache-ii-critical-illness-score-and-limitations",
+    "title": "APACHE II: Critical Illness Score and Limitations",
+    "category": "High-Yield Tables",
+    "subject": "Clinical Scoring Systems",
+    "preview": "APACHE II uses acute physiology, age and chronic health factors to characterize severity in critically ill cohorts.",
+    "readingMinutes": 1
+  },
+  {
+    "id": "ART-NEW-0057",
+    "slug": "new-0057-cha2ds2-vasc-and-has-bled-different-purposes",
+    "title": "CHA2DS2-VASc and HAS-BLED: Different Purposes",
+    "category": "High-Yield Tables",
+    "subject": "Clinical Scoring Systems",
+    "preview": "CHA2DS2-VASc estimates thromboembolic risk in atrial fibrillation; HAS-BLED identifies modifiable bleeding risk factors.",
+    "readingMinutes": 1
+  },
+  {
+    "id": "ART-NEW-0058",
+    "slug": "new-0058-developmental-red-flags-beyond-routine-milestones",
+    "title": "Developmental Red Flags Beyond Routine Milestones",
+    "category": "High-Yield Tables",
+    "subject": "Developmental Milestones",
+    "preview": "Loss of previously attained skills is a developmental red flag at any age.",
+    "readingMinutes": 1
+  },
+  {
+    "id": "ART-NEW-0059",
+    "slug": "new-0059-growth-charts-and-growth-velocity-clinical-interpretation",
+    "title": "Growth Charts and Growth Velocity: Clinical Interpretation",
+    "category": "High-Yield Tables",
+    "subject": "Developmental Milestones",
+    "preview": "Growth requires serial measurements with correctly chosen age- and sex-appropriate charts.",
+    "readingMinutes": 1
+  },
+  {
+    "id": "ART-NEW-0060",
+    "slug": "new-0060-autism-red-flags-and-developmental-screening-principles",
+    "title": "Autism Red Flags and Developmental Screening Principles",
+    "category": "High-Yield Tables",
+    "subject": "Developmental Milestones",
+    "preview": "Social communication differences, restricted behaviors and developmental concerns merit a comprehensive assessment.",
+    "readingMinutes": 1
+  },
+  {
+    "id": "ART-NEW-0061",
+    "slug": "new-0061-vaccination-routes-and-administration-errors",
+    "title": "Vaccination Routes and Administration Errors",
+    "category": "High-Yield Tables",
+    "subject": "Immunization",
+    "preview": "Vaccine administration uses product-specific routes and sites, and the correct dose must be confirmed for each product.",
+    "readingMinutes": 1
+  },
+  {
+    "id": "ART-NEW-0062",
+    "slug": "new-0062-adverse-events-following-immunization-recognition-and-reporting",
+    "title": "Adverse Events Following Immunization: Recognition and Reporting",
+    "category": "High-Yield Tables",
+    "subject": "Immunization",
+    "preview": "Adverse events following immunization include coincidental events and programmatic errors as well as vaccine-related reactions.",
+    "readingMinutes": 1
+  },
+  {
+    "id": "ART-NEW-0063",
+    "slug": "new-0063-cold-chain-principles-and-vaccine-handling-basics",
+    "title": "Cold Chain Principles and Vaccine Handling Basics",
+    "category": "High-Yield Tables",
+    "subject": "Immunization",
+    "preview": "Many vaccines require controlled temperature monitoring throughout transport and storage.",
+    "readingMinutes": 1
+  },
+  {
+    "id": "ART-NEW-0064",
+    "slug": "new-0064-catch-up-vaccination-principles-not-memorized-shortcuts",
+    "title": "Catch-Up Vaccination: Principles, Not Memorized Shortcuts",
+    "category": "High-Yield Tables",
+    "subject": "Immunization",
+    "preview": "Catch-up schedules depend on age, previous valid doses, product choice and current national recommendations.",
+    "readingMinutes": 1
+  },
+  {
+    "id": "ART-NEW-0065",
+    "slug": "new-0065-inguinal-canal-hernia-landmarks-and-clinical-anatomy",
+    "title": "Inguinal Canal: Hernia Landmarks and Clinical Anatomy",
+    "category": "First Year MBBS",
+    "subject": "Anatomy",
+    "preview": "The inguinal canal conveys the spermatic cord in males and round ligament in females, with the ilioinguinal nerve traversing part of it.",
+    "readingMinutes": 1
+  },
+  {
+    "id": "ART-NEW-0066",
+    "slug": "new-0066-cranial-nerve-examination-localizing-common-lesions",
+    "title": "Cranial Nerve Examination: Localizing Common Lesions",
+    "category": "First Year MBBS",
+    "subject": "Anatomy",
+    "preview": "Cranial nerve localization combines the pattern of motor, sensory and autonomic deficits rather than one isolated sign.",
+    "readingMinutes": 1
+  },
+  {
+    "id": "ART-NEW-0067",
+    "slug": "new-0067-femoral-triangle-boundaries-contents-and-clinical-access",
+    "title": "Femoral Triangle: Boundaries, Contents and Clinical Access",
+    "category": "First Year MBBS",
+    "subject": "Anatomy",
+    "preview": "The femoral triangle is bounded superiorly by the inguinal ligament, laterally by sartorius and medially by adductor longus.",
+    "readingMinutes": 1
+  },
+  {
+    "id": "ART-NEW-0068",
+    "slug": "new-0068-portal-systemic-anastomoses-sites-and-clinical-significance",
+    "title": "Portal-Systemic Anastomoses: Sites and Clinical Significance",
+    "category": "First Year MBBS",
+    "subject": "Anatomy",
+    "preview": "Portal-systemic anastomoses connect portal venous tributaries to systemic veins at sites such as esophagus, rectum and abdominal wall.",
+    "readingMinutes": 1
+  },
+  {
+    "id": "ART-NEW-0069",
+    "slug": "new-0069-pressure-volume-loops-preload-afterload-and-contractility",
+    "title": "Pressure-Volume Loops: Preload, Afterload and Contractility",
+    "category": "First Year MBBS",
+    "subject": "Physiology",
+    "preview": "The left ventricular pressure-volume loop displays filling, isovolumetric contraction, ejection and isovolumetric relaxation.",
+    "readingMinutes": 1
+  },
+  {
+    "id": "ART-NEW-0070",
+    "slug": "new-0070-oxygen-hemoglobin-dissociation-curve-clinical-shifts",
+    "title": "Oxygen-Hemoglobin Dissociation Curve: Clinical Shifts",
+    "category": "First Year MBBS",
+    "subject": "Physiology",
+    "preview": "A right shift of the oxygen–hemoglobin dissociation curve favors oxygen unloading to tissues.",
+    "readingMinutes": 1
+  },
+  {
+    "id": "ART-NEW-0071",
+    "slug": "new-0071-renal-clearance-gfr-filtration-fraction-and-transport",
+    "title": "Renal Clearance: GFR, Filtration Fraction and Transport",
+    "category": "First Year MBBS",
+    "subject": "Physiology",
+    "preview": "Renal clearance is the hypothetical plasma volume from which a substance is completely removed per unit time.",
+    "readingMinutes": 1
+  },
+  {
+    "id": "ART-NEW-0072",
+    "slug": "new-0072-purine-metabolism-hyperuricemia-and-enzyme-defects",
+    "title": "Purine Metabolism: Hyperuricemia and Enzyme Defects",
+    "category": "First Year MBBS",
+    "subject": "Biochemistry",
+    "preview": "Purine degradation ultimately produces uric acid in humans, and xanthine oxidase contributes to this pathway.",
+    "readingMinutes": 1
+  },
+  {
+    "id": "ART-NEW-0073",
+    "slug": "new-0073-glycogen-storage-disorders-differentiating-classic-types",
+    "title": "Glycogen Storage Disorders: Differentiating Classic Types",
+    "category": "First Year MBBS",
+    "subject": "Biochemistry",
+    "preview": "Type I glycogen storage disease (von Gierke) involves glucose-6-phosphatase system dysfunction and fasting hypoglycemia.",
+    "readingMinutes": 1
+  },
+  {
+    "id": "ART-NEW-0074",
+    "slug": "new-0074-porphyrias-biochemical-patterns-and-clinical-clues",
+    "title": "Porphyrias: Biochemical Patterns and Clinical Clues",
+    "category": "First Year MBBS",
+    "subject": "Biochemistry",
+    "preview": "Acute intermittent porphyria can cause recurrent abdominal pain, autonomic symptoms and neuropathy without a characteristic photosensitive rash.",
+    "readingMinutes": 1
+  },
+  {
+    "id": "ART-NEW-0075",
+    "slug": "new-0075-amyloidosis-tissue-deposition-and-congo-red-findings",
+    "title": "Amyloidosis: Tissue Deposition and Congo Red Findings",
+    "category": "Second Year MBBS",
+    "subject": "Pathology",
+    "preview": "Amyloid represents extracellular deposition of misfolded fibrillar proteins that may damage organs.",
+    "readingMinutes": 1
+  },
+  {
+    "id": "ART-NEW-0076",
+    "slug": "new-0076-immune-complex-deposition-patterns-in-glomerulonephritis",
+    "title": "Immune Complex Deposition Patterns in Glomerulonephritis",
+    "category": "Second Year MBBS",
+    "subject": "Pathology",
+    "preview": "Immune-complex glomerulonephritis commonly produces granular immunofluorescence patterns in glomeruli.",
+    "readingMinutes": 1
+  },
+  {
+    "id": "ART-NEW-0077",
+    "slug": "new-0077-granulomatous-inflammation-caseating-versus-noncaseating",
+    "title": "Granulomatous Inflammation: Caseating Versus Noncaseating",
+    "category": "Second Year MBBS",
+    "subject": "Pathology",
+    "preview": "Granulomas are organized collections of activated macrophages that may form in chronic inflammatory conditions.",
+    "readingMinutes": 1
+  },
+  {
+    "id": "ART-NEW-0078",
+    "slug": "new-0078-dic-versus-ttp-and-hus-microangiopathic-patterns",
+    "title": "DIC Versus TTP and HUS: Microangiopathic Patterns",
+    "category": "Second Year MBBS",
+    "subject": "Pathology",
+    "preview": "DIC causes systemic coagulation activation with consumption of platelets and factors, often prolonging coagulation tests.",
+    "readingMinutes": 1
+  },
+  {
+    "id": "ART-NEW-0079",
+    "slug": "new-0079-tumor-suppressor-genes-and-oncogenes-exam-comparison",
+    "title": "Tumor Suppressor Genes and Oncogenes: Exam Comparison",
+    "category": "Second Year MBBS",
+    "subject": "Pathology",
+    "preview": "Proto-oncogenes become oncogenes through gain-of-function changes that promote abnormal growth.",
+    "readingMinutes": 1
+  },
+  {
+    "id": "ART-NEW-0080",
+    "slug": "new-0080-beta-blockers-receptor-selectivity-and-contraindications",
+    "title": "Beta Blockers: Receptor Selectivity and Contraindications",
+    "category": "Second Year MBBS",
+    "subject": "Pharmacology",
+    "preview": "Beta-1 receptors influence heart rate and contractility; beta-2 receptors influence bronchial and vascular smooth muscle.",
+    "readingMinutes": 1
+  },
+  {
+    "id": "ART-NEW-0081",
+    "slug": "new-0081-anticholinergic-toxicity-recognition-and-management-principles",
+    "title": "Anticholinergic Toxicity: Recognition and Management Principles",
+    "category": "Second Year MBBS",
+    "subject": "Pharmacology",
+    "preview": "Anticholinergic toxicity may cause dry skin, mydriasis, tachycardia, urinary retention, hyperthermia and delirium.",
+    "readingMinutes": 1
+  },
+  {
+    "id": "ART-NEW-0082",
+    "slug": "new-0082-diuretics-site-of-action-and-electrolyte-effects",
+    "title": "Diuretics: Site of Action and Electrolyte Effects",
+    "category": "Second Year MBBS",
+    "subject": "Pharmacology",
+    "preview": "Loop diuretics inhibit NKCC2 in the thick ascending limb and can increase urinary calcium excretion.",
+    "readingMinutes": 1
+  },
+  {
+    "id": "ART-NEW-0083",
+    "slug": "new-0083-serotonin-syndrome-versus-neuroleptic-malignant-syndrome",
+    "title": "Serotonin Syndrome Versus Neuroleptic Malignant Syndrome",
+    "category": "Second Year MBBS",
+    "subject": "Pharmacology",
+    "preview": "Serotonin syndrome often has rapid onset with clonus, hyperreflexia, autonomic activation and agitation.",
+    "readingMinutes": 1
+  },
+  {
+    "id": "ART-NEW-0084",
+    "slug": "new-0084-adverse-drug-reactions-type-a-and-type-b-patterns",
+    "title": "Adverse Drug Reactions: Type A and Type B Patterns",
+    "category": "Second Year MBBS",
+    "subject": "Pharmacology",
+    "preview": "Type A adverse drug reactions are predictable from known pharmacology and often dose-related.",
+    "readingMinutes": 1
+  },
+  {
+    "id": "ART-NEW-0085",
+    "slug": "new-0085-staphylococcus-versus-streptococcus-laboratory-differentiation",
+    "title": "Staphylococcus Versus Streptococcus: Laboratory Differentiation",
+    "category": "Second Year MBBS",
+    "subject": "Microbiology",
+    "preview": "Staphylococci are Gram-positive cocci often in clusters and generally catalase positive.",
+    "readingMinutes": 1
+  },
+  {
+    "id": "ART-NEW-0086",
+    "slug": "new-0086-mycobacterium-tuberculosis-diagnosis-and-drug-resistance",
+    "title": "Mycobacterium Tuberculosis: Diagnosis and Drug Resistance",
+    "category": "Second Year MBBS",
+    "subject": "Microbiology",
+    "preview": "Tuberculosis diagnosis integrates clinical suspicion with microbiological tests such as nucleic acid amplification and culture.",
+    "readingMinutes": 1
+  },
+  {
+    "id": "ART-NEW-0087",
+    "slug": "new-0087-malaria-smear-findings-falciparum-and-vivax-clues",
+    "title": "Malaria Smear Findings: Falciparum and Vivax Clues",
+    "category": "Second Year MBBS",
+    "subject": "Microbiology",
+    "preview": "Thick blood films improve sensitivity for malaria parasite detection; thin films help species identification and parasitemia assessment.",
+    "readingMinutes": 1
+  },
+  {
+    "id": "ART-NEW-0088",
+    "slug": "new-0088-hepatitis-b-serology-antigen-and-antibody-patterns",
+    "title": "Hepatitis B Serology: Antigen and Antibody Patterns",
+    "category": "Second Year MBBS",
+    "subject": "Microbiology",
+    "preview": "HBsAg generally indicates current hepatitis B infection; anti-HBs commonly indicates immunity.",
+    "readingMinutes": 1
+  },
+  {
+    "id": "ART-NEW-0089",
+    "slug": "new-0089-hiv-diagnostic-algorithms-window-period-and-testing",
+    "title": "HIV Diagnostic Algorithms: Window Period and Testing",
+    "category": "Second Year MBBS",
+    "subject": "Microbiology",
+    "preview": "Modern HIV testing commonly uses antigen-antibody assays followed by a defined supplemental testing algorithm.",
+    "readingMinutes": 1
+  },
+  {
+    "id": "ART-NEW-0090",
+    "slug": "new-0090-antibiotic-susceptibility-mic-breakpoints-and-interpretation",
+    "title": "Antibiotic Susceptibility: MIC, Breakpoints and Interpretation",
+    "category": "Second Year MBBS",
+    "subject": "Microbiology",
+    "preview": "MIC measures the lowest tested antimicrobial concentration preventing visible growth under standardized conditions.",
+    "readingMinutes": 1
+  },
+  {
+    "id": "ART-NEW-0091",
+    "slug": "new-0091-estimating-time-since-death-why-single-signs-mislead",
+    "title": "Estimating Time Since Death: Why Single Signs Mislead",
+    "category": "Third Year (Part 1)",
+    "subject": "Forensic Medicine",
+    "preview": "Algor, livor and rigor mortis are postmortem phenomena, but their timing varies with environment and circumstances.",
+    "readingMinutes": 1
+  },
+  {
+    "id": "ART-NEW-0092",
+    "slug": "new-0092-asphyxial-deaths-findings-and-interpretation-limits",
+    "title": "Asphyxial Deaths: Findings and Interpretation Limits",
+    "category": "Third Year (Part 1)",
+    "subject": "Forensic Medicine",
+    "preview": "Asphyxial deaths can arise through several mechanisms including airway obstruction, neck compression or impaired ventilation.",
+    "readingMinutes": 1
+  },
+  {
+    "id": "ART-NEW-0093",
+    "slug": "new-0093-poisoning-toxidromes-cholinergic-versus-anticholinergic",
+    "title": "Poisoning Toxidromes: Cholinergic Versus Anticholinergic",
+    "category": "Third Year (Part 1)",
+    "subject": "Forensic Medicine",
+    "preview": "A cholinergic toxidrome includes bronchorrhea, bradycardia, lacrimation, sweating and gastrointestinal hyperactivity.",
+    "readingMinutes": 1
+  },
+  {
+    "id": "ART-NEW-0094",
+    "slug": "new-0094-diagnostic-likelihood-ratios-from-pretest-to-posttest-probability",
+    "title": "Diagnostic Likelihood Ratios: From Pretest to Posttest Probability",
+    "category": "Third Year (Part 1)",
+    "subject": "PSM",
+    "preview": "Sensitivity and specificity describe test characteristics; likelihood ratios link test results to pretest probability.",
+    "readingMinutes": 1
+  },
+  {
+    "id": "ART-NEW-0095",
+    "slug": "new-0095-bias-confounding-and-effect-modification-exam-table",
+    "title": "Bias, Confounding and Effect Modification: Exam Table",
+    "category": "Third Year (Part 1)",
+    "subject": "PSM",
+    "preview": "Selection bias arises from how participants are sampled or retained; information bias arises from measurement errors.",
+    "readingMinutes": 1
+  },
+  {
+    "id": "ART-NEW-0096",
+    "slug": "new-0096-outbreak-investigation-epidemic-curve-and-attack-rate",
+    "title": "Outbreak Investigation: Epidemic Curve and Attack Rate",
+    "category": "Third Year (Part 1)",
+    "subject": "PSM",
+    "preview": "Outbreak investigation establishes whether cases exceed expectation and defines a case consistently.",
+    "readingMinutes": 1
+  },
+  {
+    "id": "ART-NEW-0097",
+    "slug": "new-0097-sudden-sensorineural-hearing-loss-recognition-and-urgent-referral",
+    "title": "Sudden Sensorineural Hearing Loss: Recognition and Urgent Referral",
+    "category": "Third Year (Part 1)",
+    "subject": "ENT",
+    "preview": "Sudden sensorineural hearing loss is an otologic urgency and may be mistaken for earwax or middle-ear disease.",
+    "readingMinutes": 1
+  },
+  {
+    "id": "ART-NEW-0098",
+    "slug": "new-0098-vertigo-at-the-bedside-bppv-versus-central-causes",
+    "title": "Vertigo at the Bedside: BPPV Versus Central Causes",
+    "category": "Third Year (Part 1)",
+    "subject": "ENT",
+    "preview": "Brief positional vertigo triggered by head movement suggests BPPV, whereas continuous severe vertigo requires broader assessment.",
+    "readingMinutes": 1
+  },
+  {
+    "id": "ART-NEW-0099",
+    "slug": "new-0099-epistaxis-anterior-versus-posterior-bleeding",
+    "title": "Epistaxis: Anterior Versus Posterior Bleeding",
+    "category": "Third Year (Part 1)",
+    "subject": "ENT",
+    "preview": "Anterior epistaxis commonly arises from the anterior septal vascular plexus.",
+    "readingMinutes": 1
+  },
+  {
+    "id": "ART-NEW-0100",
+    "slug": "new-0100-painful-red-eye-acute-glaucoma-versus-uveitis",
+    "title": "Painful Red Eye: Acute Glaucoma Versus Uveitis",
+    "category": "Third Year (Part 1)",
+    "subject": "Ophthalmology",
+    "preview": "Acute angle-closure glaucoma may cause severe eye pain, headache, halos, nausea and a hazy cornea.",
+    "readingMinutes": 1
+  },
+  {
+    "id": "ART-NEW-0101",
+    "slug": "new-0101-papilledema-optic-disc-findings-and-clinical-context",
+    "title": "Papilledema: Optic Disc Findings and Clinical Context",
+    "category": "Third Year (Part 1)",
+    "subject": "Ophthalmology",
+    "preview": "Papilledema is optic disc swelling associated with raised intracranial pressure, but disc swelling has other causes.",
+    "readingMinutes": 1
+  },
+  {
+    "id": "ART-NEW-0102",
+    "slug": "new-0102-pupillary-light-reflex-afferent-and-efferent-defects",
+    "title": "Pupillary Light Reflex: Afferent and Efferent Defects",
+    "category": "Third Year (Part 1)",
+    "subject": "Ophthalmology",
+    "preview": "The light reflex afferent limb travels via optic nerve II; the efferent limb travels via oculomotor nerve III.",
+    "readingMinutes": 1
+  },
+  {
+    "id": "ART-NEW-0103",
+    "slug": "new-0103-acute-coronary-syndrome-ecg-troponin-and-risk-assessment",
+    "title": "Acute Coronary Syndrome: ECG, Troponin and Risk Assessment",
+    "category": "Final Year (Part 2)",
+    "subject": "Medicine",
+    "preview": "Acute coronary syndrome includes unstable angina, NSTEMI and STEMI, with differences in ECG and myocardial injury evidence.",
+    "readingMinutes": 1
+  },
+  {
+    "id": "ART-NEW-0104",
+    "slug": "new-0104-heart-failure-reduced-versus-preserved-ejection-fraction",
+    "title": "Heart Failure: Reduced Versus Preserved Ejection Fraction",
+    "category": "Final Year (Part 2)",
+    "subject": "Medicine",
+    "preview": "Heart failure with reduced ejection fraction involves systolic pump impairment; preserved ejection fraction involves elevated filling pressures despite non-reduced EF.",
+    "readingMinutes": 1
+  },
+  {
+    "id": "ART-NEW-0105",
+    "slug": "new-0105-pulmonary-embolism-pretest-probability-and-imaging",
+    "title": "Pulmonary Embolism: Pretest Probability and Imaging",
+    "category": "Final Year (Part 2)",
+    "subject": "Medicine",
+    "preview": "Pulmonary embolism may cause dyspnea, pleuritic pain, tachycardia, syncope or hypoxemia; presentations vary.",
+    "readingMinutes": 1
+  },
+  {
+    "id": "ART-NEW-0106",
+    "slug": "new-0106-thyroid-storm-versus-myxedema-coma-recognition",
+    "title": "Thyroid Storm Versus Myxedema Coma: Recognition",
+    "category": "Final Year (Part 2)",
+    "subject": "Medicine",
+    "preview": "Thyroid storm is life-threatening thyrotoxicosis with severe systemic decompensation such as hyperthermia, tachyarrhythmia or delirium.",
+    "readingMinutes": 1
+  },
+  {
+    "id": "ART-NEW-0107",
+    "slug": "new-0107-tia-recognition-and-secondary-stroke-prevention-principles",
+    "title": "TIA Recognition and Secondary Stroke Prevention Principles",
+    "category": "Final Year (Part 2)",
+    "subject": "Medicine",
+    "preview": "TIA is transient focal neurological dysfunction from ischemia without evidence of acute infarction in the modern tissue-based concept.",
+    "readingMinutes": 1
+  },
+  {
+    "id": "ART-NEW-0108",
+    "slug": "new-0108-acute-cholecystitis-versus-biliary-colic-key-differences",
+    "title": "Acute Cholecystitis Versus Biliary Colic: Key Differences",
+    "category": "Final Year (Part 2)",
+    "subject": "Surgery",
+    "preview": "Biliary colic typically produces episodic pain from transient cystic duct obstruction without persistent inflammation.",
+    "readingMinutes": 1
+  },
+  {
+    "id": "ART-NEW-0109",
+    "slug": "new-0109-perforated-peptic-ulcer-peritonitis-and-initial-assessment",
+    "title": "Perforated Peptic Ulcer: Peritonitis and Initial Assessment",
+    "category": "Final Year (Part 2)",
+    "subject": "Surgery",
+    "preview": "Perforated peptic ulcer can present with sudden severe abdominal pain, generalized peritonitis and physiological instability.",
+    "readingMinutes": 1
+  },
+  {
+    "id": "ART-NEW-0110",
+    "slug": "new-0110-breast-lump-evaluation-triple-assessment-principles",
+    "title": "Breast Lump Evaluation: Triple Assessment Principles",
+    "category": "Final Year (Part 2)",
+    "subject": "Surgery",
+    "preview": "Triple assessment of a breast lump integrates clinical examination, appropriate imaging and tissue diagnosis when indicated.",
+    "readingMinutes": 1
+  },
+  {
+    "id": "ART-NEW-0111",
+    "slug": "new-0111-ectopic-pregnancy-presentation-and-diagnostic-approach",
+    "title": "Ectopic Pregnancy: Presentation and Diagnostic Approach",
+    "category": "Final Year (Part 2)",
+    "subject": "OBG",
+    "preview": "Ectopic pregnancy can present with amenorrhea, unilateral pain, vaginal bleeding or collapse from intra-abdominal hemorrhage.",
+    "readingMinutes": 1
+  },
+  {
+    "id": "ART-NEW-0112",
+    "slug": "new-0112-rh-alloimmunization-screening-and-fetal-risks",
+    "title": "Rh Alloimmunization: Screening and Fetal Risks",
+    "category": "Final Year (Part 2)",
+    "subject": "OBG",
+    "preview": "Rh alloimmunization occurs when maternal antibodies target fetal red-cell antigens inherited from the father.",
+    "readingMinutes": 1
+  },
+  {
+    "id": "ART-NEW-0113",
+    "slug": "new-0113-gestational-diabetes-screening-and-follow-up-principles",
+    "title": "Gestational Diabetes: Screening and Follow-Up Principles",
+    "category": "Final Year (Part 2)",
+    "subject": "OBG",
+    "preview": "Gestational diabetes is hyperglycemia first recognized during pregnancy and is associated with maternal and fetal complications.",
+    "readingMinutes": 1
+  },
+  {
+    "id": "ART-NEW-0114",
+    "slug": "new-0114-dehydration-in-children-clinical-assessment",
+    "title": "Dehydration in Children: Clinical Assessment",
+    "category": "Final Year (Part 2)",
+    "subject": "Pediatrics",
+    "preview": "Children with dehydration may have reduced urine output, dry mucosae, sunken eyes, thirst or altered activity.",
+    "readingMinutes": 1
+  },
+  {
+    "id": "ART-NEW-0115",
+    "slug": "new-0115-neonatal-jaundice-physiologic-versus-pathologic-features",
+    "title": "Neonatal Jaundice: Physiologic Versus Pathologic Features",
+    "category": "Final Year (Part 2)",
+    "subject": "Pediatrics",
+    "preview": "Newborn jaundice requires interpretation by age in hours, gestation, bilirubin level and risk factors.",
+    "readingMinutes": 1
+  },
+  {
+    "id": "ART-NEW-0116",
+    "slug": "new-0116-septic-arthritis-versus-transient-synovitis-in-children",
+    "title": "Septic Arthritis Versus Transient Synovitis in Children",
+    "category": "Final Year (Part 2)",
+    "subject": "Orthopedics",
+    "preview": "Septic arthritis in a child is an urgent joint infection that may present with fever, severe pain and refusal to bear weight.",
+    "readingMinutes": 1
+  },
+  {
+    "id": "ART-NEW-0117",
+    "slug": "new-0117-ct-contrast-safety-kidney-risk-and-prior-reactions",
+    "title": "CT Contrast Safety: Kidney Risk and Prior Reactions",
+    "category": "Final Year (Part 2)",
+    "subject": "Radiology",
+    "preview": "Contrast-related kidney risk depends on baseline kidney function, acute kidney injury, volume status and the specific imaging context.",
+    "readingMinutes": 1
+  },
+  {
+    "id": "ART-NEW-0118",
+    "slug": "new-0118-difficult-airway-oxygenation-and-backup-planning",
+    "title": "Difficult Airway: Oxygenation and Backup Planning",
+    "category": "Final Year (Part 2)",
+    "subject": "Anesthesia",
+    "preview": "A difficult airway plan prioritizes oxygenation, patient preparation, operator skill and backup strategies.",
+    "readingMinutes": 1
   }
 ]

@@ -1,0 +1,55 @@
+{
+  "id": "ART-NEW-0045",
+  "slug": "new-0045-answer-review-classifying-knowledge-versus-reading-errors",
+  "title": "Answer Review: Classifying Knowledge Versus Reading Errors",
+  "category": "Exam Strategy",
+  "subject": "Time Management",
+  "preview": "Classify each missed MCQ as knowledge gap, misread stem, poor differentiation, premature closure or time management error.",
+  "quickRevision": [
+    "Classify each missed MCQ as knowledge gap, misread stem, poor differentiation, premature closure or time management error.",
+    "Repeated mistakes across related cases are more informative than one isolated wrong option.",
+    "Revisit the original reasoning after reading the explanation; do not only memorize the correct letter."
+  ],
+  "sections": [
+    {
+      "title": "Recognize the question type",
+      "type": "pearl",
+      "points": [
+        "Classify each missed MCQ as knowledge gap, misread stem, poor differentiation, premature closure or time management error.",
+        "Keep a small error log with the corrective concept and one action for the next review."
+      ]
+    },
+    {
+      "title": "Use this in timed practice",
+      "type": "table",
+      "points": [
+        "Repeated mistakes across related cases are more informative than one isolated wrong option.",
+        "Revisit the original reasoning after reading the explanation; do not only memorize the correct letter."
+      ]
+    },
+    {
+      "title": "Exam trap — avoid this mistake",
+      "type": "trap",
+      "points": [
+        "A higher raw practice count is less useful than correcting a recurring misconception."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Which is the best first step after reviewing a wrong MCQ?",
+      "options": [
+        "Identify the type of error",
+        "Memorize the answer letter only",
+        "Delete the question",
+        "Ignore the explanation"
+      ],
+      "correct": 0,
+      "explanation": "Identify the type of error. Classify each missed MCQ as knowledge gap, misread stem, poor differentiation, premature closure or time management error.",
+      "type": "High-yield concept check"
+    }
+  ],
+  "images": [],
+  "medicalEditorialStatus": "author-drafted-not-clinician-peer-reviewed",
+  "inlineLinks": []
+}

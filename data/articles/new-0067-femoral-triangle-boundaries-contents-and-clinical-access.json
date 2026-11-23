@@ -1,0 +1,55 @@
+{
+  "id": "ART-NEW-0067",
+  "slug": "new-0067-femoral-triangle-boundaries-contents-and-clinical-access",
+  "title": "Femoral Triangle: Boundaries, Contents and Clinical Access",
+  "category": "First Year MBBS",
+  "subject": "Anatomy",
+  "preview": "The femoral triangle is bounded superiorly by the inguinal ligament, laterally by sartorius and medially by adductor longus.",
+  "quickRevision": [
+    "The femoral triangle is bounded superiorly by the inguinal ligament, laterally by sartorius and medially by adductor longus.",
+    "The femoral sheath encloses vessels but not the femoral nerve.",
+    "Femoral vascular access requires ultrasound and careful distinction of artery and vein where available."
+  ],
+  "sections": [
+    {
+      "title": "Core biomedical mechanism",
+      "type": "pearl",
+      "points": [
+        "The femoral triangle is bounded superiorly by the inguinal ligament, laterally by sartorius and medially by adductor longus.",
+        "From lateral to medial, the usual relationship is femoral nerve, artery, vein and lymphatic space."
+      ]
+    },
+    {
+      "title": "Clinical application",
+      "type": "table",
+      "points": [
+        "The femoral sheath encloses vessels but not the femoral nerve.",
+        "Femoral vascular access requires ultrasound and careful distinction of artery and vein where available."
+      ]
+    },
+    {
+      "title": "Exam trap — avoid this mistake",
+      "type": "trap",
+      "points": [
+        "The femoral nerve lies outside the femoral sheath despite being within the triangle."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "question": "What structure is most lateral in the classic NAVL arrangement?",
+      "options": [
+        "Femoral nerve",
+        "Deep inguinal lymph node",
+        "Femoral canal",
+        "Femoral vein"
+      ],
+      "correct": 0,
+      "explanation": "From lateral to medial, the usual relationship is femoral nerve, artery, vein and lymphatic space.",
+      "type": "High-yield concept check"
+    }
+  ],
+  "images": [],
+  "medicalEditorialStatus": "author-drafted-not-clinician-peer-reviewed",
+  "inlineLinks": []
+}

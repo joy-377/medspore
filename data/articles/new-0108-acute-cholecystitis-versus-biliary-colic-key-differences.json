@@ -1,0 +1,55 @@
+{
+  "id": "ART-NEW-0108",
+  "slug": "new-0108-acute-cholecystitis-versus-biliary-colic-key-differences",
+  "title": "Acute Cholecystitis Versus Biliary Colic: Key Differences",
+  "category": "Final Year (Part 2)",
+  "subject": "Surgery",
+  "preview": "Biliary colic typically produces episodic pain from transient cystic duct obstruction without persistent inflammation.",
+  "quickRevision": [
+    "Biliary colic typically produces episodic pain from transient cystic duct obstruction without persistent inflammation.",
+    "Ultrasound may show gallstones, gallbladder wall changes and pericholecystic findings.",
+    "Cholangitis must be considered when biliary symptoms are accompanied by systemic infection and cholestasis."
+  ],
+  "sections": [
+    {
+      "title": "Clinical syndrome and red flags",
+      "type": "pearl",
+      "points": [
+        "Biliary colic typically produces episodic pain from transient cystic duct obstruction without persistent inflammation.",
+        "Acute cholecystitis more often involves sustained pain, localized tenderness, and inflammatory features."
+      ]
+    },
+    {
+      "title": "Differentiate and manage",
+      "type": "table",
+      "points": [
+        "Ultrasound may show gallstones, gallbladder wall changes and pericholecystic findings.",
+        "Cholangitis must be considered when biliary symptoms are accompanied by systemic infection and cholestasis."
+      ]
+    },
+    {
+      "title": "Exam trap — avoid this mistake",
+      "type": "trap",
+      "points": [
+        "Do not use presence of gallstones alone to conclude that every abdominal pain episode is acute cholecystitis."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Which feature favors acute cholecystitis over uncomplicated biliary colic?",
+      "options": [
+        "Brief self-limited pain without fever",
+        "Normal inflammatory markers always",
+        "Persistent RUQ pain with inflammation",
+        "Recurrent painless reflux only"
+      ],
+      "correct": 2,
+      "explanation": "Persistent RUQ pain with inflammation. Biliary colic typically produces episodic pain from transient cystic duct obstruction without persistent inflammation.",
+      "type": "High-yield concept check"
+    }
+  ],
+  "images": [],
+  "medicalEditorialStatus": "author-drafted-not-clinician-peer-reviewed",
+  "inlineLinks": []
+}

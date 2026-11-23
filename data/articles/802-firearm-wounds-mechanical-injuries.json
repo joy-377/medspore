@@ -5,8 +5,56 @@
   "category": "Third Year (Part 1)",
   "subject": "Forensic Medicine",
   "title": "Firearm Wounds & Mechanical Injuries",
-  "preview": "Contact vs close range gunshot wounds, abraded collars, and lacerations vs incised wounds...",
-  "body": "<p><b>Firearm Entry Wounds Classification:</b><br>• <b>Contact Range:</b> Muzzle imprint on skin, stellate/star-shaped tearing over bony prominences (e.g., skull due to expanding pocket of gases), cherry-red discoloration from subcutaneous carbon monoxide absorption.<br>• <b>Close Range (&lt;6 inches):</b> Singeing of hairs, burning of skin (flame effect), carbon sooting/blackening (smoke deposit, can be wiped off with water).<br>• <b>Intermediate Range (up to 2–3 feet):</b> <b>Tattooing / Stippling</b> (unburnt/partially burnt gunpowder grains embedded into the dermis; <i>cannot be washed off</i>).<br>• <b>Distant Range (&gt;3 feet):</b> Pure mechanical projectile effect. Circular hole surrounded by an <b>Abraded collar / Contusion margin</b> and a dirt/grease collar. No tattooing, burning, or sooting present.</p><p><b>Incised Wound vs Lacerated Wound Differentiation:</b><br>• <i>Incised Wound:</i> Sharp weapon; length &gt; depth; clean-cut regular margins; no tissue bridging; hair cut sharply; no bruising of surrounding skin.<br>• <i>Lacerated Wound:</i> Blunt force; irregular/torn margins; <b>Tissue bridging present</b> (nerve fibers, fibrous strands, and vessels stretch across the wound base); hair crushed/bulb intact; surrounding abrasion/bruising present.</p>",
+  "preview": "In forensic medicine, wound interpretation requires morphology, scene evidence and medical correlation rather than a single absolute sign.",
+  "body": "",
   "readingMinutes": 2,
-  "reviewStatus": "editorially-reformatted-legacy-content"
+  "reviewStatus": "legacy-medical-fact-check-required",
+  "sections": [
+    {
+      "title": "Incised wound versus laceration",
+      "type": "table",
+      "points": [
+        "Sharp-force incisions often have relatively clean margins, whereas blunt-force lacerations can show crushing and bridges of tissue.",
+        "Context can complicate appearance, especially over bony prominences."
+      ]
+    },
+    {
+      "title": "Interpret firearm injuries cautiously",
+      "type": "pearl",
+      "points": [
+        "Consider abrasion collars, soot, stippling, range, trajectory and secondary impacts only as a pattern of evidence.",
+        "A suspected entry or exit wound cannot be assigned accurately from a single surface feature in all cases."
+      ]
+    },
+    {
+      "title": "Exam trap",
+      "type": "trap",
+      "points": [
+        "Do not declare a definitive range or manner of injury from one isolated sign.",
+        "A thorough medico-legal examination requires documentation and appropriate chain of custody."
+      ]
+    }
+  ],
+  "images": [],
+  "quickRevision": [
+    "An incised wound usually has sharply defined edges and little tissue bridging.",
+    "Lacerations from blunt force often have irregular margins and tissue bridges, although overlap occurs.",
+    "Entry/exit interpretation in firearm injury requires scene, trajectory, range and weapon information."
+  ],
+  "medicalEditorialStatus": "legacy-requires-clinician-review",
+  "quiz": [
+    {
+      "question": "What is needed to interpret firearm injury findings?",
+      "options": [
+        "Only garment size",
+        "Only the victim's age",
+        "Only wound color",
+        "Scene, trajectory, wound morphology and forensic correlation"
+      ],
+      "correct": 3,
+      "explanation": "Scene, trajectory, wound morphology and forensic correlation. Incised Wound vs Lacerated Wound Differentiation: • Incised Wound: Sharp weapon; length > depth; clean-cut regular margins; no tissue bridging; hair cut sharply; no bruising of surrounding skin.",
+      "type": "High-yield recall"
+    }
+  ],
+  "valueSources": []
 }

@@ -1,0 +1,55 @@
+{
+  "id": "ART-NEW-0040",
+  "slug": "new-0040-d-dimer-pretest-probability-and-false-positives",
+  "title": "D-Dimer: Pretest Probability and False Positives",
+  "category": "Critical Lab Values",
+  "subject": "Pathology Markers",
+  "preview": "D-dimer is sensitive to fibrin turnover but nonspecific; infection, pregnancy, surgery and age can increase it.",
+  "quickRevision": [
+    "D-dimer is sensitive to fibrin turnover but nonspecific; infection, pregnancy, surgery and age can increase it.",
+    "High clinical probability for pulmonary embolism generally requires appropriate imaging or another definitive approach, not D-dimer reassurance.",
+    "Different laboratories and assays use different units and cutoffs, so interpret the report accordingly."
+  ],
+  "sections": [
+    {
+      "title": "Interpret the result in context",
+      "type": "pearl",
+      "points": [
+        "D-dimer is sensitive to fibrin turnover but nonspecific; infection, pregnancy, surgery and age can increase it.",
+        "Its diagnostic value depends on pretest probability and use of a validated rule-out strategy."
+      ]
+    },
+    {
+      "title": "Clinical interpretation & next steps",
+      "type": "table",
+      "points": [
+        "High clinical probability for pulmonary embolism generally requires appropriate imaging or another definitive approach, not D-dimer reassurance.",
+        "Different laboratories and assays use different units and cutoffs, so interpret the report accordingly."
+      ]
+    },
+    {
+      "title": "Exam trap — avoid this mistake",
+      "type": "trap",
+      "points": [
+        "A positive D-dimer cannot confirm pulmonary embolism by itself."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "question": "When is a negative D-dimer most useful in suspected PE?",
+      "options": [
+        "Appropriate low-risk or selected intermediate-risk rule-out pathways",
+        "Every postoperative patient regardless of risk",
+        "Patients with high clinical probability without imaging",
+        "Confirmed massive PE with shock"
+      ],
+      "correct": 0,
+      "explanation": "Appropriate low-risk or selected intermediate-risk rule-out pathways. Its diagnostic value depends on pretest probability and use of a validated rule-out strategy.",
+      "type": "High-yield concept check"
+    }
+  ],
+  "images": [],
+  "medicalEditorialStatus": "author-drafted-not-clinician-peer-reviewed",
+  "inlineLinks": []
+}

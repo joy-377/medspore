@@ -1,0 +1,55 @@
+{
+  "id": "ART-NEW-0086",
+  "slug": "new-0086-mycobacterium-tuberculosis-diagnosis-and-drug-resistance",
+  "title": "Mycobacterium Tuberculosis: Diagnosis and Drug Resistance",
+  "category": "Second Year MBBS",
+  "subject": "Microbiology",
+  "preview": "Tuberculosis diagnosis integrates clinical suspicion with microbiological tests such as nucleic acid amplification and culture.",
+  "quickRevision": [
+    "Tuberculosis diagnosis integrates clinical suspicion with microbiological tests such as nucleic acid amplification and culture.",
+    "Rapid molecular tests can identify Mycobacterium tuberculosis complex and selected resistance markers.",
+    "Drug susceptibility testing and public-health context guide treatment selection."
+  ],
+  "sections": [
+    {
+      "title": "Pathophysiology & identification",
+      "type": "pearl",
+      "points": [
+        "Tuberculosis diagnosis integrates clinical suspicion with microbiological tests such as nucleic acid amplification and culture.",
+        "Acid-fast microscopy may demonstrate organisms but does not fully characterize drug resistance."
+      ]
+    },
+    {
+      "title": "Diagnostic and treatment connections",
+      "type": "table",
+      "points": [
+        "Rapid molecular tests can identify Mycobacterium tuberculosis complex and selected resistance markers.",
+        "Drug susceptibility testing and public-health context guide treatment selection."
+      ]
+    },
+    {
+      "title": "Exam trap — avoid this mistake",
+      "type": "trap",
+      "points": [
+        "A negative smear does not exclude tuberculosis, especially in paucibacillary disease."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Which test can rapidly identify MTB genetic material and selected resistance markers?",
+      "options": [
+        "Routine urinalysis",
+        "Serum lipase",
+        "Molecular nucleic acid amplification test",
+        "Troponin assay"
+      ],
+      "correct": 2,
+      "explanation": "Molecular nucleic acid amplification test. Tuberculosis diagnosis integrates clinical suspicion with microbiological tests such as nucleic acid amplification and culture.",
+      "type": "High-yield concept check"
+    }
+  ],
+  "images": [],
+  "medicalEditorialStatus": "author-drafted-not-clinician-peer-reviewed",
+  "inlineLinks": []
+}

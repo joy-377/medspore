@@ -1,0 +1,55 @@
+{
+  "id": "ART-NEW-0118",
+  "slug": "new-0118-difficult-airway-oxygenation-and-backup-planning",
+  "title": "Difficult Airway: Oxygenation and Backup Planning",
+  "category": "Final Year (Part 2)",
+  "subject": "Anesthesia",
+  "preview": "A difficult airway plan prioritizes oxygenation, patient preparation, operator skill and backup strategies.",
+  "quickRevision": [
+    "A difficult airway plan prioritizes oxygenation, patient preparation, operator skill and backup strategies.",
+    "Failed intubation pathways require clear limits on repeated attempts and timely rescue ventilation.",
+    "Team communication, equipment readiness and escalation pathways are as important as a single device choice."
+  ],
+  "sections": [
+    {
+      "title": "Clinical syndrome and red flags",
+      "type": "pearl",
+      "points": [
+        "A difficult airway plan prioritizes oxygenation, patient preparation, operator skill and backup strategies.",
+        "Assessment includes mouth opening, neck mobility, airway pathology, physiology and aspiration risk."
+      ]
+    },
+    {
+      "title": "Differentiate and manage",
+      "type": "table",
+      "points": [
+        "Failed intubation pathways require clear limits on repeated attempts and timely rescue ventilation.",
+        "Team communication, equipment readiness and escalation pathways are as important as a single device choice."
+      ]
+    },
+    {
+      "title": "Exam trap — avoid this mistake",
+      "type": "trap",
+      "points": [
+        "Successful tracheal tube placement is not the only goal; maintaining oxygenation is central."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "question": "What is the overriding priority in managing a difficult airway?",
+      "options": [
+        "Prioritize equipment branding",
+        "Avoid backup plans",
+        "Maintain oxygenation",
+        "Maximize number of repeated attempts"
+      ],
+      "correct": 2,
+      "explanation": "Maintain oxygenation. A difficult airway plan prioritizes oxygenation, patient preparation, operator skill and backup strategies.",
+      "type": "High-yield concept check"
+    }
+  ],
+  "images": [],
+  "medicalEditorialStatus": "author-drafted-not-clinician-peer-reviewed",
+  "inlineLinks": []
+}

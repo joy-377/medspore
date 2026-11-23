@@ -1,0 +1,63 @@
+{
+  "id": "ART-NEW-0016",
+  "slug": "new-0016-charcot-triad-in-cholangitis-clinical-context-and-pitfalls",
+  "title": "Charcot Triad in Cholangitis: Clinical Context and Pitfalls",
+  "category": "Triads & Signs",
+  "subject": "Medical Triads",
+  "preview": "Charcot triad in acute cholangitis comprises fever, right upper quadrant pain and jaundice.",
+  "quickRevision": [
+    "Charcot triad in acute cholangitis comprises fever, right upper quadrant pain and jaundice.",
+    "Ultrasound and biliary imaging assess obstruction, while antibiotics and timely biliary drainage may be required.",
+    "Cholangitis must be differentiated from uncomplicated biliary colic or cholecystitis by systemic illness and cholestatic findings."
+  ],
+  "sections": [
+    {
+      "title": "Recognize the pattern",
+      "type": "pearl",
+      "points": [
+        "Charcot triad in acute cholangitis comprises fever, right upper quadrant pain and jaundice.",
+        "Obstruction and infected bile may progress to bacteremia and sepsis; some patients lack the full classic triad."
+      ]
+    },
+    {
+      "title": "What this finding does—and does not—mean",
+      "type": "table",
+      "points": [
+        "Ultrasound and biliary imaging assess obstruction, while antibiotics and timely biliary drainage may be required.",
+        "Cholangitis must be differentiated from uncomplicated biliary colic or cholecystitis by systemic illness and cholestatic findings."
+      ]
+    },
+    {
+      "title": "Memory aid",
+      "type": "mnemonic",
+      "points": [
+        "Charcot triad: fever, right-upper-quadrant pain and jaundice.",
+        "An incomplete triad does not exclude acute cholangitis."
+      ]
+    },
+    {
+      "title": "Exam trap — avoid this mistake",
+      "type": "trap",
+      "points": [
+        "Absence of the complete triad does not exclude acute cholangitis."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "question": "What is one component of Charcot triad of cholangitis?",
+      "options": [
+        "Polyuria",
+        "Hemoptysis",
+        "Jaundice",
+        "Hemiparesis"
+      ],
+      "correct": 2,
+      "explanation": "Charcot triad in acute cholangitis comprises fever, right upper quadrant pain and jaundice.",
+      "type": "High-yield concept check"
+    }
+  ],
+  "images": [],
+  "medicalEditorialStatus": "author-drafted-not-clinician-peer-reviewed",
+  "inlineLinks": []
+}

@@ -1,0 +1,55 @@
+{
+  "id": "ART-NEW-0065",
+  "slug": "new-0065-inguinal-canal-hernia-landmarks-and-clinical-anatomy",
+  "title": "Inguinal Canal: Hernia Landmarks and Clinical Anatomy",
+  "category": "First Year MBBS",
+  "subject": "Anatomy",
+  "preview": "The inguinal canal conveys the spermatic cord in males and round ligament in females, with the ilioinguinal nerve traversing part of it.",
+  "quickRevision": [
+    "The inguinal canal conveys the spermatic cord in males and round ligament in females, with the ilioinguinal nerve traversing part of it.",
+    "Identify the inguinal ligament, deep and superficial rings and posterior wall when interpreting groin anatomy.",
+    "Femoral hernias pass below the inguinal ligament and carry important strangulation risk."
+  ],
+  "sections": [
+    {
+      "title": "Core biomedical mechanism",
+      "type": "pearl",
+      "points": [
+        "The inguinal canal conveys the spermatic cord in males and round ligament in females, with the ilioinguinal nerve traversing part of it.",
+        "An indirect inguinal hernia enters the deep ring lateral to the inferior epigastric vessels; a direct hernia projects medially through Hesselbach triangle."
+      ]
+    },
+    {
+      "title": "Clinical application",
+      "type": "table",
+      "points": [
+        "Identify the inguinal ligament, deep and superficial rings and posterior wall when interpreting groin anatomy.",
+        "Femoral hernias pass below the inguinal ligament and carry important strangulation risk."
+      ]
+    },
+    {
+      "title": "Exam trap — avoid this mistake",
+      "type": "trap",
+      "points": [
+        "A lump's relation to the inferior epigastric vessels is an anatomical distinction, not safely established by surface examination alone."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "question": "An indirect inguinal hernia lies on which side of inferior epigastric vessels?",
+      "options": [
+        "Always posterior to femoral artery",
+        "Lateral",
+        "Medial",
+        "Through the obturator canal"
+      ],
+      "correct": 1,
+      "explanation": "An indirect inguinal hernia enters the deep ring lateral to the inferior epigastric vessels; a direct hernia projects medially through Hesselbach triangle.",
+      "type": "High-yield concept check"
+    }
+  ],
+  "images": [],
+  "medicalEditorialStatus": "author-drafted-not-clinician-peer-reviewed",
+  "inlineLinks": []
+}

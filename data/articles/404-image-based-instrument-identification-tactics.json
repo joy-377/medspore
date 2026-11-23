@@ -8,5 +8,43 @@
   "preview": "Radiology slices, histopathology slides, and surgical instruments...",
   "body": "<p><b>Step 1: Read the Vignette Before Staring at the Image</b><br>Images in INI-CET are often confirmatory rather than purely diagnostic. The patient's age, gender, and clinical presentation narrow the differential to 1–2 possibilities before analyzing the CT or biopsy slide.</p><p><b>Step 2: Know the Classical Buzzwords:</b><br>• <i>Onion-skinning:</i> Ewing Sarcoma (bone) or Hyperplastic arteriolosclerosis (renal).<br>• <i>Sunburst pattern / Codman triangle:</i> Osteosarcoma.<br>• <i>Soap-bubble appearance:</i> Giant Cell Tumor (epiphyseal).<br>• <i>Signet ring cells:</i> Gastric Adenocarcinoma (Diffuse type).</p><p><b>Instruments &amp; Sutures:</b> Review standard surgical trays (Allis, Babcocks, Spencer Wells) and suture materials (absorbable vs non-absorbable, natural vs synthetic).</p>",
   "readingMinutes": 2,
-  "reviewStatus": "editorially-reformatted-legacy-content"
+  "reviewStatus": "legacy-medical-fact-check-required",
+  "sections": [
+    {
+      "title": "Step 1: Read the Vignette Before Staring at the Image",
+      "html": "<p><b>Step 1: Read the Vignette Before Staring at the Image</b><br/>Images in INI-CET are often confirmatory rather than purely diagnostic. The patient's age, gender, and clinical presentation narrow the differential to 1–2 possibilities before analyzing the CT or biopsy slide.</p>",
+      "type": ""
+    },
+    {
+      "title": "Step 2: Know the Classical Buzzwords",
+      "html": "<p><b>Step 2: Know the Classical Buzzwords:</b><br/>• <i>Onion-skinning:</i> Ewing Sarcoma (bone) or Hyperplastic arteriolosclerosis (renal).<br/>• <i>Sunburst pattern / Codman triangle:</i> Osteosarcoma.<br/>• <i>Soap-bubble appearance:</i> Giant Cell Tumor (epiphyseal).<br/>• <i>Signet ring cells:</i> Gastric Adenocarcinoma (Diffuse type).</p>",
+      "type": ""
+    },
+    {
+      "title": "Instruments & Sutures",
+      "html": "<p><b>Instruments &amp; Sutures:</b> Review standard surgical trays (Allis, Babcocks, Spencer Wells) and suture materials (absorbable vs non-absorbable, natural vs synthetic).</p>",
+      "type": ""
+    }
+  ],
+  "images": [],
+  "quickRevision": [
+    "Step 1: Read the Vignette Before Staring at the Image Images in INI-CET are often confirmatory rather than purely diagnostic.",
+    "Step 2: Know the Classical Buzzwords; Onion-skinning: Ewing Sarcoma (bone) or Hyperplastic arteriolosclerosis (renal).",
+    "Instruments & Sutures: Review standard surgical trays (Allis, Babcocks, Spencer Wells) and suture materials (absorbable vs non-absorbable, natural vs synthetic)."
+  ],
+  "medicalEditorialStatus": "legacy-requires-clinician-review",
+  "quiz": [
+    {
+      "question": "What is an effective first step in instrument image identification?",
+      "options": [
+        "Identify shape, anatomical use and distinguishing landmarks",
+        "Guess by image background color",
+        "Ignore orientation",
+        "Read option letters first"
+      ],
+      "correct": 0,
+      "explanation": "Identify shape, anatomical use and distinguishing landmarks. Step 1: Read the Vignette Before Staring at the Image Images in INI-CET are often confirmatory rather than purely diagnostic.",
+      "type": "High-yield recall"
+    }
+  ]
 }

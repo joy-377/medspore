@@ -1,0 +1,55 @@
+{
+  "id": "ART-NEW-0100",
+  "slug": "new-0100-painful-red-eye-acute-glaucoma-versus-uveitis",
+  "title": "Painful Red Eye: Acute Glaucoma Versus Uveitis",
+  "category": "Third Year (Part 1)",
+  "subject": "Ophthalmology",
+  "preview": "Acute angle-closure glaucoma may cause severe eye pain, headache, halos, nausea and a hazy cornea.",
+  "quickRevision": [
+    "Acute angle-closure glaucoma may cause severe eye pain, headache, halos, nausea and a hazy cornea.",
+    "A painful red eye with visual loss demands urgent ocular assessment.",
+    "Pupil response, corneal appearance, intraocular pressure when safe and anterior chamber findings help differentiation."
+  ],
+  "sections": [
+    {
+      "title": "Recognize the core pattern",
+      "type": "pearl",
+      "points": [
+        "Acute angle-closure glaucoma may cause severe eye pain, headache, halos, nausea and a hazy cornea.",
+        "Anterior uveitis can cause photophobia and a constricted pupil; slit-lamp assessment is important."
+      ]
+    },
+    {
+      "title": "Clinical examination and interpretation",
+      "type": "table",
+      "points": [
+        "A painful red eye with visual loss demands urgent ocular assessment.",
+        "Pupil response, corneal appearance, intraocular pressure when safe and anterior chamber findings help differentiation."
+      ]
+    },
+    {
+      "title": "Exam trap — avoid this mistake",
+      "type": "trap",
+      "points": [
+        "Do not prescribe steroid eye drops empirically before excluding sight-threatening conditions."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Which symptom cluster raises concern for acute angle-closure glaucoma?",
+      "options": [
+        "Painless gradual presbyopia",
+        "Painful red eye with halos and nausea",
+        "Chronic floaters without new symptoms",
+        "Isolated seasonal itching with normal vision"
+      ],
+      "correct": 1,
+      "explanation": "Painful red eye with halos and nausea. Acute angle-closure glaucoma may cause severe eye pain, headache, halos, nausea and a hazy cornea.",
+      "type": "High-yield concept check"
+    }
+  ],
+  "images": [],
+  "medicalEditorialStatus": "author-drafted-not-clinician-peer-reviewed",
+  "inlineLinks": []
+}

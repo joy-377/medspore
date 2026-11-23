@@ -8,5 +8,37 @@
   "preview": "Atticoantral disease, Cholesteatoma, complications, and surgical strategies...",
   "body": "<p><b>Mucosal (Tubotympanic / 'Safe') CSOM:</b><br>• <i>Perforation:</i> Central (involves pars tensa; annulus tympanicus intact, does not touch bone margin).<br>• <i>Discharge:</i> Profuse, mucoid/mucopurulent, non-foul smelling, intermittent (associated with URTI or water entry).<br>• <i>Cholesteatoma:</i> Absent. Low risk of intracranial spread.<br>• <i>Surgical Management:</i> <b>Tympanoplasty</b> (underlay/overlay graft using temporalis fascia) after achieving a dry ear.</p><p><b>Squamosal (Atticoantral / 'Unsafe') CSOM:</b><br>• <i>Perforation:</i> Attic or marginal perforation (involves pars flaccida or reaches the bony sulcus tympanicus).<br>• <i>Discharge:</i> Scanty, purulent, serosanguinous, <b>foul-smelling</b> (bone erosion present).<br>• <i>Cholesteatoma:</i> Hallmark finding (keratinizing stratified squamous epithelium in middle ear cleft eroding ossicles via osteolytic collagenases).<br>• <i>Life-Threatening Complications:</i> Facial nerve palsy, labyrinthitis, acute mastoiditis, lateral sinus thrombophlebitis, meningitis, <b>Temporal lobe / Cerebellar abscess</b>.<br>• <i>Surgical Management:</i> Urgent <b>Modified Radical Mastoidectomy (MRM)</b> or Canal Wall Down procedure to eradicate disease.</p>",
   "readingMinutes": 2,
-  "reviewStatus": "editorially-reformatted-legacy-content"
+  "reviewStatus": "legacy-medical-fact-check-required",
+  "sections": [
+    {
+      "title": "Mucosal (Tubotympanic / 'Safe') CSOM",
+      "html": "<p><b>Mucosal (Tubotympanic / 'Safe') CSOM:</b><br/>• <i>Perforation:</i> Central (involves pars tensa; annulus tympanicus intact, does not touch bone margin).<br/>• <i>Discharge:</i> Profuse, mucoid/mucopurulent, non-foul smelling, intermittent (associated with URTI or water entry).<br/>• <i>Cholesteatoma:</i> Absent. Low risk of intracranial spread.<br/>• <i>Surgical Management:</i> <b>Tympanoplasty</b> (underlay/overlay graft using temporalis fascia) after achieving a dry ear.</p>",
+      "type": ""
+    },
+    {
+      "title": "Squamosal (Atticoantral / 'Unsafe') CSOM",
+      "html": "<p><b>Squamosal (Atticoantral / 'Unsafe') CSOM:</b><br/>• <i>Perforation:</i> Attic or marginal perforation (involves pars flaccida or reaches the bony sulcus tympanicus).<br/>• <i>Discharge:</i> Scanty, purulent, serosanguinous, <b>foul-smelling</b> (bone erosion present).<br/>• <i>Cholesteatoma:</i> Hallmark finding (keratinizing stratified squamous epithelium in middle ear cleft eroding ossicles via osteolytic collagenases).<br/>• <i>Life-Threatening Complications:</i> Facial nerve palsy, labyrinthitis, acute mastoiditis, lateral sinus thrombophlebitis, meningitis, <b>Temporal lobe / Cerebellar abscess</b>.<br/>• <i>Surgical Management:</i> Urgent <b>Modified Radical Mastoidectomy (MRM)</b> or Canal Wall Down procedure to eradicate disease.</p>",
+      "type": ""
+    }
+  ],
+  "images": [],
+  "quickRevision": [
+    "Mucosal (Tubotympanic / 'Safe') CSOM; Perforation: Central (involves pars tensa; annulus tympanicus intact, does not touch bone margin).",
+    "Squamosal (Atticoantral / 'Unsafe') CSOM; Perforation: Attic or marginal perforation (involves pars flaccida or reaches the bony sulcus tympanicus)."
+  ],
+  "medicalEditorialStatus": "legacy-requires-clinician-review",
+  "quiz": [
+    {
+      "question": "Which chronic ear disease subtype is classically associated with cholesteatoma?",
+      "options": [
+        "Transient eustachian tube dysfunction",
+        "Squamosal chronic otitis media",
+        "Uncomplicated otitis externa",
+        "Serous otitis alone"
+      ],
+      "correct": 1,
+      "explanation": "Squamosal chronic otitis media. Squamosal (Atticoantral / 'Unsafe') CSOM: • Perforation: Attic or marginal perforation (involves pars flaccida or reaches the bony sulcus tympanicus).",
+      "type": "High-yield recall"
+    }
+  ]
 }

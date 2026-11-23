@@ -1,0 +1,55 @@
+{
+  "id": "ART-NEW-0024",
+  "slug": "new-0024-peritonitis-guarding-rigidity-and-rebound-tenderness",
+  "title": "Peritonitis: Guarding, Rigidity and Rebound Tenderness",
+  "category": "Triads & Signs",
+  "subject": "Surgical Triads",
+  "preview": "Peritonitis may cause involuntary guarding, rigidity, rebound tenderness and pain on movement.",
+  "quickRevision": [
+    "Peritonitis may cause involuntary guarding, rigidity, rebound tenderness and pain on movement.",
+    "Analgesia and resuscitation should not be withheld while obtaining clinical and surgical assessment.",
+    "Peritoneal signs may be subtle in older adults, immunosuppressed patients or those receiving steroids."
+  ],
+  "sections": [
+    {
+      "title": "Recognize the pattern",
+      "type": "pearl",
+      "points": [
+        "Peritonitis may cause involuntary guarding, rigidity, rebound tenderness and pain on movement.",
+        "A rigid abdomen in an unstable patient raises concern for serious intra-abdominal pathology such as perforation."
+      ]
+    },
+    {
+      "title": "What this finding does—and does not—mean",
+      "type": "table",
+      "points": [
+        "Analgesia and resuscitation should not be withheld while obtaining clinical and surgical assessment.",
+        "Peritoneal signs may be subtle in older adults, immunosuppressed patients or those receiving steroids."
+      ]
+    },
+    {
+      "title": "Exam trap — avoid this mistake",
+      "type": "trap",
+      "points": [
+        "Rebound tenderness alone cannot establish the exact cause or site of abdominal pathology."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Which examination finding suggests peritoneal irritation?",
+      "options": [
+        "Involuntary guarding",
+        "Clubbing alone",
+        "Tinnitus alone",
+        "Isolated eyelid ptosis"
+      ],
+      "correct": 0,
+      "explanation": "Peritonitis may cause involuntary guarding, rigidity, rebound tenderness and pain on movement.",
+      "type": "High-yield concept check"
+    }
+  ],
+  "images": [],
+  "medicalEditorialStatus": "author-drafted-not-clinician-peer-reviewed",
+  "inlineLinks": []
+}

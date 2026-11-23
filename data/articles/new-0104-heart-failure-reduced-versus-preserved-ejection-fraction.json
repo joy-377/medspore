@@ -1,0 +1,55 @@
+{
+  "id": "ART-NEW-0104",
+  "slug": "new-0104-heart-failure-reduced-versus-preserved-ejection-fraction",
+  "title": "Heart Failure: Reduced Versus Preserved Ejection Fraction",
+  "category": "Final Year (Part 2)",
+  "subject": "Medicine",
+  "preview": "Heart failure with reduced ejection fraction involves systolic pump impairment; preserved ejection fraction involves elevated filling pressures despite non-reduced EF.",
+  "quickRevision": [
+    "Heart failure with reduced ejection fraction involves systolic pump impairment; preserved ejection fraction involves elevated filling pressures despite non-reduced EF.",
+    "Echocardiography helps classify EF, structural disease and filling abnormalities.",
+    "Treatment strategies differ by phenotype, congestion, cause and comorbidities; diagnosis is not based on EF alone."
+  ],
+  "sections": [
+    {
+      "title": "Clinical syndrome and red flags",
+      "type": "pearl",
+      "points": [
+        "Heart failure with reduced ejection fraction involves systolic pump impairment; preserved ejection fraction involves elevated filling pressures despite non-reduced EF.",
+        "Symptoms can include dyspnea, orthopnea, edema and exercise intolerance across phenotypes."
+      ]
+    },
+    {
+      "title": "Differentiate and manage",
+      "type": "table",
+      "points": [
+        "Echocardiography helps classify EF, structural disease and filling abnormalities.",
+        "Treatment strategies differ by phenotype, congestion, cause and comorbidities; diagnosis is not based on EF alone."
+      ]
+    },
+    {
+      "title": "Exam trap — avoid this mistake",
+      "type": "trap",
+      "points": [
+        "A normal-range EF does not exclude clinical heart failure."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Which finding helps distinguish heart-failure phenotypes?",
+      "options": [
+        "Blood group",
+        "Hair pattern",
+        "Eye color",
+        "Left ventricular ejection fraction with clinical and echo context"
+      ],
+      "correct": 3,
+      "explanation": "Left ventricular ejection fraction with clinical and echo context. Heart failure with reduced ejection fraction involves systolic pump impairment; preserved ejection fraction involves elevated filling pressures despite non-reduced EF.",
+      "type": "High-yield concept check"
+    }
+  ],
+  "images": [],
+  "medicalEditorialStatus": "author-drafted-not-clinician-peer-reviewed",
+  "inlineLinks": []
+}

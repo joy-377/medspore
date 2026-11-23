@@ -1,0 +1,55 @@
+{
+  "id": "ART-NEW-0081",
+  "slug": "new-0081-anticholinergic-toxicity-recognition-and-management-principles",
+  "title": "Anticholinergic Toxicity: Recognition and Management Principles",
+  "category": "Second Year MBBS",
+  "subject": "Pharmacology",
+  "preview": "Anticholinergic toxicity may cause dry skin, mydriasis, tachycardia, urinary retention, hyperthermia and delirium.",
+  "quickRevision": [
+    "Anticholinergic toxicity may cause dry skin, mydriasis, tachycardia, urinary retention, hyperthermia and delirium.",
+    "Supportive care, temperature control, ECG assessment and toxicology advice guide management.",
+    "Physostigmine has selected indications and contraindications; it is not a universal antidote for all unknown poisonings."
+  ],
+  "sections": [
+    {
+      "title": "Pathophysiology & identification",
+      "type": "pearl",
+      "points": [
+        "Anticholinergic toxicity may cause dry skin, mydriasis, tachycardia, urinary retention, hyperthermia and delirium.",
+        "Cholinergic toxicity more often produces excess secretions, lacrimation, bronchorrhea and diarrhea."
+      ]
+    },
+    {
+      "title": "Diagnostic and treatment connections",
+      "type": "table",
+      "points": [
+        "Supportive care, temperature control, ECG assessment and toxicology advice guide management.",
+        "Physostigmine has selected indications and contraindications; it is not a universal antidote for all unknown poisonings."
+      ]
+    },
+    {
+      "title": "Exam trap — avoid this mistake",
+      "type": "trap",
+      "points": [
+        "Dry versus wet secretions can be a useful discriminator, but mixed ingestions are common."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Which feature supports anticholinergic rather than cholinergic toxicity?",
+      "options": [
+        "Dry skin and urinary retention",
+        "Pinpoint pupils with sweating",
+        "Profuse salivation",
+        "Bronchorrhea"
+      ],
+      "correct": 0,
+      "explanation": "Dry skin and urinary retention. Anticholinergic toxicity may cause dry skin, mydriasis, tachycardia, urinary retention, hyperthermia and delirium.",
+      "type": "High-yield concept check"
+    }
+  ],
+  "images": [],
+  "medicalEditorialStatus": "author-drafted-not-clinician-peer-reviewed",
+  "inlineLinks": []
+}

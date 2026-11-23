@@ -1,0 +1,55 @@
+{
+  "id": "ART-NEW-0112",
+  "slug": "new-0112-rh-alloimmunization-screening-and-fetal-risks",
+  "title": "Rh Alloimmunization: Screening and Fetal Risks",
+  "category": "Final Year (Part 2)",
+  "subject": "OBG",
+  "preview": "Rh alloimmunization occurs when maternal antibodies target fetal red-cell antigens inherited from the father.",
+  "quickRevision": [
+    "Rh alloimmunization occurs when maternal antibodies target fetal red-cell antigens inherited from the father.",
+    "Anti-D immunoglobulin can prevent sensitization in eligible unsensitized RhD-negative patients according to local protocols.",
+    "Clinically significant alloantibodies may cause fetal anemia and neonatal hemolysis."
+  ],
+  "sections": [
+    {
+      "title": "Clinical syndrome and red flags",
+      "type": "pearl",
+      "points": [
+        "Rh alloimmunization occurs when maternal antibodies target fetal red-cell antigens inherited from the father.",
+        "Maternal antibody screening and blood-group typing guide monitoring and prophylaxis decisions."
+      ]
+    },
+    {
+      "title": "Differentiate and manage",
+      "type": "table",
+      "points": [
+        "Anti-D immunoglobulin can prevent sensitization in eligible unsensitized RhD-negative patients according to local protocols.",
+        "Clinically significant alloantibodies may cause fetal anemia and neonatal hemolysis."
+      ]
+    },
+    {
+      "title": "Exam trap — avoid this mistake",
+      "type": "trap",
+      "points": [
+        "Anti-D prophylaxis does not treat an already established immune anti-D response."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "question": "What is a major fetal risk of clinically significant red-cell alloimmunization?",
+      "options": [
+        "Retinoblastoma",
+        "Isolated neonatal acne",
+        "Fetal anemia",
+        "Congenital cleft palate in every case"
+      ],
+      "correct": 2,
+      "explanation": "Clinically significant alloantibodies may cause fetal anemia and neonatal hemolysis.",
+      "type": "High-yield concept check"
+    }
+  ],
+  "images": [],
+  "medicalEditorialStatus": "author-drafted-not-clinician-peer-reviewed",
+  "inlineLinks": []
+}

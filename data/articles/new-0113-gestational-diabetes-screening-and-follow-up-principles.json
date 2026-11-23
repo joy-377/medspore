@@ -1,0 +1,55 @@
+{
+  "id": "ART-NEW-0113",
+  "slug": "new-0113-gestational-diabetes-screening-and-follow-up-principles",
+  "title": "Gestational Diabetes: Screening and Follow-Up Principles",
+  "category": "Final Year (Part 2)",
+  "subject": "OBG",
+  "preview": "Gestational diabetes is hyperglycemia first recognized during pregnancy and is associated with maternal and fetal complications.",
+  "quickRevision": [
+    "Gestational diabetes is hyperglycemia first recognized during pregnancy and is associated with maternal and fetal complications.",
+    "Nutrition, activity, glucose monitoring and pharmacotherapy when indicated support management.",
+    "Postpartum glucose follow-up matters because later type 2 diabetes risk is increased."
+  ],
+  "sections": [
+    {
+      "title": "Clinical syndrome and red flags",
+      "type": "pearl",
+      "points": [
+        "Gestational diabetes is hyperglycemia first recognized during pregnancy and is associated with maternal and fetal complications.",
+        "Screening timing and diagnostic thresholds vary by accepted national or institutional criteria."
+      ]
+    },
+    {
+      "title": "Differentiate and manage",
+      "type": "table",
+      "points": [
+        "Nutrition, activity, glucose monitoring and pharmacotherapy when indicated support management.",
+        "Postpartum glucose follow-up matters because later type 2 diabetes risk is increased."
+      ]
+    },
+    {
+      "title": "Exam trap — avoid this mistake",
+      "type": "trap",
+      "points": [
+        "Do not treat a single screening strategy as universal across all countries and societies."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Why is postpartum follow-up important after gestational diabetes?",
+      "options": [
+        "Higher future risk of type 2 diabetes",
+        "To exclude congenital hearing loss",
+        "To predict maternal blood group",
+        "It guarantees permanent diabetes"
+      ],
+      "correct": 0,
+      "explanation": "Higher future risk of type 2 diabetes. Postpartum glucose follow-up matters because later type 2 diabetes risk is increased.",
+      "type": "High-yield concept check"
+    }
+  ],
+  "images": [],
+  "medicalEditorialStatus": "author-drafted-not-clinician-peer-reviewed",
+  "inlineLinks": []
+}

@@ -8,5 +8,43 @@
   "preview": "Diabetic retinopathy stages, hypertensive grades, and Rhegmatogenous RD signs...",
   "body": "<p><b>Diabetic Retinopathy (DR):</b><br>• <i>Non-Proliferative (NPDR):</i> Earliest sign is <b>Microaneurysms</b> (outpouching of capillary wall in inner nuclear layer). Dot-and-blot hemorrhages, hard exudates (lipid deposits). Severe NPDR defined by the <b>4-2-1 Rule</b> (&gt;20 intraretinal hemorrhages in all 4 quadrants, venous beading in &ge;2 quadrants, IRMA in &ge;1 quadrant).<br>• <i>Proliferative (PDR):</i> Hallmark is <b>Neovascularization</b> (NVD at optic disc or NVE elsewhere) driven by VEGF from retinal ischemia. High risk of Vitreous Hemorrhage and Tractional Retinal Detachment. <i>Treatment:</i> <b>Panretinal Photocoagulation (PRP)</b> and anti-VEGF injections (Ranibizumab, Aflibercept).<br>• <i>Diabetic Macular Edema (DME):</i> Leading cause of moderate visual loss in diabetics; treatable with focal/grid laser or intravitreal anti-VEGF.</p><p><b>Hypertensive Retinopathy (Keith-Wagener-Barker Classification):</b><br>• Grade 1: Arteriolar attenuation, silver/copper wiring.<br>• Grade 2: Grade 1 + AV crossing changes (Salus sign, Gunn sign, Bonnet sign).<br>• Grade 3: Grade 2 + Flame hemorrhages, cotton-wool spots (microinfarcts of nerve fiber layer), hard exudates forming a <b>Macular Star</b>.<br>• Grade 4: Grade 3 + <b>Papilledema</b> (bilateral optic disc swelling; marks malignant hypertension crisis).</p><p><b>Rhegmatogenous Retinal Detachment (RRD):</b><br>• Separation of neurosensory retina from retinal pigment epithelium due to a full-thickness retinal break/tear. Symptoms: Photopsia (flashes of light), floaters, and a progressive dark curtain falling over the field of vision. Ophthalmoscopy shows grey, elevated, corrugated retina undulating with eye movements.</p>",
   "readingMinutes": 2,
-  "reviewStatus": "editorially-reformatted-legacy-content"
+  "reviewStatus": "legacy-medical-fact-check-required",
+  "sections": [
+    {
+      "title": "Diabetic Retinopathy (DR)",
+      "html": "<p><b>Diabetic Retinopathy (DR):</b><br/>• <i>Non-Proliferative (NPDR):</i> Earliest sign is <b>Microaneurysms</b> (outpouching of capillary wall in inner nuclear layer). Dot-and-blot hemorrhages, hard exudates (lipid deposits). Severe NPDR defined by the <b>4-2-1 Rule</b> (&gt;20 intraretinal hemorrhages in all 4 quadrants, venous beading in ≥2 quadrants, IRMA in ≥1 quadrant).<br/>• <i>Proliferative (PDR):</i> Hallmark is <b>Neovascularization</b> (NVD at optic disc or NVE elsewhere) driven by VEGF from retinal ischemia. High risk of Vitreous Hemorrhage and Tractional Retinal Detachment. <i>Treatment:</i> <b>Panretinal Photocoagulation (PRP)</b> and anti-VEGF injections (Ranibizumab, Aflibercept).<br/>• <i>Diabetic Macular Edema (DME):</i> Leading cause of moderate visual loss in diabetics; treatable with focal/grid laser or intravitreal anti-VEGF.</p>",
+      "type": ""
+    },
+    {
+      "title": "Hypertensive Retinopathy (Keith-Wagener-Barker Classification)",
+      "html": "<p><b>Hypertensive Retinopathy (Keith-Wagener-Barker Classification):</b><br/>• Grade 1: Arteriolar attenuation, silver/copper wiring.<br/>• Grade 2: Grade 1 + AV crossing changes (Salus sign, Gunn sign, Bonnet sign).<br/>• Grade 3: Grade 2 + Flame hemorrhages, cotton-wool spots (microinfarcts of nerve fiber layer), hard exudates forming a <b>Macular Star</b>.<br/>• Grade 4: Grade 3 + <b>Papilledema</b> (bilateral optic disc swelling; marks malignant hypertension crisis).</p>",
+      "type": ""
+    },
+    {
+      "title": "Rhegmatogenous Retinal Detachment (RRD)",
+      "html": "<p><b>Rhegmatogenous Retinal Detachment (RRD):</b><br/>• Separation of neurosensory retina from retinal pigment epithelium due to a full-thickness retinal break/tear. Symptoms: Photopsia (flashes of light), floaters, and a progressive dark curtain falling over the field of vision. Ophthalmoscopy shows grey, elevated, corrugated retina undulating with eye movements.</p>",
+      "type": ""
+    }
+  ],
+  "images": [],
+  "quickRevision": [
+    "Diabetic Retinopathy (DR); Non-Proliferative (NPDR): Earliest sign is Microaneurysms (outpouching of capillary wall in inner nuclear layer).",
+    "Hypertensive Retinopathy (Keith-Wagener-Barker Classification); Grade 1: Arteriolar attenuation, silver/copper wiring.",
+    "Rhegmatogenous Retinal Detachment (RRD); Separation of neurosensory retina from retinal pigment epithelium due to a full-thickness retinal break/tear."
+  ],
+  "medicalEditorialStatus": "legacy-requires-clinician-review",
+  "quiz": [
+    {
+      "question": "Which symptom raises concern for retinal detachment?",
+      "options": [
+        "Transient mild eyelid twitch",
+        "Itchy eyes after pollen",
+        "Gradually reduced near focus with age",
+        "A new curtain over part of the visual field"
+      ],
+      "correct": 3,
+      "explanation": "A new curtain over part of the visual field. Symptoms: Photopsia (flashes of light), floaters, and a progressive dark curtain falling over the field of vision.",
+      "type": "High-yield recall"
+    }
+  ]
 }

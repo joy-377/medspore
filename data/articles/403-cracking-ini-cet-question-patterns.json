@@ -4,9 +4,57 @@
   "slug": "403-cracking-ini-cet-question-patterns",
   "category": "Exam Strategy",
   "subject": "INI-CET Strategy",
-  "title": "Cracking INI-CET Question Patterns",
-  "preview": "Multiple True/False, Match the following, and Negative Marking caution...",
-  "body": "<p><b>The -0.33 Penalty (33% Negative Marking):</b><br>Unlike NEET PG (25% negative marking), INI-CET penalizes incorrect attempts more heavily. <i>Rule of thumb:</i> Attempt questions where you can confidently eliminate at least one distractor; avoid blind guesses when three or four options remain completely unfamiliar.</p><p><b>Multiple True-False &amp; Combined Options:</b><br>Treat each statement as an independent true/false query. Write 'T' or 'F' beside each sub-clause before looking at combinations (e.g., '1, 2, and 4 only').</p><p><b>Focus on Core First &amp; Second Year Basics:</b><br>AIIMS historically emphasizes basic sciences: Molecular biology, genetic mutations (e.g., RET, MEN syndromes), receptor pharmacology, and electron microscopy findings.</p>",
+  "title": "INI-CET Clinical Reasoning: Integrated Questions and Distractors",
+  "preview": "Integrated exam stems are solved by moving from clinical syndrome to the precise decision asked.",
+  "body": "",
   "readingMinutes": 2,
-  "reviewStatus": "editorially-reformatted-legacy-content"
+  "reviewStatus": "legacy-medical-fact-check-required",
+  "sections": [
+    {
+      "title": "Two-step reasoning",
+      "type": "flow",
+      "points": [
+        "First choose the syndrome or anatomical localization; next select the specific mechanism, test or treatment decision asked.",
+        "Review the negative findings only if they meaningfully change your differential."
+      ]
+    },
+    {
+      "title": "Practice strategically",
+      "type": "pearl",
+      "points": [
+        "Use timed mixed-subject sessions, then review errors by concept and source.",
+        "A normal test or absent classic sign may not rule out dangerous conditions unless sensitivity supports that conclusion."
+      ]
+    },
+    {
+      "title": "Exam trap",
+      "type": "trap",
+      "points": [
+        "Always consult the actual official exam bulletin for current format and timing.",
+        "Do not assume every integrated question requires an exhaustive differential diagnosis."
+      ]
+    }
+  ],
+  "images": [],
+  "quickRevision": [
+    "Identify the core syndrome, a key discriminating clue and the requested action or mechanism.",
+    "Pathology, physiology, microbiology and pharmacology may appear together in a single stem.",
+    "Compare two plausible alternatives using one decisive clinical fact instead of guessing by word length."
+  ],
+  "medicalEditorialStatus": "topic-specific-reviewed-against-open-authoritative-guidance-not-clinician-peer-reviewed",
+  "quiz": [
+    {
+      "question": "How should an integrated INI-CET-style question be approached?",
+      "options": [
+        "Choose by option length",
+        "Assume all multi-system questions are impossible",
+        "Ignore stem chronology",
+        "Identify syndrome, mechanism and exact task"
+      ],
+      "correct": 3,
+      "explanation": "Identify syndrome, mechanism and exact task. First choose the syndrome or anatomical localization; next select the specific mechanism, test or treatment decision asked.",
+      "type": "High-yield recall"
+    }
+  ],
+  "valueSources": []
 }

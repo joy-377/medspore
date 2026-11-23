@@ -8,5 +8,43 @@
   "preview": "Colles, Smith, Monteggia, Galeazzi fractures and nerve vulnerability...",
   "body": "<p><b>Forearm Fracture-Dislocations (The 'MUGR' Rule):</b><br>• <b>Monteggia Fracture:</b> Fracture of the proximal 1/3rd of the <b>Ulna</b> with anterior dislocation of the <b>Radial head</b>. Nerve at risk: <i>Posterior Interosseous Nerve (PIN)</i>.<br>• <b>Galeazzi Fracture:</b> Fracture of the junction of middle and distal 1/3rd of the <b>Radius</b> with dislocation of the <b>Distal Radioulnar Joint (DRUJ)</b>. Nerve at risk: <i>Anterior Interosseous Nerve (AIN)</i> or Ulnar nerve.</p><p><b>Distal Radius Fractures:</b><br>• <b>Colles Fracture:</b> Extra-articular fracture of distal radius within 2 cm of articular surface with <b>Dorsal displacement</b>, dorsal tilt, and radial shift. Classical <b>Dinner fork deformity</b>. Caused by fall on outstretched hand (FOOSH).<br>• <b>Smith Fracture (Reverse Colles):</b> Fracture of distal radius with <b>Volar (palmar) displacement</b> and volar tilt. <b>Garden spade deformity</b>. Caused by fall on flexed wrist.</p><p><b>Upper Limb Fracture &amp; Nerve Association Master List:</b><br>• <i>Surgical Neck of Humerus:</i> <b>Axillary Nerve</b> (loss of deltoid abduction &amp; lateral shoulder patch sensation).<br>• <i>Mid-Shaft Humerus:</i> <b>Radial Nerve</b> in spiral groove (Wrist Drop).<br>• <i>Supracondylar Fracture of Humerus:</i> <b>Median Nerve (AIN branch)</b> most commonly; risk of Brachial Artery injury leading to <i>Volkmann's Ischemic Contracture (VIC)</i>.<br>• <i>Medial Epicondyle of Humerus:</i> <b>Ulnar Nerve</b>.</p>",
   "readingMinutes": 2,
-  "reviewStatus": "editorially-reformatted-legacy-content"
+  "reviewStatus": "legacy-medical-fact-check-required",
+  "sections": [
+    {
+      "title": "Forearm Fracture-Dislocations (The 'MUGR' Rule)",
+      "html": "<p><b>Forearm Fracture-Dislocations (The 'MUGR' Rule):</b><br/>• <b>Monteggia Fracture:</b> Fracture of the proximal 1/3rd of the <b>Ulna</b> with anterior dislocation of the <b>Radial head</b>. Nerve at risk: <i>Posterior Interosseous Nerve (PIN)</i>.<br/>• <b>Galeazzi Fracture:</b> Fracture of the junction of middle and distal 1/3rd of the <b>Radius</b> with dislocation of the <b>Distal Radioulnar Joint (DRUJ)</b>. Nerve at risk: <i>Anterior Interosseous Nerve (AIN)</i> or Ulnar nerve.</p>",
+      "type": ""
+    },
+    {
+      "title": "Distal Radius Fractures",
+      "html": "<p><b>Distal Radius Fractures:</b><br/>• <b>Colles Fracture:</b> Extra-articular fracture of distal radius within 2 cm of articular surface with <b>Dorsal displacement</b>, dorsal tilt, and radial shift. Classical <b>Dinner fork deformity</b>. Caused by fall on outstretched hand (FOOSH).<br/>• <b>Smith Fracture (Reverse Colles):</b> Fracture of distal radius with <b>Volar (palmar) displacement</b> and volar tilt. <b>Garden spade deformity</b>. Caused by fall on flexed wrist.</p>",
+      "type": ""
+    },
+    {
+      "title": "Upper Limb Fracture & Nerve Association Master List",
+      "html": "<p><b>Upper Limb Fracture &amp; Nerve Association Master List:</b><br/>• <i>Surgical Neck of Humerus:</i> <b>Axillary Nerve</b> (loss of deltoid abduction &amp; lateral shoulder patch sensation).<br/>• <i>Mid-Shaft Humerus:</i> <b>Radial Nerve</b> in spiral groove (Wrist Drop).<br/>• <i>Supracondylar Fracture of Humerus:</i> <b>Median Nerve (AIN branch)</b> most commonly; risk of Brachial Artery injury leading to <i>Volkmann's Ischemic Contracture (VIC)</i>.<br/>• <i>Medial Epicondyle of Humerus:</i> <b>Ulnar Nerve</b>.</p>",
+      "type": ""
+    }
+  ],
+  "images": [],
+  "quickRevision": [
+    "Forearm Fracture-Dislocations (The 'MUGR' Rule); Monteggia Fracture: Fracture of the proximal 1/3rd of the Ulna with anterior dislocation of the Radial head .",
+    "Distal Radius Fractures; Colles Fracture: Extra-articular fracture of distal radius within 2 cm of articular surface with Dorsal displacement , dorsal tilt, and radial shift.",
+    "Upper Limb Fracture & Nerve Association Master List; Surgical Neck of Humerus: Axillary Nerve (loss of deltoid abduction & lateral shoulder patch sensation)."
+  ],
+  "medicalEditorialStatus": "legacy-requires-clinician-review",
+  "quiz": [
+    {
+      "question": "A fracture of the humeral shaft risks injury to which nerve?",
+      "options": [
+        "Optic nerve",
+        "Femoral nerve",
+        "Radial nerve",
+        "Vagus nerve"
+      ],
+      "correct": 2,
+      "explanation": "• Mid-Shaft Humerus: Radial Nerve in spiral groove (Wrist Drop).",
+      "type": "High-yield recall"
+    }
+  ]
 }

@@ -1,0 +1,55 @@
+{
+  "id": "ART-NEW-0023",
+  "slug": "new-0023-testicular-torsion-signs-timing-and-diagnostic-pitfalls",
+  "title": "Testicular Torsion: Signs, Timing and Diagnostic Pitfalls",
+  "category": "Triads & Signs",
+  "subject": "Surgical Triads",
+  "preview": "Testicular torsion causes acute scrotal pain and can rapidly threaten testicular viability.",
+  "quickRevision": [
+    "Testicular torsion causes acute scrotal pain and can rapidly threaten testicular viability.",
+    "High clinical suspicion demands urgent urological evaluation; ultrasound should not delay exploration when torsion is likely.",
+    "Epididymitis may have a different onset and infective features, but overlap prevents diagnosis by one sign alone."
+  ],
+  "sections": [
+    {
+      "title": "Recognize the pattern",
+      "type": "pearl",
+      "points": [
+        "Testicular torsion causes acute scrotal pain and can rapidly threaten testicular viability.",
+        "High-riding testis or absent cremasteric reflex may support suspicion, but neither is universally present."
+      ]
+    },
+    {
+      "title": "What this finding does—and does not—mean",
+      "type": "table",
+      "points": [
+        "High clinical suspicion demands urgent urological evaluation; ultrasound should not delay exploration when torsion is likely.",
+        "Epididymitis may have a different onset and infective features, but overlap prevents diagnosis by one sign alone."
+      ]
+    },
+    {
+      "title": "Exam trap — avoid this mistake",
+      "type": "trap",
+      "points": [
+        "Do not reassure a patient solely because pain has intermittently improved; intermittent torsion occurs."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "question": "What is the priority when testicular torsion is strongly suspected?",
+      "options": [
+        "Urgent urological assessment",
+        "Antacids only",
+        "Routine elective follow-up in a month",
+        "Observation without escalation"
+      ],
+      "correct": 0,
+      "explanation": "Urgent urological assessment. High clinical suspicion demands urgent urological evaluation; ultrasound should not delay exploration when torsion is likely.",
+      "type": "High-yield concept check"
+    }
+  ],
+  "images": [],
+  "medicalEditorialStatus": "author-drafted-not-clinician-peer-reviewed",
+  "inlineLinks": []
+}

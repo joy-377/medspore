@@ -1,0 +1,52 @@
+{
+  "id": "ART-NEW-0054",
+  "slug": "new-0054-sofa-and-qsofa-sepsis-risk-assessment-concepts",
+  "title": "SOFA and qSOFA: Sepsis Risk Assessment Concepts",
+  "category": "High-Yield Tables",
+  "subject": "Clinical Scoring Systems",
+  "preview": "SOFA summarizes organ dysfunction across respiratory, coagulation, liver, cardiovascular, neurologic and renal systems.",
+  "quickRevision": [
+    "SOFA summarizes organ dysfunction across respiratory, coagulation, liver, cardiovascular, neurologic and renal systems.",
+    "Sepsis identification rests on suspected infection with acute organ dysfunction rather than an isolated score.",
+    "Trending organ function after treatment can help assess illness trajectory."
+  ],
+  "sections": [
+    {
+      "title": "Essential distinctions",
+      "type": "pearl",
+      "points": [
+        "SOFA summarizes organ dysfunction across respiratory, coagulation, liver, cardiovascular, neurologic and renal systems.",
+        "qSOFA is a bedside risk prompt, not a sufficiently sensitive stand-alone sepsis screening or diagnostic test."
+      ]
+    },
+    {
+      "title": "High-yield comparison table",
+      "type": "table",
+      "html": "<div class=\"ms-table-scroll\"><table class=\"ms-fact-table\"><thead><tr><th scope=\"col\">Review focus</th><th scope=\"col\">High-yield fact</th></tr></thead><tbody><tr><th scope=\"row\">Distinguishing clue</th><td>Sepsis identification rests on suspected infection with acute organ dysfunction rather than an isolated score.</td></tr><tr><th scope=\"row\">Clinical implication</th><td>Trending organ function after treatment can help assess illness trajectory.</td></tr></tbody></table></div>"
+    },
+    {
+      "title": "Exam trap — avoid this mistake",
+      "type": "trap",
+      "points": [
+        "Do not use a low qSOFA to exclude sepsis."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "question": "What does SOFA principally assess?",
+      "options": [
+        "Pregnancy dating",
+        "Fracture stability",
+        "Organ dysfunction",
+        "Specific antibiotic allergy"
+      ],
+      "correct": 2,
+      "explanation": "SOFA summarizes organ dysfunction across respiratory, coagulation, liver, cardiovascular, neurologic and renal systems.",
+      "type": "High-yield concept check"
+    }
+  ],
+  "images": [],
+  "medicalEditorialStatus": "author-drafted-not-clinician-peer-reviewed",
+  "inlineLinks": []
+}

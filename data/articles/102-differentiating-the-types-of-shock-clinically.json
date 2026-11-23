@@ -6,7 +6,53 @@
   "subject": "General Tips",
   "title": "Differentiating the Types of Shock Clinically",
   "preview": "Hypovolemic vs Cardiogenic vs Distributive vs Obstructive shock parameters...",
-  "body": "<p><strong>Learning note:</strong> Educational revision content; verify medication doses, protocols and reference ranges against current institutional guidelines before any patient-care use.</p><p>Understanding the hemodynamic parameters of shock helps in rapid bedside diagnosis before central line placement.</p><ul><li><b>Hypovolemic Shock (e.g., Trauma/Hemorrhage):</b> Cold, clammy extremities. <i>Vitals:</i> Low BP, Tachycardia. <i>Hemodynamics:</i> Decreased Cardiac Output (CO), Decreased Preload (PCWP), Increased Systemic Vascular Resistance (SVR) as a compensatory mechanism.</li><li><b>Cardiogenic Shock (e.g., Massive MI):</b> Cold, clammy extremities with pulmonary crackles (fluid backup). <i>Hemodynamics:</i> Decreased CO, INCREASED Preload (PCWP), Increased SVR.</li><li><b>Distributive Shock (e.g., Sepsis/Anaphylaxis):</b> Warm, flushed extremities initially (due to vasodilation). <i>Hemodynamics:</i> Increased CO (initially), Decreased Preload, DECREASED SVR (hallmark).</li><li><b>Obstructive Shock (e.g., Cardiac Tamponade, Massive PE):</b> Muffled heart sounds or distended neck veins. <i>Hemodynamics:</i> Decreased CO, Increased PCWP, Increased SVR.</li></ul>",
+  "body": "<p>Understanding the hemodynamic parameters of shock helps in rapid bedside diagnosis before central line placement.</p><ul><li><b>Hypovolemic Shock (e.g., Trauma/Hemorrhage):</b> Cold, clammy extremities. <i>Vitals:</i> Low BP, Tachycardia. <i>Hemodynamics:</i> Decreased Cardiac Output (CO), Decreased Preload (PCWP), Increased Systemic Vascular Resistance (SVR) as a compensatory mechanism.</li><li><b>Cardiogenic Shock (e.g., Massive MI):</b> Cold, clammy extremities with pulmonary crackles (fluid backup). <i>Hemodynamics:</i> Decreased CO, INCREASED Preload (PCWP), Increased SVR.</li><li><b>Distributive Shock (e.g., Sepsis/Anaphylaxis):</b> Warm, flushed extremities initially (due to vasodilation). <i>Hemodynamics:</i> Increased CO (initially), Decreased Preload, DECREASED SVR (hallmark).</li><li><b>Obstructive Shock (e.g., Cardiac Tamponade, Massive PE):</b> Muffled heart sounds or distended neck veins. <i>Hemodynamics:</i> Decreased CO, Increased PCWP, Increased SVR.</li></ul>",
   "readingMinutes": 2,
-  "reviewStatus": "editorially-reformatted-legacy-content"
+  "reviewStatus": "legacy-medical-fact-check-required",
+  "sections": [
+    {
+      "title": "Clinical Interpretation",
+      "html": "<p>Understanding the hemodynamic parameters of shock helps in rapid bedside diagnosis before central line placement.</p>",
+      "type": ""
+    },
+    {
+      "title": "Memory aid",
+      "type": "mnemonic",
+      "points": [
+        "Shock sorting: low volume, failing pump, obstructed flow or inappropriate vasodilation.",
+        "More than one mechanism may be present in the same patient."
+      ]
+    },
+    {
+      "title": "Hypovolemic Shock (e.g., Trauma/Hemorrhage)",
+      "html": "<ul><li><b>Hypovolemic Shock (e.g., Trauma/Hemorrhage):</b> Cold, clammy extremities. <i>Vitals:</i> Low BP, Tachycardia. <i>Hemodynamics:</i> Decreased Cardiac Output (CO), Decreased Preload (PCWP), Increased Systemic Vascular Resistance (SVR) as a compensatory mechanism.</li><li><b>Cardiogenic Shock (e.g., Massive MI):</b> Cold, clammy extremities with pulmonary crackles (fluid backup). <i>Hemodynamics:</i> Decreased CO, INCREASED Preload (PCWP), Increased SVR.</li><li><b>Distributive Shock (e.g., Sepsis/Anaphylaxis):</b> Warm, flushed extremities initially (due to vasodilation). <i>Hemodynamics:</i> Increased CO (initially), Decreased Preload, DECREASED SVR (hallmark).</li><li><b>Obstructive Shock (e.g., Cardiac Tamponade, Massive PE):</b> Muffled heart sounds or distended neck veins. <i>Hemodynamics:</i> Decreased CO, Increased PCWP, Increased SVR.</li></ul>",
+      "type": ""
+    }
+  ],
+  "images": [],
+  "quickRevision": [
+    "Understanding the hemodynamic parameters of shock helps in rapid bedside diagnosis before central line placement.",
+    "Hypovolemic Shock (e.g., Trauma/Hemorrhage): Cold, clammy extremities.; Vitals: Low BP, Tachycardia."
+  ],
+  "medicalEditorialStatus": "legacy-requires-clinician-review",
+  "inlineLinks": [
+    {
+      "slug": "new-0003-sepsis-recognition-perfusion-lactate-and-organ-dysfunction",
+      "context": "For a complementary clinical comparison, read"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Which type of shock typically has low systemic vascular resistance?",
+      "options": [
+        "Pure hypovolemic shock",
+        "Distributive shock",
+        "Hemorrhagic shock with vasoconstriction",
+        "Early uncompensated cardiogenic shock"
+      ],
+      "correct": 1,
+      "explanation": "Distributive Shock (e.g., Sepsis/Anaphylaxis): Warm, flushed extremities initially (due to vasodilation).",
+      "type": "High-yield recall"
+    }
+  ]
 }

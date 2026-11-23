@@ -1,0 +1,55 @@
+{
+  "id": "ART-NEW-0026",
+  "slug": "new-0026-pneumothorax-lung-edge-deep-sulcus-and-tension-clues",
+  "title": "Pneumothorax: Lung Edge, Deep Sulcus and Tension Clues",
+  "category": "Triads & Signs",
+  "subject": "Radiological Signs",
+  "preview": "Pneumothorax may show a visceral pleural line with absent peripheral lung markings.",
+  "quickRevision": [
+    "Pneumothorax may show a visceral pleural line with absent peripheral lung markings.",
+    "Tension pneumothorax is primarily a clinical emergency when severe respiratory or hemodynamic compromise is present.",
+    "Ultrasound can support bedside diagnosis where appropriate, but interpretation depends on operator skill and context."
+  ],
+  "sections": [
+    {
+      "title": "Recognize the pattern",
+      "type": "pearl",
+      "points": [
+        "Pneumothorax may show a visceral pleural line with absent peripheral lung markings.",
+        "In supine imaging, a deep sulcus sign can be an indirect clue to pneumothorax."
+      ]
+    },
+    {
+      "title": "What this finding does—and does not—mean",
+      "type": "table",
+      "points": [
+        "Tension pneumothorax is primarily a clinical emergency when severe respiratory or hemodynamic compromise is present.",
+        "Ultrasound can support bedside diagnosis where appropriate, but interpretation depends on operator skill and context."
+      ]
+    },
+    {
+      "title": "Exam trap — avoid this mistake",
+      "type": "trap",
+      "points": [
+        "Do not delay urgent decompression for radiography in a critically unstable patient with convincing tension physiology."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Which radiographic feature supports pneumothorax?",
+      "options": [
+        "Visceral pleural line with no peripheral markings",
+        "Diffuse Kerley lines alone",
+        "Bilateral hilar enlargement only",
+        "Air bronchograms throughout all lobes"
+      ],
+      "correct": 0,
+      "explanation": "Visceral pleural line with no peripheral markings. Pneumothorax may show a visceral pleural line with absent peripheral lung markings.",
+      "type": "High-yield concept check"
+    }
+  ],
+  "images": [],
+  "medicalEditorialStatus": "author-drafted-not-clinician-peer-reviewed",
+  "inlineLinks": []
+}

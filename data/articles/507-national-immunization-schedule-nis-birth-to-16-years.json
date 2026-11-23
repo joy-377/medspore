@@ -4,9 +4,70 @@
   "slug": "507-national-immunization-schedule-nis-birth-to-16-years",
   "category": "High-Yield Tables",
   "subject": "Immunization",
-  "title": "National Immunization Schedule (NIS): Birth to 16 Years",
-  "preview": "Doses, sites, routes, and vaccine storage temperatures under UIP...",
-  "body": "<p><strong>Learning note:</strong> Educational revision content; verify medication doses, protocols and reference ranges against current institutional guidelines before any patient-care use.</p><p><b>At Birth (0-15 Days):</b><br>• <i>BCG:</i> 0.05 mL (0.1 mL if &gt;1 month), Intradermal (Left upper arm).<br>• <i>OPV (Zero dose):</i> 2 drops, Oral.<br>• <i>Hepatitis B (Birth dose):</i> 0.5 mL, IM (Anterolateral aspect of mid-thigh within 24h).</p><p><b>At 6, 10, and 14 Weeks:</b><br>• <i>Pentavalent (DPT + HepB + Hib):</i> 0.5 mL, IM (Mid-thigh).<br>• <i>Rotavirus (RVV):</i> 5 drops (liquid) or 2.5 mL (lyophilized), Oral.<br>• <i>fIPV (Fractional IPV):</i> 0.1 mL, Intradermal (Right upper arm at 6 and 14 weeks).<br>• <i>Pneumococcal Conjugate (PCV):</i> 0.5 mL, IM (Mid-thigh at 6 and 14 weeks, booster at 9 months).</p><p><b>At 9-12 Months:</b><br>• <i>MR (Measles-Rubella 1st dose):</i> 0.5 mL, Subcutaneous (Right upper arm).<br>• <i>Japanese Encephalitis (JE 1st dose in endemic districts):</i> 0.5 mL, Subcutaneous.<br>• <i>Vitamin A (1st dose):</i> 1 mL (1 Lakh IU), Oral.</p><p><b>Boosters (16-24 Months &amp; Beyond):</b><br>• <i>DPT Booster-1, MR-2, OPV Booster:</i> At 16-24 months.<br>• <i>Vitamin A (Doses 2 to 9):</i> 2 mL (2 Lakh IU) every 6 months up to 5 years (Total 9 doses / 17 Lakh IU).<br>• <i>DPT Booster-2:</i> At 5-6 years.<br>• <i>Td (Tetanus-adult Diphtheria):</i> At 10 years and 16 years (replaces plain TT).</p>",
+  "title": "India National Immunization Schedule: The Logic of Age-Based Prevention",
+  "preview": "Understand birth doses, infant primary series and boosters while checking the current official Indian UIP schedule.",
+  "body": "",
   "readingMinutes": 2,
-  "reviewStatus": "editorially-reformatted-legacy-content"
+  "reviewStatus": "legacy-medical-fact-check-required",
+  "sections": [
+    {
+      "title": "Recognize the schedule structure",
+      "type": "pearl",
+      "points": [
+        "The routine schedule combines birth, early infant, later infant and childhood booster visits rather than a single uniform interval.",
+        "JE and certain other vaccines may depend on program or geographical eligibility."
+      ]
+    },
+    {
+      "title": "Safety and administration",
+      "type": "flow",
+      "points": [
+        "Document vaccine, batch, route, site and prior doses; use the exact formulation-specific instructions.",
+        "Temperature excursions require a documented cold-chain response instead of assuming stock remains potent."
+      ]
+    },
+    {
+      "title": "Exam trap — do not memorize an outdated chart",
+      "type": "trap",
+      "points": [
+        "Schedules, product presentations and state-specific implementation can be revised; check the current Ministry of Health/National Health Mission guidance.",
+        "A delayed series generally needs an appropriate catch-up plan, not indiscriminate restarting."
+      ]
+    }
+  ],
+  "images": [],
+  "quickRevision": [
+    "At birth, the national program includes BCG, oral polio birth dose and hepatitis B birth dose.",
+    "Primary infant vaccination follows age-appropriate schedules and formulation-specific rules.",
+    "Catch-up vaccination depends on valid previous doses, age, risk and the latest official guidance."
+  ],
+  "medicalEditorialStatus": "topic-specific-reviewed-against-open-authoritative-guidance-not-clinician-peer-reviewed",
+  "inlineLinks": [
+    {
+      "slug": "new-0064-catch-up-vaccination-principles-not-memorized-shortcuts",
+      "context": "For a complementary clinical comparison, read"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Which resource should guide a current national immunization schedule?",
+      "options": [
+        "Vaccine name alone",
+        "Current official Ministry of Health program guidance",
+        "The previous century's calendar",
+        "An undated poster only"
+      ],
+      "correct": 1,
+      "explanation": "Current official Ministry of Health program guidance. Schedules, product presentations and state-specific implementation can be revised; check the current Ministry of Health/National Health Mission guidance.",
+      "type": "High-yield recall"
+    }
+  ],
+  "valueSources": [
+    {
+      "label": "National schedule and age intervals",
+      "source": "Government of India, National Health Mission — National Immunization Schedule",
+      "url": "https://nhm.gov.in/images/pdf/programmes/immunization/manual-formats/Current_UIP_Schedule.pdf",
+      "note": "Check official program updates before use."
+    }
+  ]
 }

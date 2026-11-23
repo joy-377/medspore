@@ -1,0 +1,55 @@
+{
+  "id": "ART-NEW-0031",
+  "slug": "new-0031-platelet-count-emergencies-bleeding-context-and-smear-review",
+  "title": "Platelet Count Emergencies: Bleeding Context and Smear Review",
+  "category": "Critical Lab Values",
+  "subject": "Hematology & ABG",
+  "preview": "A low platelet count may reflect reduced production, increased destruction or sequestration; bleeding risk varies by cause and context.",
+  "quickRevision": [
+    "A low platelet count may reflect reduced production, increased destruction or sequestration; bleeding risk varies by cause and context.",
+    "Look for bleeding, fever, neurologic symptoms, hemolysis and thrombosis before deciding on urgency.",
+    "Transfusion decisions are situation-specific; suspected thrombotic microangiopathy needs urgent etiologic evaluation."
+  ],
+  "sections": [
+    {
+      "title": "Interpret the result in context",
+      "type": "pearl",
+      "points": [
+        "A low platelet count may reflect reduced production, increased destruction or sequestration; bleeding risk varies by cause and context.",
+        "Confirm unexpected results with a smear to exclude platelet clumping and pseudothrombocytopenia."
+      ]
+    },
+    {
+      "title": "Clinical interpretation & next steps",
+      "type": "table",
+      "points": [
+        "Look for bleeding, fever, neurologic symptoms, hemolysis and thrombosis before deciding on urgency.",
+        "Transfusion decisions are situation-specific; suspected thrombotic microangiopathy needs urgent etiologic evaluation."
+      ]
+    },
+    {
+      "title": "Exam trap — avoid this mistake",
+      "type": "trap",
+      "points": [
+        "Do not treat an isolated automated count as definitive without considering the smear and clinical situation."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "question": "What should be checked when the platelet count is unexpectedly low?",
+      "options": [
+        "Peripheral smear for platelet clumping",
+        "Visual acuity first",
+        "Hearing thresholds",
+        "Serum lipase as the only test"
+      ],
+      "correct": 0,
+      "explanation": "Peripheral smear for platelet clumping. Confirm unexpected results with a smear to exclude platelet clumping and pseudothrombocytopenia.",
+      "type": "High-yield concept check"
+    }
+  ],
+  "images": [],
+  "medicalEditorialStatus": "author-drafted-not-clinician-peer-reviewed",
+  "inlineLinks": []
+}

@@ -5,8 +5,63 @@
   "category": "Triads & Signs",
   "subject": "Surgical Triads",
   "title": "Trauma & Orthopedic Triads",
-  "preview": "Unhappy triad of the knee, Fat Embolism syndrome, and Lethal Triad of Trauma...",
-  "body": "<ul><li><b>O'Donoghue's Unhappy Triad (Knee Injury):</b> 1. ACL tear, 2. MCL tear, 3. Medial Meniscus tear (though lateral meniscus is often more commonly involved in acute settings). Caused by lateral blow to a planted leg.</li><li><b>Bergman's Triad (Fat Embolism Syndrome):</b> 1. Dyspnea/Hypoxia, 2. Neurological abnormalities (confusion), 3. Petechial rash (chest/axilla/conjunctiva). Usually occurs 24-72 hours after a long bone (femur) fracture.</li><li><b>Lethal Triad of Trauma:</b> 1. Hypothermia, 2. Coagulopathy, 3. Metabolic Acidosis. <i>Management target:</i> Damage control surgery to stop the bleeding, rewarming, and massive transfusion protocol.</li></ul>",
+  "preview": "Trauma patterns combine orthopedic injury, fat embolism and the physiologic lethal triad of major hemorrhage.",
+  "body": "",
   "readingMinutes": 2,
-  "reviewStatus": "editorially-reformatted-legacy-content"
+  "reviewStatus": "legacy-medical-fact-check-required",
+  "sections": [
+    {
+      "title": "The classic unhappy triad",
+      "type": "pearl",
+      "points": [
+        "A valgus force to a planted knee can injure the ACL, MCL and meniscus.",
+        "The historical description names the medial meniscus, while acute-injury series often identify lateral meniscal tears; imaging and examination establish the actual injury."
+      ]
+    },
+    {
+      "title": "Fat embolism syndrome",
+      "type": "table",
+      "points": [
+        "Respiratory distress or hypoxemia, confusion or altered consciousness, and a petechial rash are classic clues.",
+        "Onset and severity vary; a normal initial examination does not eliminate subsequent concern after high-risk fracture."
+      ]
+    },
+    {
+      "title": "Trauma lethal triad",
+      "type": "mnemonic",
+      "points": [
+        "Remember hypothermia + acidosis + coagulopathy as mutually reinforcing dangers in major bleeding.",
+        "Damage-control resuscitation seeks hemorrhage control, warming and correction of physiologic derangements."
+      ]
+    },
+    {
+      "title": "Exam trap",
+      "type": "trap",
+      "points": [
+        "Do not equate any knee injury with all components of the classic triad.",
+        "Persistent severe pain on passive stretch after trauma warrants consideration of compartment syndrome."
+      ]
+    }
+  ],
+  "images": [],
+  "quickRevision": [
+    "The classical unhappy triad describes ACL, MCL and meniscal injury after knee trauma.",
+    "Fat embolism syndrome can produce respiratory dysfunction, neurological findings and petechial rash after trauma.",
+    "The lethal triad of major trauma is hypothermia, coagulopathy and acidosis."
+  ],
+  "medicalEditorialStatus": "structured-clinical-revision-not-clinician-peer-reviewed",
+  "quiz": [
+    {
+      "question": "In acute compartment syndrome, what is an early concerning symptom?",
+      "options": [
+        "Normal muscle tension after major trauma",
+        "Severe pain with passive stretch",
+        "Complete painless mobility",
+        "Normal sensation proving absence"
+      ],
+      "correct": 1,
+      "explanation": "Marked pain during passive stretch after fracture or trauma is an early warning of compartment syndrome; distal pulses can remain intact.",
+      "type": "High-yield recall"
+    }
+  ]
 }

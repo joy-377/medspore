@@ -1,0 +1,55 @@
+{
+  "id": "ART-NEW-0074",
+  "slug": "new-0074-porphyrias-biochemical-patterns-and-clinical-clues",
+  "title": "Porphyrias: Biochemical Patterns and Clinical Clues",
+  "category": "First Year MBBS",
+  "subject": "Biochemistry",
+  "preview": "Acute intermittent porphyria can cause recurrent abdominal pain, autonomic symptoms and neuropathy without a characteristic photosensitive rash.",
+  "quickRevision": [
+    "Acute intermittent porphyria can cause recurrent abdominal pain, autonomic symptoms and neuropathy without a characteristic photosensitive rash.",
+    "Heme synthesis enzyme defects lead to differing precursor accumulation patterns and clinical manifestations.",
+    "Drug exposures, fasting and hormonal factors can precipitate acute attacks in susceptible individuals."
+  ],
+  "sections": [
+    {
+      "title": "Core biomedical mechanism",
+      "type": "pearl",
+      "points": [
+        "Acute intermittent porphyria can cause recurrent abdominal pain, autonomic symptoms and neuropathy without a characteristic photosensitive rash.",
+        "Porphyria cutanea tarda is associated with cutaneous photosensitivity and blistering on sun-exposed skin."
+      ]
+    },
+    {
+      "title": "Clinical application",
+      "type": "table",
+      "points": [
+        "Heme synthesis enzyme defects lead to differing precursor accumulation patterns and clinical manifestations.",
+        "Drug exposures, fasting and hormonal factors can precipitate acute attacks in susceptible individuals."
+      ]
+    },
+    {
+      "title": "Exam trap — avoid this mistake",
+      "type": "trap",
+      "points": [
+        "Not every porphyria has photosensitivity; classify the biochemical pathway and clinical pattern."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Which porphyria classically causes neurovisceral attacks without blistering photosensitivity?",
+      "options": [
+        "Congenital erythropoietic porphyria",
+        "Porphyria cutanea tarda",
+        "Acute intermittent porphyria",
+        "Erythropoietic protoporphyria"
+      ],
+      "correct": 2,
+      "explanation": "Acute intermittent porphyria can cause recurrent abdominal pain, autonomic symptoms and neuropathy without a characteristic photosensitive rash.",
+      "type": "High-yield concept check"
+    }
+  ],
+  "images": [],
+  "medicalEditorialStatus": "author-drafted-not-clinician-peer-reviewed",
+  "inlineLinks": []
+}

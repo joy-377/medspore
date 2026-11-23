@@ -1,0 +1,55 @@
+{
+  "id": "ART-NEW-0102",
+  "slug": "new-0102-pupillary-light-reflex-afferent-and-efferent-defects",
+  "title": "Pupillary Light Reflex: Afferent and Efferent Defects",
+  "category": "Third Year (Part 1)",
+  "subject": "Ophthalmology",
+  "preview": "The light reflex afferent limb travels via optic nerve II; the efferent limb travels via oculomotor nerve III.",
+  "quickRevision": [
+    "The light reflex afferent limb travels via optic nerve II; the efferent limb travels via oculomotor nerve III.",
+    "An efferent defect can produce poor constriction from parasympathetic pathway involvement.",
+    "Compare direct and consensual reflexes and the swinging-flashlight test for localization."
+  ],
+  "sections": [
+    {
+      "title": "Recognize the core pattern",
+      "type": "pearl",
+      "points": [
+        "The light reflex afferent limb travels via optic nerve II; the efferent limb travels via oculomotor nerve III.",
+        "A relative afferent pupillary defect suggests asymmetric afferent visual pathway dysfunction."
+      ]
+    },
+    {
+      "title": "Clinical examination and interpretation",
+      "type": "table",
+      "points": [
+        "An efferent defect can produce poor constriction from parasympathetic pathway involvement.",
+        "Compare direct and consensual reflexes and the swinging-flashlight test for localization."
+      ]
+    },
+    {
+      "title": "Exam trap — avoid this mistake",
+      "type": "trap",
+      "points": [
+        "A single abnormal pupil does not by itself identify whether the lesion is afferent or efferent."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Which nerve supplies the efferent limb of the pupillary constriction reflex?",
+      "options": [
+        "Hypoglossal nerve XII",
+        "Facial nerve VII",
+        "Oculomotor nerve III",
+        "Optic nerve II"
+      ],
+      "correct": 2,
+      "explanation": "The light reflex afferent limb travels via optic nerve II; the efferent limb travels via oculomotor nerve III.",
+      "type": "High-yield concept check"
+    }
+  ],
+  "images": [],
+  "medicalEditorialStatus": "author-drafted-not-clinician-peer-reviewed",
+  "inlineLinks": []
+}

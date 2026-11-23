@@ -1,0 +1,55 @@
+{
+  "id": "ART-NEW-0075",
+  "slug": "new-0075-amyloidosis-tissue-deposition-and-congo-red-findings",
+  "title": "Amyloidosis: Tissue Deposition and Congo Red Findings",
+  "category": "Second Year MBBS",
+  "subject": "Pathology",
+  "preview": "Amyloid represents extracellular deposition of misfolded fibrillar proteins that may damage organs.",
+  "quickRevision": [
+    "Amyloid represents extracellular deposition of misfolded fibrillar proteins that may damage organs.",
+    "AL amyloidosis involves immunoglobulin light chains; AA is associated with chronic inflammatory processes.",
+    "Cardiac, renal, neural and gastrointestinal involvement can occur depending on amyloid type."
+  ],
+  "sections": [
+    {
+      "title": "Pathophysiology & identification",
+      "type": "pearl",
+      "points": [
+        "Amyloid represents extracellular deposition of misfolded fibrillar proteins that may damage organs.",
+        "Congo red staining shows characteristic apple-green birefringence under polarized light when performed and interpreted correctly."
+      ]
+    },
+    {
+      "title": "Diagnostic and treatment connections",
+      "type": "table",
+      "points": [
+        "AL amyloidosis involves immunoglobulin light chains; AA is associated with chronic inflammatory processes.",
+        "Cardiac, renal, neural and gastrointestinal involvement can occur depending on amyloid type."
+      ]
+    },
+    {
+      "title": "Exam trap — avoid this mistake",
+      "type": "trap",
+      "points": [
+        "Typing the amyloid is vital: a positive stain does not identify the specific amyloid protein by itself."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Which stain classically supports tissue amyloid identification?",
+      "options": [
+        "India ink",
+        "Gram stain",
+        "Congo red",
+        "Ziehl–Neelsen"
+      ],
+      "correct": 2,
+      "explanation": "Congo red staining shows characteristic apple-green birefringence under polarized light when performed and interpreted correctly.",
+      "type": "High-yield concept check"
+    }
+  ],
+  "images": [],
+  "medicalEditorialStatus": "author-drafted-not-clinician-peer-reviewed",
+  "inlineLinks": []
+}

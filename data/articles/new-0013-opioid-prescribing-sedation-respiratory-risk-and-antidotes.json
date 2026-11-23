@@ -1,0 +1,55 @@
+{
+  "id": "ART-NEW-0013",
+  "slug": "new-0013-opioid-prescribing-sedation-respiratory-risk-and-antidotes",
+  "title": "Opioid Prescribing: Sedation, Respiratory Risk and Antidotes",
+  "category": "Clinical Tips",
+  "subject": "Prescription Pearls",
+  "preview": "Opioids may cause respiratory depression, drowsiness, constipation and nausea; monitor consciousness and ventilation.",
+  "quickRevision": [
+    "Opioids may cause respiratory depression, drowsiness, constipation and nausea; monitor consciousness and ventilation.",
+    "Dose changes need caution with older age, sleep apnea, renal impairment and sedative co-medications.",
+    "Support airway and breathing first in suspected severe toxicity and observe for recurrence after reversal."
+  ],
+  "sections": [
+    {
+      "title": "Recognize the situation",
+      "type": "pearl",
+      "points": [
+        "Opioids may cause respiratory depression, drowsiness, constipation and nausea; monitor consciousness and ventilation.",
+        "Naloxone reverses opioid-induced respiratory depression but may wear off before a longer-acting opioid."
+      ]
+    },
+    {
+      "title": "Clinical decisions & differential",
+      "type": "table",
+      "points": [
+        "Dose changes need caution with older age, sleep apnea, renal impairment and sedative co-medications.",
+        "Support airway and breathing first in suspected severe toxicity and observe for recurrence after reversal."
+      ]
+    },
+    {
+      "title": "Exam trap — avoid this mistake",
+      "type": "trap",
+      "points": [
+        "Normal oxygen saturation while receiving oxygen can coexist with hypoventilation."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Which drug is used to reverse opioid-induced respiratory depression?",
+      "options": [
+        "Vitamin K",
+        "Naloxone",
+        "Atropine",
+        "Flumazenil as routine opioid reversal"
+      ],
+      "correct": 1,
+      "explanation": "Naloxone reverses opioid-induced respiratory depression but may wear off before a longer-acting opioid.",
+      "type": "High-yield concept check"
+    }
+  ],
+  "images": [],
+  "medicalEditorialStatus": "author-drafted-not-clinician-peer-reviewed",
+  "inlineLinks": []
+}

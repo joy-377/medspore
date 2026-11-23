@@ -1,0 +1,55 @@
+{
+  "id": "ART-NEW-0033",
+  "slug": "new-0033-lactic-acidosis-perfusion-versus-alternative-causes",
+  "title": "Lactic Acidosis: Perfusion Versus Alternative Causes",
+  "category": "Critical Lab Values",
+  "subject": "Hematology & ABG",
+  "preview": "Lactate can rise with tissue hypoperfusion but also with seizures, beta-agonists, hepatic impairment or other causes.",
+  "quickRevision": [
+    "Lactate can rise with tissue hypoperfusion but also with seizures, beta-agonists, hepatic impairment or other causes.",
+    "Acid–base interpretation requires pH, bicarbonate, respiratory compensation and anion-gap context.",
+    "Reassess perfusion, oxygen delivery, medications and the underlying cause rather than treating a number in isolation."
+  ],
+  "sections": [
+    {
+      "title": "Interpret the result in context",
+      "type": "pearl",
+      "points": [
+        "Lactate can rise with tissue hypoperfusion but also with seizures, beta-agonists, hepatic impairment or other causes.",
+        "Serial lactate and the overall clinical picture are more informative than labeling every elevated value as septic shock."
+      ]
+    },
+    {
+      "title": "Clinical interpretation & next steps",
+      "type": "table",
+      "points": [
+        "Acid–base interpretation requires pH, bicarbonate, respiratory compensation and anion-gap context.",
+        "Reassess perfusion, oxygen delivery, medications and the underlying cause rather than treating a number in isolation."
+      ]
+    },
+    {
+      "title": "Exam trap — avoid this mistake",
+      "type": "trap",
+      "points": [
+        "Lactic acidosis is not synonymous with sepsis, and lactate alone does not diagnose hypoperfusion."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Which statement about elevated lactate is correct?",
+      "options": [
+        "It always establishes septic shock",
+        "It excludes liver dysfunction",
+        "It has causes beyond tissue hypoxia",
+        "It never changes after seizures"
+      ],
+      "correct": 2,
+      "explanation": "It has causes beyond tissue hypoxia. Lactate can rise with tissue hypoperfusion but also with seizures, beta-agonists, hepatic impairment or other causes.",
+      "type": "High-yield concept check"
+    }
+  ],
+  "images": [],
+  "medicalEditorialStatus": "author-drafted-not-clinician-peer-reviewed",
+  "inlineLinks": []
+}

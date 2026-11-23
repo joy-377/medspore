@@ -5,8 +5,69 @@
   "category": "Triads & Signs",
   "subject": "Radiological Signs",
   "title": "Classic Chest X-Ray (CXR) Signs",
-  "preview": "Golden S, Deep Sulcus, and signs of Pulmonary Embolism on plain film...",
-  "body": "<ul><li><b>Deep Sulcus Sign:</b> Abnormally deepened and hyperlucent costophrenic angle on a supine CXR. <i>Signifies:</i> Pneumothorax (air collects anteriorly and basally in supine position).</li><li><b>Golden S Curve of San Felix:</b> Reverse 'S' shape of the right horizontal fissure. <i>Signifies:</i> Right upper lobe collapse caused by a central obstructing mass (like bronchogenic carcinoma).</li><li><b>Hampton's Hump:</b> Wedge-shaped peripheral opacity abutting the pleura. <i>Signifies:</i> Pulmonary infarction due to Pulmonary Embolism (PE).</li><li><b>Westermark Sign:</b> Focal area of oligemia (reduced vascular markings) distal to a massive PE.</li><li><b>Water Bottle Heart:</b> Symmetrically enlarged, globular heart shadow. <i>Signifies:</i> Massive Pericardial Effusion.</li></ul>",
+  "preview": "Recognize major chest radiograph patterns while remembering that classic X-ray signs are neither universally present nor diagnostic alone.",
+  "body": "",
   "readingMinutes": 2,
-  "reviewStatus": "editorially-reformatted-legacy-content"
+  "reviewStatus": "legacy-medical-fact-check-required",
+  "sections": [
+    {
+      "title": "Pneumothorax and collapse",
+      "type": "table",
+      "points": [
+        "Deep sulcus: abnormally deep lateral costophrenic angle on supine chest imaging in some pneumothoraces.",
+        "Golden S sign: S-shaped displaced fissure associated with an upper-lobe collapse pattern and possible central mass."
+      ]
+    },
+    {
+      "title": "Pulmonary vascular clues",
+      "type": "pearl",
+      "points": [
+        "Hampton hump: peripheral pleural-based wedge opacity can reflect pulmonary infarction.",
+        "Westermark sign: focal oligemia may follow pulmonary artery obstruction, but is rarely sufficient for diagnosis."
+      ]
+    },
+    {
+      "title": "A large cardiac silhouette",
+      "type": "flow",
+      "points": [
+        "A globular “water bottle” cardiac silhouette may accompany a large pericardial effusion.",
+        "Echocardiography assesses pericardial fluid and physiology when clinically indicated."
+      ]
+    },
+    {
+      "title": "Exam trap",
+      "type": "trap",
+      "points": [
+        "A normal chest radiograph does not exclude pulmonary embolism.",
+        "A silhouette sign may have several causes; interpret with the clinical picture and appropriate imaging."
+      ]
+    }
+  ],
+  "images": [],
+  "quickRevision": [
+    "A deep sulcus on a supine radiograph can suggest pneumothorax.",
+    "A Golden S sign can arise from lobar collapse associated with a central obstructing lesion.",
+    "Hampton hump and Westermark sign are historical clues to pulmonary embolism but are insensitive."
+  ],
+  "medicalEditorialStatus": "structured-clinical-revision-not-clinician-peer-reviewed",
+  "inlineLinks": [
+    {
+      "slug": "new-0025-chest-radiograph-air-bronchogram-and-silhouette-sign",
+      "context": "For a complementary clinical comparison, read"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "What does an air bronchogram suggest on chest radiography?",
+      "options": [
+        "Normal myocardium",
+        "Free air outside the lung only",
+        "Calcification of the entire bronchial tree",
+        "Air-filled bronchi outlined by air-space opacity"
+      ],
+      "correct": 3,
+      "explanation": "An air bronchogram occurs when air-filled bronchi remain visible against surrounding air-space opacification, as in certain consolidative lung processes.",
+      "type": "High-yield recall"
+    }
+  ]
 }

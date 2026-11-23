@@ -1,0 +1,63 @@
+{
+  "id": "ART-NEW-0085",
+  "slug": "new-0085-staphylococcus-versus-streptococcus-laboratory-differentiation",
+  "title": "Staphylococcus Versus Streptococcus: Laboratory Differentiation",
+  "category": "Second Year MBBS",
+  "subject": "Microbiology",
+  "preview": "Staphylococci are Gram-positive cocci often in clusters and generally catalase positive.",
+  "quickRevision": [
+    "Staphylococci are Gram-positive cocci often in clusters and generally catalase positive.",
+    "Coagulase testing helps differentiate Staphylococcus aureus from most other common staphylococci.",
+    "Hemolysis, antigen tests, culture and modern laboratory identification provide additional classification."
+  ],
+  "sections": [
+    {
+      "title": "Pathophysiology & identification",
+      "type": "pearl",
+      "points": [
+        "Staphylococci are Gram-positive cocci often in clusters and generally catalase positive.",
+        "Streptococci are typically catalase negative and often appear in chains or pairs."
+      ]
+    },
+    {
+      "title": "Diagnostic and treatment connections",
+      "type": "table",
+      "points": [
+        "Coagulase testing helps differentiate Staphylococcus aureus from most other common staphylococci.",
+        "Hemolysis, antigen tests, culture and modern laboratory identification provide additional classification."
+      ]
+    },
+    {
+      "title": "Memory aid",
+      "type": "mnemonic",
+      "points": [
+        "Catalase: Staphylococci are typically positive; streptococci are typically negative.",
+        "Use additional validated testing because single test results may be misleading."
+      ]
+    },
+    {
+      "title": "Exam trap — avoid this mistake",
+      "type": "trap",
+      "points": [
+        "Do not determine species from Gram stain arrangement alone."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Which enzyme test typically separates staphylococci from streptococci?",
+      "options": [
+        "DNase alone",
+        "Oxidase alone",
+        "Catalase",
+        "Urease exclusively"
+      ],
+      "correct": 2,
+      "explanation": "Catalase: Staphylococci are typically positive; streptococci are typically negative.",
+      "type": "High-yield concept check"
+    }
+  ],
+  "images": [],
+  "medicalEditorialStatus": "author-drafted-not-clinician-peer-reviewed",
+  "inlineLinks": []
+}

@@ -1,0 +1,55 @@
+{
+  "id": "ART-NEW-0021",
+  "slug": "new-0021-acute-limb-ischemia-the-six-ps-and-time-sensitivity",
+  "title": "Acute Limb Ischemia: The Six Ps and Time Sensitivity",
+  "category": "Triads & Signs",
+  "subject": "Surgical Triads",
+  "preview": "Acute limb ischemia is classically described by pain, pallor, pulselessness, paresthesia, paralysis and poikilothermia.",
+  "quickRevision": [
+    "Acute limb ischemia is classically described by pain, pallor, pulselessness, paresthesia, paralysis and poikilothermia.",
+    "Compare both limbs for temperature, color, capillary refill, pulses and Doppler signals.",
+    "Rapid assessment and appropriate anticoagulation or reperfusion planning depend on specialist evaluation."
+  ],
+  "sections": [
+    {
+      "title": "Recognize the pattern",
+      "type": "pearl",
+      "points": [
+        "Acute limb ischemia is classically described by pain, pallor, pulselessness, paresthesia, paralysis and poikilothermia.",
+        "A threatened limb needs urgent vascular assessment; sensory or motor deficits indicate substantial ischemic risk."
+      ]
+    },
+    {
+      "title": "What this finding does—and does not—mean",
+      "type": "table",
+      "points": [
+        "Compare both limbs for temperature, color, capillary refill, pulses and Doppler signals.",
+        "Rapid assessment and appropriate anticoagulation or reperfusion planning depend on specialist evaluation."
+      ]
+    },
+    {
+      "title": "Exam trap — avoid this mistake",
+      "type": "trap",
+      "points": [
+        "Do not wait for all six signs; pulselessness may be difficult to assess and tissue damage is time-sensitive."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Which finding is among the six Ps of acute limb ischemia?",
+      "options": [
+        "Photophobia",
+        "Paresthesia",
+        "Pruritus",
+        "Polyuria"
+      ],
+      "correct": 1,
+      "explanation": "Acute limb ischemia is classically described by pain, pallor, pulselessness, paresthesia, paralysis and poikilothermia.",
+      "type": "High-yield concept check"
+    }
+  ],
+  "images": [],
+  "medicalEditorialStatus": "author-drafted-not-clinician-peer-reviewed",
+  "inlineLinks": []
+}

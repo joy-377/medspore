@@ -1,0 +1,55 @@
+{
+  "id": "ART-NEW-0007",
+  "slug": "new-0007-acute-kidney-injury-urine-output-creatinine-and-reversible-causes",
+  "title": "Acute Kidney Injury: Urine Output, Creatinine and Reversible Causes",
+  "category": "Clinical Tips",
+  "subject": "Ward Protocols",
+  "preview": "Acute kidney injury is a change in kidney function detected by creatinine trend or reduced urine output, interpreted with timing and context.",
+  "quickRevision": [
+    "Acute kidney injury is a change in kidney function detected by creatinine trend or reduced urine output, interpreted with timing and context.",
+    "A normal creatinine early in injury may be misleading because serum creatinine can lag behind a fall in GFR.",
+    "Urinalysis, electrolytes and appropriate renal imaging help distinguish functional, intrinsic and obstructive causes."
+  ],
+  "sections": [
+    {
+      "title": "Recognize the situation",
+      "type": "pearl",
+      "points": [
+        "Acute kidney injury is a change in kidney function detected by creatinine trend or reduced urine output, interpreted with timing and context.",
+        "Evaluate volume status, shock, nephrotoxins, obstruction and underlying kidney disease; review medication doses."
+      ]
+    },
+    {
+      "title": "Clinical decisions & differential",
+      "type": "table",
+      "points": [
+        "A normal creatinine early in injury may be misleading because serum creatinine can lag behind a fall in GFR.",
+        "Urinalysis, electrolytes and appropriate renal imaging help distinguish functional, intrinsic and obstructive causes."
+      ]
+    },
+    {
+      "title": "Exam trap — avoid this mistake",
+      "type": "trap",
+      "points": [
+        "Do not assume all oliguria needs fluids; pulmonary edema and obstructive causes require different approaches."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Which cause of acute kidney injury is potentially reversible by relieving blockage?",
+      "options": [
+        "Chronic acne",
+        "Postrenal urinary obstruction",
+        "Inherited eye disease",
+        "Irreversible cortical scarring only"
+      ],
+      "correct": 1,
+      "explanation": "Postrenal urinary obstruction. Evaluate volume status, shock, nephrotoxins, obstruction and underlying kidney disease; review medication doses.",
+      "type": "High-yield concept check"
+    }
+  ],
+  "images": [],
+  "medicalEditorialStatus": "author-drafted-not-clinician-peer-reviewed",
+  "inlineLinks": []
+}

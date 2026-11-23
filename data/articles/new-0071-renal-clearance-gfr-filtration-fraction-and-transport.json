@@ -1,0 +1,55 @@
+{
+  "id": "ART-NEW-0071",
+  "slug": "new-0071-renal-clearance-gfr-filtration-fraction-and-transport",
+  "title": "Renal Clearance: GFR, Filtration Fraction and Transport",
+  "category": "First Year MBBS",
+  "subject": "Physiology",
+  "preview": "Renal clearance is the hypothetical plasma volume from which a substance is completely removed per unit time.",
+  "quickRevision": [
+    "Renal clearance is the hypothetical plasma volume from which a substance is completely removed per unit time.",
+    "Creatinine clearance can modestly overestimate true GFR due to tubular secretion.",
+    "Filtration fraction is GFR divided by renal plasma flow; transport maximum describes saturation of certain tubular processes."
+  ],
+  "sections": [
+    {
+      "title": "Core biomedical mechanism",
+      "type": "pearl",
+      "points": [
+        "Renal clearance is the hypothetical plasma volume from which a substance is completely removed per unit time.",
+        "Inulin clearance approximates GFR because it is freely filtered without meaningful reabsorption or secretion."
+      ]
+    },
+    {
+      "title": "Clinical application",
+      "type": "table",
+      "points": [
+        "Creatinine clearance can modestly overestimate true GFR due to tubular secretion.",
+        "Filtration fraction is GFR divided by renal plasma flow; transport maximum describes saturation of certain tubular processes."
+      ]
+    },
+    {
+      "title": "Exam trap — avoid this mistake",
+      "type": "trap",
+      "points": [
+        "Clearance of a substance undergoing active secretion is not automatically identical to GFR."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Which marker is traditionally used as an ideal reference for GFR measurement?",
+      "options": [
+        "Bilirubin",
+        "Inulin",
+        "Glucose after complete reabsorption",
+        "Albumin"
+      ],
+      "correct": 1,
+      "explanation": "Inulin clearance approximates GFR because it is freely filtered without meaningful reabsorption or secretion.",
+      "type": "High-yield concept check"
+    }
+  ],
+  "images": [],
+  "medicalEditorialStatus": "author-drafted-not-clinician-peer-reviewed",
+  "inlineLinks": []
+}

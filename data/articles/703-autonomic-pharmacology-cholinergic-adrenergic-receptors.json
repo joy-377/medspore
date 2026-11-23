@@ -8,5 +8,37 @@
   "preview": "G-protein pathways, Bethanechol, Atropine, and Alpha/Beta blocker selectivities...",
   "body": "<p><b>G-Protein Receptor Couplings (The 'QISS and QIQ' Rule):</b><br>• <b>Gq Coupled (IP3 / DAG pathway &rarr; activates PKC &amp; increases intracellular Ca2+):</b> Alpha-1, M1, M3, H1, V1.<br>• <b>Gi Coupled (Inhibits Adenylyl Cyclase &rarr; decreases cAMP):</b> Alpha-2, M2 (cardiac), D2.<br>• <b>Gs Coupled (Stimulates Adenylyl Cyclase &rarr; increases cAMP):</b> Beta-1 (cardiac), Beta-2 (smooth muscle relaxation), Beta-3, D1, H2, V2.</p><p><b>High-Yield Clinical Therapeutics:</b><br>• <i>Glaucoma:</i> Latanoprost (PGF2alpha analogue - increases uveoscleral outflow, first line); Timolol (decreases aqueous humor production); Pilocarpine (M3 agonist, contracts ciliary muscle &amp; opens trabecular meshwork).<br>• <i>Myasthenia Gravis:</i> Pyridostigmine (long-acting AChE inhibitor) for maintenance. Edrophonium historically used for Tensilon test.<br>• <i>Beta-Blocker Selectivity:</i> Cardioselective (Beta-1 specific): Metoprolol, Atenolol, Bisoprolol, Esmolol (ultra-short acting, half-life 9 min). Non-selective with alpha-1 blocking activity: Carvedilol, Labetalol.</p>",
   "readingMinutes": 2,
-  "reviewStatus": "editorially-reformatted-legacy-content"
+  "reviewStatus": "legacy-medical-fact-check-required",
+  "sections": [
+    {
+      "title": "G-Protein Receptor Couplings (The 'QISS and QIQ' Rule)",
+      "html": "<p><b>G-Protein Receptor Couplings (The 'QISS and QIQ' Rule):</b><br/>• <b>Gq Coupled (IP3 / DAG pathway → activates PKC &amp; increases intracellular Ca2+):</b> Alpha-1, M1, M3, H1, V1.<br/>• <b>Gi Coupled (Inhibits Adenylyl Cyclase → decreases cAMP):</b> Alpha-2, M2 (cardiac), D2.<br/>• <b>Gs Coupled (Stimulates Adenylyl Cyclase → increases cAMP):</b> Beta-1 (cardiac), Beta-2 (smooth muscle relaxation), Beta-3, D1, H2, V2.</p>",
+      "type": ""
+    },
+    {
+      "title": "High-Yield Clinical Therapeutics",
+      "html": "<p><b>High-Yield Clinical Therapeutics:</b><br/>• <i>Glaucoma:</i> Latanoprost (PGF2alpha analogue - increases uveoscleral outflow, first line); Timolol (decreases aqueous humor production); Pilocarpine (M3 agonist, contracts ciliary muscle &amp; opens trabecular meshwork).<br/>• <i>Myasthenia Gravis:</i> Pyridostigmine (long-acting AChE inhibitor) for maintenance. Edrophonium historically used for Tensilon test.<br/>• <i>Beta-Blocker Selectivity:</i> Cardioselective (Beta-1 specific): Metoprolol, Atenolol, Bisoprolol, Esmolol (ultra-short acting, half-life 9 min). Non-selective with alpha-1 blocking activity: Carvedilol, Labetalol.</p>",
+      "type": ""
+    }
+  ],
+  "images": [],
+  "quickRevision": [
+    "G-Protein Receptor Couplings (The 'QISS and QIQ' Rule); Gq Coupled (IP3 / DAG pathway → activates PKC & increases intracellular Ca2+): Alpha-1, M1, M3, H1, V1.",
+    "High-Yield Clinical Therapeutics; Glaucoma: Latanoprost (PGF2alpha analogue - increases uveoscleral outflow, first line)"
+  ],
+  "medicalEditorialStatus": "legacy-requires-clinician-review",
+  "quiz": [
+    {
+      "question": "What receptor mediates typical skeletal muscle neuromuscular junction transmission?",
+      "options": [
+        "Alpha-1 receptor",
+        "Muscarinic M2 receptor",
+        "Nicotinic Nm receptor",
+        "Beta-2 receptor"
+      ],
+      "correct": 2,
+      "explanation": "Nicotinic Nm acetylcholine receptors are ligand-gated ion channels at the neuromuscular junction, unlike muscarinic GPCRs.",
+      "type": "High-yield recall"
+    }
+  ]
 }

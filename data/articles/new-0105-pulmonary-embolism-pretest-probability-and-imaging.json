@@ -1,0 +1,55 @@
+{
+  "id": "ART-NEW-0105",
+  "slug": "new-0105-pulmonary-embolism-pretest-probability-and-imaging",
+  "title": "Pulmonary Embolism: Pretest Probability and Imaging",
+  "category": "Final Year (Part 2)",
+  "subject": "Medicine",
+  "preview": "Pulmonary embolism may cause dyspnea, pleuritic pain, tachycardia, syncope or hypoxemia; presentations vary.",
+  "quickRevision": [
+    "Pulmonary embolism may cause dyspnea, pleuritic pain, tachycardia, syncope or hypoxemia; presentations vary.",
+    "CT pulmonary angiography is a common diagnostic imaging method when suitable; other pathways may be needed with contraindications.",
+    "Hemodynamic instability changes urgency and specialist treatment decisions."
+  ],
+  "sections": [
+    {
+      "title": "Clinical syndrome and red flags",
+      "type": "pearl",
+      "points": [
+        "Pulmonary embolism may cause dyspnea, pleuritic pain, tachycardia, syncope or hypoxemia; presentations vary.",
+        "A validated pretest probability approach guides whether D-dimer or imaging is appropriate."
+      ]
+    },
+    {
+      "title": "Differentiate and manage",
+      "type": "table",
+      "points": [
+        "CT pulmonary angiography is a common diagnostic imaging method when suitable; other pathways may be needed with contraindications.",
+        "Hemodynamic instability changes urgency and specialist treatment decisions."
+      ]
+    },
+    {
+      "title": "Exam trap — avoid this mistake",
+      "type": "trap",
+      "points": [
+        "A negative D-dimer is not a universal rule-out in high-pretest-probability presentations."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Which assessment should guide use of D-dimer in suspected PE?",
+      "options": [
+        "Patient's shoe size",
+        "Routine fasting glucose alone",
+        "Prior eye color",
+        "Clinical pretest probability"
+      ],
+      "correct": 3,
+      "explanation": "Clinical pretest probability. A validated pretest probability approach guides whether D-dimer or imaging is appropriate.",
+      "type": "High-yield concept check"
+    }
+  ],
+  "images": [],
+  "medicalEditorialStatus": "author-drafted-not-clinician-peer-reviewed",
+  "inlineLinks": []
+}

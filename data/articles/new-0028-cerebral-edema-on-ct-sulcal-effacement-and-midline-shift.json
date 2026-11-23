@@ -1,0 +1,55 @@
+{
+  "id": "ART-NEW-0028",
+  "slug": "new-0028-cerebral-edema-on-ct-sulcal-effacement-and-midline-shift",
+  "title": "Cerebral Edema on CT: Sulcal Effacement and Midline Shift",
+  "category": "Triads & Signs",
+  "subject": "Radiological Signs",
+  "preview": "Cerebral edema may produce sulcal effacement, reduced gray-white differentiation and compressed ventricles on CT.",
+  "quickRevision": [
+    "Cerebral edema may produce sulcal effacement, reduced gray-white differentiation and compressed ventricles on CT.",
+    "Assess for herniation signs, reduced consciousness and underlying stroke, hemorrhage, mass or infection.",
+    "A normal early CT may not reflect the full evolution of ischemia or swelling."
+  ],
+  "sections": [
+    {
+      "title": "Recognize the pattern",
+      "type": "pearl",
+      "points": [
+        "Cerebral edema may produce sulcal effacement, reduced gray-white differentiation and compressed ventricles on CT.",
+        "Midline shift signals mass effect but is not a direct measurement of intracranial pressure."
+      ]
+    },
+    {
+      "title": "What this finding does—and does not—mean",
+      "type": "table",
+      "points": [
+        "Assess for herniation signs, reduced consciousness and underlying stroke, hemorrhage, mass or infection.",
+        "A normal early CT may not reflect the full evolution of ischemia or swelling."
+      ]
+    },
+    {
+      "title": "Exam trap — avoid this mistake",
+      "type": "trap",
+      "points": [
+        "Do not equate the amount of radiologic shift with clinical safety; examination and trend matter."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Which CT finding suggests brain swelling?",
+      "options": [
+        "Normal falx position alone",
+        "Increased aeration of sinuses alone",
+        "Sulcal effacement",
+        "Bone remodeling of a healed fracture"
+      ],
+      "correct": 2,
+      "explanation": "Cerebral edema may produce sulcal effacement, reduced gray-white differentiation and compressed ventricles on CT.",
+      "type": "High-yield concept check"
+    }
+  ],
+  "images": [],
+  "medicalEditorialStatus": "author-drafted-not-clinician-peer-reviewed",
+  "inlineLinks": []
+}

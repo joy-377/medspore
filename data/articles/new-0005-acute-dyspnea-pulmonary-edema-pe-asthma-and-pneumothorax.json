@@ -1,0 +1,55 @@
+{
+  "id": "ART-NEW-0005",
+  "slug": "new-0005-acute-dyspnea-pulmonary-edema-pe-asthma-and-pneumothorax",
+  "title": "Acute Dyspnea: Pulmonary Edema, PE, Asthma and Pneumothorax",
+  "category": "Clinical Tips",
+  "subject": "Emergency Triage",
+  "preview": "Acute dyspnea is a symptom; look for immediate threats such as pneumothorax, pulmonary edema, severe asthma and pulmonary embolism.",
+  "quickRevision": [
+    "Acute dyspnea is a symptom; look for immediate threats such as pneumothorax, pulmonary edema, severe asthma and pulmonary embolism.",
+    "Wheeze is not specific to asthma, and a quiet chest during severe airflow obstruction may be ominous.",
+    "Pulse oximetry, work of breathing, hemodynamics, ECG and targeted imaging direct urgency."
+  ],
+  "sections": [
+    {
+      "title": "Recognize the situation",
+      "type": "pearl",
+      "points": [
+        "Acute dyspnea is a symptom; look for immediate threats such as pneumothorax, pulmonary edema, severe asthma and pulmonary embolism.",
+        "Unilateral reduced breath sounds with shock raises concern for tension pneumothorax; diffuse crackles may favor pulmonary edema."
+      ]
+    },
+    {
+      "title": "Clinical decisions & differential",
+      "type": "table",
+      "points": [
+        "Wheeze is not specific to asthma, and a quiet chest during severe airflow obstruction may be ominous.",
+        "Pulse oximetry, work of breathing, hemodynamics, ECG and targeted imaging direct urgency."
+      ]
+    },
+    {
+      "title": "Exam trap — avoid this mistake",
+      "type": "trap",
+      "points": [
+        "A normal oxygen saturation does not independently exclude pulmonary embolism."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Which bedside finding may suggest tension pneumothorax in a deteriorating patient?",
+      "options": [
+        "Isolated nasal congestion",
+        "Symmetric clear breath sounds",
+        "Chronic painless ankle swelling",
+        "Unilateral reduced breath sounds with instability"
+      ],
+      "correct": 3,
+      "explanation": "Unilateral reduced breath sounds with instability. Unilateral reduced breath sounds with shock raises concern for tension pneumothorax; diffuse crackles may favor pulmonary edema.",
+      "type": "High-yield concept check"
+    }
+  ],
+  "images": [],
+  "medicalEditorialStatus": "author-drafted-not-clinician-peer-reviewed",
+  "inlineLinks": []
+}

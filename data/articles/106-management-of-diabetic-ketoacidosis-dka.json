@@ -4,9 +4,63 @@
   "slug": "106-management-of-diabetic-ketoacidosis-dka",
   "category": "Clinical Tips",
   "subject": "Ward Protocols",
-  "title": "Management of Diabetic Ketoacidosis (DKA)",
-  "preview": "The IV fluids, Insulin infusion, and Potassium correction protocol...",
-  "body": "<p><strong>Learning note:</strong> Educational revision content; verify medication doses, protocols and reference ranges against current institutional guidelines before any patient-care use.</p><p>DKA is characterized by Hyperglycemia, Ketosis, and Metabolic Acidosis. Management must follow a strict sequence to prevent cerebral edema and hypokalemia.</p><ul><li><b>1. IV Fluids (The most critical first step):</b> Start with 0.9% Normal Saline (NS) at 15-20 mL/kg/hr for the first hour to restore intravascular volume. Once blood glucose falls to 200 mg/dL, switch to 5% Dextrose with 0.45% NS.</li><li><b>2. Insulin Therapy:</b> Give a 0.1 U/kg IV bolus of Regular Insulin, followed by a continuous infusion of 0.1 U/kg/hr. <i>Never stop insulin until the anion gap closes</i> (acidosis resolves), even if glucose drops.</li><li><b>3. Potassium Correction:</b> Total body potassium is always depleted in DKA, even if serum levels appear falsely high initially. If serum K+ is &lt; 3.3 mEq/L, hold insulin and give IV KCl first. If K+ is between 3.3 and 5.2 mEq/L, add KCl to the IV fluids.</li><li><b>4. Bicarbonate:</b> Only indicated if the pH is severely low (&lt; 6.9).</li></ul>",
+  "title": "Diabetic Ketoacidosis: Fluids, Potassium and Insulin — Clinical Logic",
+  "preview": "DKA requires recognition of ketosis and metabolic acidosis, careful fluid replacement and potassium-aware insulin therapy.",
+  "body": "",
   "readingMinutes": 2,
-  "reviewStatus": "editorially-reformatted-legacy-content"
+  "reviewStatus": "legacy-medical-fact-check-required",
+  "sections": [
+    {
+      "title": "Recognize the biochemical syndrome",
+      "type": "pearl",
+      "points": [
+        "Assess clinical hydration, mental status, respiratory effort and any precipitating infection or missed insulin.",
+        "Do not rely on blood glucose alone: some DKA cases present without very high glucose, particularly with SGLT2-inhibitor exposure."
+      ]
+    },
+    {
+      "title": "Follow the physiological priorities",
+      "type": "flow",
+      "points": [
+        "Fluid resuscitation, potassium assessment and insulin are linked decisions; marked potassium depletion must be addressed before insulin is started.",
+        "Use a locally approved adult or pediatric protocol for rates, concentrations and potassium replacement."
+      ]
+    },
+    {
+      "title": "Avoid early treatment errors",
+      "type": "trap",
+      "points": [
+        "Insulin can move potassium into cells and precipitate dangerous hypokalemia if potassium deficits are overlooked.",
+        "A falling glucose reading does not establish correction of ketoacidosis; ongoing dextrose may be required as insulin continues."
+      ]
+    }
+  ],
+  "images": [],
+  "quickRevision": [
+    "DKA is defined by a compatible diabetes or hyperglycemia context, ketonemia and metabolic acidosis; euglycemic presentations can occur.",
+    "Restore circulation, assess serum potassium and start appropriate insulin treatment with frequent monitoring.",
+    "Glucose may improve before ketoacidosis resolves; assess resolution using ketones and the acid–base picture."
+  ],
+  "medicalEditorialStatus": "topic-specific-reviewed-against-open-authoritative-guidance-not-clinician-peer-reviewed",
+  "inlineLinks": [
+    {
+      "slug": "new-0008-hypoglycemia-at-the-bedside-recognition-and-reassessment",
+      "context": "For a complementary clinical comparison, read"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "What must be assessed and corrected alongside insulin during DKA treatment?",
+      "options": [
+        "Unrelated retinal prescription",
+        "Potassium status",
+        "Blood group",
+        "Hair pigmentation"
+      ],
+      "correct": 1,
+      "explanation": "Potassium status. Fluid resuscitation, potassium assessment and insulin are linked decisions; marked potassium depletion must be addressed before insulin is started.",
+      "type": "High-yield recall"
+    }
+  ],
+  "valueSources": []
 }

@@ -1,0 +1,52 @@
+{
+  "id": "ART-NEW-0049",
+  "slug": "new-0049-antimicrobial-mechanisms-and-major-toxicities-compared",
+  "title": "Antimicrobial Mechanisms and Major Toxicities Compared",
+  "category": "High-Yield Tables",
+  "subject": "Drug of Choice",
+  "preview": "Beta-lactams inhibit bacterial cell-wall synthesis; macrolides act at the 50S ribosomal subunit; aminoglycosides act at 30S.",
+  "quickRevision": [
+    "Beta-lactams inhibit bacterial cell-wall synthesis; macrolides act at the 50S ribosomal subunit; aminoglycosides act at 30S.",
+    "Aminoglycosides are associated with nephrotoxicity and ototoxicity; drug and renal monitoring can matter.",
+    "Antibiotic choice depends on infection site, severity, allergies and antimicrobial resistance patterns."
+  ],
+  "sections": [
+    {
+      "title": "Essential distinctions",
+      "type": "pearl",
+      "points": [
+        "Beta-lactams inhibit bacterial cell-wall synthesis; macrolides act at the 50S ribosomal subunit; aminoglycosides act at 30S.",
+        "Mechanism and spectrum must be considered alongside local susceptibility and patient-specific factors."
+      ]
+    },
+    {
+      "title": "High-yield comparison table",
+      "type": "table",
+      "html": "<div class=\"ms-table-scroll\"><table class=\"ms-fact-table\"><thead><tr><th scope=\"col\">Review focus</th><th scope=\"col\">High-yield fact</th></tr></thead><tbody><tr><th scope=\"row\">Distinguishing clue</th><td>Aminoglycosides are associated with nephrotoxicity and ototoxicity; drug and renal monitoring can matter.</td></tr><tr><th scope=\"row\">Clinical implication</th><td>Antibiotic choice depends on infection site, severity, allergies and antimicrobial resistance patterns.</td></tr></tbody></table></div>"
+    },
+    {
+      "title": "Exam trap — avoid this mistake",
+      "type": "trap",
+      "points": [
+        "A drug class's broad mechanism alone does not determine the correct agent for every infection."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Which antibiotic group primarily inhibits bacterial cell-wall synthesis?",
+      "options": [
+        "Aminoglycosides",
+        "Macrolides",
+        "Beta-lactams",
+        "Tetracyclines"
+      ],
+      "correct": 2,
+      "explanation": "Beta-lactams inhibit bacterial cell-wall synthesis; macrolides act at the 50S ribosomal subunit; aminoglycosides act at 30S.",
+      "type": "High-yield concept check"
+    }
+  ],
+  "images": [],
+  "medicalEditorialStatus": "author-drafted-not-clinician-peer-reviewed",
+  "inlineLinks": []
+}

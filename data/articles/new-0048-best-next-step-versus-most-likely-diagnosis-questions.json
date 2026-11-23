@@ -1,0 +1,55 @@
+{
+  "id": "ART-NEW-0048",
+  "slug": "new-0048-best-next-step-versus-most-likely-diagnosis-questions",
+  "title": "Best Next Step Versus Most Likely Diagnosis Questions",
+  "category": "Exam Strategy",
+  "subject": "MCQ Hacks",
+  "preview": "Most likely diagnosis asks for the best explanation of the evidence; best next step asks for the immediate decision under the circumstances.",
+  "quickRevision": [
+    "Most likely diagnosis asks for the best explanation of the evidence; best next step asks for the immediate decision under the circumstances.",
+    "Immediate stabilization and definitive treatment are different phases of care.",
+    "Look for words such as first, next, initial and most appropriate to set the response priority."
+  ],
+  "sections": [
+    {
+      "title": "Recognize the question type",
+      "type": "pearl",
+      "points": [
+        "Most likely diagnosis asks for the best explanation of the evidence; best next step asks for the immediate decision under the circumstances.",
+        "A stable patient may need testing, while an unstable patient may need resuscitation before definitive diagnostics."
+      ]
+    },
+    {
+      "title": "Use this in timed practice",
+      "type": "table",
+      "points": [
+        "Immediate stabilization and definitive treatment are different phases of care.",
+        "Look for words such as first, next, initial and most appropriate to set the response priority."
+      ]
+    },
+    {
+      "title": "Exam trap — avoid this mistake",
+      "type": "trap",
+      "points": [
+        "Do not choose the definitive procedure when an airway or circulatory emergency takes priority."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "question": "What does best next step primarily test?",
+      "options": [
+        "Only prevalence",
+        "Only histologic subtype",
+        "Priority of action in context",
+        "Only the disease label"
+      ],
+      "correct": 2,
+      "explanation": "Priority of action in context. Look for words such as first, next, initial and most appropriate to set the response priority.",
+      "type": "High-yield concept check"
+    }
+  ],
+  "images": [],
+  "medicalEditorialStatus": "author-drafted-not-clinician-peer-reviewed",
+  "inlineLinks": []
+}

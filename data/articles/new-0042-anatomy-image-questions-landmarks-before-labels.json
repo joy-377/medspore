@@ -1,0 +1,55 @@
+{
+  "id": "ART-NEW-0042",
+  "slug": "new-0042-anatomy-image-questions-landmarks-before-labels",
+  "title": "Anatomy Image Questions: Landmarks Before Labels",
+  "category": "Exam Strategy",
+  "subject": "NEET PG Strategy",
+  "preview": "First locate the region and orientation, then major anatomical landmarks, followed by the target structure.",
+  "quickRevision": [
+    "First locate the region and orientation, then major anatomical landmarks, followed by the target structure.",
+    "When possible, infer the image plane and side from relationships rather than memorized colors or labels.",
+    "Use the clinical deficit to cross-check anatomical localization."
+  ],
+  "sections": [
+    {
+      "title": "Recognize the question type",
+      "type": "pearl",
+      "points": [
+        "First locate the region and orientation, then major anatomical landmarks, followed by the target structure.",
+        "Identify common adjacent nerves, vessels and surfaces to avoid mistaking a nearby structure."
+      ]
+    },
+    {
+      "title": "Use this in timed practice",
+      "type": "table",
+      "points": [
+        "When possible, infer the image plane and side from relationships rather than memorized colors or labels.",
+        "Use the clinical deficit to cross-check anatomical localization."
+      ]
+    },
+    {
+      "title": "Exam trap — avoid this mistake",
+      "type": "trap",
+      "points": [
+        "Do not guess from an isolated memorized image without confirming surrounding anatomy."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "question": "What should be identified first in an unfamiliar anatomy image?",
+      "options": [
+        "Option letter patterns",
+        "Major landmarks and orientation",
+        "Font style",
+        "The longest answer"
+      ],
+      "correct": 1,
+      "explanation": "Major landmarks and orientation. First locate the region and orientation, then major anatomical landmarks, followed by the target structure.",
+      "type": "High-yield concept check"
+    }
+  ],
+  "images": [],
+  "medicalEditorialStatus": "author-drafted-not-clinician-peer-reviewed",
+  "inlineLinks": []
+}

@@ -8,5 +8,37 @@
   "preview": "Hepatitis B serology interpretation and HIV replication kinetics...",
   "body": "<p><b>Hepatitis B Serology Master Interpretation:</b><br>• <b>HBsAg:</b> Indicates active infection (acute or chronic). If present &gt;6 months = Chronic carrier/infection.<br>• <b>Anti-HBs (HBsAb):</b> Indicates immunity / cure (Present in vaccinated individuals and those recovered from natural infection).<br>• <b>Anti-HBc IgM:</b> Marker of <b>Acute infection</b>. Sole diagnostic marker present during the <b>'Window Period'</b> (when HBsAg has cleared but Anti-HBs is not yet detectable).<br>• <b>Anti-HBc IgG:</b> Marker of past natural exposure (Positive in chronic infection and natural recovery; <i>NEVER positive after vaccination</i>).<br>• <b>HBeAg / HBV DNA:</b> Indicates active viral replication and high infectivity.</p><p><b>Human Immunodeficiency Virus (HIV) Diagnostics:</b><br>• <b>Structural Genes:</b> <i>env</i> (gp120 for CD4 attachment, gp41 for fusion); <i>gag</i> (p24 capsid protein, used in 4th-generation ELISA screening); <i>pol</i> (Reverse Transcriptase, Integrase, Protease).<br>• <b>Confirmatory / Diagnostic Standard:</b> 4th generation antigen/antibody combo assay followed by HIV-1/HIV-2 differentiation immunoassay and quantitative viral load (RT-PCR).<br>• <b>Opportunistic Infection Prophylaxis:</b><br>&nbsp;&nbsp;- <i>CD4 &lt; 200 /µL:</i> TMP-SMX for <i>Pneumocystis jirovecii</i> pneumonia (PJP).<br>&nbsp;&nbsp;- <i>CD4 &lt; 100 /µL:</i> TMP-SMX for <i>Toxoplasma gondii</i>.<br>&nbsp;&nbsp;- <i>CD4 &lt; 50 /µL:</i> Azithromycin historically for <i>Mycobacterium avium</i> complex (MAC).</p>",
   "readingMinutes": 2,
-  "reviewStatus": "editorially-reformatted-legacy-content"
+  "reviewStatus": "legacy-medical-fact-check-required",
+  "sections": [
+    {
+      "title": "Hepatitis B Serology Master Interpretation",
+      "html": "<p><b>Hepatitis B Serology Master Interpretation:</b><br/>• <b>HBsAg:</b> Indicates active infection (acute or chronic). If present &gt;6 months = Chronic carrier/infection.<br/>• <b>Anti-HBs (HBsAb):</b> Indicates immunity / cure (Present in vaccinated individuals and those recovered from natural infection).<br/>• <b>Anti-HBc IgM:</b> Marker of <b>Acute infection</b>. Sole diagnostic marker present during the <b>'Window Period'</b> (when HBsAg has cleared but Anti-HBs is not yet detectable).<br/>• <b>Anti-HBc IgG:</b> Marker of past natural exposure (Positive in chronic infection and natural recovery; <i>NEVER positive after vaccination</i>).<br/>• <b>HBeAg / HBV DNA:</b> Indicates active viral replication and high infectivity.</p>",
+      "type": ""
+    },
+    {
+      "title": "Human Immunodeficiency Virus (HIV) Diagnostics",
+      "html": "<p><b>Human Immunodeficiency Virus (HIV) Diagnostics:</b><br/>• <b>Structural Genes:</b> <i>env</i> (gp120 for CD4 attachment, gp41 for fusion); <i>gag</i> (p24 capsid protein, used in 4th-generation ELISA screening); <i>pol</i> (Reverse Transcriptase, Integrase, Protease).<br/>• <b>Confirmatory / Diagnostic Standard:</b> 4th generation antigen/antibody combo assay followed by HIV-1/HIV-2 differentiation immunoassay and quantitative viral load (RT-PCR).<br/>• <b>Opportunistic Infection Prophylaxis:</b><br/>  - <i>CD4 &lt; 200 /µL:</i> TMP-SMX for <i>Pneumocystis jirovecii</i> pneumonia (PJP).<br/>  - <i>CD4 &lt; 100 /µL:</i> TMP-SMX for <i>Toxoplasma gondii</i>.<br/>  - <i>CD4 &lt; 50 /µL:</i> Azithromycin historically for <i>Mycobacterium avium</i> complex (MAC).</p>",
+      "type": ""
+    }
+  ],
+  "images": [],
+  "quickRevision": [
+    "Hepatitis B Serology Master Interpretation; HBsAg: Indicates active infection (acute or chronic).",
+    "Human Immunodeficiency Virus (HIV) Diagnostics; Structural Genes: env (gp120 for CD4 attachment, gp41 for fusion)"
+  ],
+  "medicalEditorialStatus": "legacy-requires-clinician-review",
+  "quiz": [
+    {
+      "question": "Which viral genome class is characteristic of hepatitis B virus?",
+      "options": [
+        "Single-stranded positive-sense RNA without DNA phase",
+        "Partially double-stranded DNA",
+        "Negative-sense RNA only",
+        "Fully double-stranded RNA"
+      ],
+      "correct": 1,
+      "explanation": "Hepatitis B virus is a hepadnavirus with a partially double-stranded DNA genome and reverse-transcription step in replication; HBV DNA is used to assess viral replication.",
+      "type": "High-yield recall"
+    }
+  ]
 }

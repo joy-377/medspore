@@ -1,0 +1,55 @@
+{
+  "id": "ART-NEW-0020",
+  "slug": "new-0020-meningitis-signs-neck-stiffness-kernig-and-brudzinski",
+  "title": "Meningitis Signs: Neck Stiffness, Kernig and Brudzinski",
+  "category": "Triads & Signs",
+  "subject": "Medical Triads",
+  "preview": "Meningeal irritation may produce neck stiffness, photophobia and headache, but bedside signs are not sensitive enough to exclude meningitis.",
+  "quickRevision": [
+    "Meningeal irritation may produce neck stiffness, photophobia and headache, but bedside signs are not sensitive enough to exclude meningitis.",
+    "Altered consciousness, seizures, petechial rash or hemodynamic instability signal higher urgency.",
+    "Prompt clinical assessment and appropriate treatment matter; lumbar puncture decisions account for safety and contraindications."
+  ],
+  "sections": [
+    {
+      "title": "Recognize the pattern",
+      "type": "pearl",
+      "points": [
+        "Meningeal irritation may produce neck stiffness, photophobia and headache, but bedside signs are not sensitive enough to exclude meningitis.",
+        "Kernig and Brudzinski signs are classic examination findings; their absence does not reliably rule out disease."
+      ]
+    },
+    {
+      "title": "What this finding does—and does not—mean",
+      "type": "table",
+      "points": [
+        "Altered consciousness, seizures, petechial rash or hemodynamic instability signal higher urgency.",
+        "Prompt clinical assessment and appropriate treatment matter; lumbar puncture decisions account for safety and contraindications."
+      ]
+    },
+    {
+      "title": "Exam trap — avoid this mistake",
+      "type": "trap",
+      "points": [
+        "Do not delay urgent antimicrobials in a severely unwell patient solely to obtain a textbook-perfect sign."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "question": "What is the limitation of a negative Kernig sign?",
+      "options": [
+        "It rules out bacterial infection",
+        "It does not exclude meningitis",
+        "It proves a viral etiology",
+        "It confirms raised intracranial pressure"
+      ],
+      "correct": 1,
+      "explanation": "It does not exclude meningitis. Meningeal irritation may produce neck stiffness, photophobia and headache, but bedside signs are not sensitive enough to exclude meningitis.",
+      "type": "High-yield concept check"
+    }
+  ],
+  "images": [],
+  "medicalEditorialStatus": "author-drafted-not-clinician-peer-reviewed",
+  "inlineLinks": []
+}

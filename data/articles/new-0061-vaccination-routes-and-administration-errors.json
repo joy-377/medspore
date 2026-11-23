@@ -1,0 +1,52 @@
+{
+  "id": "ART-NEW-0061",
+  "slug": "new-0061-vaccination-routes-and-administration-errors",
+  "title": "Vaccination Routes and Administration Errors",
+  "category": "High-Yield Tables",
+  "subject": "Immunization",
+  "preview": "Vaccine administration uses product-specific routes and sites, and the correct dose must be confirmed for each product.",
+  "quickRevision": [
+    "Vaccine administration uses product-specific routes and sites, and the correct dose must be confirmed for each product.",
+    "Use standardized identity and documentation checks at administration.",
+    "Manage needle injury and AEFI reporting under the local immunization program."
+  ],
+  "sections": [
+    {
+      "title": "Essential distinctions",
+      "type": "pearl",
+      "points": [
+        "Vaccine administration uses product-specific routes and sites, and the correct dose must be confirmed for each product.",
+        "Giving a vaccine by an incorrect route can change safety, reactogenicity or effectiveness."
+      ]
+    },
+    {
+      "title": "High-yield comparison table",
+      "type": "table",
+      "html": "<div class=\"ms-table-scroll\"><table class=\"ms-fact-table\"><thead><tr><th scope=\"col\">Review focus</th><th scope=\"col\">High-yield fact</th></tr></thead><tbody><tr><th scope=\"row\">Distinguishing clue</th><td>Use standardized identity and documentation checks at administration.</td></tr><tr><th scope=\"row\">Clinical implication</th><td>Manage needle injury and AEFI reporting under the local immunization program.</td></tr></tbody></table></div>"
+    },
+    {
+      "title": "Exam trap — avoid this mistake",
+      "type": "trap",
+      "points": [
+        "Do not generalize an administration route from one vaccine formulation to all vaccines."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "question": "What determines a vaccine's appropriate administration route?",
+      "options": [
+        "The clinician's personal preference alone",
+        "Only the patient's height",
+        "Its specific product instructions",
+        "A universal rule for all vaccines"
+      ],
+      "correct": 2,
+      "explanation": "Its specific product instructions. Vaccine administration uses product-specific routes and sites, and the correct dose must be confirmed for each product.",
+      "type": "High-yield concept check"
+    }
+  ],
+  "images": [],
+  "medicalEditorialStatus": "author-drafted-not-clinician-peer-reviewed",
+  "inlineLinks": []
+}

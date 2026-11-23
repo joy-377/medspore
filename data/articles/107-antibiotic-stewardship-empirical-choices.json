@@ -5,8 +5,56 @@
   "category": "Clinical Tips",
   "subject": "Prescription Pearls",
   "title": "Antibiotic Stewardship: Empirical Choices",
-  "preview": "What to prescribe for CAP, UTI, Meningitis, and Cellulitis before cultures arrive...",
-  "body": "<p><strong>Learning note:</strong> Educational revision content; verify medication doses, protocols and reference ranges against current institutional guidelines before any patient-care use.</p><p>Choosing the right empirical antibiotic saves lives and prevents resistance. Here are the standard first-line empirical choices (always adjust based on local antibiogram and culture results later):</p><ul><li><b>Community-Acquired Pneumonia (CAP) - Outpatient:</b> Amoxicillin (high-dose) OR Macrolide (Azithromycin) if atypical coverage is needed.</li><li><b>CAP - Inpatient (Non-ICU):</b> Respiratory Fluoroquinolone (Levofloxacin) OR Beta-lactam (Ceftriaxone) + Macrolide.</li><li><b>Uncomplicated UTI (Cystitis):</b> Nitrofurantoin (for 5 days) OR Fosfomycin (single dose) OR TMP-SMX (if resistance is low). <i>Avoid Ciprofloxacin as first-line to save fluoroquinolones.</i></li><li><b>Acute Bacterial Meningitis (Adults):</b> Ceftriaxone (covers N. meningitidis and S. pneumoniae) + Vancomycin (covers resistant pneumococcus). <i>Add Ampicillin</i> if patient is &gt;50 years old or immunocompromised (to cover Listeria).</li><li><b>Purulent Cellulitis / Abscess:</b> Must cover MRSA. Prescribe Oral TMP-SMX, Doxycycline, or Clindamycin. (For non-purulent cellulitis, Cephalexin is preferred to cover Strep).</li></ul>",
+  "preview": "Empirical antimicrobial decisions balance immediate infection risk with local susceptibility and safe de-escalation.",
+  "body": "",
   "readingMinutes": 2,
-  "reviewStatus": "editorially-reformatted-legacy-content"
+  "reviewStatus": "legacy-medical-fact-check-required",
+  "sections": [
+    {
+      "title": "Initial selection",
+      "type": "pearl",
+      "points": [
+        "A rapidly deteriorating patient may require urgent empiric treatment after appropriate cultures, without dangerous delay.",
+        "Drug choice varies by syndrome, local resistance, patient factors and infection-control setting."
+      ]
+    },
+    {
+      "title": "Review and stewardship",
+      "type": "flow",
+      "points": [
+        "Ensure source control when needed and check the adequacy of route, penetration and targeted coverage.",
+        "Review therapy when microbiology and the clinical course clarify the diagnosis; duration is syndrome-specific."
+      ]
+    },
+    {
+      "title": "Exam trap",
+      "type": "trap",
+      "points": [
+        "The newest or broadest antibiotic is not universally the best treatment.",
+        "An arbitrary fixed duration cannot replace source control, response and guideline context."
+      ]
+    }
+  ],
+  "images": [],
+  "quickRevision": [
+    "Start by identifying the likely site of infection, severity, host factors and likely pathogens.",
+    "Check allergy, renal or hepatic impairment, prior antibiotic exposure and local resistance data.",
+    "Reassess cultures and response promptly; narrow or stop unnecessary therapy when clinically appropriate."
+  ],
+  "medicalEditorialStatus": "legacy-requires-clinician-review",
+  "quiz": [
+    {
+      "question": "What should influence empirical antimicrobial selection?",
+      "options": [
+        "Only drug packaging",
+        "Only patient preference",
+        "Only the newest marketed drug",
+        "Likely site, local resistance, severity and allergy"
+      ],
+      "correct": 3,
+      "explanation": "Empirical antibiotics should cover the likely pathogens while considering illness severity, allergy history, renal function and local resistance patterns; reassess once microbiology results return.",
+      "type": "High-yield recall"
+    }
+  ],
+  "valueSources": []
 }

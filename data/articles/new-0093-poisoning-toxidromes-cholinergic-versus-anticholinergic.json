@@ -1,0 +1,55 @@
+{
+  "id": "ART-NEW-0093",
+  "slug": "new-0093-poisoning-toxidromes-cholinergic-versus-anticholinergic",
+  "title": "Poisoning Toxidromes: Cholinergic Versus Anticholinergic",
+  "category": "Third Year (Part 1)",
+  "subject": "Forensic Medicine",
+  "preview": "A cholinergic toxidrome includes bronchorrhea, bradycardia, lacrimation, sweating and gastrointestinal hyperactivity.",
+  "quickRevision": [
+    "A cholinergic toxidrome includes bronchorrhea, bradycardia, lacrimation, sweating and gastrointestinal hyperactivity.",
+    "Airway support and decontamination or antidotes depend on the substance and circumstances.",
+    "Mixed intoxication may produce overlapping signs; toxicology advice may be needed."
+  ],
+  "sections": [
+    {
+      "title": "Recognize the core pattern",
+      "type": "pearl",
+      "points": [
+        "A cholinergic toxidrome includes bronchorrhea, bradycardia, lacrimation, sweating and gastrointestinal hyperactivity.",
+        "An anticholinergic toxidrome more often has dry flushed skin, mydriasis, tachycardia and urinary retention."
+      ]
+    },
+    {
+      "title": "Clinical examination and interpretation",
+      "type": "table",
+      "points": [
+        "Airway support and decontamination or antidotes depend on the substance and circumstances.",
+        "Mixed intoxication may produce overlapping signs; toxicology advice may be needed."
+      ]
+    },
+    {
+      "title": "Exam trap — avoid this mistake",
+      "type": "trap",
+      "points": [
+        "Use the whole pattern rather than one pupil finding to decide between toxidromes."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Which clinical finding supports cholinergic toxicity?",
+      "options": [
+        "Markedly dry mucosae",
+        "Urinary retention alone",
+        "Dry skin with absent sweating",
+        "Bronchorrhea"
+      ],
+      "correct": 3,
+      "explanation": "A cholinergic toxidrome includes bronchorrhea, bradycardia, lacrimation, sweating and gastrointestinal hyperactivity.",
+      "type": "High-yield concept check"
+    }
+  ],
+  "images": [],
+  "medicalEditorialStatus": "author-drafted-not-clinician-peer-reviewed",
+  "inlineLinks": []
+}

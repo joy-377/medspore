@@ -1,17 +1,28 @@
-# MedSpore V1.0.0 — Modular Medical Learning PWA
+# MedSpore — Modular Medical Learning PWA (200 Article Edition)
 
-**A new website based on the user-provided MedQ Daily ZIP.** The previous website was not modified. The new MedSpore project ships with a clean responsive light/dark interface, 19 separate subject data modules (10 sample MCQs per subject), a blog section (82 unique entries after removing duplicated source entries), 5 starter mnemonic flashcards and 3 free starter notes. NEET PG and INI-CET PYQ collections remain separate and **empty** until verified content is available.
+**200-article edition built against the most recent supplied `medspore-main` project.** It preserves 19 MBBS subject modules and 1,380 question-bank MCQs, including the unchanged 1,200-MCQ Microbiology module. The article library has 200 unique pages with 206 short article-specific quiz questions, searchable category/subtopic filters, reading navigation, a local saved library, and a responsive reader. Clinical content remains educational and requires qualified editorial review before being described as medically peer-reviewed. Official PYQ collections remain separate and are not misrepresented as verified past papers.
 
 ## Deploy on Cloudflare Pages
 
 1. Upload the **contents of this folder**, not a nested folder, to the root of the GitHub `medspore` repository. Preserve the existing Google Search Console verification HTML file from your current repository (it was not in the source ZIP).
-2. In Cloudflare Pages use production branch `main`, framework preset `None`, build command `exit 0` (or leave blank), and output directory `/` (root). The pre-rendered pages are already included in this ZIP.
+2. In Cloudflare Pages use production branch `main`, framework preset `None`, build command `npm run build` (recommended for automatic sitemap regeneration on deployments, Node.js 20+), and output directory `/` (root). The pre-rendered pages are also included in this ZIP. If an environment does not support Node, leave build blank and commit built outputs before deployment.
 3. Test a preview branch first. Check homepage, subject pages, article pages, practice, settings, PWA, Firebase Auth and Firestore before replacing production.
 4. **Firebase rules are not installed by uploading this ZIP.** Review and publish `firestore.rules` in Firebase Console → Firestore Database → Rules. Until published, Auth may work but progress sync and device token storage will be denied.
 5. Enable Google and Email/Password providers in Firebase Authentication and make sure `medspore.pages.dev` is an Authorized Domain. Also review authorized OAuth domains and popup behavior.
 6. Verify the `ca-pub-5839775677116272` AdSense publisher ID from the **old user-provided** `ads.txt` and source HTML belongs to your current account. The new pages contain a publisher verification meta tag but **no ad slot, Auto Ads script or ad placement**. Replace the tag with the exact verification code shown in your own AdSense account if different.
 7. The website is **not pre-approved** for AdSense. Submit it for review only when content, legal and UX checks are satisfactory. Do not claim all legacy clinical content is medically audited.
 8. After production is working, submit `https://medspore.pages.dev/sitemap.xml` to Search Console. Do not delete your existing verification file.
+
+## Tablet-first redesign: what is included and what requires configuration
+
+- Home includes name and streak, daily learning, resume cards, rotating clinical pearl and featured MCQ, 19 subject entry points, clickable performance statistics and a saved/mistake library.
+- Tablet uses a compact permanent rail; phone has five bottom navigation items; desktop has a full sidebar. The question studio supports year, subject, and individual topic selection, default examination preference, optional PYQ source (currently EMPTY), optional saved/wrong MCQ inclusion, difficulty selection, and custom question counts.
+- Custom tests open an Instructions/Agree screen and hide answer feedback until submission. Topic practice and Daily Dose give instant feedback; ongoing tests and chapter practice are stored locally for resuming. Some subject-wise 20-question mock sets cannot run until those subject banks contain at least 20 unique MCQs. Never silently reuse MCQs to fabricate a mock.
+- Live MCQ share links point to `/share/mcq/<stable-id>/` with per-question OG tags, and article links to `/articles/<slug>/`. In-app sharing can generate a 1080×1920 portrait Story PNG with partial teasers. The user must add the relevant Link Sticker on Instagram; platforms decide their own preview presentation and whether users can click a sticker.
+- **PWA install:** On HTTPS, browsers may offer the native install event if eligibility criteria are met. On iPad/iPhone, browsers require Add to Home Screen; the Install control explains platform-specific steps. No website can force a native install when the browser does not support it. Test using the live HTTPS URL, not by sharing `localhost`.
+- Firebase email/Google sign-in, real cross-device synchronization, account permissions and security rules must be configured and verified in **your** Firebase project. In-app reminders do not deliver notifications while the site is closed without a secure push-sending backend.
+- **Do not declare this collection medically peer-reviewed or medically certified.** Source medical content from earlier supplied files was preserved; static builds and JavaScript tests cannot prove clinical correctness, current drug dosing or appropriate clinical references. Qualified content review remains a prerequisite for relying on medical details.
+- The build task regenerates sitemap and pre-rendered HTML automatically. A GitHub Actions workflow `.github/workflows/regenerate-pages.yml` also rebuilds and commits generated pages after source changes on `main` if repository Actions and write permissions are enabled. Cloudflare may deploy the source commit and then the generated commit in sequence.
 
 ## Build and maintenance
 
@@ -24,7 +35,7 @@ node tools/validate.mjs
 node --no-warnings --experimental-loader ./tools/qa-loader.mjs tools/smoke.mjs
 ```
 
-This regenerates article/subject HTML pages and sitemap from the underlying data. **Commit regenerated pages as well as content**. Cloudflare's `exit 0` does not regenerate anything.
+This regenerates article/subject HTML pages and sitemap from the underlying data. **Commit regenerated pages as well as content**. The GitHub Actions workflow can regenerate these files on relevant source changes; `npm run build` on Cloudflare is the most reliable way to ensure live HTML and sitemap are built from new article data.
 
 | You want to change... | Edit here |
 | --- | --- |
@@ -49,7 +60,7 @@ This regenerates article/subject HTML pages and sitemap from the underlying data
 
 ## Question schema
 
-Each of 19 `data/subjects/<id>.js` modules exports exactly 10 objects using:
+Each of 19 `data/subjects/<id>.js` modules exports an array of questions using this format (Microbiology currently contains 1,200; the other 18 subject modules contain 10 starter MCQs each):
 
 ```js
 {
@@ -74,7 +85,7 @@ Each of 19 `data/subjects/<id>.js` modules exports exactly 10 objects using:
 - Keep **stable IDs**; increasing the numeric suffix beyond 001000 is safe. IDs are scoped by subject prefix. Use `NPG-PYQ-...` and `INI-PYQ-...` for truly verified PYQs. Do not label reconstructed sample MCQs as actual official PYQs.
 - Media are optional; upload external images under `/assets/` and supply an `alt`. Code-rendered SVG diagrams live in `js/features/media.js`. Raw user HTML/SVG strings are not rendered.
 - Subject topics are separate from data: `data/subjects/registry.js` includes ENT's expanded curriculum headings. If you add a new topic, update registry and assign that topic to appropriate MCQs, then regenerate static pages.
-- The starter bank **reuses ten questions from each subject in the original user-provided ZIP**, reformatted for the new explanation structure. This is not a completed medical accuracy review.
+- The non-Microbiology starter bank **reuses ten questions from each of 18 other subjects in the original user-provided ZIP**, reformatted for the new explanation structure. Microbiology includes 1,200 questions. None of this is a completed medical accuracy review.
 
 ## Examinations
 

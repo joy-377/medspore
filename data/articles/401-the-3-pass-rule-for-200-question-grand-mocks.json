@@ -4,9 +4,57 @@
   "slug": "401-the-3-pass-rule-for-200-question-grand-mocks",
   "category": "Exam Strategy",
   "subject": "NEET PG Strategy",
-  "title": "NEET PG 2026: Section-Wise Mock Strategy",
-  "preview": "Pacing, strike rate, and negative marking management in a 3.5-hour exam...",
-  "body": "<p><strong>2026 update:</strong> NEET PG 2026 used 180 questions, 210 minutes and five time-bound sections of 36 questions with 42 minutes each. Earlier 200-question advice is outdated for this session.</p><h2>Build an effective practice routine</h2><ul><li>Practise one timed section without leaving it before the clock ends.</li><li>Prioritise well-supported choices and mark uncertain questions for review within the active section.</li><li>Once the section closes, do not plan to revisit it. Review errors only after the mock ends.</li><li>Use short, focused revision sets alongside full-length mocks.</li></ul><p>Always cross-check the next exam session’s official information bulletin before finalizing your strategy.</p>",
+  "title": "NEET PG: A Practical Timed Mock Strategy",
+  "preview": "Use targeted mock analysis, error review and pacing rather than relying on a fixed exam-year template.",
+  "body": "",
   "readingMinutes": 2,
-  "reviewStatus": "editorially-reformatted-legacy-content"
+  "reviewStatus": "legacy-medical-fact-check-required",
+  "sections": [
+    {
+      "title": "Plan the pass sequence",
+      "type": "flow",
+      "points": [
+        "Answer confidently recognized items efficiently, flag uncertain ones and return according to the permitted exam interface.",
+        "A pacing strategy should reflect the actual pattern, on-screen navigation rules and your own performance data."
+      ]
+    },
+    {
+      "title": "Optimize learning from mocks",
+      "type": "pearl",
+      "points": [
+        "Use question review to identify recurring clinical reasoning failures and fix them with focused revision.",
+        "Check whether speed improvements are accompanied by stable or better accuracy."
+      ]
+    },
+    {
+      "title": "Exam trap",
+      "type": "trap",
+      "points": [
+        "Do not assume a past examination format or session duration remains unchanged.",
+        "Blind elimination is not a substitute for recognizing pathophysiology and red flags."
+      ]
+    }
+  ],
+  "images": [],
+  "quickRevision": [
+    "Read the current official exam information bulletin for the specific session before choosing a timing strategy.",
+    "Practice finishing sections with enough time reserved for flagged questions and review.",
+    "Track wrong answers by knowledge gap, interpretation error and time pressure."
+  ],
+  "medicalEditorialStatus": "topic-specific-reviewed-against-open-authoritative-guidance-not-clinician-peer-reviewed",
+  "quiz": [
+    {
+      "question": "What should guide a mock-test answering strategy?",
+      "options": [
+        "Accuracy, time discipline and review of weak patterns",
+        "Choosing the longest option",
+        "Always spending equal time on every item",
+        "Ignoring negative marking policy"
+      ],
+      "correct": 0,
+      "explanation": "Accuracy, time discipline and review of weak patterns. Use question review to identify recurring clinical reasoning failures and fix them with focused revision.",
+      "type": "High-yield recall"
+    }
+  ],
+  "valueSources": []
 }

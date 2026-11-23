@@ -1,0 +1,63 @@
+{
+  "id": "ART-NEW-0004",
+  "slug": "new-0004-the-unstable-patient-an-abcde-bedside-approach",
+  "title": "The Unstable Patient: An ABCDE Bedside Approach",
+  "category": "Clinical Tips",
+  "subject": "Emergency Triage",
+  "preview": "ABCDE stands for Airway, Breathing, Circulation, Disability and Exposure; reassess after every intervention.",
+  "quickRevision": [
+    "ABCDE stands for Airway, Breathing, Circulation, Disability and Exposure; reassess after every intervention.",
+    "Disability includes conscious level, pupils and bedside glucose; exposure looks for bleeding, rash, trauma and temperature-related threats.",
+    "Use a team approach with closed-loop communication, early escalation and definitive help when instability persists."
+  ],
+  "sections": [
+    {
+      "title": "Recognize the situation",
+      "type": "pearl",
+      "points": [
+        "ABCDE stands for Airway, Breathing, Circulation, Disability and Exposure; reassess after every intervention.",
+        "An obstructed airway, severe hypoxemia or massive bleeding threatens life before detailed diagnostic labeling."
+      ]
+    },
+    {
+      "title": "Clinical decisions & differential",
+      "type": "table",
+      "points": [
+        "Disability includes conscious level, pupils and bedside glucose; exposure looks for bleeding, rash, trauma and temperature-related threats.",
+        "Use a team approach with closed-loop communication, early escalation and definitive help when instability persists."
+      ]
+    },
+    {
+      "title": "Memory aid",
+      "type": "mnemonic",
+      "points": [
+        "ABCDE: Airway, Breathing, Circulation, Disability, Exposure — then reassess.",
+        "Prioritize life-threatening abnormalities while simultaneously calling for appropriate assistance."
+      ]
+    },
+    {
+      "title": "Exam trap — avoid this mistake",
+      "type": "trap",
+      "points": [
+        "Treat the life threat identified at each step rather than completing the alphabet before intervening."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "question": "What should be assessed first in an unstable patient using ABCDE?",
+      "options": [
+        "Past family history",
+        "Elective nutritional assessment",
+        "Airway patency",
+        "Routine lipid profile"
+      ],
+      "correct": 2,
+      "explanation": "Airway patency. ABCDE stands for Airway, Breathing, Circulation, Disability and Exposure; reassess after every intervention.",
+      "type": "High-yield concept check"
+    }
+  ],
+  "images": [],
+  "medicalEditorialStatus": "author-drafted-not-clinician-peer-reviewed",
+  "inlineLinks": []
+}

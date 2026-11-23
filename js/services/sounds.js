@@ -1,4 +1,37 @@
 import {getState} from '../core/storage.js';
-let audio;
-const patterns={correct:[[523,.08],[659,.1],[784,.13]],wrong:[[392,.09],[294,.16]],finish:[[523,.1],[659,.1],[784,.12],[1047,.28]],badge:[[659,.08],[880,.09],[1175,.22]],click:[[610,.035]],soft:[[494,.05]]};
-export function sound(name){if(!getState().settings.sound)return;try{const A=window.AudioContext||window.webkitAudioContext;if(!A)return;audio||=new A();if(audio.state==='suspended')audio.resume();const arr=patterns[name]||patterns.click;let time=audio.currentTime;for(const [freq,dur] of arr){const o=audio.createOscillator(),g=audio.createGain();o.type=name==='wrong'?'sine':'triangle';o.frequency.setValueAtTime(freq,time);g.gain.setValueAtTime(.0001,time);g.gain.exponentialRampToValueAtTime(name==='wrong'?.023:.036,time+.015);g.gain.exponentialRampToValueAtTime(.0001,time+dur);o.connect(g).connect(audio.destination);o.start(time);o.stop(time+dur+.01);time+=dur*.88}}catch{}}
+
+// Very short, low-volume, self-contained UI cues. No external assets or autoplay.
+// Playback requires a gesture; every cue respects the user's sound preference.
+let context;
+const cues={
+  nav:    {notes:[[420,.045,0],[505,.055,.035]],volume:.012,wave:'sine'},
+  select: {notes:[[580,.035,0]],volume:.014,wave:'sine'},
+  click:  {notes:[[520,.038,0]],volume:.013,wave:'sine'},
+  soft:   {notes:[[440,.055,0]],volume:.012,wave:'sine'},
+  correct:{notes:[[620,.075,0],[783,.10,.065]],volume:.032,wave:'sine'},
+  wrong:  {notes:[[360,.085,0],[295,.105,.065]],volume:.018,wave:'sine'},
+  finish: {notes:[[523,.10,0],[659,.10,.10],[783,.12,.20],[1046,.22,.32]],volume:.037,wave:'sine'},
+  badge:  {notes:[[659,.09,0],[880,.11,.09],[1175,.19,.20]],volume:.029,wave:'sine'}
+};
+export function sound(name='click'){
+  if(!getState().settings.sound)return;
+  try{
+    const AudioContextClass=window.AudioContext||window.webkitAudioContext;
+    if(!AudioContextClass)return;
+    context||=new AudioContextClass();
+    if(context.state==='suspended')context.resume().catch(()=>{});
+    const cue=cues[name]||cues.click;
+    const t0=context.currentTime+.006;
+    for(const [frequency,duration,offset] of cue.notes){
+      const t=t0+offset;
+      const osc=context.createOscillator(),gain=context.createGain();
+      osc.type=cue.wave;
+      osc.frequency.setValueAtTime(frequency,t);
+      gain.gain.setValueAtTime(.0001,t);
+      gain.gain.exponentialRampToValueAtTime(cue.volume,t+.014);
+      gain.gain.exponentialRampToValueAtTime(.0001,t+duration+.025);
+      osc.connect(gain).connect(context.destination);
+      osc.start(t);osc.stop(t+duration+.035);
+    }
+  }catch{/* Audio unavailable, never block interaction. */}
+}

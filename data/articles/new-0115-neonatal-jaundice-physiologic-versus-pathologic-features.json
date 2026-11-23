@@ -1,0 +1,63 @@
+{
+  "id": "ART-NEW-0115",
+  "slug": "new-0115-neonatal-jaundice-physiologic-versus-pathologic-features",
+  "title": "Neonatal Jaundice: Physiologic Versus Pathologic Features",
+  "category": "Final Year (Part 2)",
+  "subject": "Pediatrics",
+  "preview": "Newborn jaundice requires interpretation by age in hours, gestation, bilirubin level and risk factors.",
+  "quickRevision": [
+    "Newborn jaundice requires interpretation by age in hours, gestation, bilirubin level and risk factors.",
+    "Unconjugated hyperbilirubinemia can cause bilirubin neurotoxicity when severe; conjugated jaundice suggests other pathology.",
+    "Use age- and risk-specific nomograms or approved guidance for phototherapy decisions."
+  ],
+  "sections": [
+    {
+      "title": "Clinical syndrome and red flags",
+      "type": "pearl",
+      "points": [
+        "Newborn jaundice requires interpretation by age in hours, gestation, bilirubin level and risk factors.",
+        "Jaundice within the first day of life is concerning and needs prompt assessment."
+      ]
+    },
+    {
+      "title": "Differentiate and manage",
+      "type": "table",
+      "points": [
+        "Unconjugated hyperbilirubinemia can cause bilirubin neurotoxicity when severe; conjugated jaundice suggests other pathology.",
+        "Use age- and risk-specific nomograms or approved guidance for phototherapy decisions."
+      ]
+    },
+    {
+      "title": "Memory aid",
+      "type": "mnemonic",
+      "points": [
+        "Neonatal jaundice red flags: unusually early onset, fast progression, illness, poor feeding and prolonged jaundice.",
+        "Always interpret bilirubin against the infant’s age, gestation and risk factors rather than one universal threshold."
+      ]
+    },
+    {
+      "title": "Exam trap — avoid this mistake",
+      "type": "trap",
+      "points": [
+        "Do not decide treatment from a bilirubin number without age in hours and gestation."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Which timing of neonatal jaundice is particularly concerning?",
+      "options": [
+        "Resolution after appropriate follow-up",
+        "Normal skin color at birth",
+        "Onset during the first 24 hours",
+        "Later mild physiologic onset in an otherwise well term infant"
+      ],
+      "correct": 2,
+      "explanation": "Onset during the first 24 hours. Neonatal jaundice red flags: unusually early onset, fast progression, illness, poor feeding and prolonged jaundice.",
+      "type": "High-yield concept check"
+    }
+  ],
+  "images": [],
+  "medicalEditorialStatus": "author-drafted-not-clinician-peer-reviewed",
+  "inlineLinks": []
+}

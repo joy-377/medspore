@@ -5,8 +5,56 @@
   "category": "Final Year (Part 2)",
   "subject": "Surgery",
   "title": "Intestinal Obstruction: Small vs Large Bowel",
-  "preview": "Adhesions, Malignancy, Volvulus, and air-fluid level patterns on erect film...",
-  "body": "<p><b>Small Bowel Obstruction (SBO) vs Large Bowel Obstruction (LBO):</b><br>• <b>Etiology:</b> SBO is most commonly caused by <b>Post-operative Adhesions (~60%)</b> followed by Hernias; LBO is most commonly caused by <b>Colorectal Malignancy</b> followed by Diverticulitis and Volvulus.<br>• <b>Pain Pattern:</b> SBO presents with early, prominent, frequent vomiting and rapid colicky abdominal pain with modest distension; LBO presents with late vomiting, marked abdominal distension, and obstipation.</p><p><b>Abdominal Radiography (Erect X-Ray) Features:</b><br>• <i>Small Bowel:</i> Centrally located loops with <b>Valvulae Conniventes (Plicae Circulares)</b> extending completely across the entire width of the bowel lumen; multiple short air-fluid levels ('step-ladder pattern').<br>• <i>Large Bowel:</i> Peripherally located loops with <b>Haustrations</b> that do NOT cross the entire lumen width; frame-like distribution.</p><p><b>Strangulation Red Flags (Surgical Emergency):</b> Continuous unremitting pain, fever, tachycardia, localized peritonitis, leukocytosis, and metabolic acidosis (elevated serum lactate). Warrants immediate exploratory laparotomy/laparoscopy.</p>",
+  "preview": "Bowel obstruction is evaluated with clinical stability, imaging and signs of strangulation rather than an exact symptom-duration formula.",
+  "body": "",
   "readingMinutes": 2,
-  "reviewStatus": "editorially-reformatted-legacy-content"
+  "reviewStatus": "legacy-medical-fact-check-required",
+  "sections": [
+    {
+      "title": "Compare small and large bowel patterns",
+      "type": "table",
+      "points": [
+        "Small bowel: prominent vomiting and central dilated loops may occur, with valvulae conniventes crossing the lumen on some radiographs.",
+        "Large bowel: greater distension and peripheral haustral patterns may appear; CT often better defines level and cause."
+      ]
+    },
+    {
+      "title": "Assess danger and treatment direction",
+      "type": "flow",
+      "points": [
+        "Evaluate dehydration, electrolyte disturbances, hernia and the possibility of a closed-loop obstruction.",
+        "The decision for surgery versus appropriate observation depends on ischemia signs, cause, severity and imaging."
+      ]
+    },
+    {
+      "title": "Exam trap",
+      "type": "trap",
+      "points": [
+        "A plain radiograph does not reliably exclude strangulation or ischemia.",
+        "Do not assume every bowel obstruction immediately requires laparotomy, or that persistent worsening signs can safely wait."
+      ]
+    }
+  ],
+  "images": [],
+  "quickRevision": [
+    "Small-bowel obstruction commonly follows adhesions or hernia; large-bowel obstruction has different causes including malignancy and volvulus.",
+    "Vomiting, pain, distension and obstipation vary with level, completeness and duration of obstruction.",
+    "Peritonitis, escalating continuous pain, fever or physiologic deterioration raise concern for bowel ischemia and require urgent surgical review."
+  ],
+  "medicalEditorialStatus": "legacy-requires-clinician-review",
+  "quiz": [
+    {
+      "question": "Why are fever, guarding and severe continuous pain concerning in obstruction?",
+      "options": [
+        "They exclude infection",
+        "They prove uncomplicated constipation",
+        "They may indicate bowel ischemia or strangulation",
+        "They establish no surgical risk"
+      ],
+      "correct": 2,
+      "explanation": "They may indicate bowel ischemia or strangulation. Strangulation Red Flags (Surgical Emergency): Continuous unremitting pain, fever, tachycardia, localized peritonitis, leukocytosis, and metabolic acidosis (elevated serum lactate).",
+      "type": "High-yield recall"
+    }
+  ],
+  "valueSources": []
 }

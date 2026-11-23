@@ -1,0 +1,55 @@
+{
+  "id": "ART-NEW-0088",
+  "slug": "new-0088-hepatitis-b-serology-antigen-and-antibody-patterns",
+  "title": "Hepatitis B Serology: Antigen and Antibody Patterns",
+  "category": "Second Year MBBS",
+  "subject": "Microbiology",
+  "preview": "HBsAg generally indicates current hepatitis B infection; anti-HBs commonly indicates immunity.",
+  "quickRevision": [
+    "HBsAg generally indicates current hepatitis B infection; anti-HBs commonly indicates immunity.",
+    "IgM anti-HBc supports recent acute infection in the appropriate context.",
+    "The interpretation of isolated anti-HBc requires clinical context and sometimes additional testing."
+  ],
+  "sections": [
+    {
+      "title": "Pathophysiology & identification",
+      "type": "pearl",
+      "points": [
+        "HBsAg generally indicates current hepatitis B infection; anti-HBs commonly indicates immunity.",
+        "Anti-HBc indicates exposure to natural infection and is not induced by routine recombinant hepatitis B vaccination."
+      ]
+    },
+    {
+      "title": "Diagnostic and treatment connections",
+      "type": "table",
+      "points": [
+        "IgM anti-HBc supports recent acute infection in the appropriate context.",
+        "The interpretation of isolated anti-HBc requires clinical context and sometimes additional testing."
+      ]
+    },
+    {
+      "title": "Exam trap — avoid this mistake",
+      "type": "trap",
+      "points": [
+        "Anti-HBs alone does not establish whether immunity arose from infection or vaccination without anti-HBc and history."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Which marker generally indicates exposure to natural hepatitis B infection?",
+      "options": [
+        "Anti-HAV IgM",
+        "Vaccine antigen on skin",
+        "Anti-HBc",
+        "Anti-HBs alone"
+      ],
+      "correct": 2,
+      "explanation": "Anti-HBc indicates exposure to natural infection and is not induced by routine recombinant hepatitis B vaccination.",
+      "type": "High-yield concept check"
+    }
+  ],
+  "images": [],
+  "medicalEditorialStatus": "author-drafted-not-clinician-peer-reviewed",
+  "inlineLinks": []
+}

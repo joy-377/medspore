@@ -1,0 +1,55 @@
+{
+  "id": "ART-NEW-0041",
+  "slug": "new-0041-clinical-vignettes-identify-the-actual-decision-being-tested",
+  "title": "Clinical Vignettes: Identify the Actual Decision Being Tested",
+  "category": "Exam Strategy",
+  "subject": "NEET PG Strategy",
+  "preview": "Identify the question stem's actual task: diagnosis, mechanism, best next test, immediate stabilization or definitive treatment.",
+  "quickRevision": [
+    "Identify the question stem's actual task: diagnosis, mechanism, best next test, immediate stabilization or definitive treatment.",
+    "Before reading options, articulate a one-sentence hypothesis, then test it against competing choices.",
+    "Use the final line of the stem to prevent answering a different question from the one asked."
+  ],
+  "sections": [
+    {
+      "title": "Recognize the question type",
+      "type": "pearl",
+      "points": [
+        "Identify the question stem's actual task: diagnosis, mechanism, best next test, immediate stabilization or definitive treatment.",
+        "Separate decisive clues from background details; age, time course and one discriminating finding often guide the answer."
+      ]
+    },
+    {
+      "title": "Use this in timed practice",
+      "type": "table",
+      "points": [
+        "Before reading options, articulate a one-sentence hypothesis, then test it against competing choices.",
+        "Use the final line of the stem to prevent answering a different question from the one asked."
+      ]
+    },
+    {
+      "title": "Exam trap — avoid this mistake",
+      "type": "trap",
+      "points": [
+        "Do not select a disease name when the prompt asks for immediate management."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Which question-stem phrase changes the expected answer from diagnosis to action?",
+      "options": [
+        "Typical organism",
+        "Best next step",
+        "Characteristic histology",
+        "Most likely diagnosis"
+      ],
+      "correct": 1,
+      "explanation": "Best next step. Identify the question stem's actual task: diagnosis, mechanism, best next test, immediate stabilization or definitive treatment.",
+      "type": "High-yield concept check"
+    }
+  ],
+  "images": [],
+  "medicalEditorialStatus": "author-drafted-not-clinician-peer-reviewed",
+  "inlineLinks": []
+}

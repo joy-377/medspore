@@ -1,0 +1,55 @@
+{
+  "id": "ART-NEW-0089",
+  "slug": "new-0089-hiv-diagnostic-algorithms-window-period-and-testing",
+  "title": "HIV Diagnostic Algorithms: Window Period and Testing",
+  "category": "Second Year MBBS",
+  "subject": "Microbiology",
+  "preview": "Modern HIV testing commonly uses antigen-antibody assays followed by a defined supplemental testing algorithm.",
+  "quickRevision": [
+    "Modern HIV testing commonly uses antigen-antibody assays followed by a defined supplemental testing algorithm.",
+    "A single rapid test result must be interpreted under the approved national diagnostic strategy.",
+    "Counseling, linkage to care and repeat testing when indicated are part of safe practice."
+  ],
+  "sections": [
+    {
+      "title": "Pathophysiology & identification",
+      "type": "pearl",
+      "points": [
+        "Modern HIV testing commonly uses antigen-antibody assays followed by a defined supplemental testing algorithm.",
+        "Very early infection may have a diagnostic window period; nucleic acid testing may be appropriate in selected cases."
+      ]
+    },
+    {
+      "title": "Diagnostic and treatment connections",
+      "type": "table",
+      "points": [
+        "A single rapid test result must be interpreted under the approved national diagnostic strategy.",
+        "Counseling, linkage to care and repeat testing when indicated are part of safe practice."
+      ]
+    },
+    {
+      "title": "Exam trap — avoid this mistake",
+      "type": "trap",
+      "points": [
+        "Do not exclude very recent HIV acquisition solely from one early negative antibody-only result."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "question": "What explains an early negative HIV antibody test after recent exposure?",
+      "options": [
+        "Window period before detectable antibodies",
+        "Low hemoglobin only",
+        "Antibiotic resistance",
+        "Guaranteed absence of infection"
+      ],
+      "correct": 0,
+      "explanation": "Window period before detectable antibodies. Very early infection may have a diagnostic window period; nucleic acid testing may be appropriate in selected cases.",
+      "type": "High-yield concept check"
+    }
+  ],
+  "images": [],
+  "medicalEditorialStatus": "author-drafted-not-clinician-peer-reviewed",
+  "inlineLinks": []
+}
