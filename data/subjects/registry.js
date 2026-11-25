@@ -354,7 +354,7 @@ export const subjects = [
     "name": "Pharmacology",
     "slug": "pharmacology",
     "code": "PHA",
-    "sampleCount": 10,
+    "sampleCount": 1431,
     "topics": [
       "General Pharmacology",
       "Autonomic Nervous System",
