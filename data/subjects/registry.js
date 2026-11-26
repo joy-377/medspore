@@ -260,7 +260,7 @@ export const subjects = [
     "name": "Pathology",
     "slug": "pathology",
     "code": "PAT",
-    "sampleCount": 10,
+    "sampleCount": 1540,
     "topics": [
       "Cell Injury & Adaptation",
       "Inflammation & Repair",
